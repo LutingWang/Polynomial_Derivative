@@ -58,11 +58,11 @@ public class Poly {
                 return "";
             }
             StringBuilder s = new StringBuilder();
-            if (exp.equals(BigInteger.ZERO)) { s.append(coef); }
+            if (coef.compareTo(BigInteger.ZERO) > 0) { s.append('+'); }
+            else { s.append('-'); }
+            BigInteger abs = coef.abs();
+            if (exp.equals(BigInteger.ZERO)) { s.append(abs); }
             else {
-                if (coef.compareTo(BigInteger.ZERO) > 0) { s.append('+'); }
-                else { s.append('-'); }
-                BigInteger abs = coef.abs();
                 if (!abs.equals(BigInteger.ONE)) { s.append(abs + "*"); }
                 s.append(Poly.VAR);
                 if (!exp.equals(BigInteger.ONE)) { s.append("^" + exp); }

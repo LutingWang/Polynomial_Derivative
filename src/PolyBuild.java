@@ -211,7 +211,8 @@ public class PolyBuild {
         } catch (IllegalArgumentException e) {
             System.out.println(ERROR);
         } catch (Exception e) {
-            throw e; // TODO: change to sout
+            // throw e;
+            System.out.println(ERROR);
         }
     }
 }
