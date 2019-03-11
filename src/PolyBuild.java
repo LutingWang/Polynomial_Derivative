@@ -1,11 +1,17 @@
-import poly.*;
-import poly.element.*;
+import poly.Derivable;
+import poly.StatusEnum;
+import poly.Poly;
+import poly.Item;
+import poly.Factor;
+import poly.element.TypeEnum;
+import poly.element.Element;
+import poly.element.Const;
+import poly.element.Var;
+import poly.element.Triangular;
 
 import java.math.BigInteger;
 import java.util.Iterator;
 import java.util.Scanner;
-
-import static poly.StatusEnum.FACTOR_EXP;
 
 // TODO: Checkstyle
 public class PolyBuild {
@@ -22,11 +28,11 @@ public class PolyBuild {
         private StringBuilder sb;
         private int ind = 0;
         
-        public StringIterator(String s) {
+        StringIterator(String s) {
             this.sb = new StringBuilder(s);
         }
         
-        public boolean nextIn(String set) {
+        boolean nextIn(String set) {
             return hasNext() && set.indexOf(sb.charAt(ind)) != -1;
         }
         
@@ -35,11 +41,11 @@ public class PolyBuild {
          *
          * @return If the next character is white character.
          */
-        public boolean isWhite() {
+        boolean isWhite() {
             return nextIn(WHITE);
         }
         
-        public void jumpWhite() {
+        void jumpWhite() {
             while (hasNext() && isWhite()) {
                 next();
             }
@@ -50,11 +56,11 @@ public class PolyBuild {
          *
          * @return If the next character is num character.
          */
-        public boolean isNum() {
+        boolean isNum() {
             return nextIn(NUM);
         }
         
-        public boolean isVar() {
+        boolean isVar() {
             return nextIn(Derivable.VAR);
         }
         
@@ -63,7 +69,7 @@ public class PolyBuild {
             return ind < sb.length();
         }
         
-        public boolean end() {
+        boolean end() {
             return !hasNext();
         }
         
@@ -72,11 +78,11 @@ public class PolyBuild {
             return sb.charAt(ind++);
         }
         
-        public void add(String c) {
+        void add(String c) {
             sb.insert(ind, c);
         }
         
-        public void raise() {
+        void raise() {
             if (hasNext()) {
                 throw new IllegalArgumentException(
                         "String format is not parsable!");
@@ -110,8 +116,8 @@ public class PolyBuild {
         } catch (IllegalArgumentException e) {
             System.out.println(ERROR);
         } catch (Exception e) {
-            throw e;
-//            System.out.println(ERROR);
+            //throw e;
+            System.out.println(ERROR);
         }
     }
     
@@ -165,7 +171,8 @@ public class PolyBuild {
         Element element = null;
         BigInteger exp = BigInteger.ONE;
         boolean neg = false;
-        while (status != StatusEnum.ITEM_START && status != StatusEnum.ITEM_END) {
+        while (status != StatusEnum.ITEM_START
+                && status != StatusEnum.ITEM_END) {
             switch (status) {
                 case FACTOR_START:
                     status = StatusEnum.ELEMENT_START;
@@ -177,33 +184,22 @@ public class PolyBuild {
                         status = StatusEnum.FACTOR_SIGN;
                     } else if (si.isNum()) {
                         status = StatusEnum.FACTOR_NUM;
-                    } else {
-                        si.raise();
-                    }
+                    } else { si.raise(); }
                     break;
                 case FACTOR_SIGN:
                     neg = si.next() == '-';
-                    if (si.isNum()) {
-                        status = StatusEnum.FACTOR_NUM;
-                    } else {
-                        si.raise();
-                    }
+                    if (si.isNum()) { status = StatusEnum.FACTOR_NUM; }
+                    else { si.raise(); }
                     break;
                 case FACTOR_NUM:
                     StringBuilder num = new StringBuilder();
-                    while (si.isNum()) {
-                        num.append(si.next());
-                    }
+                    while (si.isNum()) { num.append(si.next()); }
                     exp = exp.multiply(new BigInteger(num.toString()));
-                    if (neg) {
-                        exp = exp.negate();
-                    }
+                    if (neg) { exp = exp.negate(); }
                     si.jumpWhite();
                     if (si.end() || si.nextIn("+-*")) {
                         status = StatusEnum.FACTOR_END;
-                    } else {
-                        si.raise();
-                    }
+                    } else { si.raise(); }
                     break;
                 case FACTOR_END:
                     if (si.end() || si.nextIn("+-")) {
@@ -211,9 +207,7 @@ public class PolyBuild {
                     } else if (si.nextIn("*")) {
                         si.next();
                         status = StatusEnum.ITEM_START;
-                    } else {
-                        si.raise();
-                    }
+                    } else { si.raise(); }
                     break;
                 default:
                     si.raise();
@@ -225,7 +219,8 @@ public class PolyBuild {
     private Element parseElement(boolean first) {
         boolean neg = false;
         Element element = null;
-        while (status != FACTOR_EXP && status != StatusEnum.FACTOR_END) {
+        while (status != StatusEnum.FACTOR_EXP
+                && status != StatusEnum.FACTOR_END) {
             switch (status) {
                 case ELEMENT_START:
                     if (si.nextIn("+-")) {
@@ -237,53 +232,38 @@ public class PolyBuild {
                         status = StatusEnum.ELEMENT_VAR;
                     } else if (si.nextIn("cs")) {
                         status = StatusEnum.ELEMENT_TRI;
-                    } else {
-                        si.raise();
-                    }
+                    } else { si.raise(); }
                     break;
                 case ELEMENT_SIGN:
                     neg = si.next() == '-';
                     if (si.isNum()) {
                         status = StatusEnum.ELEMENT_NUM;
-                    } else if (!first) {
-                        si.raise();
-                    } else if (si.isWhite() || si.isVar() || si.nextIn("cs+-")) {
+                    } else if (!first) { si.raise(); }
+                    else if (si.isWhite() || si.isVar() || si.nextIn("cs+-")) {
                         si.add("1*");
                         status = StatusEnum.ELEMENT_NUM;
-                    } else {
-                        si.raise();
-                    }
+                    } else { si.raise(); }
                     break;
                 case ELEMENT_NUM:
                     StringBuilder num = new StringBuilder();
-                    while (si.isNum()) {
-                        num.append(si.next());
-                    }
+                    while (si.isNum()) { num.append(si.next()); }
                     element = new Const(new BigInteger(num.toString()));
-                    if (neg) {
-                        ((Const) element).negate();
-                    }
+                    if (neg) { ((Const) element).negate(); }
                     si.jumpWhite();
                     if (si.end() || si.nextIn("+-*")) {
                         status = StatusEnum.ELEMENT_END;
-                    } else {
-                        si.raise();
-                    }
+                    } else { si.raise(); }
                     break;
                 case ELEMENT_VAR:
                     element = new Var();
                     si.jumpWhite();
                     if (si.end() || si.nextIn("+-*^")) {
                         status = StatusEnum.ELEMENT_END;
-                    } else {
-                        si.raise();
-                    }
+                    } else { si.raise(); }
                     break;
                 case ELEMENT_TRI:
                     String temp = "";
-                    for (int i = 0; i < 3; i++) {
-                        temp += si.next();
-                    }
+                    for (int i = 0; i < 3; i++) { temp += si.next(); }
                     if (si.next() != '(') {
                         throw new IllegalArgumentException();
                     }
@@ -297,25 +277,20 @@ public class PolyBuild {
                         element = new Triangular(TypeEnum.SIN);
                     } else if ("cos".equals(temp)) {
                         element = new Triangular(TypeEnum.COS);
-                    } else {
-                        si.raise();
-                    }
+                    } else { si.raise(); }
+                    
                     si.jumpWhite();
                     if (si.end() || si.nextIn("+-*^")) {
                         status = StatusEnum.ELEMENT_END;
-                    } else {
-                        si.raise();
-                    }
+                    } else { si.raise(); }
                     break;
                 case ELEMENT_END:
                     if (si.nextIn("^")) {
                         si.next();
-                        status = FACTOR_EXP;
+                        status = StatusEnum.FACTOR_EXP;
                     } else if (si.end() || si.nextIn("+-*")) {
                         status = StatusEnum.FACTOR_END;
-                    } else {
-                        si.raise();
-                    }
+                    } else { si.raise(); }
                     break;
                 default:
                     si.raise();
