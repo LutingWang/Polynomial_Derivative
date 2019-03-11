@@ -14,6 +14,7 @@ import java.util.Iterator;
 import java.util.Scanner;
 
 // TODO: Checkstyle
+// TODO: change status names
 public class PolyBuild {
     
     private static final String LEGEL = " \t0123456789cinosx+-*^()";
@@ -78,6 +79,12 @@ public class PolyBuild {
             return sb.charAt(ind++);
         }
         
+        public String next(int length) {
+            String temp = sb.substring(ind, ind + length);
+            ind += length;
+            return temp;
+        }
+        
         void add(String c) {
             sb.insert(ind, c);
         }
@@ -121,7 +128,7 @@ public class PolyBuild {
         }
     }
     
-    public Poly parsePoly() {
+    private Poly parsePoly() {
         assert status == StatusEnum.START;
         while (status != StatusEnum.END) {
             status = StatusEnum.ITEM_START;
@@ -262,8 +269,7 @@ public class PolyBuild {
                     } else { si.raise(); }
                     break;
                 case ELEMENT_TRI:
-                    String temp = "";
-                    for (int i = 0; i < 3; i++) { temp += si.next(); }
+                    final String temp = si.next(3);
                     if (si.next() != '(') {
                         throw new IllegalArgumentException();
                     }
