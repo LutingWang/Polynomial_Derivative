@@ -270,12 +270,15 @@ public class PolyBuild {
                     break;
                 case ELEMENT_TRI:
                     final String temp = si.next(3);
+                    si.jumpWhite();
                     if (si.next() != '(') {
                         throw new IllegalArgumentException();
                     }
+                    si.jumpWhite();
                     if (Derivable.VAR.indexOf(si.next()) == -1) {
                         throw new IllegalArgumentException();
                     }
+                    si.jumpWhite();
                     if (si.next() != ')') {
                         throw new IllegalArgumentException();
                     }

@@ -45,7 +45,7 @@ public class Poly implements Derivable {
                 }
             }
             if (!flag) {
-                linkedList.add(item.clone());
+                linkedList.add(item);
             }
         }
         ListIterator<Item> listIterator = linkedList.listIterator();
