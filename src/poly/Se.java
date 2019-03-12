@@ -1,6 +1,6 @@
 package poly;
 
-public enum SE {
+public enum Se { // StatusEnum
     START, END,
     ITEM_START, ITEM_END,
     FACTOR_START, FACTOR_EXP, FACTOR_SIGN, FACTOR_NUM, FACTOR_END,

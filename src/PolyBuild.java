@@ -1,5 +1,5 @@
 import poly.Derivable;
-import poly.SE;
+import poly.Se;
 import poly.Poly;
 import poly.Item;
 import poly.Factor;
@@ -20,7 +20,7 @@ public class PolyBuild {
     private static final String ERROR = "WRONG FORMAT!";
     private static final String WHITE = " \t";
     private static final String NUM = "1234567890";
-    private SE status = SE.START;
+    private Se status = Se.START;
     
     private final StringIterator si;
     
@@ -129,8 +129,8 @@ public class PolyBuild {
     }
     
     private Poly parsePoly() {
-        while (status != SE.END) {
-            status = SE.ITEM_START;
+        while (status != Se.END) {
+            status = Se.ITEM_START;
             poly.add(parseItem(si.next() == '-'));
         }
         return poly;
@@ -142,12 +142,12 @@ public class PolyBuild {
             item.mult(new Factor(new Const(-1)));
         }
         boolean firstFactor = true;
-        while (status != SE.START && status != SE.END) {
+        while (status != Se.START && status != Se.END) {
             switch (status) {
                 case ITEM_START:
                     si.jumpWhite();
                     if (si.isNum() || si.isVar() || si.nextIn("cs+-")) {
-                        status = SE.FACTOR_START;
+                        status = Se.FACTOR_START;
                         item.mult(parseFactor(firstFactor));
                         firstFactor = false;
                     } else {
@@ -156,9 +156,9 @@ public class PolyBuild {
                     break;
                 case ITEM_END:
                     if (si.end()) {
-                        status = SE.END;
+                        status = Se.END;
                     } else {
-                        status = SE.START;
+                        status = Se.START;
                     }
                     break;
                 default:
@@ -173,23 +173,23 @@ public class PolyBuild {
         Element element = null;
         BigInteger exp = BigInteger.ONE;
         boolean neg = false;
-        while (status != SE.ITEM_START && status != SE.ITEM_END) {
+        while (status != Se.ITEM_START && status != Se.ITEM_END) {
             switch (status) {
                 case FACTOR_START:
-                    status = SE.ESTART;
+                    status = Se.ESTART;
                     element = parseElement(first);
                     break;
                 case FACTOR_EXP:
                     si.jumpWhite();
                     if (si.nextIn("+-")) {
-                        status = SE.FACTOR_SIGN;
+                        status = Se.FACTOR_SIGN;
                     } else if (si.isNum()) {
-                        status = SE.FACTOR_NUM;
+                        status = Se.FACTOR_NUM;
                     } else { si.raise(); }
                     break;
                 case FACTOR_SIGN:
                     neg = si.next() == '-';
-                    if (si.isNum()) { status = SE.FACTOR_NUM; }
+                    if (si.isNum()) { status = Se.FACTOR_NUM; }
                     else { si.raise(); }
                     break;
                 case FACTOR_NUM:
@@ -199,15 +199,15 @@ public class PolyBuild {
                     if (neg) { exp = exp.negate(); }
                     si.jumpWhite();
                     if (si.end() || si.nextIn("+-*")) {
-                        status = SE.FACTOR_END;
+                        status = Se.FACTOR_END;
                     } else { si.raise(); }
                     break;
                 case FACTOR_END:
                     if (si.end() || si.nextIn("+-")) {
-                        status = SE.ITEM_END;
+                        status = Se.ITEM_END;
                     } else if (si.nextIn("*")) {
                         si.next();
-                        status = SE.ITEM_START;
+                        status = Se.ITEM_START;
                     } else { si.raise(); }
                     break;
                 default:
@@ -220,24 +220,24 @@ public class PolyBuild {
     private Element parseElement(boolean first) {
         boolean neg = false;
         Element element = null;
-        while (status != SE.FACTOR_EXP && status != SE.FACTOR_END) {
+        while (status != Se.FACTOR_EXP && status != Se.FACTOR_END) {
             switch (status) {
                 case ESTART:
-                    if (si.nextIn("+-")) { status = SE.ES; }
-                    else if (si.isNum()) { status = SE.EN; }
+                    if (si.nextIn("+-")) { status = Se.ES; }
+                    else if (si.isNum()) { status = Se.EN; }
                     else if (si.isVar()) {
                         si.next();
-                        status = SE.EV;
-                    } else if (si.nextIn("cs")) { status = SE.ET; }
+                        status = Se.EV;
+                    } else if (si.nextIn("cs")) { status = Se.ET; }
                     else { si.raise(); }
                     break;
                 case ES:
                     neg = si.next() == '-';
-                    if (si.isNum()) { status = SE.EN; }
+                    if (si.isNum()) { status = Se.EN; }
                     else if (!first) { si.raise(); }
                     else if (si.isWhite() || si.isVar() || si.nextIn("cs+-")) {
                         si.add("1*");
-                        status = SE.EN;
+                        status = Se.EN;
                     } else { si.raise(); }
                     break;
                 case EN:
@@ -246,27 +246,27 @@ public class PolyBuild {
                     element = new Const(new BigInteger(num.toString()));
                     if (neg) { ((Const) element).negate(); }
                     si.jumpWhite();
-                    if (si.end() || si.nextIn("+-*")) { status = SE.EE; }
+                    if (si.end() || si.nextIn("+-*")) { status = Se.EE; }
                     else { si.raise(); }
                     break;
                 case EV:
                     element = new Var();
                     si.jumpWhite();
-                    if (si.end() || si.nextIn("+-*^")) { status = SE.EE; }
+                    if (si.end() || si.nextIn("+-*^")) { status = Se.EE; }
                     else { si.raise(); }
                     break;
                 case ET:
                     element = parseTri();
                     si.jumpWhite();
-                    if (si.end() || si.nextIn("+-*^")) { status = SE.EE; }
+                    if (si.end() || si.nextIn("+-*^")) { status = Se.EE; }
                     else { si.raise(); }
                     break;
                 case EE:
                     if (si.nextIn("^")) {
                         si.next();
-                        status = SE.FACTOR_EXP;
+                        status = Se.FACTOR_EXP;
                     } else if (si.end() || si.nextIn("+-*")) {
-                        status = SE.FACTOR_END;
+                        status = Se.FACTOR_END;
                     } else { si.raise(); }
                     break;
                 default:
