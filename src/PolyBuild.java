@@ -202,9 +202,12 @@ public class PolyBuild {
     public static void main(String[] args) {
         // TODO: if multiple spaces are passed in, is that legal?
         try {
-            String s = new Scanner(System.in).nextLine().trim();
+            String s = new Scanner(System.in).nextLine();
+            int i = 0;
+            for (; " \t".contains(s.substring(i,i + 1)); i++) {}
+            s = s.substring(i);
             if (s.isEmpty()) { throw new IllegalArgumentException("Empty"); }
-            if (!Poly.VAR.equals(s.substring(0,1))) { s = "0" + s; }
+            if (!"x*".contains(s.substring(0,1))) { s = "0" + s; }
             s = "+" + s;
             PolyBuild pb = new PolyBuild(s);
             System.out.println(pb.parsePoly().differenciate());
