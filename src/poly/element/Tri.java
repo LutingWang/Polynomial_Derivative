@@ -4,14 +4,14 @@ import poly.Derivable;
 import poly.Factor;
 import poly.Item;
 
-public class Triangular extends Element {
+public class Tri extends Element {
     private TypeEnum typeEnum;
     
-    public Triangular(TypeEnum t) {
+    public Tri(TypeEnum t) {
         if (t.equals(TypeEnum.SIN) || t.equals(TypeEnum.COS)) {
             typeEnum = t;
         } else {
-            throw new RuntimeException("Triangular function type does not match.");
+            throw new RuntimeException("Tri function type does not match.");
         }
     }
     
@@ -20,14 +20,16 @@ public class Triangular extends Element {
         Derivable derivable = null;
         switch (typeEnum) {
             case SIN:
-                derivable = new Triangular(TypeEnum.COS);
+                derivable = new Tri(TypeEnum.COS);
                 break;
             case COS:
                 derivable = new Item(
                         new Factor(new Const(-1)),
-                        new Factor(new Triangular(TypeEnum.SIN))
+                        new Factor(new Tri(TypeEnum.SIN))
                 );
                 break;
+            default:
+                throw new RuntimeException();
         }
         return derivable;
     }
@@ -42,7 +44,7 @@ public class Triangular extends Element {
         if (!(obj instanceof Derivable)) {
             throw new ClassCastException();
         }
-        return obj instanceof Triangular && this.typeEnum.equals(((Triangular) obj).typeEnum);
+        return obj instanceof Tri && this.typeEnum.equals(((Tri) obj).typeEnum);
     }
     
     @Override
@@ -54,13 +56,16 @@ public class Triangular extends Element {
                 break;
             case COS:
                 temp += "cos(";
+                break;
+            default:
+                throw new RuntimeException();
         }
         temp += Derivable.VAR + ")";
         return temp;
     }
     
     @Override
-    public Triangular clone() {
-        return new Triangular(typeEnum);
+    public Tri clone() {
+        return new Tri(typeEnum);
     }
 }

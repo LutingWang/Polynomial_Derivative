@@ -6,7 +6,8 @@ import java.util.EnumMap;
 import java.util.Map;
 
 public abstract class Element implements Derivable {
-    private static final Map<TypeEnum, Integer> ENUM_INTEGER_MAP = new EnumMap<>(TypeEnum.class);
+    private static final Map<TypeEnum, Integer>
+            ENUM_INTEGER_MAP = new EnumMap<>(TypeEnum.class);
     
     static {
         ENUM_INTEGER_MAP.put(TypeEnum.CONST, 0);

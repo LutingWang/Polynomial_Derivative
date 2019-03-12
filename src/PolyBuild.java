@@ -1,5 +1,5 @@
 import poly.Derivable;
-import poly.StatusEnum;
+import poly.SE;
 import poly.Poly;
 import poly.Item;
 import poly.Factor;
@@ -7,21 +7,20 @@ import poly.element.TypeEnum;
 import poly.element.Element;
 import poly.element.Const;
 import poly.element.Var;
-import poly.element.Triangular;
+import poly.element.Tri;
 
 import java.math.BigInteger;
 import java.util.Iterator;
 import java.util.Scanner;
 
 // TODO: Checkstyle
-// TODO: change status names
 public class PolyBuild {
     
     private static final String LEGEL = " \t0123456789cinosx+-*^()";
     private static final String ERROR = "WRONG FORMAT!";
     private static final String WHITE = " \t";
     private static final String NUM = "1234567890";
-    private StatusEnum status = StatusEnum.START;
+    private SE status = SE.START;
     
     private final StringIterator si;
     
@@ -90,10 +89,8 @@ public class PolyBuild {
         }
         
         void raise() {
-            if (hasNext()) {
-                throw new IllegalArgumentException(
-                        "String format is not parsable!");
-            }
+            throw new IllegalArgumentException(
+                    "String format is not parsable!");
         }
     }
     
@@ -119,7 +116,10 @@ public class PolyBuild {
                 s = "+" + s;
             }
             PolyBuild pb = new PolyBuild(s);
-            System.out.println(pb.parsePoly().differenciate().merge());
+            System.out.println(pb.parsePoly()
+                    .differenciate()
+                    .merge()
+            );
         } catch (IllegalArgumentException e) {
             System.out.println(ERROR);
         } catch (Exception e) {
@@ -129,9 +129,8 @@ public class PolyBuild {
     }
     
     private Poly parsePoly() {
-        assert status == StatusEnum.START;
-        while (status != StatusEnum.END) {
-            status = StatusEnum.ITEM_START;
+        while (status != SE.END) {
+            status = SE.ITEM_START;
             poly.add(parseItem(si.next() == '-'));
         }
         return poly;
@@ -142,17 +141,13 @@ public class PolyBuild {
         if (neg) {
             item.mult(new Factor(new Const(-1)));
         }
-        if (si.end()) {
-            status = StatusEnum.END;
-            return item;
-        }
         boolean firstFactor = true;
-        while (status != StatusEnum.START && status != StatusEnum.END) {
+        while (status != SE.START && status != SE.END) {
             switch (status) {
                 case ITEM_START:
                     si.jumpWhite();
                     if (si.isNum() || si.isVar() || si.nextIn("cs+-")) {
-                        status = StatusEnum.FACTOR_START;
+                        status = SE.FACTOR_START;
                         item.mult(parseFactor(firstFactor));
                         firstFactor = false;
                     } else {
@@ -161,9 +156,9 @@ public class PolyBuild {
                     break;
                 case ITEM_END:
                     if (si.end()) {
-                        status = StatusEnum.END;
+                        status = SE.END;
                     } else {
-                        status = StatusEnum.START;
+                        status = SE.START;
                     }
                     break;
                 default:
@@ -178,24 +173,23 @@ public class PolyBuild {
         Element element = null;
         BigInteger exp = BigInteger.ONE;
         boolean neg = false;
-        while (status != StatusEnum.ITEM_START
-                && status != StatusEnum.ITEM_END) {
+        while (status != SE.ITEM_START && status != SE.ITEM_END) {
             switch (status) {
                 case FACTOR_START:
-                    status = StatusEnum.ELEMENT_START;
+                    status = SE.ESTART;
                     element = parseElement(first);
                     break;
                 case FACTOR_EXP:
                     si.jumpWhite();
                     if (si.nextIn("+-")) {
-                        status = StatusEnum.FACTOR_SIGN;
+                        status = SE.FACTOR_SIGN;
                     } else if (si.isNum()) {
-                        status = StatusEnum.FACTOR_NUM;
+                        status = SE.FACTOR_NUM;
                     } else { si.raise(); }
                     break;
                 case FACTOR_SIGN:
                     neg = si.next() == '-';
-                    if (si.isNum()) { status = StatusEnum.FACTOR_NUM; }
+                    if (si.isNum()) { status = SE.FACTOR_NUM; }
                     else { si.raise(); }
                     break;
                 case FACTOR_NUM:
@@ -205,15 +199,15 @@ public class PolyBuild {
                     if (neg) { exp = exp.negate(); }
                     si.jumpWhite();
                     if (si.end() || si.nextIn("+-*")) {
-                        status = StatusEnum.FACTOR_END;
+                        status = SE.FACTOR_END;
                     } else { si.raise(); }
                     break;
                 case FACTOR_END:
                     if (si.end() || si.nextIn("+-")) {
-                        status = StatusEnum.ITEM_END;
+                        status = SE.ITEM_END;
                     } else if (si.nextIn("*")) {
                         si.next();
-                        status = StatusEnum.ITEM_START;
+                        status = SE.ITEM_START;
                     } else { si.raise(); }
                     break;
                 default:
@@ -226,79 +220,53 @@ public class PolyBuild {
     private Element parseElement(boolean first) {
         boolean neg = false;
         Element element = null;
-        while (status != StatusEnum.FACTOR_EXP
-                && status != StatusEnum.FACTOR_END) {
+        while (status != SE.FACTOR_EXP && status != SE.FACTOR_END) {
             switch (status) {
-                case ELEMENT_START:
-                    if (si.nextIn("+-")) {
-                        status = StatusEnum.ELEMENT_SIGN;
-                    } else if (si.isNum()) {
-                        status = StatusEnum.ELEMENT_NUM;
-                    } else if (si.isVar()) {
+                case ESTART:
+                    if (si.nextIn("+-")) { status = SE.ES; }
+                    else if (si.isNum()) { status = SE.EN; }
+                    else if (si.isVar()) {
                         si.next();
-                        status = StatusEnum.ELEMENT_VAR;
-                    } else if (si.nextIn("cs")) {
-                        status = StatusEnum.ELEMENT_TRI;
-                    } else { si.raise(); }
+                        status = SE.EV;
+                    } else if (si.nextIn("cs")) { status = SE.ET; }
+                    else { si.raise(); }
                     break;
-                case ELEMENT_SIGN:
+                case ES:
                     neg = si.next() == '-';
-                    if (si.isNum()) {
-                        status = StatusEnum.ELEMENT_NUM;
-                    } else if (!first) { si.raise(); }
+                    if (si.isNum()) { status = SE.EN; }
+                    else if (!first) { si.raise(); }
                     else if (si.isWhite() || si.isVar() || si.nextIn("cs+-")) {
                         si.add("1*");
-                        status = StatusEnum.ELEMENT_NUM;
+                        status = SE.EN;
                     } else { si.raise(); }
                     break;
-                case ELEMENT_NUM:
+                case EN:
                     StringBuilder num = new StringBuilder();
                     while (si.isNum()) { num.append(si.next()); }
                     element = new Const(new BigInteger(num.toString()));
                     if (neg) { ((Const) element).negate(); }
                     si.jumpWhite();
-                    if (si.end() || si.nextIn("+-*")) {
-                        status = StatusEnum.ELEMENT_END;
-                    } else { si.raise(); }
+                    if (si.end() || si.nextIn("+-*")) { status = SE.EE; }
+                    else { si.raise(); }
                     break;
-                case ELEMENT_VAR:
+                case EV:
                     element = new Var();
                     si.jumpWhite();
-                    if (si.end() || si.nextIn("+-*^")) {
-                        status = StatusEnum.ELEMENT_END;
-                    } else { si.raise(); }
+                    if (si.end() || si.nextIn("+-*^")) { status = SE.EE; }
+                    else { si.raise(); }
                     break;
-                case ELEMENT_TRI:
-                    final String temp = si.next(3);
+                case ET:
+                    element = parseTri();
                     si.jumpWhite();
-                    if (si.next() != '(') {
-                        throw new IllegalArgumentException();
-                    }
-                    si.jumpWhite();
-                    if (Derivable.VAR.indexOf(si.next()) == -1) {
-                        throw new IllegalArgumentException();
-                    }
-                    si.jumpWhite();
-                    if (si.next() != ')') {
-                        throw new IllegalArgumentException();
-                    }
-                    if ("sin".equals(temp)) {
-                        element = new Triangular(TypeEnum.SIN);
-                    } else if ("cos".equals(temp)) {
-                        element = new Triangular(TypeEnum.COS);
-                    } else { si.raise(); }
-                    
-                    si.jumpWhite();
-                    if (si.end() || si.nextIn("+-*^")) {
-                        status = StatusEnum.ELEMENT_END;
-                    } else { si.raise(); }
+                    if (si.end() || si.nextIn("+-*^")) { status = SE.EE; }
+                    else { si.raise(); }
                     break;
-                case ELEMENT_END:
+                case EE:
                     if (si.nextIn("^")) {
                         si.next();
-                        status = StatusEnum.FACTOR_EXP;
+                        status = SE.FACTOR_EXP;
                     } else if (si.end() || si.nextIn("+-*")) {
-                        status = StatusEnum.FACTOR_END;
+                        status = SE.FACTOR_END;
                     } else { si.raise(); }
                     break;
                 default:
@@ -306,6 +274,22 @@ public class PolyBuild {
             }
         }
         return element;
+    }
+    
+    public Tri parseTri() {
+        final String temp = si.next(3);
+        si.jumpWhite();
+        if (si.next() != '(') { throw new TriParseException(); }
+        si.jumpWhite();
+        if (Derivable.VAR.indexOf(si.next()) == -1) {
+            throw new IllegalArgumentException();
+        }
+        si.jumpWhite();
+        if (si.next() != ')') { throw new TriParseException(); }
+        if ("sin".equals(temp)) { return new Tri(TypeEnum.SIN); }
+        else if ("cos".equals(temp)) { return new Tri(TypeEnum.COS); }
+        else { si.raise(); }
+        return null;
     }
 }
 

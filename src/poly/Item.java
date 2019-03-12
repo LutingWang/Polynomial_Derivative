@@ -72,7 +72,8 @@ public class Item implements Comparable<Item>, Derivable {
         } else if (d instanceof Item) {
             linkedList.addAll(((Item) d).getLinkedList());
         } else {
-            throw new RuntimeException("Item multiplied with incompatible class.");
+            throw new RuntimeException(
+                    "Item multiplied with incompatible class.");
         }
         return this;
     }
@@ -115,11 +116,13 @@ public class Item implements Comparable<Item>, Derivable {
         }
         if (obj instanceof Item) {
             LinkedList<Factor> linkedList = merge().getLinkedList();
-            LinkedList<Factor> linkedList1 = ((Item) obj).merge().getLinkedList();
+            LinkedList<Factor> linkedList1 =
+                    ((Item) obj).merge().getLinkedList();
             if (linkedList.size() != linkedList1.size()) {
                 return false;
             }
-            for (int i = 1; i < linkedList.size(); i++) { // do not include constant
+            for (int i = 1; i < linkedList.size(); i++) {
+                // do not include constant
                 if (!linkedList.get(i).equals(linkedList1.get(i))) {
                     return false;
                 }
@@ -133,7 +136,7 @@ public class Item implements Comparable<Item>, Derivable {
     public String toString() {
         StringBuilder temp = new StringBuilder();
         for (Factor factor : linkedList) {
-            temp.append(factor);
+            temp.append(factor).append("*");
             if (factor.isConst() && temp.length() == 2) {
                 temp.deleteCharAt(1);
             }

@@ -86,7 +86,7 @@ public class Factor implements Derivable, Comparable<Factor> {
         if (!exp.equals(BigInteger.ONE)) {
             temp += "^" + exp.toString();
         }
-        return temp + "*";
+        return temp;
     }
     
     @Override
