@@ -57,10 +57,10 @@ public final class Const extends Element implements Comparable<Const> {
     
     @Override
     public boolean equals(Object obj) {
-        if (!(obj instanceof Derivable)) {
-            throw new ClassCastException();
+        if (super.equals(obj)) {
+            return this.value.equals(((Const) obj).value);
         }
-        return obj instanceof Const && this.value.equals(((Const) obj).value);
+        return false;
     }
     
     @Override

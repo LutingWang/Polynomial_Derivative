@@ -12,22 +12,9 @@ public class Tri extends Element {
     }
     
     @Override
-    public TypeEnum type() {
-        return super.type();
-    }
-    
-    public boolean isSin() {
-        return type() == TypeEnum.SIN;
-    }
-    
-    public boolean isCos() {
-        return type() == TypeEnum.COS;
-    }
-    
-    @Override
     public Derivable differenciate() {
         Derivable derivable;
-        switch (type()) {
+        switch (getType()) {
             case SIN:
                 derivable = new Tri(TypeEnum.COS);
                 break;
@@ -45,21 +32,13 @@ public class Tri extends Element {
     
     @Override
     public Tri clone() {
-        return new Tri(type());
-    }
-    
-    @Override
-    public boolean equals(Object obj) {
-        if (!(obj instanceof Derivable)) {
-            throw new ClassCastException();
-        }
-        return obj instanceof Tri && type() == ((Tri) obj).type();
+        return new Tri(getType());
     }
     
     @Override
     public String toString() {
         String temp = "";
-        switch (type()) {
+        switch (getType()) {
             case SIN:
                 temp += "sin";
                 break;

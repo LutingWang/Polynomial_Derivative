@@ -19,14 +19,6 @@ public final class Var extends Element {
     }
     
     @Override
-    public boolean equals(Object obj) {
-        if (!(obj instanceof Derivable)) {
-            throw new ClassCastException();
-        }
-        return obj instanceof Var;
-    }
-    
-    @Override
     public String toString() {
         return "x";
     }
