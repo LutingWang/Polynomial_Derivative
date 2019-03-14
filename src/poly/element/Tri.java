@@ -5,20 +5,29 @@ import poly.Factor;
 import poly.Item;
 
 public class Tri extends Element {
-    private TypeEnum typeEnum;
     
     public Tri(TypeEnum t) {
-        if (t.equals(TypeEnum.SIN) || t.equals(TypeEnum.COS)) {
-            typeEnum = t;
-        } else {
-            throw new RuntimeException("Tri function type does not match.");
-        }
+        super(t);
+        assert t == TypeEnum.SIN || t == TypeEnum.COS;
+    }
+    
+    @Override
+    public TypeEnum type() {
+        return super.type();
+    }
+    
+    public boolean isSin() {
+        return type() == TypeEnum.SIN;
+    }
+    
+    public boolean isCos() {
+        return type() == TypeEnum.COS;
     }
     
     @Override
     public Derivable differenciate() {
-        Derivable derivable = null;
-        switch (typeEnum) {
+        Derivable derivable;
+        switch (type()) {
             case SIN:
                 derivable = new Tri(TypeEnum.COS);
                 break;
@@ -35,8 +44,8 @@ public class Tri extends Element {
     }
     
     @Override
-    public int hashCode() {
-        return super.getCode(typeEnum);
+    public Tri clone() {
+        return new Tri(type());
     }
     
     @Override
@@ -44,28 +53,23 @@ public class Tri extends Element {
         if (!(obj instanceof Derivable)) {
             throw new ClassCastException();
         }
-        return obj instanceof Tri && this.typeEnum.equals(((Tri) obj).typeEnum);
+        return obj instanceof Tri && type() == ((Tri) obj).type();
     }
     
     @Override
     public String toString() {
         String temp = "";
-        switch (typeEnum) {
+        switch (type()) {
             case SIN:
-                temp += "sin(";
+                temp += "sin";
                 break;
             case COS:
-                temp += "cos(";
+                temp += "cos";
                 break;
             default:
                 throw new RuntimeException();
         }
-        temp += Derivable.VAR + ")";
+        temp += "(" + Derivable.VAR + ")";
         return temp;
-    }
-    
-    @Override
-    public Tri clone() {
-        return new Tri(typeEnum);
     }
 }

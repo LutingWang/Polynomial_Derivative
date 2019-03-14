@@ -4,14 +4,18 @@ import poly.Derivable;
 
 public final class Var extends Element {
     
+    public Var() {
+        super(TypeEnum.VAR);
+    }
+    
     @Override
     public Derivable differenciate() {
         return new Const(1);
     }
     
     @Override
-    public int hashCode() {
-        return super.getCode(TypeEnum.VAR);
+    public Var clone() {
+        return new Var();
     }
     
     @Override
@@ -25,10 +29,5 @@ public final class Var extends Element {
     @Override
     public String toString() {
         return "x";
-    }
-    
-    @Override
-    public Var clone() {
-        return new Var();
     }
 }

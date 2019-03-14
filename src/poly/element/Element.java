@@ -8,21 +8,28 @@ import java.util.Map;
 public abstract class Element implements Derivable {
     private static final Map<TypeEnum, Integer>
             ENUM_INTEGER_MAP = new EnumMap<>(TypeEnum.class);
+    private final TypeEnum typeEnum;
     
     static {
-        ENUM_INTEGER_MAP.put(TypeEnum.CONST, 0);
-        ENUM_INTEGER_MAP.put(TypeEnum.VAR, 1);
-        ENUM_INTEGER_MAP.put(TypeEnum.SIN, 2);
-        ENUM_INTEGER_MAP.put(TypeEnum.COS, 3);
+        ENUM_INTEGER_MAP.put(TypeEnum.CONST, 2);
+        ENUM_INTEGER_MAP.put(TypeEnum.VAR, 3);
+        ENUM_INTEGER_MAP.put(TypeEnum.SIN, 5);
+        ENUM_INTEGER_MAP.put(TypeEnum.COS, 7);
     }
     
-    public int getCode(TypeEnum typeEnum) {
+    Element(TypeEnum typeEnum) {
+        this.typeEnum = typeEnum;
+    }
+    
+    TypeEnum type() {
+        return typeEnum;
+    }
+    
+    @Override
+    public int hashCode() {
         return ENUM_INTEGER_MAP.get(typeEnum);
     }
     
-    public static int typeNum() {
-        return ENUM_INTEGER_MAP.size();
-    }
-    
+    @Override
     public abstract Element clone();
 }

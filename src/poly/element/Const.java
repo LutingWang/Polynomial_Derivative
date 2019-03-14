@@ -5,9 +5,10 @@ import poly.Derivable;
 import java.math.BigInteger;
 
 public final class Const extends Element implements Comparable<Const> {
-    private BigInteger value;
+    private final BigInteger value;
     
     public Const(BigInteger v) {
+        super(TypeEnum.CONST);
         value = v;
     }
     
@@ -19,19 +20,24 @@ public final class Const extends Element implements Comparable<Const> {
         return value;
     }
     
+    public boolean isZero() {
+        return value.equals(BigInteger.ZERO);
+    }
+    
+    public boolean isOne() {
+        return value.equals(BigInteger.ONE);
+    }
+    
     public Const negate() {
-        value = value.negate();
-        return this;
+        return new Const(value.negate());
     }
     
     public Const add(Const c) {
-        value = value.add(c.getValue());
-        return this;
+        return new Const(value.add(c.getValue()));
     }
     
     public Const mult(Const c) {
-        value = value.multiply(c.getValue());
-        return this;
+        return new Const(value.multiply(c.getValue()));
     }
     
     @Override
@@ -40,8 +46,13 @@ public final class Const extends Element implements Comparable<Const> {
     }
     
     @Override
-    public int hashCode() {
-        return super.getCode(TypeEnum.CONST);
+    public int compareTo(Const c) {
+        return value.compareTo(c.getValue());
+    }
+    
+    @Override
+    public Const clone() {
+        return new Const(value);
     }
     
     @Override
@@ -50,11 +61,6 @@ public final class Const extends Element implements Comparable<Const> {
             throw new ClassCastException();
         }
         return obj instanceof Const && this.value.equals(((Const) obj).value);
-    }
-    
-    @Override
-    public int compareTo(Const c) {
-        return value.compareTo(c.getValue());
     }
     
     @Override
@@ -69,10 +75,5 @@ public final class Const extends Element implements Comparable<Const> {
             temp += value.abs().toString();
         }
         return temp;
-    }
-    
-    @Override
-    public Const clone() {
-        return new Const(value);
     }
 }
