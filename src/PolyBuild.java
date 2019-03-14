@@ -118,13 +118,13 @@ public class PolyBuild {
             PolyBuild pb = new PolyBuild(s);
             System.out.println(pb.parsePoly()
                     .differenciate()
-                    .merge()
+                    .sort()
             );
         } catch (IllegalArgumentException e) {
             System.out.println(ERROR);
         } catch (Exception e) {
-            //throw e;
-            System.out.println(ERROR);
+            throw e;
+            //System.out.println(ERROR);
         }
     }
     
@@ -244,7 +244,7 @@ public class PolyBuild {
                     StringBuilder num = new StringBuilder();
                     while (si.isNum()) { num.append(si.next()); }
                     element = new Const(new BigInteger(num.toString()));
-                    if (neg) { ((Const) element).negate(); }
+                    if (neg) { element = ((Const) element).negate(); }
                     si.jumpWhite();
                     if (si.end() || si.nextIn("+-*")) { status = Se.EE; }
                     else { si.raise(); }
@@ -276,7 +276,7 @@ public class PolyBuild {
         return element;
     }
     
-    public Tri parseTri() {
+    private Tri parseTri() {
         final String temp = si.next(3);
         si.jumpWhite();
         if (si.next() != '(') { throw new TriParseException(); }

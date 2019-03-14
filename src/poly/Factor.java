@@ -2,44 +2,65 @@ package poly;
 
 import poly.element.Const;
 import poly.element.Element;
+import poly.element.TypeEnum;
 
 import java.math.BigInteger;
 
 public class Factor implements Derivable, Comparable<Factor> {
-    private BigInteger exp;
-    private Element element;
+    private final BigInteger exp; // never zero
+    private final Element element;
     
     public Factor(Element element, BigInteger exp) {
-        this.element = element;
-        this.exp = exp;
+        if (exp.equals(BigInteger.ZERO)) {
+            this.element = new Const(1);
+            this.exp = BigInteger.ONE;
+        } else {
+            this.element = element;
+            this.exp = exp;
+        }
     }
     
     public Factor(Element element) {
         this(element, BigInteger.ONE);
     }
     
-    public Element getElement() {
-        return element;
-    }
-    
-    public BigInteger getExp() {
-        return exp;
-    }
-    
-    public Factor mult(Factor factor) {
-        if (hashCode() != factor.hashCode()) {
-            throw new ClassCastException();
-        }
-        if (isConst()) {
-            ((Const) element).mult((Const) factor.getElement());
-        } else {
-            exp = exp.add(factor.getExp());
-        }
-        return this;
+    public TypeEnum getType() {
+        return element.getType();
     }
     
     public boolean isConst() {
         return element instanceof Const;
+    }
+    
+    public Const getConst() {
+        if (!isConst()) {
+            throw new ClassCastException();
+        }
+        return (Const) element;
+    }
+    
+    public boolean isZero() {
+        return isConst() && ((Const) element).isZero();
+    }
+    
+    public boolean isOne() {
+        return isConst() && ((Const) element).isOne();
+    }
+    
+    public Factor mult(Factor factor) {
+        if (isOne()) {
+            return factor.clone();
+        }
+        if (this.getType() != factor.getType()) {
+            throw new ClassCastException();
+        }
+        if (isConst()) {
+            return new Factor(
+                    ((Const) this.element).mult((Const) factor.element));
+        } else {
+            return new Factor(
+                    element.clone(), exp.add(factor.exp));
+        }
     }
     
     @Override
@@ -50,38 +71,27 @@ public class Factor implements Derivable, Comparable<Factor> {
         ).mult(element.differenciate());
     }
     
-    public Factor merge() {
-        if (exp.equals(BigInteger.ZERO)) {
-            exp = BigInteger.ONE;
-            element = new Const(1);
-        }
-        return this;
-    }
-    
-    @Override
-    public int hashCode() {
-        return element.hashCode();
-    }
-    
     @Override
     public boolean equals(Object obj) {
-        if (!(obj instanceof Factor)) {
+        if (!(obj instanceof Derivable)) {
             throw new ClassCastException();
         }
+        if (!(obj instanceof Factor)) {
+            return false;
+        }
         Factor factor = (Factor) obj;
-        return hashCode() == factor.hashCode() && exp.equals(factor.getExp());
+        return this.getType() == (factor).getType()
+                && exp.equals(factor.exp);
     }
     
     @Override
     public int compareTo(Factor factor) {
-        return Integer.compare(hashCode(), factor.hashCode());
+        return Integer.compare(
+                this.element.hashCode(), factor.element.hashCode());
     }
     
     @Override
     public String toString() {
-        if (exp.equals(BigInteger.ZERO)) {
-            return "";
-        }
         String temp = element.toString();
         if (!exp.equals(BigInteger.ONE)) {
             temp += "^" + exp.toString();

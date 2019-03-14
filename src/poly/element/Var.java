@@ -10,7 +10,7 @@ public final class Var extends Element {
     
     @Override
     public Derivable differenciate() {
-        return new Const(1);
+        return new Const(1).toFactor();
     }
     
     @Override

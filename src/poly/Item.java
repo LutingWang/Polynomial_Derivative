@@ -2,111 +2,108 @@ package poly;
 
 import poly.element.Const;
 import poly.element.Element;
+import poly.element.TypeEnum;
 
-import java.util.Arrays;
-import java.util.LinkedList;
+import java.util.EnumMap;
 
 public class Item implements Comparable<Item>, Derivable {
-    private LinkedList<Factor> linkedList = new LinkedList<>();
+    private final EnumMap<TypeEnum, Factor> factorEnumMap
+            = new EnumMap<>(TypeEnum.class);
     
     {
-        linkedList.add(new Factor(new Const(1)));
+        for (TypeEnum type : TypeEnum.values()) {
+            put(type, new Factor(new Const(1)));
+        }
     }
     
-    public Item() {}
-    
-    public Item(boolean flag) {
-        linkedList.remove(0);
+    private Factor put(TypeEnum type, Factor factor) {
+        Factor oldValue = factorEnumMap.get(type);
+        factorEnumMap.put(type, factor);
+        return oldValue;
     }
     
-    public Item(LinkedList<Factor> linkedList) {
-        this.linkedList.addAll(linkedList);
+    private Factor get(TypeEnum type) {
+        return factorEnumMap.get(type);
     }
     
     public Item(Factor... factors) {
-        this(new LinkedList<>(Arrays.asList(factors)));
+        for (Factor factor : factors) {
+            mult(factor);
+        }
     }
     
-    public LinkedList<Factor> getLinkedList() {
-        return linkedList;
+    boolean isConst() {
+        return equals(new Item());
     }
     
-    public Const getConst() {
-        return (Const) linkedList.stream()
-                .filter(Factor::isConst)
-                .findAny()
-                .get()
-                .getElement();
+    Const getConst() {
+        return get(TypeEnum.CONST).getConst();
+    }
+    
+    boolean isZero() {
+        return get(TypeEnum.CONST).isZero();
+    }
+    
+    Item add(Item item) {
+        assert equals(item);
+        TypeEnum type = TypeEnum.CONST;
+        put(type, new Factor(this.getConst().add(item.getConst())));
+        return this;
+    }
+    
+    private Item mult(Element element) {
+        return mult(new Factor(element));
+    }
+    
+    private Item mult(Factor factor) {
+        TypeEnum type = factor.getType();
+        put(type, get(type).mult(factor));
+        return this;
+    }
+    
+    private Item mult(Item item) {
+        for (Factor factor : item.factorEnumMap.values()) {
+            mult(factor);
+        }
+        return this;
+    }
+    
+    public Item mult(Object obj) {
+        if (obj instanceof Element) {
+            return mult((Element) obj);
+        }
+        if (obj instanceof Factor) {
+            return mult((Factor) obj);
+        }
+        if (obj instanceof Item) {
+            return mult((Item) obj);
+        }
+        throw new ClassCastException();
     }
     
     @Override
     public Poly differenciate() {
         Poly poly = new Poly();
-        Factor[] factors = clone().getLinkedList().toArray(new Factor[0]);
-        for (int i = 0; i < linkedList.size(); i++) {
-            Item item = new Item();
-            for (int j = 0; j < linkedList.size(); j++) {
-                if (j == i) {
-                    item.mult(factors[j].differenciate());
-                } else {
-                    item.mult(factors[j].clone());
-                }
-            }
-            poly.add(item);
+        for (TypeEnum type : TypeEnum.values()) {
+            Item item = clone();
+            Factor factor = item.put(type, new Factor(new Const(1)));
+            poly.add(item.mult(factor.differenciate()));
         }
         return poly;
     }
     
-    public Item add(Item item) {
-        assert merge().equals(item.merge());
-        Const c = getConst();
-        c = c.add(item.getConst());
-        return this;
-    }
-    
-    public Item mult(Derivable d) {
-        if (d instanceof Element) {
-            linkedList.add(new Factor((Element) d));
-        } else if (d instanceof Factor) {
-            linkedList.add((Factor) d);
-        } else if (d instanceof Item) {
-            linkedList.addAll(((Item) d).getLinkedList());
-        } else {
-            throw new RuntimeException(
-                    "Item multiplied with incompatible class.");
-        }
-        return this;
-    }
-    
-    public boolean isConst() {
-        return linkedList.size() == 1;
+    @Override
+    public int compareTo(Item item) {
+        return this.getConst().compareTo(item.getConst());
     }
     
     @Override
-    public int compareTo(Item item) {
-        return getConst().compareTo(item.getConst());
-    }
-    
-    public Item merge() {
-        LinkedList<Factor> linkedList = new LinkedList<>();
-        linkedList.add(new Factor(new Const(1)));
-        for (Factor factor : this.linkedList) {
-            factor.merge();
-            boolean flag = false; // factor multiplied with one of linkedList
-            for (Factor factor1 : linkedList) {
-                if (factor1.hashCode() == factor.hashCode()) {
-                    factor1.mult(factor);
-                    flag = true;
-                    break;
-                }
-            }
-            if (!flag) {
-                linkedList.add(factor);
-            }
+    public Item clone() {
+        Item item = new Item();
+        for (Factor factor : factorEnumMap.values()) {
+            item.mult(factor);
         }
-        linkedList.sort(Factor::compareTo);
-        this.linkedList = linkedList;
-        return this;
+        return item;
     }
     
     @Override
@@ -114,47 +111,41 @@ public class Item implements Comparable<Item>, Derivable {
         if (!(obj instanceof Derivable)) {
             throw new ClassCastException();
         }
-        if (obj instanceof Item) {
-            LinkedList<Factor> linkedList = merge().getLinkedList();
-            LinkedList<Factor> linkedList1 =
-                    ((Item) obj).merge().getLinkedList();
-            if (linkedList.size() != linkedList1.size()) {
+        if (!(obj instanceof Item)) {
+            return false;
+        }
+        Item item = (Item) obj;
+        for (TypeEnum type : TypeEnum.values()) {
+            if (type == TypeEnum.CONST) {
+                continue;
+            }
+            if (!this.get(type).equals(item.get(type))) {
                 return false;
             }
-            for (int i = 1; i < linkedList.size(); i++) {
-                // do not include constant
-                if (!linkedList.get(i).equals(linkedList1.get(i))) {
-                    return false;
-                }
-            }
-            return true;
         }
-        return false;
+        return true;
     }
     
     @Override
     public String toString() {
         StringBuilder temp = new StringBuilder();
-        for (Factor factor : linkedList) {
-            temp.append(factor).append("*");
-            if (factor.isConst() && temp.length() == 2) {
-                temp.deleteCharAt(1);
+        if (isConst()) {
+            temp.append(get(TypeEnum.CONST).toString());
+            if (getConst().abs().isOne()) {
+                temp.append(1);
+            }
+            return temp.toString();
+        }
+        for (TypeEnum type : TypeEnum.values()) {
+            Factor factor = get(type);
+            if (factor.isOne() && type != TypeEnum.CONST) {
+                continue;
+            }
+            temp.append(factor);
+            if (!factor.isOne()) {
+                temp.append("*");
             }
         }
-        if (isConst() && temp.length() == 1) {
-            temp.append(1);
-            return temp.toString();
-        } else {
-            return temp.substring(0, temp.length() - 1);
-        }
-    }
-    
-    @Override
-    public Item clone() {
-        Item item = new Item(true);
-        for (Factor factor : linkedList) {
-            item.mult(factor.clone());
-        }
-        return item;
+        return temp.substring(0, temp.length() - 1);
     }
 }

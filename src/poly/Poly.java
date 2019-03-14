@@ -1,28 +1,44 @@
 package poly;
 
-import poly.element.Const;
-
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.LinkedList;
-import java.util.ListIterator;
 
 public class Poly implements Derivable {
     private LinkedList<Item> expression = new LinkedList<>();
     
-    public LinkedList<Item> getExpression() {
-        return expression;
+    public Poly sort() {
+        expression.sort(Item::compareTo);
+        Collections.reverse(expression);
+        return this;
+    }
+    
+    private Poly add(Item item) {
+        for (Item item1 : expression) {
+            if (item.equals(item1)) {
+                item1.add(item);
+                return this;
+            }
+        }
+        expression.add(item);
+        return this;
+    }
+    
+    private Poly add(Poly poly) {
+        for (Item item : poly.expression) {
+            add(item);
+        }
+        return this;
     }
     
     public Poly add(Derivable derivable) {
         if (derivable instanceof Item) {
-            expression.add((Item) derivable);
-        } else if (derivable instanceof Poly) {
-            expression.addAll(((Poly) derivable).getExpression());
-        } else {
-            throw new ClassCastException();
+            return add((Item) derivable);
         }
-        return this;
+        if (derivable instanceof Poly) {
+            return add((Poly) derivable);
+        }
+        throw new ClassCastException();
     }
 
     public Poly differenciate() {
@@ -33,34 +49,6 @@ public class Poly implements Derivable {
         return poly;
     }
 
-    public Poly merge() {
-        LinkedList<Item> linkedList = new LinkedList<>();
-        for (Item item : expression) {
-            boolean flag = false; // item added with one of linkedList.
-            for (Item item1 : linkedList) {
-                if (item1.equals(item)) {
-                    item1.add(item);
-                    flag = true;
-                    break;
-                }
-            }
-            if (!flag) {
-                linkedList.add(item);
-            }
-        }
-        ListIterator<Item> listIterator = linkedList.listIterator();
-        while (listIterator.hasNext()) {
-            Item item = listIterator.next();
-            if (!item.getConst().equals(new Const(0))) {
-                item.merge();
-            } else {
-                listIterator.remove();
-            }
-        }
-        expression = linkedList;
-        return this;
-    }
-    
     /**
      * Transforms the polynomial to a string representation. The sequence of
      * items is decided by their coefficients, specifically decreasing. The
@@ -71,11 +59,10 @@ public class Poly implements Derivable {
     @Override
     public String toString() {
         StringBuilder s = new StringBuilder();
-        ArrayList<Item> al = new ArrayList<>(expression);
-        al.sort(Item::compareTo);
-        Collections.reverse(al);
-        for (Item it : al) {
-            s.append(it.toString());
+        for (Item it : expression) {
+            if (!it.isZero()) {
+                s.append(it.toString());
+            }
         }
         if (s.length() == 0) {
             return "0";
@@ -90,7 +77,7 @@ public class Poly implements Derivable {
     public Poly clone() {
         Poly poly = new Poly();
         for (Item item : expression) {
-            poly.add(item.clone());
+            poly.add(item);
         }
         return poly;
     }

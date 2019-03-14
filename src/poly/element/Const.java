@@ -16,10 +16,6 @@ public final class Const extends Element implements Comparable<Const> {
         this(BigInteger.valueOf(v));
     }
     
-    public BigInteger getValue() {
-        return value;
-    }
-    
     public boolean isZero() {
         return value.equals(BigInteger.ZERO);
     }
@@ -28,26 +24,30 @@ public final class Const extends Element implements Comparable<Const> {
         return value.equals(BigInteger.ONE);
     }
     
+    public Const abs() {
+        return new Const(value.abs());
+    }
+    
     public Const negate() {
         return new Const(value.negate());
     }
     
     public Const add(Const c) {
-        return new Const(value.add(c.getValue()));
+        return new Const(value.add(c.value));
     }
     
     public Const mult(Const c) {
-        return new Const(value.multiply(c.getValue()));
+        return new Const(value.multiply(c.value));
     }
     
     @Override
-    public Const differenciate() {
-        return new Const(0);
+    public Derivable differenciate() {
+        return new Const(0).toFactor();
     }
     
     @Override
     public int compareTo(Const c) {
-        return value.compareTo(c.getValue());
+        return value.compareTo(c.value);
     }
     
     @Override

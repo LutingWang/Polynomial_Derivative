@@ -16,7 +16,7 @@ public class Tri extends Element {
         Derivable derivable;
         switch (getType()) {
             case SIN:
-                derivable = new Tri(TypeEnum.COS);
+                derivable = new Tri(TypeEnum.COS).toFactor();
                 break;
             case COS:
                 derivable = new Item(
