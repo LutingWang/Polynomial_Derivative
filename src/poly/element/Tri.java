@@ -3,36 +3,37 @@ package poly.element;
 import poly.Derivable;
 import poly.Factor;
 import poly.Item;
+import poly.Poly;
 
 public class Tri extends Element {
+    private final Poly poly;
     
-    public Tri(TypeEnum t) {
+    public Tri(TypeEnum t, Poly poly) {
         super(t);
         assert t == TypeEnum.SIN || t == TypeEnum.COS;
+        this.poly = poly;
     }
     
     @Override
-    public Derivable differenciate() {
-        Derivable derivable;
+    public Poly differenciate() {
         switch (getType()) {
             case SIN:
-                derivable = new Tri(TypeEnum.COS).toFactor();
-                break;
+                return (Poly) new Item(
+                        new Factor(new Tri(TypeEnum.COS, poly))
+                ).mult(poly.differenciate());
             case COS:
-                derivable = new Item(
+                return (Poly) new Item(
                         new Factor(new Const(-1)),
-                        new Factor(new Tri(TypeEnum.SIN))
-                );
-                break;
+                        new Factor(new Tri(TypeEnum.SIN, poly))
+                ).mult(poly.differenciate());
             default:
                 throw new RuntimeException();
         }
-        return derivable;
     }
     
     @Override
     public Tri clone() {
-        return new Tri(getType());
+        return new Tri(getType(), poly.clone());
     }
     
     @Override
@@ -48,7 +49,7 @@ public class Tri extends Element {
             default:
                 throw new RuntimeException();
         }
-        temp += "(" + Derivable.VAR + ")";
+        temp += "(" + poly.toString() + ")";
         return temp;
     }
 }

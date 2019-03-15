@@ -24,30 +24,34 @@ public class Factor implements Derivable, Comparable<Factor> {
         this(element, BigInteger.ONE);
     }
     
-    public TypeEnum getType() {
+    TypeEnum getType() {
         return element.getType();
     }
     
-    public boolean isConst() {
+    private boolean isConst() {
         return element instanceof Const;
     }
     
-    public Const getConst() {
+    Const getConst() {
         if (!isConst()) {
             throw new ClassCastException();
         }
         return (Const) element;
     }
     
-    public boolean isZero() {
+    boolean isZero() {
         return isConst() && ((Const) element).isZero();
     }
     
-    public boolean isOne() {
-        return isConst() && ((Const) element).isOne();
+    boolean isOne() {
+        return  isConst() && ((Const) element).isOne();
     }
     
-    public Factor mult(Factor factor) {
+    boolean absIsOne() {
+        return isConst() && ((Const) element).abs().isOne();
+    }
+    
+    Factor mult(Factor factor) {
         if (isOne()) {
             return factor.clone();
         }
@@ -64,7 +68,7 @@ public class Factor implements Derivable, Comparable<Factor> {
     }
     
     @Override
-    public Item differenciate() {
+    public Derivable differenciate() {
         return new Item(
                 new Factor(new Const(exp)),
                 new Factor(element.clone(), exp.subtract(BigInteger.ONE))

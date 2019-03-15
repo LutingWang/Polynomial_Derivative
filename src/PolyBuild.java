@@ -21,10 +21,11 @@ public class PolyBuild {
     private static final String WHITE = " \t";
     private static final String NUM = "1234567890";
     private Se status = Se.START;
+    private int layer = 0;
     
     private final StringIterator si;
     
-    private static class StringIterator implements Iterator<Character> {
+    private class StringIterator implements Iterator<Character> {
         private StringBuilder sb;
         private int ind = 0;
         
@@ -70,7 +71,7 @@ public class PolyBuild {
         }
         
         boolean end() {
-            return !hasNext();
+            return !hasNext() || (layer != 0 && nextIn(")"));
         }
         
         @Override
@@ -78,10 +79,30 @@ public class PolyBuild {
             return sb.charAt(ind++);
         }
         
-        public String next(int length) {
+        String next(int length) {
             String temp = sb.substring(ind, ind + length);
             ind += length;
             return temp;
+        }
+        
+        String nextLayer() {
+            final int startInd = ind;
+            
+            int layer = 0;
+            while (hasNext()) {
+                if (nextIn("(")) {
+                    layer++;
+                } else if (nextIn(")")) {
+                    layer--;
+                }
+                if (layer == -1) {
+                    return sb.substring(startInd, ind);
+                } else {
+                    next();
+                }
+            }
+            raise();
+            return null;
         }
         
         void add(String c) {
@@ -96,7 +117,15 @@ public class PolyBuild {
     
     private Poly poly = new Poly();
     
-    public PolyBuild(String s) {
+    // TODO: check if empty () is allowed
+    PolyBuild(String s) {
+        s = s.trim();
+        if (s.isEmpty()) {
+            throw new IllegalArgumentException("Empty");
+        }
+        if ("+-".indexOf(s.charAt(0)) == -1) {
+            s = "+" + s;
+        }
         si = new StringIterator(s);
     }
     
@@ -107,13 +136,6 @@ public class PolyBuild {
                 if (LEGEL.indexOf(c) == -1) {
                     throw new IllegalArgumentException("Illegal character.");
                 }
-            }
-            s = s.trim();
-            if (s.isEmpty()) {
-                throw new IllegalArgumentException("Empty");
-            }
-            if ("+-".indexOf(s.charAt(0)) == -1) {
-                s = "+" + s;
             }
             PolyBuild pb = new PolyBuild(s);
             System.out.println(pb.parsePoly()
@@ -131,7 +153,7 @@ public class PolyBuild {
     private Poly parsePoly() {
         while (status != Se.END) {
             status = Se.ITEM_START;
-            poly.add(parseItem(si.next() == '-'));
+            poly = poly.add(parseItem(si.next() == '-'));
         }
         return poly;
     }
@@ -148,7 +170,7 @@ public class PolyBuild {
                     si.jumpWhite();
                     if (si.isNum() || si.isVar() || si.nextIn("cs+-")) {
                         status = Se.FACTOR_START;
-                        item.mult(parseFactor(firstFactor));
+                        item = (Item) item.mult(parseFactor(firstFactor));
                         firstFactor = false;
                     } else {
                         si.raise();
@@ -277,18 +299,18 @@ public class PolyBuild {
     }
     
     private Tri parseTri() {
-        final String temp = si.next(3);
+        final String triFuncName = si.next(3);
         si.jumpWhite();
         if (si.next() != '(') { throw new TriParseException(); }
         si.jumpWhite();
-        if (Derivable.VAR.indexOf(si.next()) == -1) {
-            throw new IllegalArgumentException();
-        }
-        si.jumpWhite();
+        Poly poly = new PolyBuild(si.nextLayer()).parsePoly();
         if (si.next() != ')') { throw new TriParseException(); }
-        if ("sin".equals(temp)) { return new Tri(TypeEnum.SIN); }
-        else if ("cos".equals(temp)) { return new Tri(TypeEnum.COS); }
-        else { si.raise(); }
+        si.jumpWhite();
+        if ("sin".equals(triFuncName)) {
+            return new Tri(TypeEnum.SIN, poly);
+        } else if ("cos".equals(triFuncName)) {
+            return new Tri(TypeEnum.COS, poly);
+        } else { si.raise(); }
         return null;
     }
 }

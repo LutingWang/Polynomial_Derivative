@@ -1,6 +1,7 @@
 package poly.element;
 
 import poly.Derivable;
+import poly.Factor;
 
 import java.math.BigInteger;
 
@@ -42,7 +43,7 @@ public final class Const extends Element implements Comparable<Const> {
     
     @Override
     public Derivable differenciate() {
-        return new Const(0).toFactor();
+        return new Factor(new Const(0));
     }
     
     @Override

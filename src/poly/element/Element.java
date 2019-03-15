@@ -1,7 +1,6 @@
 package poly.element;
 
 import poly.Derivable;
-import poly.Factor;
 
 import java.util.EnumMap;
 import java.util.Map;
@@ -34,10 +33,6 @@ public abstract class Element implements Derivable {
     public boolean isCos() {
         assert this instanceof Tri;
         return type == TypeEnum.COS;
-    }
-    
-    Factor toFactor() {
-        return new Factor(this);
     }
     
     @Override

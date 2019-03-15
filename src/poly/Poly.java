@@ -1,8 +1,8 @@
 package poly;
 
-import java.util.ArrayList;
 import java.util.Collections;
 import java.util.LinkedList;
+import java.util.ListIterator;
 
 public class Poly implements Derivable {
     private LinkedList<Item> expression = new LinkedList<>();
@@ -13,10 +13,18 @@ public class Poly implements Derivable {
         return this;
     }
     
+    public boolean isZero() {
+        return expression.size() == 0;
+    }
+    
     private Poly add(Item item) {
-        for (Item item1 : expression) {
+        for (ListIterator<Item> it = expression.listIterator(); it.hasNext();) {
+            Item item1 = it.next();
             if (item.equals(item1)) {
-                item1.add(item);
+                it.set(item1.add(item));
+                if (item1.isZero()) {
+                    it.remove();
+                }
                 return this;
             }
         }
@@ -32,13 +40,22 @@ public class Poly implements Derivable {
     }
     
     public Poly add(Derivable derivable) {
+        Poly poly = clone();
         if (derivable instanceof Item) {
-            return add((Item) derivable);
+            return poly.add((Item) derivable);
         }
         if (derivable instanceof Poly) {
-            return add((Poly) derivable);
+            return poly.add((Poly) derivable);
         }
         throw new ClassCastException();
+    }
+    
+    Poly mult(Item item) {
+        Poly poly = new Poly();
+        for (Item item1 : expression) {
+            poly = poly.add(item.mult(item1));
+        }
+        return poly;
     }
 
     public Poly differenciate() {

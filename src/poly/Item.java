@@ -32,11 +32,11 @@ public class Item implements Comparable<Item>, Derivable {
         }
     }
     
-    boolean isConst() {
+    private boolean isConst() {
         return equals(new Item());
     }
     
-    Const getConst() {
+    private Const getConst() {
         return get(TypeEnum.CONST).getConst();
     }
     
@@ -46,9 +46,10 @@ public class Item implements Comparable<Item>, Derivable {
     
     Item add(Item item) {
         assert equals(item);
+        Item item1 = clone();
         TypeEnum type = TypeEnum.CONST;
-        put(type, new Factor(this.getConst().add(item.getConst())));
-        return this;
+        item1.put(type, new Factor(this.getConst().add(item.getConst())));
+        return item1;
     }
     
     private Item mult(Element element) {
@@ -68,15 +69,19 @@ public class Item implements Comparable<Item>, Derivable {
         return this;
     }
     
-    public Item mult(Object obj) {
+    public Derivable mult(Derivable obj) {
+        Item item = clone();
         if (obj instanceof Element) {
-            return mult((Element) obj);
+            return item.mult((Element) obj);
         }
         if (obj instanceof Factor) {
-            return mult((Factor) obj);
+            return item.mult((Factor) obj);
         }
         if (obj instanceof Item) {
-            return mult((Item) obj);
+            return item.mult((Item) obj);
+        }
+        if (obj instanceof Poly) {
+            return ((Poly) obj).mult(this);
         }
         throw new ClassCastException();
     }
@@ -87,7 +92,7 @@ public class Item implements Comparable<Item>, Derivable {
         for (TypeEnum type : TypeEnum.values()) {
             Item item = clone();
             Factor factor = item.put(type, new Factor(new Const(1)));
-            poly.add(item.mult(factor.differenciate()));
+            poly = poly.add(item.mult(factor.differenciate()));
         }
         return poly;
     }
@@ -142,7 +147,7 @@ public class Item implements Comparable<Item>, Derivable {
                 continue;
             }
             temp.append(factor);
-            if (!factor.isOne()) {
+            if (!factor.absIsOne()) {
                 temp.append("*");
             }
         }
