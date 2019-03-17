@@ -12,8 +12,11 @@ import poly.element.Tri;
 import java.math.BigInteger;
 import java.util.Iterator;
 import java.util.Scanner;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 // TODO: Checkstyle
+// TODO: add eval method
 public class PolyBuild {
     
     private static final String LEGEL = " \t0123456789cinosx+-*^()";
@@ -21,7 +24,6 @@ public class PolyBuild {
     private static final String WHITE = " \t";
     private static final String NUM = "1234567890";
     private Se status = Se.START;
-    private int layer = 0;
     
     private final StringIterator si;
     
@@ -70,8 +72,12 @@ public class PolyBuild {
             return ind < sb.length();
         }
         
+        public boolean hasNextLayer() {
+            return hasNext() && nextIn("(");
+        }
+        
         boolean end() {
-            return !hasNext() || (layer != 0 && nextIn(")"));
+            return !hasNext();
         }
         
         @Override
@@ -86,23 +92,25 @@ public class PolyBuild {
         }
         
         String nextLayer() {
+            jumpWhite();
+            if (next() != '(') {
+                throw new IllegalArgumentException();
+            }
             final int startInd = ind;
             
             int layer = 0;
-            while (hasNext()) {
-                if (nextIn("(")) {
+            while (hasNext() && layer != -1) {
+                char c = next();
+                if (c == '(') {
                     layer++;
-                } else if (nextIn(")")) {
+                } else if (c == ')') {
                     layer--;
                 }
-                if (layer == -1) {
-                    return sb.substring(startInd, ind);
-                } else {
-                    next();
-                }
             }
-            raise();
-            return null;
+            if (layer != -1) {
+                raise();
+            }
+            return sb.substring(startInd, ind - 1);
         }
         
         void add(String c) {
@@ -117,16 +125,15 @@ public class PolyBuild {
     
     private Poly poly = new Poly();
     
-    // TODO: check if empty () is allowed
     PolyBuild(String s) {
-        s = s.trim();
-        if (s.isEmpty()) {
+        String string = s.trim();
+        if (string.isEmpty()) {
             throw new IllegalArgumentException("Empty");
         }
-        if ("+-".indexOf(s.charAt(0)) == -1) {
-            s = "+" + s;
+        if ("+-".indexOf(string.charAt(0)) == -1) {
+            string = "+" + string;
         }
-        si = new StringIterator(s);
+        si = new StringIterator(string);
     }
     
     public static void main(String[] args) {
@@ -139,7 +146,7 @@ public class PolyBuild {
             }
             PolyBuild pb = new PolyBuild(s);
             System.out.println(pb.parsePoly()
-                    .differenciate()
+                    .differentiate()
                     .sort()
             );
         } catch (IllegalArgumentException e) {
@@ -158,11 +165,12 @@ public class PolyBuild {
         return poly;
     }
     
-    private Item parseItem(boolean neg) {
+    private Poly parseItem(boolean neg) {
         Item item = new Item();
         if (neg) {
             item.mult(new Factor(new Const(-1)));
         }
+        Poly poly = new Poly().add(new Item(new Factor(new Const(1))));
         boolean firstFactor = true;
         while (status != Se.START && status != Se.END) {
             switch (status) {
@@ -171,10 +179,22 @@ public class PolyBuild {
                     if (si.isNum() || si.isVar() || si.nextIn("cs+-")) {
                         status = Se.FACTOR_START;
                         item = (Item) item.mult(parseFactor(firstFactor));
-                        firstFactor = false;
+                    } else if (si.hasNextLayer()) {
+                        status = Se.ITEM_LAYER;
                     } else {
                         si.raise();
                     }
+                    firstFactor = false;
+                    break;
+                case ITEM_LAYER:
+                    poly = poly.mult(new PolyBuild(si.nextLayer()).parsePoly());
+                    si.jumpWhite();
+                    if (si.end() || si.nextIn("+-")) {
+                        status = Se.ITEM_END;
+                    } else if (si.nextIn("*")) {
+                        si.next();
+                        status = Se.ITEM_START;
+                    } else { si.raise(); }
                     break;
                 case ITEM_END:
                     if (si.end()) {
@@ -187,7 +207,7 @@ public class PolyBuild {
                     si.raise();
             }
         }
-        return item;
+        return poly.mult(item);
     }
     
     private Factor parseFactor(boolean first) {
@@ -257,7 +277,7 @@ public class PolyBuild {
                     neg = si.next() == '-';
                     if (si.isNum()) { status = Se.EN; }
                     else if (!first) { si.raise(); }
-                    else if (si.isWhite() || si.isVar() || si.nextIn("cs+-")) {
+                    else if (si.isWhite() || si.isVar() || si.nextIn("cs+-(")) {
                         si.add("1*");
                         status = Se.EN;
                     } else { si.raise(); }
@@ -298,20 +318,36 @@ public class PolyBuild {
         return element;
     }
     
-    private Tri parseTri() {
+    private Element parseTri() {
         final String triFuncName = si.next(3);
-        si.jumpWhite();
-        if (si.next() != '(') { throw new TriParseException(); }
-        si.jumpWhite();
-        Poly poly = new PolyBuild(si.nextLayer()).parsePoly();
-        if (si.next() != ')') { throw new TriParseException(); }
-        si.jumpWhite();
+        String temp = si.nextLayer();
+        if (!isFactor(temp)) {
+            throw new IllegalArgumentException();
+        }
+        Poly poly = new PolyBuild(temp).parsePoly();
         if ("sin".equals(triFuncName)) {
-            return new Tri(TypeEnum.SIN, poly);
+            if (poly.isZero()) {
+                return new Const(0);
+            } else {
+                return new Tri(TypeEnum.SIN, poly);
+            }
         } else if ("cos".equals(triFuncName)) {
-            return new Tri(TypeEnum.COS, poly);
-        } else { si.raise(); }
+            if (poly.isZero()) {
+                return new Const(1);
+            } else {
+                return new Tri(TypeEnum.COS, poly);
+            }
+        }
+        si.raise();
         return null;
+    }
+    
+    private boolean isFactor(String target) {
+        String regex = "^([+-]?\\d+|(x|(sin|cos)\\(.+\\))(\\^[+-]?\\d+)?"
+                + "|\\(.+\\))$";
+        Matcher matcher = Pattern.compile(regex)
+                .matcher(target.replaceAll("[ \\t]", ""));
+        return matcher.matches();
     }
 }
 

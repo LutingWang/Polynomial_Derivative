@@ -17,10 +17,12 @@ public final class Const extends Element implements Comparable<Const> {
         this(BigInteger.valueOf(v));
     }
     
+    @Override
     public boolean isZero() {
         return value.equals(BigInteger.ZERO);
     }
     
+    @Override
     public boolean isOne() {
         return value.equals(BigInteger.ONE);
     }
@@ -37,12 +39,16 @@ public final class Const extends Element implements Comparable<Const> {
         return new Const(value.add(c.value));
     }
     
-    public Const mult(Const c) {
-        return new Const(value.multiply(c.value));
+    public Derivable mult(Derivable derivable) {
+        if (derivable instanceof Const) {
+            return new Const(value.multiply(((Const) derivable).value));
+        } else {
+            return super.mult(derivable);
+        }
     }
     
     @Override
-    public Derivable differenciate() {
+    public Derivable differentiate() {
         return new Factor(new Const(0));
     }
     
@@ -58,10 +64,7 @@ public final class Const extends Element implements Comparable<Const> {
     
     @Override
     public boolean equals(Object obj) {
-        if (super.equals(obj)) {
-            return this.value.equals(((Const) obj).value);
-        }
-        return false;
+        return super.equals(obj) && this.value.equals(((Const) obj).value);
     }
     
     @Override

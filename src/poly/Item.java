@@ -1,34 +1,19 @@
 package poly;
 
-import poly.element.Const;
 import poly.element.Element;
-import poly.element.TypeEnum;
+import poly.element.Const;
 
-import java.util.EnumMap;
+import java.util.ArrayList;
+import java.util.ListIterator;
 
 public class Item implements Comparable<Item>, Derivable {
-    private final EnumMap<TypeEnum, Factor> factorEnumMap
-            = new EnumMap<>(TypeEnum.class);
-    
-    {
-        for (TypeEnum type : TypeEnum.values()) {
-            put(type, new Factor(new Const(1)));
-        }
-    }
-    
-    private Factor put(TypeEnum type, Factor factor) {
-        Factor oldValue = factorEnumMap.get(type);
-        factorEnumMap.put(type, factor);
-        return oldValue;
-    }
-    
-    private Factor get(TypeEnum type) {
-        return factorEnumMap.get(type);
-    }
+    private Factor con = new Factor(new Const(1)); // Const
+    private Factor var = new Factor(new Const(1)); // Var
+    private ArrayList<Factor> tri = new ArrayList<>(); // Tri
     
     public Item(Factor... factors) {
         for (Factor factor : factors) {
-            mult(factor);
+            mult(factor.clone());
         }
     }
     
@@ -37,18 +22,48 @@ public class Item implements Comparable<Item>, Derivable {
     }
     
     private Const getConst() {
-        return get(TypeEnum.CONST).getConst();
+        return con.getConst();
     }
     
-    boolean isZero() {
-        return get(TypeEnum.CONST).isZero();
+    private Const setConst(Const newValue) {
+        Const oldValue = getConst();
+        con = new Factor(newValue);
+        return oldValue;
+    }
+    
+    @Override
+    public boolean isZero() {
+        return con.isZero();
+    }
+    
+    public boolean equivalent(Item item) {
+        if (!var.equals(item.var) || this.tri.size() != item.tri.size()) {
+            return false;
+        }
+        ListIterator<Factor> thisLi = this.tri.listIterator();
+        ListIterator<Factor> itemLi = item.tri.listIterator();
+        while (thisLi.hasNext()) {
+            boolean flag = true;
+            Factor factor = thisLi.next();
+            while (itemLi.hasNext()) {
+                if (factor.equals(itemLi.next())) {
+                    flag = false;
+                    thisLi.remove();
+                    itemLi.remove();
+                    break;
+                }
+            }
+            if (flag) {
+                return false;
+            }
+        }
+        return true;
     }
     
     Item add(Item item) {
         assert equals(item);
         Item item1 = clone();
-        TypeEnum type = TypeEnum.CONST;
-        item1.put(type, new Factor(this.getConst().add(item.getConst())));
+        item1.setConst(item1.getConst().add(item.getConst()));
         return item1;
     }
     
@@ -57,13 +72,39 @@ public class Item implements Comparable<Item>, Derivable {
     }
     
     private Item mult(Factor factor) {
-        TypeEnum type = factor.getType();
-        put(type, get(type).mult(factor));
+        switch (factor.getType()) {
+            case CONST:
+                con = con.mult(factor);
+                break;
+            case VAR:
+                var = var.mult(factor);
+                break;
+            case SIN:
+            case COS:
+                ListIterator<Factor> li = tri.listIterator();
+                boolean flag = true;
+                while (li.hasNext()) {
+                    Factor tri = li.next();
+                    if (factor.equivalent(tri)) {
+                        li.set(factor.mult(tri));
+                        flag = false;
+                        break;
+                    }
+                }
+                if (flag) {
+                    tri.add(factor);
+                }
+                break;
+            default:
+                break;
+        }
         return this;
     }
     
     private Item mult(Item item) {
-        for (Factor factor : item.factorEnumMap.values()) {
+        con = con.mult(item.con);
+        var = var.mult(item.var);
+        for (Factor factor : item.tri) {
             mult(factor);
         }
         return this;
@@ -87,12 +128,18 @@ public class Item implements Comparable<Item>, Derivable {
     }
     
     @Override
-    public Poly differenciate() {
+    public Poly differentiate() {
         Poly poly = new Poly();
-        for (TypeEnum type : TypeEnum.values()) {
-            Item item = clone();
-            Factor factor = item.put(type, new Factor(new Const(1)));
-            poly = poly.add(item.mult(factor.differenciate()));
+        // differentiate power fun
+        Item item = clone();
+        Factor factor = item.var;
+        item.var = new Factor(new Const(1));
+        poly = poly.add(item.mult(factor.differentiate()));
+        // differentiate trigonometry fun
+        for (int i = 0; i < tri.size(); i++) {
+            item = clone();
+            factor = item.tri.remove(i);
+            poly = poly.add(item.mult(factor.differentiate()));
         }
         return poly;
     }
@@ -104,52 +151,40 @@ public class Item implements Comparable<Item>, Derivable {
     
     @Override
     public Item clone() {
-        Item item = new Item();
-        for (Factor factor : factorEnumMap.values()) {
-            item.mult(factor);
-        }
+        Item item = new Item(tri.toArray(new Factor[0]));
+        item.con = con.clone();
+        item.var = var.clone();
         return item;
     }
     
     @Override
     public boolean equals(Object obj) {
-        if (!(obj instanceof Derivable)) {
-            throw new ClassCastException();
-        }
-        if (!(obj instanceof Item)) {
+        if (!(Derivable.isInstance(obj, this.getClass()))) {
             return false;
         }
         Item item = (Item) obj;
-        for (TypeEnum type : TypeEnum.values()) {
-            if (type == TypeEnum.CONST) {
-                continue;
-            }
-            if (!this.get(type).equals(item.get(type))) {
-                return false;
-            }
-        }
-        return true;
+        return con.equals(item.con) && equivalent(item);
     }
     
     @Override
     public String toString() {
         StringBuilder temp = new StringBuilder();
         if (isConst()) {
-            temp.append(get(TypeEnum.CONST).toString());
-            if (getConst().abs().isOne()) {
+            temp.append(con.toString());
+            if (con.absIsOne()) {
                 temp.append(1);
             }
             return temp.toString();
         }
-        for (TypeEnum type : TypeEnum.values()) {
-            Factor factor = get(type);
-            if (factor.isOne() && type != TypeEnum.CONST) {
-                continue;
-            }
-            temp.append(factor);
-            if (!factor.absIsOne()) {
-                temp.append("*");
-            }
+        temp.append(con);
+        if (!con.absIsOne()) {
+            temp.append("*");
+        }
+        if (!var.isOne()) {
+            temp.append(var).append("*");
+        }
+        for (Factor factor : tri) {
+            temp.append(factor).append("*");
         }
         return temp.substring(0, temp.length() - 1);
     }

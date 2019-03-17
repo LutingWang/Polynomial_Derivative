@@ -1,6 +1,7 @@
 package poly.element;
 
 import poly.Derivable;
+import poly.Factor;
 
 import java.util.EnumMap;
 import java.util.Map;
@@ -25,14 +26,18 @@ public abstract class Element implements Derivable {
         return type;
     }
     
-    public boolean isSin() {
-        assert this instanceof Tri;
-        return type == TypeEnum.SIN;
+    @Override
+    public boolean isZero() {
+        return false;
     }
     
-    public boolean isCos() {
-        assert this instanceof Tri;
-        return type == TypeEnum.COS;
+    public boolean isOne() {
+        return false;
+    }
+    
+    @Override
+    public Derivable mult(Derivable derivable) {
+        return new Factor(this).mult(derivable);
     }
     
     @Override
@@ -40,10 +45,7 @@ public abstract class Element implements Derivable {
     
     @Override
     public boolean equals(Object obj) {
-        if (!(obj instanceof Derivable)) {
-            throw new ClassCastException();
-        }
-        return obj instanceof Element
+        return Derivable.isInstance(obj, this.getClass())
                 && this.type == ((Element) obj).type;
     }
     

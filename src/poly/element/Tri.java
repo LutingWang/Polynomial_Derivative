@@ -1,31 +1,30 @@
 package poly.element;
 
-import poly.Derivable;
 import poly.Factor;
 import poly.Item;
 import poly.Poly;
 
 public class Tri extends Element {
-    private final Poly poly;
+    private final Poly poly; // poly is never zero
     
     public Tri(TypeEnum t, Poly poly) {
         super(t);
         assert t == TypeEnum.SIN || t == TypeEnum.COS;
-        this.poly = poly;
+        this.poly = poly.clone();
     }
     
     @Override
-    public Poly differenciate() {
+    public Poly differentiate() {
         switch (getType()) {
             case SIN:
                 return (Poly) new Item(
                         new Factor(new Tri(TypeEnum.COS, poly))
-                ).mult(poly.differenciate());
+                ).mult(poly.differentiate());
             case COS:
                 return (Poly) new Item(
                         new Factor(new Const(-1)),
                         new Factor(new Tri(TypeEnum.SIN, poly))
-                ).mult(poly.differenciate());
+                ).mult(poly.differentiate());
             default:
                 throw new RuntimeException();
         }
@@ -33,7 +32,12 @@ public class Tri extends Element {
     
     @Override
     public Tri clone() {
-        return new Tri(getType(), poly.clone());
+        return new Tri(getType(), poly);
+    }
+    
+    @Override
+    public boolean equals(Object obj) {
+        return super.equals(obj) && poly.equals(((Tri) obj).poly);
     }
     
     @Override
