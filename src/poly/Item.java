@@ -4,9 +4,11 @@ import poly.element.Element;
 import poly.element.Const;
 
 import java.util.ArrayList;
+import java.util.HashSet;
+import java.util.Iterator;
 import java.util.ListIterator;
 
-public class Item implements Comparable<Item>, Derivable {
+public class Item implements Comparable<Item>, Iterable<Factor>, Derivable {
     private Factor con = new Factor(new Const(1)); // Const
     private Factor var = new Factor(new Const(1)); // Var
     private ArrayList<Factor> tri = new ArrayList<>(); // Tri
@@ -17,8 +19,12 @@ public class Item implements Comparable<Item>, Derivable {
         }
     }
     
+    public boolean isFactor() {
+        return hashCode() <= 1;
+    }
+    
     private boolean isConst() {
-        return equals(new Item());
+        return var.equals(new Factor(new Const(1))) && tri.size() == 0;
     }
     
     private Const getConst() {
@@ -37,27 +43,16 @@ public class Item implements Comparable<Item>, Derivable {
     }
     
     public boolean equivalent(Item item) {
-        if (!var.equals(item.var) || this.tri.size() != item.tri.size()) {
+        if (!var.equals(item.var)) {
             return false;
         }
-        ListIterator<Factor> thisLi = this.tri.listIterator();
-        ListIterator<Factor> itemLi = item.tri.listIterator();
-        while (thisLi.hasNext()) {
-            boolean flag = true;
-            Factor factor = thisLi.next();
-            while (itemLi.hasNext()) {
-                if (factor.equals(itemLi.next())) {
-                    flag = false;
-                    thisLi.remove();
-                    itemLi.remove();
-                    break;
-                }
-            }
-            if (flag) {
-                return false;
-            }
-        }
-        return true;
+        HashSet<Factor> hashSet = new HashSet<>(item.tri);
+        return hashSet.equals(new HashSet<>(tri));
+    }
+    
+    public boolean containsFactor(Factor factor) {
+        return tri.indexOf(factor) != -1
+                || con.equals(factor) || var.equals(factor);
     }
     
     Item add(Item item) {
@@ -127,6 +122,25 @@ public class Item implements Comparable<Item>, Derivable {
         throw new ClassCastException();
     }
     
+    public void devide(Factor factor) {
+        assert containsFactor(factor);
+        if (con.equals(factor)) {
+            con = new Factor(new Const(1));
+        } else if (var.equals(factor)) {
+            var = new Factor(new Const(1));
+        } else {
+            tri.remove(factor);
+        }
+    }
+    
+    @Override
+    public Iterator<Factor> iterator() {
+        ArrayList<Factor> arrayList = new ArrayList<>(tri);
+        arrayList.add(0,var);
+        arrayList.add(0,con);
+        return arrayList.iterator();
+    }
+    
     @Override
     public Poly differentiate() {
         Poly poly = new Poly();
@@ -164,6 +178,19 @@ public class Item implements Comparable<Item>, Derivable {
         }
         Item item = (Item) obj;
         return con.equals(item.con) && equivalent(item);
+    }
+    
+    @Override
+    public int hashCode() {
+        int fcount = 0;
+        if (!con.isOne()) {
+            fcount++;
+        }
+        if (!var.isOne()) {
+            fcount++;
+        }
+        fcount += tri.size();
+        return fcount;
     }
     
     @Override

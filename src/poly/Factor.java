@@ -109,6 +109,11 @@ public class Factor implements Derivable, Comparable<Factor> {
     }
     
     @Override
+    public int hashCode() {
+        return element.hashCode();
+    }
+    
+    @Override
     public String toString() {
         String temp = element.toString();
         if (!exp.equals(BigInteger.ONE)) {

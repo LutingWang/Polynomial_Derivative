@@ -16,7 +16,6 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 // TODO: Checkstyle
-// TODO: add eval method
 public class PolyBuild {
     
     private static final String LEGEL = " \t0123456789cinosx+-*^()";
@@ -144,11 +143,14 @@ public class PolyBuild {
                     throw new IllegalArgumentException("Illegal character.");
                 }
             }
-            PolyBuild pb = new PolyBuild(s);
-            System.out.println(pb.parsePoly()
-                    .differentiate()
-                    .sort()
-            );
+            Poly poly = new PolyBuild(s).parsePoly().differentiate();
+            String print = poly.print();
+            if (!poly.equals(new PolyBuild(print).parsePoly())) {
+                System.out.println(poly);
+                System.out.println("Simplification Error!"); // TODO: comment
+            } else {
+                System.out.println(print);
+            }
         } catch (IllegalArgumentException e) {
             System.out.println(ERROR);
         } catch (Exception e) {
@@ -157,7 +159,7 @@ public class PolyBuild {
         }
     }
     
-    private Poly parsePoly() {
+    public Poly parsePoly() {
         while (status != Se.END) {
             status = Se.ITEM_START;
             poly = poly.add(parseItem(si.next() == '-'));
@@ -168,7 +170,7 @@ public class PolyBuild {
     private Poly parseItem(boolean neg) {
         Item item = new Item();
         if (neg) {
-            item.mult(new Factor(new Const(-1)));
+            item = (Item) item.mult(new Factor(new Const(-1)));
         }
         Poly poly = new Poly().add(new Item(new Factor(new Const(1))));
         boolean firstFactor = true;

@@ -10,7 +10,7 @@ public class Tri extends Element {
     public Tri(TypeEnum t, Poly poly) {
         super(t);
         assert t == TypeEnum.SIN || t == TypeEnum.COS;
-        this.poly = poly.clone();
+        this.poly = poly.clone().setSub();
     }
     
     @Override
