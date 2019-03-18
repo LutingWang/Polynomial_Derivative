@@ -147,15 +147,15 @@ public class PolyBuild {
             String print = poly.print();
             if (!poly.equals(new PolyBuild(print).parsePoly())) {
                 System.out.println(poly);
-                System.out.println("Simplification Error!"); // TODO: comment
+                // System.out.println("Simplification Error!");
             } else {
                 System.out.println(print);
             }
         } catch (IllegalArgumentException e) {
             System.out.println(ERROR);
         } catch (Exception e) {
-            throw e;
-            //System.out.println(ERROR);
+            //throw e;
+            System.out.println(ERROR);
         }
     }
     
