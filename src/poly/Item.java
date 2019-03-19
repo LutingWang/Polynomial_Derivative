@@ -123,7 +123,7 @@ public class Item implements Comparable<Item>, Iterable<Factor>, Derivable {
     
     private Item mult(Poly poly) {
         if (poly.isItem()) {
-            return mult(poly.expression.get(0));
+            return mult(poly.getExpression().get(0));
         }
         polies.add(poly.setSub());
         return this;

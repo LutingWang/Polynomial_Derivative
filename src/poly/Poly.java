@@ -1,7 +1,5 @@
 package poly;
 
-import oracle.jrockit.jfr.jdkevents.ThrowableTracer;
-
 import java.util.Collections;
 import java.util.ArrayList;
 import java.util.LinkedList;
@@ -9,7 +7,7 @@ import java.util.HashSet;
 import java.util.ListIterator;
 
 public class Poly implements Derivable {
-    LinkedList<Item> expression = new LinkedList<>();
+    private LinkedList<Item> expression = new LinkedList<>();
     private boolean sub = false;
     
     public Poly(Item... items) {
@@ -22,6 +20,10 @@ public class Poly implements Derivable {
         for (Item item : items) {
             add(item.clone());
         }
+    }
+    
+    public LinkedList<Item> getExpression() {
+        return expression;
     }
     
     public Poly setSub() {
