@@ -179,7 +179,7 @@ public class Item implements Comparable<Item>, Iterable<Factor>, Derivable {
         item.var = new Factor(new Const(1));
         poly = poly.add(item.mult(factor.differentiate()));
         // differentiate trigonometry fun
-        for (int i = 0; i < item.tri.size(); i++) {
+        for (int i = 0; i < tri.size(); i++) {
             item = clone();
             factor = item.tri.remove(i);
             poly = poly.add(item.mult(factor.differentiate()));
