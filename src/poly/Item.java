@@ -94,7 +94,12 @@ public class Item implements Comparable<Item>, Iterable<Factor>, Derivable {
                 while (li.hasNext()) {
                     Factor tri = li.next();
                     if (factor.equivalent(tri)) {
-                        li.set(factor.mult(tri));
+                        Factor newFactor = factor.mult(tri);
+                        if (newFactor.isOne()) {
+                            li.remove();
+                        } else {
+                            li.set(newFactor);
+                        }
                         flag = false;
                         break;
                     }
@@ -174,7 +179,7 @@ public class Item implements Comparable<Item>, Iterable<Factor>, Derivable {
         item.var = new Factor(new Const(1));
         poly = poly.add(item.mult(factor.differentiate()));
         // differentiate trigonometry fun
-        for (int i = 0; i < tri.size(); i++) {
+        for (int i = 0; i < item.tri.size(); i++) {
             item = clone();
             factor = item.tri.remove(i);
             poly = poly.add(item.mult(factor.differentiate()));
