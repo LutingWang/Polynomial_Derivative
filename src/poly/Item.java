@@ -12,6 +12,7 @@ public class Item implements Comparable<Item>, Iterable<Factor>, Derivable {
     private Factor con = new Factor(new Const(1)); // Const
     private Factor var = new Factor(new Const(1)); // Var
     private ArrayList<Factor> tri = new ArrayList<>(); // Tri
+    private ArrayList<Poly> polies = new ArrayList<>(); // poly
     
     public Item(Factor... factors) {
         for (Factor factor : factors) {
@@ -19,12 +20,27 @@ public class Item implements Comparable<Item>, Iterable<Factor>, Derivable {
         }
     }
     
+    @Override
+    public boolean isZero() {
+        boolean flag = false;
+        for (Poly poly : polies) {
+            flag = flag || poly.isZero();
+        }
+        return con.isZero() || flag;
+    }
+    
+    public boolean isOne() {
+        return hashCode() == 0;
+    }
+    
     public boolean isFactor() {
         return hashCode() <= 1;
     }
     
     private boolean isConst() {
-        return var.equals(new Factor(new Const(1))) && tri.size() == 0;
+        return var.equals(new Factor(new Const(1)))
+                && tri.size() == 0
+                && polies.size() == 0;
     }
     
     private Const getConst() {
@@ -37,17 +53,14 @@ public class Item implements Comparable<Item>, Iterable<Factor>, Derivable {
         return oldValue;
     }
     
-    @Override
-    public boolean isZero() {
-        return con.isZero();
-    }
-    
     public boolean equivalent(Item item) {
         if (!var.equals(item.var)) {
             return false;
         }
-        HashSet<Factor> hashSet = new HashSet<>(item.tri);
-        return hashSet.equals(new HashSet<>(tri));
+        HashSet<Factor> factorHashSet = new HashSet<>(item.tri);
+        HashSet<Poly> polyHashSet = new HashSet<>(item.polies);
+        return factorHashSet.equals(new HashSet<>(tri))
+                && polyHashSet.equals(new HashSet<>(polies));
     }
     
     public boolean containsFactor(Factor factor) {
@@ -102,6 +115,17 @@ public class Item implements Comparable<Item>, Iterable<Factor>, Derivable {
         for (Factor factor : item.tri) {
             mult(factor);
         }
+        for (Poly poly : item.polies) {
+            mult(poly);
+        }
+        return this;
+    }
+    
+    private Item mult(Poly poly) {
+        if (poly.isItem()) {
+            return mult(poly.expression.get(0));
+        }
+        polies.add(poly.setSub());
         return this;
     }
     
@@ -117,7 +141,7 @@ public class Item implements Comparable<Item>, Iterable<Factor>, Derivable {
             return item.mult((Item) obj);
         }
         if (obj instanceof Poly) {
-            return ((Poly) obj).mult(this);
+            return item.mult((Poly) obj);
         }
         throw new ClassCastException();
     }
@@ -168,6 +192,10 @@ public class Item implements Comparable<Item>, Iterable<Factor>, Derivable {
         Item item = new Item(tri.toArray(new Factor[0]));
         item.con = con.clone();
         item.var = var.clone();
+        item.polies = new ArrayList<>();
+        for (Poly poly : polies) {
+            item.polies.add(poly.clone());
+        }
         return item;
     }
     
@@ -190,6 +218,7 @@ public class Item implements Comparable<Item>, Iterable<Factor>, Derivable {
             fcount++;
         }
         fcount += tri.size();
+        fcount += polies.size();
         return fcount;
     }
     
@@ -212,6 +241,12 @@ public class Item implements Comparable<Item>, Iterable<Factor>, Derivable {
         }
         for (Factor factor : tri) {
             temp.append(factor).append("*");
+        }
+        for (Poly poly : polies) {
+            if (poly.isOne()) {
+                continue;
+            }
+            temp.append(poly.print()).append("*");
         }
         return temp.substring(0, temp.length() - 1);
     }

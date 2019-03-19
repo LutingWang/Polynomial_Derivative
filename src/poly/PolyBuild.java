@@ -1,8 +1,5 @@
-import poly.Derivable;
-import poly.Se;
-import poly.Poly;
-import poly.Item;
-import poly.Factor;
+package poly;
+
 import poly.element.TypeEnum;
 import poly.element.Element;
 import poly.element.Const;
@@ -144,13 +141,7 @@ public class PolyBuild {
                 }
             }
             Poly poly = new PolyBuild(s).parsePoly().differentiate();
-            String print = poly.print();
-            if (!poly.equals(new PolyBuild(print).parsePoly())) {
-                System.out.println(poly);
-                // System.out.println("Simplification Error!");
-            } else {
-                System.out.println(print);
-            }
+            System.out.println(poly.print());
         } catch (IllegalArgumentException e) {
             System.out.println(ERROR);
         } catch (Exception e) {

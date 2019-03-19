@@ -1,5 +1,7 @@
 package poly;
 
+import oracle.jrockit.jfr.jdkevents.ThrowableTracer;
+
 import java.util.Collections;
 import java.util.ArrayList;
 import java.util.LinkedList;
@@ -7,7 +9,7 @@ import java.util.HashSet;
 import java.util.ListIterator;
 
 public class Poly implements Derivable {
-    private LinkedList<Item> expression = new LinkedList<>();
+    LinkedList<Item> expression = new LinkedList<>();
     private boolean sub = false;
     
     public Poly(Item... items) {
@@ -27,8 +29,21 @@ public class Poly implements Derivable {
         return this;
     }
     
+    public Poly unSetSub() {
+        sub = false;
+        return this;
+    }
+    
+    public boolean isOne() {
+        return isItem() && expression.get(0).isOne();
+    }
+    
     public boolean isFactor() {
-        return expression.size() == 1 && expression.get(0).isFactor();
+        return isItem() && expression.get(0).isFactor();
+    }
+    
+    public boolean isItem() {
+        return expression.size() == 1;
     }
     
     public Poly sort() {
@@ -78,12 +93,23 @@ public class Poly implements Derivable {
                 if ('+' == toPrint.charAt(0)) {
                     toPrint.deleteCharAt(0);
                 }
-                return toPrint.toString();
             } else {
-                return poly + toPrint.toString();
+                if (toPrint.length() == 0) {
+                    poly.unSetSub();
+                }
+                toPrint.insert(0, poly);
+            }
+            if (sub && !isFactor()) {
+                toPrint.insert(0, '(');
+                toPrint.append(')');
+            }
+            if (!equals(new PolyBuild(toPrint.toString()).parsePoly())) {
+                return toString();
+            } else {
+                return toPrint.toString();
             }
         } catch (Throwable t) {
-            return poly.toString();
+            return toString();
         }
     }
     
@@ -222,7 +248,7 @@ public class Poly implements Derivable {
         if ('+' == s.charAt(0)) {
             s.deleteCharAt(0);
         }
-        if (sub && !isFactor()) {
+        if (sub && !isItem()) {
             s.insert(0, "(").append(")");
         }
         return s.toString();
