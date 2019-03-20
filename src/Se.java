@@ -1,5 +1,3 @@
-package poly;
-
 public enum Se { // StatusEnum
     START, END,
     ITEM_START, ITEM_LAYER, ITEM_END,

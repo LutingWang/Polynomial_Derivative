@@ -37,7 +37,7 @@ public class Factor implements Derivable, Comparable<Factor> {
         this(element, BigInteger.ONE);
     }
     
-    public Factor(int num) {
+    Factor(int num) {
         this(new Const(num));
     }
     
@@ -75,7 +75,7 @@ public class Factor implements Derivable, Comparable<Factor> {
      * @param factor The factor to be multiplied with this instance
      * @return if this two factors can be multiplied
      */
-    public boolean equivalent(Factor factor) {
+    boolean equivalent(Factor factor) {
         return this.isOne() || factor.isOne() || element.equals(factor.element);
     }
     

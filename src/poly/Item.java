@@ -3,7 +3,12 @@ package poly;
 import poly.element.Element;
 import poly.element.Const;
 
-import java.util.*;
+import java.util.AbstractCollection;
+import java.util.ArrayList;
+import java.util.LinkedList;
+import java.util.HashSet;
+import java.util.Iterator;
+import java.util.Optional;
 
 public class Item extends AbstractCollection<Derivable>
         implements Comparable<Item>, Derivable {
@@ -61,7 +66,7 @@ public class Item extends AbstractCollection<Derivable>
         return this;
     }
     
-    public boolean isFactor() {
+    boolean isFactor() {
         return size() <= 1;
     }
     
@@ -70,13 +75,13 @@ public class Item extends AbstractCollection<Derivable>
      * @param item The other item to be added
      * @return If the two items can be added
      */
-    public boolean equivalent(Item item) {
+    boolean equivalent(Item item) {
         return item.var.equals(var)
                 && item.tri.equals(tri)
                 && item.polies.equals(polies);
     }
     
-    public boolean contains(Derivable derivable) {
+    boolean contains(Derivable derivable) {
         return polies.contains(derivable)
                 || tri.contains(derivable)
                 || con.equals(derivable)
@@ -175,7 +180,7 @@ public class Item extends AbstractCollection<Derivable>
         throw new ClassCastException();
     }
     
-    public Item devide(Derivable derivable) {
+    Item devide(Derivable derivable) {
         Item item = clone();
         if (con.equals(derivable)) {
             item.con = new Factor(1);
@@ -195,7 +200,9 @@ public class Item extends AbstractCollection<Derivable>
     public Poly differentiate() {
         Poly poly = new Poly();
         for (Derivable derivable : this) {
-            poly = poly.add(clone().devide(derivable).mult(derivable.differentiate()));
+            poly = poly.add(clone()
+                    .devide(derivable)
+                    .mult(derivable.differentiate()));
         }
         return poly;
     }

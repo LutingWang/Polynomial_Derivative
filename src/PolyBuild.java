@@ -1,5 +1,7 @@
-package poly;
-
+import poly.Derivable;
+import poly.Poly;
+import poly.Item;
+import poly.Factor;
 import poly.element.TypeEnum;
 import poly.element.Element;
 import poly.element.Const;
@@ -68,7 +70,7 @@ public class PolyBuild {
             return ind < sb.length();
         }
         
-        public boolean hasNextLayer() {
+        boolean hasNextLayer() {
             return hasNext() && nextIn("(");
         }
         
@@ -121,7 +123,7 @@ public class PolyBuild {
     
     private Poly poly = new Poly();
     
-    PolyBuild(String s) {
+    public PolyBuild(String s) {
         String string = s.trim();
         if (string.isEmpty()) {
             throw new IllegalArgumentException("Empty");
@@ -142,15 +144,12 @@ public class PolyBuild {
             }
             Poly poly = new PolyBuild(s).parsePoly().differentiate();
             System.out.println(poly);
-        } catch (IllegalArgumentException e) {
+        } catch (Exception e) { // IllegalArgumentException is expected
             System.out.println(ERROR);
-        } catch (Exception e) {
-            throw e;
-            //System.out.println(ERROR);
         }
     }
     
-    public Poly parsePoly() {
+    private Poly parsePoly() {
         while (status != Se.END) {
             status = Se.ITEM_START;
             poly = poly.add(parseItem(si.next() == '-'));

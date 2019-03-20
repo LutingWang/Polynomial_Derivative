@@ -1,6 +1,9 @@
 package poly;
 
-import java.util.*;
+import java.util.AbstractCollection;
+import java.util.LinkedList;
+import java.util.TreeSet;
+import java.util.Optional;
 
 public class Poly implements Derivable {
     private TreeSet<Item> expression = new TreeSet<>(Item::compareTo);
@@ -12,7 +15,7 @@ public class Poly implements Derivable {
         }
     }
     
-    public Poly(AbstractCollection<Item> items) {
+    private Poly(AbstractCollection<Item> items) {
         for (Item item : items) {
             add(item.clone());
         }
@@ -45,11 +48,11 @@ public class Poly implements Derivable {
         return isItem() && firstItem().get().isFactor();
     }
     
-    public boolean isItem() {
+    boolean isItem() {
         return expression.size() == 1;
     }
     
-    public Item toItem() {
+    Item toItem() {
         assert isItem();
         return firstItem().get();
     }
@@ -121,7 +124,7 @@ public class Poly implements Derivable {
         throw new ClassCastException();
     }
     
-    public Poly devide(Derivable derivable) {
+    Poly devide(Derivable derivable) {
         LinkedList<Item> linkedList = new LinkedList<>();
         for (Item item : expression) {
             linkedList.add(item.devide(derivable));
@@ -129,7 +132,7 @@ public class Poly implements Derivable {
         return new Poly(linkedList);
     }
     
-    public LinkedList<Derivable> commonFactors() {
+    LinkedList<Derivable> commonFactors() {
         LinkedList<Derivable> result = new LinkedList<>();
         for (Derivable derivable : firstItem().get()) {
             if (expression.stream()
@@ -189,83 +192,4 @@ public class Poly implements Derivable {
         }
         return s.toString();
     }
-    /*
-    public String print() {
-        StringBuilder toPrint = new StringBuilder();
-        Poly poly = sort();
-        try {
-            for (int i = 0; i < poly.expression.size(); i++) {
-                ArrayList<Item> sub = new ArrayList<>();
-                sub.add(poly.expression.get(i).clone());
-                Factor common = null;
-                for (int j = i + 1; j < poly.expression.size(); j++) {
-                    if (common == null) {
-                        sub.add(poly.expression.get(j).clone());
-                        Factor temp = commonFactor(sub);
-                        if (temp == null) {
-                            sub.remove(1);
-                        } else {
-                            common = temp;
-                            poly.expression.remove(i--);
-                            poly.expression.remove(--j);
-                            j--; // removed two items
-                        }
-                    } else if (poly.expression.get(j).containsFactor(common)) {
-                        sub.add(poly.expression.remove(j--).clone());
-                    }
-                }
-                if (common != null) {
-                    Item item = new Item();
-                    for (; common != null; common = commonFactor(sub)) {
-                        item = (Item) item.mult(common);
-                        for (Item item1 : sub) {
-                            item1.devide(common);
-                        }
-                    }
-                    toPrint.append(item).append("*")
-                            .append(new Poly(sub).setSub().print());
-                }
-            }
-            if (poly.isZero()) {
-                if ('+' == toPrint.charAt(0)) {
-                    toPrint.deleteCharAt(0);
-                }
-            } else {
-                if (toPrint.length() == 0) {
-                    poly.unSetSub();
-                }
-                toPrint.insert(0, poly);
-            }
-            if (sub && !isFactor()) {
-                toPrint.insert(0, '(');
-                toPrint.append(')');
-            }
-            if (!equals(new PolyBuild(toPrint.toString()).parsePoly())) {
-                return toString();
-            } else {
-                return toPrint.toString();
-            }
-        } catch (Throwable t) {
-            return toString();
-        }
-    }
-    
-    private static Factor commonFactor(ArrayList<Item> expression) {
-        if (expression.size() <= 1) {
-            return null;
-        }
-        for (Factor factor : expression.get(0)) {
-            if (factor.isOne()) {
-                continue;
-            }
-            int i;
-            for (i = 1; i < expression.size()
-                    && expression.get(i).containsFactor(factor); i++) {}
-            if (i == expression.size()) {
-                return factor;
-            }
-        }
-        return null;
-    }
-    */
 }
