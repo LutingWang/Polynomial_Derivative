@@ -1,10 +1,13 @@
 package poly.element;
 
 import poly.Derivable;
-import poly.Factor;
 
 import java.math.BigInteger;
 
+/**
+ * Encapsulates java {@code BigInteger} in order to provide convenient access
+ * to other classes.
+ */
 public final class Const extends Element implements Comparable<Const> {
     private final BigInteger value;
     
@@ -39,6 +42,7 @@ public final class Const extends Element implements Comparable<Const> {
         return new Const(value.add(c.value));
     }
     
+    @Override
     public Derivable mult(Derivable derivable) {
         if (derivable instanceof Const) {
             return new Const(value.multiply(((Const) derivable).value));
@@ -49,7 +53,7 @@ public final class Const extends Element implements Comparable<Const> {
     
     @Override
     public Derivable differentiate() {
-        return new Factor(new Const(0));
+        return new Const(0);
     }
     
     @Override

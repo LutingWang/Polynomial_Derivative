@@ -1,12 +1,19 @@
 package poly.element;
 
-import poly.Factor;
+import poly.Derivable;
 import poly.Item;
 import poly.Poly;
 
 public class Tri extends Element {
     private final Poly poly; // poly is never zero
     
+    /**
+     * Constructs an instance with specified type and nesting poly.
+     * For the reason that poly is a mutable class, it is automatically
+     * cloned with in the constructor.
+     * @param t Type of this instance, e.g. SIN
+     * @param poly Nesting poly
+     */
     public Tri(TypeEnum t, Poly poly) {
         super(t);
         assert t == TypeEnum.SIN || t == TypeEnum.COS;
@@ -14,17 +21,22 @@ public class Tri extends Element {
     }
     
     @Override
-    public Item differentiate() {
+    public boolean isZero() {
+        return getType() == TypeEnum.SIN && poly.isZero();
+    }
+    
+    @Override
+    public Derivable differentiate() {
         switch (getType()) {
             case SIN:
-                return (Item) new Item(
-                        new Factor(new Tri(TypeEnum.COS, poly))
-                ).mult(poly.differentiate());
+                return new Item(
+                        new Tri(TypeEnum.COS, poly),
+                        poly.differentiate());
             case COS:
-                return (Item) new Item(
-                        new Factor(new Const(-1)),
-                        new Factor(new Tri(TypeEnum.SIN, poly))
-                ).mult(poly.differentiate());
+                return new Item(
+                        new Const(-1),
+                        new Tri(TypeEnum.SIN, poly),
+                        poly.differentiate());
             default:
                 throw new RuntimeException();
         }
@@ -41,7 +53,7 @@ public class Tri extends Element {
     }
     
     @Override
-    public String toString() {
+    public String toString() { // TODO: modify print
         String temp = "";
         switch (getType()) {
             case SIN:

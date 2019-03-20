@@ -1,7 +1,6 @@
 package poly.element;
 
 import poly.Derivable;
-import poly.Factor;
 
 public final class Var extends Element {
     
@@ -11,7 +10,7 @@ public final class Var extends Element {
     
     @Override
     public Derivable differentiate() {
-        return new Factor(new Const(1));
+        return new Const(1);
     }
     
     @Override

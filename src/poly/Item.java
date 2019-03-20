@@ -9,38 +9,33 @@ import java.util.Iterator;
 import java.util.ListIterator;
 
 public class Item implements Comparable<Item>, Iterable<Factor>, Derivable {
-    private Factor con = new Factor(new Const(1)); // Const
-    private Factor var = new Factor(new Const(1)); // Var
+    private Factor con = new Factor(1); // Const
+    private Factor var = new Factor(1); // Var
     private ArrayList<Factor> tri = new ArrayList<>(); // Tri
     private ArrayList<Poly> polies = new ArrayList<>(); // poly
     
-    public Item(Factor... factors) {
-        for (Factor factor : factors) {
-            mult(factor.clone());
+    public Item(Derivable... derivables) {
+        for (Derivable derivable : derivables) {
+            mult(derivable.clone());
         }
     }
     
     @Override
     public boolean isZero() {
-        boolean flag = false;
+        boolean flag = con.isZero();
         for (Poly poly : polies) {
             flag = flag || poly.isZero();
         }
-        return con.isZero() || flag;
+        return flag;
     }
     
+    @Override
     public boolean isOne() {
         return hashCode() == 0;
     }
     
-    public boolean isFactor() {
-        return hashCode() <= 1;
-    }
-    
     private boolean isConst() {
-        return var.equals(new Factor(new Const(1)))
-                && tri.size() == 0
-                && polies.size() == 0;
+        return var.isOne() && tri.size() == 0 && polies.size() == 0;
     }
     
     private Const getConst() {
@@ -53,6 +48,15 @@ public class Item implements Comparable<Item>, Iterable<Factor>, Derivable {
         return oldValue;
     }
     
+    public boolean isFactor() {
+        return hashCode() <= 1;
+    }
+    
+    /**
+     * The two items can be added.
+     * @param item The other item to be added
+     * @return If the two items can be added
+     */
     public boolean equivalent(Item item) {
         if (!var.equals(item.var)) {
             return false;
@@ -63,6 +67,7 @@ public class Item implements Comparable<Item>, Iterable<Factor>, Derivable {
                 && polyHashSet.equals(new HashSet<>(polies));
     }
     
+    // TODO: add poly common factor
     public boolean containsFactor(Factor factor) {
         return tri.indexOf(factor) != -1
                 || con.equals(factor) || var.equals(factor);
@@ -88,7 +93,7 @@ public class Item implements Comparable<Item>, Iterable<Factor>, Derivable {
                 var = var.mult(factor);
                 break;
             case SIN:
-            case COS:
+            case COS: // TODO: change to functional
                 ListIterator<Factor> li = tri.listIterator();
                 boolean flag = true;
                 while (li.hasNext()) {
@@ -126,7 +131,7 @@ public class Item implements Comparable<Item>, Iterable<Factor>, Derivable {
         return this;
     }
     
-    private Item mult(Poly poly) {
+    private Item mult(Poly poly) { // TODO: revise
         if (poly.isItem()) {
             return mult(poly.getExpression().get(0));
         }
@@ -151,19 +156,21 @@ public class Item implements Comparable<Item>, Iterable<Factor>, Derivable {
         throw new ClassCastException();
     }
     
-    public void devide(Factor factor) {
+    public Item devide(Factor factor) { // TODO: add poly common factor
         assert containsFactor(factor);
+        Item item = clone();
         if (con.equals(factor)) {
-            con = new Factor(new Const(1));
+            item.con = new Factor(1);
         } else if (var.equals(factor)) {
-            var = new Factor(new Const(1));
+            item.var = new Factor(1);
         } else {
-            tri.remove(factor);
+            item.tri.remove(factor);
         }
+        return item;
     }
     
     @Override
-    public Iterator<Factor> iterator() {
+    public Iterator<Factor> iterator() { // TODO: revise
         ArrayList<Factor> arrayList = new ArrayList<>(tri);
         arrayList.add(0,var);
         arrayList.add(0,con);
@@ -176,7 +183,7 @@ public class Item implements Comparable<Item>, Iterable<Factor>, Derivable {
         // differentiate power fun
         Item item = clone();
         Factor factor = item.var;
-        item.var = new Factor(new Const(1));
+        item.var = new Factor(1);
         poly = poly.add(item.mult(factor.differentiate()));
         // differentiate trigonometry fun
         for (int i = 0; i < tri.size(); i++) {

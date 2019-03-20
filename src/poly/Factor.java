@@ -7,7 +7,10 @@ import poly.element.TypeEnum;
 import java.math.BigInteger;
 
 public class Factor implements Derivable, Comparable<Factor> {
-    private static final BigInteger EXP_UPPER_BOUND =
+    /**
+     * No exponent should exceed this value.
+     */
+    public static final BigInteger EXP_UPPER_BOUND =
             new BigInteger("10000");
     
     private final BigInteger exp; // never zero
@@ -18,7 +21,12 @@ public class Factor implements Derivable, Comparable<Factor> {
             this.element = new Const(1);
             this.exp = BigInteger.ONE;
         } else if (exp.abs().compareTo(EXP_UPPER_BOUND) <= 0) {
-            this.element = element.clone();
+            // check sin(0)
+            if (element.isZero() && element.getType() != TypeEnum.CONST) {
+                this.element = new Const(0);
+            } else {
+                this.element = element.clone();
+            }
             this.exp = exp;
         } else {
             throw new IllegalArgumentException();
@@ -29,8 +37,26 @@ public class Factor implements Derivable, Comparable<Factor> {
         this(element, BigInteger.ONE);
     }
     
+    public Factor(int num) {
+        this(new Const(num));
+    }
+    
     TypeEnum getType() {
         return element.getType();
+    }
+    
+    @Override
+    public boolean isZero() {
+        return element.isZero();
+    }
+    
+    @Override
+    public boolean isOne() {
+        return element.isOne();
+    }
+    
+    boolean absIsOne() {
+        return isConst() && ((Const) element).abs().isOne();
     }
     
     private boolean isConst() {
@@ -44,52 +70,57 @@ public class Factor implements Derivable, Comparable<Factor> {
         return (Const) element;
     }
     
-    public boolean isZero() {
-        return element.isZero();
-    }
-    
-    boolean isOne() {
-        return  isConst() && element.isOne();
-    }
-    
-    boolean absIsOne() {
-        return isConst() && ((Const) element).abs().isOne();
-    }
-    
+    /**
+     * The two factors can be multiplied.
+     * @param factor The factor to be multiplied with this instance
+     * @return if this two factors can be multiplied
+     */
     public boolean equivalent(Factor factor) {
         return this.isOne() || factor.isOne() || element.equals(factor.element);
     }
     
+    private Factor mult(Element element) {
+        return mult(new Factor(element));
+    }
+    
     private Factor mult(Factor factor) {
+        // if either is one, return the other
         if (isOne()) {
             return factor.clone();
         } else if (factor.isOne()) {
             return clone();
         }
+        // if neither is one, two factors must have the same type
         if (this.getType() != factor.getType()) {
             throw new ClassCastException();
         }
-        if (isConst()) {
+        if (isConst()) { // constant multiplication need to invoke its method
             return new Factor((Const) this.element.mult(factor.element));
-        } else {
+        } else { // others add exponent
             return new Factor(element, exp.add(factor.exp));
         }
     }
     
+    /**
+     * Factors can only multiply {@code Element} or {@code Factor}.
+     */
     @Override
     public Factor mult(Derivable derivable) {
-        if (!(derivable instanceof Factor)) {
-            throw new ClassCastException();
+        if (derivable instanceof Element) {
+            return mult((Element) derivable);
         }
-        return mult((Factor) derivable);
+        if (derivable instanceof Factor) {
+            return mult((Factor) derivable);
+        }
+        throw new ClassCastException();
     }
     
     @Override
     public Derivable differentiate() {
         return new Item(
-                new Factor(new Const(exp)),
-                new Factor(element, exp.subtract(BigInteger.ONE))
-        ).mult(element.differentiate());
+                new Const(exp),
+                new Factor(element, exp.subtract(BigInteger.ONE)),
+                element.differentiate());
     }
     
     @Override

@@ -1,9 +1,11 @@
 package poly;
 
-public interface Derivable {
+public interface Derivable extends Cloneable {
     String VAR = "x";
     
     boolean isZero();
+    
+    boolean isOne();
     
     Derivable differentiate();
     
@@ -15,4 +17,6 @@ public interface Derivable {
         }
         return c.isInstance(obj);
     }
+    
+    Derivable clone();
 }

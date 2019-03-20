@@ -6,6 +6,10 @@ import poly.Factor;
 import java.util.EnumMap;
 import java.util.Map;
 
+/**
+ * The most basic elements that would appear in a legal expression. Instance of
+ * this class is immutable.
+ */
 public abstract class Element implements Derivable {
     private static final Map<TypeEnum, Integer>
             ENUM_INTEGER_MAP = new EnumMap<>(TypeEnum.class);
@@ -31,6 +35,7 @@ public abstract class Element implements Derivable {
         return false;
     }
     
+    @Override
     public boolean isOne() {
         return false;
     }
