@@ -53,7 +53,7 @@ public class Tri extends Element {
     }
     
     @Override
-    public String toString() { // TODO: modify print
+    public String toString() {
         String temp = "";
         switch (getType()) {
             case SIN:
@@ -65,11 +65,7 @@ public class Tri extends Element {
             default:
                 throw new RuntimeException();
         }
-        String print = poly.print();
-        if (!poly.isFactor() && poly.isItem()) {
-            print = "(" + print + ")";
-        }
-        temp += "(" + print + ")";
+        temp += "(" + poly.setSub(!poly.isFactor()) + ")";
         return temp;
     }
 }

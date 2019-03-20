@@ -141,12 +141,12 @@ public class PolyBuild {
                 }
             }
             Poly poly = new PolyBuild(s).parsePoly().differentiate();
-            System.out.println(poly.print());
+            System.out.println(poly);
         } catch (IllegalArgumentException e) {
             System.out.println(ERROR);
         } catch (Exception e) {
-            //throw e;
-            System.out.println(ERROR);
+            throw e;
+            //System.out.println(ERROR);
         }
     }
     
