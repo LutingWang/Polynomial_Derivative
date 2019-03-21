@@ -1,15 +1,15 @@
 fans = fopen("./out_nest.txt");
-fres = fopen("./out_nest_6.txt");
+fres = fopen("./out_nest_x.txt"); // other output file name
 
 syms x
 
-start = 238;
-interp = 1;
+start = 1; // start point
+interp = 1; 
 
 for i = 1:5000
     a = fgets(fans);
     b = fgets(fres);
-    if (a(1) == "W" || b(1) == "e")
+    if (a(1) == "W")
         continue
     end
     if (i < start)
