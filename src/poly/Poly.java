@@ -134,7 +134,11 @@ public class Poly implements Derivable {
     
     LinkedList<Derivable> commonFactors() {
         LinkedList<Derivable> result = new LinkedList<>();
-        for (Derivable derivable : firstItem().get()) {
+        Optional<Item> first = firstItem();
+        if (!first.isPresent()) {
+            return result;
+        }
+        for (Derivable derivable : first.get()) {
             if (expression.stream()
                     .allMatch(item -> item.contains(derivable))) {
                 result.add(derivable);

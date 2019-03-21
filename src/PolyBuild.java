@@ -146,10 +146,13 @@ public class PolyBuild {
             System.out.println(poly);
         } catch (Exception e) { // IllegalArgumentException is expected
             System.out.println(ERROR);
+            if (!(e instanceof IllegalArgumentException)) {
+                e.printStackTrace();
+            }
         }
     }
     
-    private Poly parsePoly() {
+    public Poly parsePoly() {
         while (status != Se.END) {
             status = Se.ITEM_START;
             poly = poly.add(parseItem(si.next() == '-'));
@@ -160,7 +163,7 @@ public class PolyBuild {
     private Poly parseItem(boolean neg) {
         Item item = new Item();
         if (neg) {
-            item = (Item) item.mult(new Factor(new Const(-1)));
+            item = item.mult(new Factor(new Const(-1)));
         }
         Poly poly = new Poly().add(new Item(new Factor(new Const(1))));
         boolean firstFactor = true;
@@ -170,7 +173,7 @@ public class PolyBuild {
                     si.jumpWhite();
                     if (si.isNum() || si.isVar() || si.nextIn("cs+-")) {
                         status = Se.FACTOR_START;
-                        item = (Item) item.mult(parseFactor(firstFactor));
+                        item = item.mult(parseFactor(firstFactor));
                     } else if (si.hasNextLayer()) {
                         status = Se.ITEM_LAYER;
                     } else {

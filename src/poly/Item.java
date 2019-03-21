@@ -150,8 +150,8 @@ public class Item extends AbstractCollection<Derivable>
         LinkedList<Derivable> linkedList = poly.commonFactors();
         Poly poly1 = poly;
         for (Derivable derivable : linkedList) {
-            if (derivable instanceof Item) {
-                mult((Item) derivable);
+            if (derivable instanceof Factor) {
+                mult((Factor) derivable);
             } else if (derivable instanceof Poly) {
                 mult((Poly) derivable);
             } else {
@@ -211,7 +211,7 @@ public class Item extends AbstractCollection<Derivable>
     @Override
     public int compareTo(Item item) {
         int result =  -this.getConst().compareTo(item.getConst());
-        if (result == 0) {
+        if (result == 0 && !equals(item)) {
             return -1;
         }
         return result;
@@ -287,7 +287,7 @@ public class Item extends AbstractCollection<Derivable>
             if (poly.isOne()) {
                 continue;
             }
-            temp.append(poly.setSub(poly.isItem())).append("*");
+            temp.append(poly.setSub(!poly.isItem())).append("*");
         }
         return temp.substring(0, temp.length() - 1);
     }
