@@ -1,0 +1,5000 @@
+- cos((2*	cos(	x) ^4)	) -+3 *	sin((-	3))^-1*+3 *sin( x ) ^	-0* +1*1*sin( x)^+4 
+-1 --cos((+cos(	(1--2	*+4))^4- - sin	((-3- -1	*4 ))		* -4 *	+4	*	cos( x)^ +0* cos	(x)^	4)	)^-2	
++3 *cos((-1*x^-4	-1	* sin ( (-(-	-4+-3*(++2) ^3* 3	*sin(x) 	)-3	*x)))) - 2 *sin(	x)^ 2*	0*	cos( x	)^ -1	*-1 *cos(	x )
++4 *sin	(x)	^ 3- +3*	x		* sin(x	)^ 3
++sin((-4))	
+4*	(-cos	(	x)	^4) ^-3
+-	-4-3*+4
+-4 *	x ^	-3++1	*x	 * 1
++sin	((-	cos (x	)	) ) ^	4
+ sin(	x) ^	+4
+3
++ -2+	+	-4*	cos(x)^1*cos (x )^	0
++2
++2+3 * cos	((+sin(	x) ^ 3 -	2*x	*	+1)) *	-0 * cos ( (3*cos (x) ^2+	x	^2*4	* sin ( x	)^	-0)) ^	0
+x	^1
++2	* cos(x )	^	-1	-+ sin ( (0* cos(	(0	*(-1*x		-	-4 * x^ 3*		cos	( x) ) )	)  - 3 *1* sin (x)^1* +2 ))
+x 	-+2	
+--1	+ +3	*	1
+sin	(x)^4
++x +-0* sin(x	) ^ +0 
++1*sin	(	x	) ^	-4- + -1
++4	+	-2* sin	( x)^3*cos	((3*sin	(	x))	) 
+3*	sin	(	x )	
+1	*cos(x)
+-2 *sin(x )^-2	+0* 3*	x ^+1 * +1*x*1 * cos(x)^2
+-3
++2
+	cos(x)	
++ +3	++ cos	(	x)	* -4 *	cos (x )^+1	
+0	*	(4	*	(	cos	( x ))  --	cos((4	- sin( (+ x	+ -	1	) )	^ +2	*	1* (2*	x-2*cos(x) ) *	+0*cos(x ) ^+2	*-4*cos (x)  ))	^-0* sin((4- +3	*	cos	((3*x^ +0-+ 0* 3	))	 *0 *sin (x )	 *x	))	^ -0 *4*	cos	(x ))^	+4-	x	^	0 
++	2
+4*	x^+0
+	(1 * sin(x)^+2) 
+-sin	(x) ^+0
+- +3
+-(+	x ^3	- -+0 * 	cos	(x)^1* +2	*x ^	3	)+	sin (	x )^2* x ^+2 *1 *x		*	2
+	cos	((4	* x ^ 1 +-3*sin ( (2))	*2 *-0*	cos ( (0	+	2* 4*	sin (x	)^-0*sin(x) ^	1 ))	*	sin(	(-1*	sin(x) ^+1	+	--3	*	-1	)	)	^ 4	) )	- -0*cos	(	x)	^	-3 *	cos( (+1 *x ^4-+x^+1 * 0*	cos	(	(-0--	sin (x)	*	sin(	(2	*x)	) ^3	* 3*-3 ))	^ 0)	)^4
+3+ +0 * sin(	x )^3	*4
+-0	* sin ( (3* cos (	x) ^-3)	)	 +	sin( x)^	+4*	(3*	sin	(x)^ 4-+3*sin	(( cos	( x)^+1- +	-2 *-0	*x^2 ))^	+3 *+2 *sin( x) ^-0* sin((+cos	(x ) - +3 *sin(x	)	^ 0*+2* cos(	x ) ^ +4	*+4	*		sin(	x)	))	*2 * sin(	x	)	^2) ^	-4 *1 *	(2*	cos ((+2 *	x)	)^	1) 
+2 *x	
+4 *x^3
+0	*	sin(x )	^1	-cos	(x)	
++4-+2
+2*(x )-	cos ((+ +2 --4*	x*0	)) 
+-	sin( (+3	*	sin((4)) ) )	 +-1*	sin	((2 *	cos(x )^	0 - sin	( x)^4	))	 * cos	(	x) 
+2*x 
+1	*	cos	(	x)^+2
++4- +4	*	cos	( x ) * 4*	sin	(x)		* 2 
++2	*cos (x	) 	--	sin ( x	)	^-0	*1 *	sin (x) *	0	*cos (x )* 	sin( (	sin(	x )^ -3	-	3	*	(0	* x	^-3 + 3 *	sin( x)*	-1 * 2 *sin	(	x	)^2* 0 ) ) )	
++1*sin ( x )+ 3*	cos (	(1	+-	sin(x)  *1*sin(x )^+4 ))^ 0*cos(	(sin	( x ) ))^ 4 *	(3*( sin(	x)^3	+sin(x)^-1* 2 * 	(0*sin(x)	^	3+0	* sin(	x)	)	)	-4*	cos (x )	^0 *0 )^	4	* +4* sin	(x)
+-2 *x^2
+cos ((cos	(x ) ^0-	1*cos(x	)	*+3*sin	(x)	^ -3 *	+1*	sin	(x)^	-2	*	x  ) )+	+	sin (	(0))^-2*1 * x^	4*cos	( x	)	* 2 *	cos((0 *cos(	x) ^4)	) 
+ x 
+	sin (	x	)+0*sin( x)^-2
++4	*	sin	( (0	*cos	(x) +	cos(	x)	*+1*sin(x	)) ) ++0* (-3*sin ( (--1	-	 sin(x)	*+1*	cos(x	)^	2	*4	* sin(	x ) ^-3	))-+1* cos (	x )	^	+3	*	-1	* 3 *cos(x	)	^4 )^ 0 
+4 *cos	(x)^+4
+	x	
+2*cos	(x)  + +sin	(x)	^ 1*+2*	sin ((-+4) )		
+sin ( (1 *sin(	x ) ^ 3)	)^	+2
++	(x^4) 
+-3 +1*cos(	x )	
+-3*x
+-4	*sin(	x	)
+-2*	(-	x)
+-1
+	x ^-1
++	sin(	x )^ 4 +	-2*x	^ 4*sin	( x) *3	*	cos ( x ) 
+1*cos	(	x)^-0+-2 *	sin((2	*cos( x) ^1+sin	(	x) *	1 *cos	(x	) ^ 4	*sin	( x ) ) )^	+4*4 * -3 *cos( (+	1) )	* cos(x	)
+-2 +++3 *-4*x^4*	sin(	x )	^ 0
++	+1 -	2*x^ 2* -3*x	*+1* cos(x )^-0 
++2	*	(3)^	-0
+-4 -x	 * 4 * (- 4)^	+1*	cos ( (x	) )^	+4*-3*	cos((4 *x ) )^-4
+4 *(- -1	--1	*cos (x	)	* -3 *	x 	*		(1 * x ^ +2-		(+sin	(x	) ) 	*2 *		sin ( (cos (x)	) )  *	3*sin (x) ) *	0)^2
++cos	(	x	) ^ 3
+ x	^4
+-3*	x 
++cos( (-	sin(x) 	-x^	-1*0	*sin(	x ) * 1	*4 *x )	)
+-4 * cos (	x )^	+2
+0	*	x ^0
+-1	* cos (	x) +	2*1
+-2*(1 *x^1)	^+3
++-0+	cos(x ) 
+3
+-	-1
+-0 * cos(	x)^	-1
+ sin( x	)		- -sin(x) ^-3* -3 *(1* ( cos	( (1 *x	+-x ^3*	-2) ) -  x*	 (+0) ^-3	))^4	*	+1	*cos	(x)	^4 *-1	*sin	(	(-2 -	 (-	cos	(x)  -++0*	2*	cos	(x	)*		sin( x ) ^4* x		) *0	* sin(	(- sin	(x) )	)	^4	*1	)	) 
++4	* cos	(	(+1-+	1	*4 *( x)  * +3*cos(x	) )) - sin(x )	^-0 *	+4	* +2	*sin (x	)^0
++3	*	x	^	+2-+sin(x)	^ +3*	 cos( x	) * cos ( x) ^1 *	 cos( x )^	+4
+-	cos ( x	)	^ +3
+3 *sin	(x )+ x*+1	*cos (	x) ^	3
+2*cos((x^-1) )
+3	*	x^ -4
+	x 
++1*cos(x	)^ 4
+cos ( x	)^	0
+-	sin (x)
+-sin((+x^	0- 0 * x^4 * cos(x )^3	*1*x^ 2) )	
++ x
+-3	+	2*sin	(x )^4 *1*	cos( x	) ^	0*	x *	1	
+3 * (x	)	+-+0 *+0	*sin	( (3- 	cos	((sin(( sin(	x ) ^+3) )^0))*3*cos (x)	*-3* x^-2	*0* cos( x) )) ^+1
+0 *x		+ cos (x ) 	*	+1*+2 *	x* -2 * (-0 *cos	(x )++0 * x	* -4)		
++4* cos(	(1-x  ))^3+-0 *	sin(x)	*	cos(x)	*	1	*	cos (x	)	* x^ 2
+	cos( x) ^+1
+-3
+x 
+-0*	cos ( x ) --4*x *	x^-0 *2	* sin (	x )^+1 
+	x^+4+-	2	*sin	( (4*x) ) *+4*(+ x	^	3)
+2* x	^ 2
+-4
++	+3
++ sin(x	)	^1
+4*x	^+0+ x	 * 0 * sin (	x)	
+-2
+- +1
+- sin(	x	)	^ -1+ -0 *	(+4*sin	(x)	^	-4-	 sin( x)* 3 *-0	*	x*4*	sin((1++1 *sin(x	)* x	 )	)	)^	1*3 *	sin((+3 *cos(	x ) ^-0	-sin (	(1*	x^ -1	--3 *-4 *3 *	cos(	x)^+4))	^ -0 ))^-0
+2
+(- x^-2)
+1	* cos	( x)	^+4+cos(x) * cos (x )	*	x 
+-	cos (x	) + cos((+1*	(1*sin	(x)	 +	sin(	(1	*sin( x )	^ 2 -  sin	(x)	) ) ) ^	3))	^-3	
++cos	(	(-1	* ( sin(	x ) ^	-2+-	2*sin (	x )^ 3*-2 *cos (	x) ^ 1*cos(	(+2* cos(x) ^4)) )) )^ +2
+++1	-sin	((+1	*sin	((-+3) ) ^2)	)		
+-3 *cos(	x	)
++0	- -	sin( x )^+3	
+-x^-3
+-1	+	3	* cos	((	cos(x )- cos	( (2 *	cos(	(3	* sin(x ))) ^3+	cos(	x )^	+3 ) )	^ -1	*	+1* 2*sin ( x	)^3	*	-2 ) ) *-0*	x	^-0*	-0 *(-1	*cos (x	)	+	-3	*-0 * cos (x)^+4	*	+0	* x^ 3	)	
++3 *	(-x ^	-3) ^-2- 	sin	( x)* cos( x) ^0
+cos(x	) ^	-0
++4	*x  -0 *	x ^ +0	*+0*cos(x)^	-4
+-3*	(+x)
++2+-	sin (	x)	^	+4 * -2* -0* sin(x)^1
+0+	+3 *	sin (	(3 *	sin((-	x  -0*sin(x )	^	1)	)^+2+3*	(- cos ((-4)) ^-2-	0 * cos (x)^ +4* 	x * 3* sin((+2-+	cos(	x	)		*+0	*x ^0)	)^	4*-1	*(	sin (	x ))	 ) ^-2 ))	
+-1 *	x + 0*x ^1*	2
++0* (4	*x-	0	*cos (	(1 +	-3 *	cos	((+4	*x^1++3	*sin(	x	) ^+3* +1 *cos(	x )^ +2	)) *4* ( cos	(x	)	^0	+	+1* x		*		sin(x))^-4 *	 x^ -0	)	)	^-2 * 1* 0	) 
++0*sin(x )	^-4
+-x
++4*(	sin(x)	) -	3	*	x	^+2	* -2
++2-3	
+1 *x^ -4+4* cos (x	)^	2 * sin(x ) ^4*3 
++0	*x	^ 2
++cos(x) -x		*0* +4* 2	*sin((+4	*(--0)^ +0+-0 *	1*x	))	 
++4*sin( x)	^+2
++	1
+-	4
+-4	*cos(	x)^ +0
++ -0+ +sin	(x)^ -2* 1*2 *cos	( x	)	*cos(	(-0))
+(0 *	sin	(x	)	- 	x  )	^0-+sin (	(-	4) )	^-0* +2	*	x^ -2
+-4 * cos ( x)	^	0
+2
++3*x ^	3+ x^+0*	sin(x )	* 	x	^2*1	*sin(x)^+3
+sin	(	x )^ 3
+0 - +4	* +1*cos	( x)* -0*	cos(	x	) ^ 0 
++sin (x	)
++2 * (+0*(0*cos(x	) ^ 3+	+ -0))	
+1 -+4
+-	sin((3* sin( x )) ) ^-1 -	x  
+ sin(x	) 
+- cos ( x)	
+-cos (x)^ 0
+-	1
++	cos( x	)  -2	*x^-2
+ x^+2 -4 *	x ^+1*-1	*cos(	(+	cos(x )^	0) )
++4 * sin(x	)	^ -4
+1
+ cos(	x	)	+-0 *	cos(	x ) ^	+0	* -1*3* cos( x	)		
+-2	*x
+-0*(-0 *sin(( sin (x)^1) )^+0-4	*x )	
+4*sin (	x)	^+2+-1	
+ sin (x	)	
++	3 -0 *	sin	(x)^2 
+-	+3
++0
++cos(	(-(-3*sin(x ) ^1)^ -1+ -+0*	0* 2*(++4	-4 *	cos(x)^	3*cos(x)*cos ( x)^ 4	*	1	))) ^0-+0*  cos ((-cos( x)^2)	)	
++	-0
++1*	x^1
+-1	* cos	(	x)		+ 1*cos	(x)	^-3	
+2*	x^0- 	(2*sin (	x))*	cos(x)	
+3* x	 +x^-0* 0 *	cos( x )^-1
++cos ( (+4 * sin( x	) ^2)) ++(+2	*(-sin	(	x	) ^ 0)^-2)  *	-0*(+1 *	cos(x	)^+2) 
+0	*sin(x)^	-2
+3 *sin(x)	^	+4 - x*  cos ( x)*+4	*1*sin (	x	) 
++2+ + (-	(+1*x^2)^2	- +0*	cos( (sin( (-2 * cos ((1)	)^	4+	+0 *	sin (x ) ^	-2* 1*		cos(x)	))	^	+1) ) *	-4 *cos(x) *	cos (	(2	*	cos (	x)^+1)	)^+2 )^ +0	
+ sin(	x)  + 3 * 2*cos(x) ^3	*1	*x^ -2
++1* sin( x)	^+2+4*x 
+-+0--cos(x) 
+4 *	sin( x )	^	0+0*+3 *sin (x)^ 0*cos(x)	^4	
+2+ 	x	* (+(	sin	(x)^-1-+ cos(x )*	 cos	(x ) 	) ^4)^1
++1	*	cos	( x) ^ +0- +	sin(x )		*	 cos ( (-3* sin	(x	)^2)	)	
+x +-sin	(x ) ^-3*+3	* x*	2*+3
++3	+	x	^4	*+2	* x	
+	sin(x )^	+1
+sin(x )-  sin (x) *cos( x )	^	+3	* -4* cos( (+2	*cos(x )^-2+ cos( (3* sin(x)^	3)) * +0 * (-	cos (x) -0*	+4)	*2	*cos ( x	) ^+1 ))^ -2	
+++1
++	x^-4
+ sin(x )^ 3 +- 3	
+-3*cos( (-2*cos(	x)^+2))	^	+1
+	cos	(( cos(	x) ^0)) ^	0
+-0 *sin(	(-(-4*sin ((-	x ^ +1) )^3)	-	+	x ^ -4* cos (x) ^	+1 ))^3
+x +1	*x ^2*  x ^-3* -4 * x 
++sin	(	x )^-1+3	*sin((0	*sin((+1* x	^	-2))-+	x^ 4*3*	cos	(	x ) *+4*sin	((	x	+	+	+4	)) ^ -3 ) )
++sin((+2* x) )
+sin(	x )^+4
+0*	sin	(	(	sin(x )	^ -2-1	* cos( x) ^0	* -2	* cos( x)	*sin( x ) *0	*cos	( x )	))	^4
+ x^4 -4	*sin ((-0*x	) )	^-0	* cos((x+ 	sin(	x	)^+2 *  sin (x	)	) ) 	
+3* x	^ -0
+3
+0*x^2- +2	*	sin ( x	)	 *	cos	(x	)	^	+1
++2*	x^ 0+	x	*-4* x
+x	--4	*	sin ( x)		*	cos( (0 *x	^ 0- 4) ) 
+- sin (	x) ^+2
++cos ( (+cos	((-	(+2 *cos(x	)	^2+(-3*	x +3 * x^ -1)	* 4	* ( cos	(x	)^2+	cos( x	)	*2*+0*sin ( x)) *-1	* cos(	(-4 *	sin (	x))	)^	0*2*sin (	(x ) ) ^	-4)+x	*  cos(x)	^0 * +0	*	cos ( x	)^0	* 4 *sin(x)))^	+1	+ (- cos(x) +	sin((-0	*sin((2	* cos (x ))	)	^	-4) ))^-0*	x^ +2* -3 )	)	
+2 *cos ( x ) ^-2
+2
+4
++0 *	cos(	x)
+ x^	-4	+	- cos (	x	)^ 2	* 	x^-0* +3
+-4-3*x		*1 *3 * cos ((-1*sin(x)^2	+	3*cos	( x ) ^ +0 *-0*	sin(x) * 4*	sin	(	x	))	)	
++	-4-2	* ((-3	* sin	((4*cos( (+4 + +	0) )	^	-1	+	0	*cos	(	x) * 	sin	(x)*x )) )^ 2--	0 )* cos (x )		*	1 *x^ -2	
+cos	(	(0	*cos	(	(+3*cos( (+1*	cos(	(- +3))	^0	--2* sin (x)^0	*	3*cos (x)^	+4 * sin( x) 	*	cos(	x) )	) ) ) -	-4*x	^0*	4	*4	*sin( (-0*(1++ x	 )  + +0	*	cos	(x )^ -4 *	1))*0 *x ^+2 )	) ^-0
+sin( (2*	cos(	(0	*sin( x))	))	)	^	+3
+- sin( (	sin (x )	^ -4	- + +0*1	*2	*	sin	(	(-2))^-4))
+ (4* x^	0) ++-2	
+	sin(x ) ^-4	+ +	-3 
++x	^0 +	0	* x
+-1 *(-1+0* x^ 4 *	 sin(	(1+	2*	sin ( x	)	*cos( x	)	 *1*cos( x ) ^3	*  cos( x )	))		*	sin(x) 	* -0 *cos	( x)) -+2*x ^	2	*	-2*	3*(0-  sin( (-3))^ -2*	cos(x	)^1*1*cos	(x	) 	*	-0	)	
+x ^	0 + -2* cos( x )^ -0 *x 
+3 *	x
++sin( x )++sin ( x)^ 2*	-2	*	x	^+3	*+1*cos	((2 *x)	) *	-4
+x	^ -3
++-3	+ 2*	cos	(	x) * 3	*cos	(x)	*	 x
+4
+sin	(x	)
++-0
+-	sin((0))^3
++4* cos(	(cos( x) + 1*	2*	cos (x )	* 0	*	x * 1* x^-0	) )	^+1+ + sin( x	)
+- 1
++cos	(	(-3))
+3 *	x^	+1
+-	(-4 +	+cos (	x)		)
+cos ( x) 
+-(-4*x-	+3	* 	sin	(x	)^	-3*+0*	cos(x)*3	*	cos (x	))
+3
+-0
+2* sin(x)^	0
++0	-+ cos	(	x)^ -4*0	*cos( x) 
++ cos	(x)^-0- sin (x ) *	+4 *	sin(x	)	^ +2 *4 *	sin(	x	)
+4*x		-sin	((+x ^	-0	+ +4 *x* -4 *	3* 2* sin(x	)))^2 *	2	* cos	((- cos(x)^ 0))	^2* sin	( (-4 *x+	sin( x	)	^	4* -3 *	x		) )^-3	*2	
++0+x	^1	*0	* cos(	(+3 *sin ((4 -	-	+1* 	sin((+sin ( x	)^1 + 	x^	+2	* cos(	x))	)^	+1* sin ((+2	*sin ((	x ^ 1 -		cos	(x) 	* sin	(	x) ))	^	+3)) ^ 4	)	)^ -3-4*x *x	)	)^ +1* 0*x
++x 
++2 *(+	(-3)	^1)	
+ cos	(x	)^+3
+-1
+ sin (x)		+- cos( x )^	-3	* +0
+-0*(	cos ( (3 *(-4+ -x^+3)	^	0 -	4* cos(x )	^0 *-2 * 0	*x))^	3)^	2
+-0--cos( x) * sin( x)^2 * sin(	x)*0	*sin(x )  
+4* x ^-2- 	sin	(	(+3 *	cos	(	x	)))	*cos(x )	
++3*	sin	(	(+	-2)) +	1*cos( x)^	2 *2*sin (x)^3*	+4* x*	-1 *	x ^3
+-3- cos( x	)	^	+3 * 4 *	cos (	x) 
+-	sin	((4	*	(4*sin((-4	*	sin	(x)	 -1 *  sin ((-3*cos(x	)	)	)	*	x^	-0))		+-4* cos (x	)^1)	^ 1-2*(+1*	x	-+4* 1* x ^4* +0)) ) 
++0*x^0-	+cos	(x) 	
+1	*cos ((+3*cos ( (+	sin( x)	^	3)	) 	+ 2*sin ( (+0	*cos	((-+3)))	)	)) 
++2
+++2 -4*cos(x) *-1	*	sin ( x)*3 *x  
+	x	+	1*x	^ 0 *sin(	x)	*4 
+-cos(	(-1) )
+3*	x-- sin(x)^+4 *-3*(+1 -+4	*sin	(	x )^	2*  sin(	x) *3 *sin (x) *	-3 *sin (	x	) )
++1	*sin( (+ -3))	- 2	*	+1 *x ^+2	* 0*sin (x)^4*	-3 *cos	(	(+1))
++0*sin ((	x^2) ) ^	-4
+-3 *sin	(x) ^	0
+0* cos ((-+1) )	
+(-1*	x ^-3)^ 4+0
+0*	cos	((	sin(x )) )^	3
+	x^ 3
+( x) ^ -3+	-4	*sin	(	x	)		* cos(x)		*	-4 *	3 
++	x+-1* cos	(x )	^	+4	
++x^ 2
+0 * ( cos(	x)	- 2*	cos(	x	)	^1*cos ( x	)	^ -1*	cos (x)^ +0 * +0 *sin	(	x )^2 )^-4+	3 *	(+	+0 + 3	*sin (x)^ -2	* sin (	x )	*sin(x)^3 )
++3 *	x 
+3* x^	+2+-0*cos	(	x)^	+0* sin	( x)*	 cos(x)	^1
+-1*cos (	x )
++ cos(	x)	+ 1 *sin ((x ^ +2))*-0
+++1
+3 *cos ( x)^4 - cos((+2*	x^2 - 2*x ^2	*	-3 *	cos	( x )*	2*sin(	x	)	 * sin	(x)))*	4 *sin	(x)*	+3	*sin(	x) ^-0	*	+3*	sin	(x ) ^0 
+-sin(x)
++cos ((-x^ +1)) ^+4
+-	0 +-0*	3*	cos(x)	*x^-2
+- sin(	x)	
+- ( sin (x)^+2) 
++-0+	- 3 
+cos	(	x)	^	1
++3	*sin	(x)+ +2 *cos ((	sin (	x	))	)	*sin (	x )^	2 
++x		+	+2* x	 *cos	( x	) *	-4	* cos((+4	* sin	(	x)	) )  * +0*sin(	(-+4) )
+-4
+- cos( x) 
+1
+-4 -	-4	*1*	sin	(x )	^3	*		cos((2*cos(	x	)	))^	3* -2 
+- -4
+4
++4*	x
+0
+ sin(x) ^2
+3*x
+1*	(-	sin ((-1*sin(	x)^ -1) )	)^	1	++sin (x	)^3 * 1
+0 * x+-cos	((+2 *cos (	x)	-	 cos	(x) 	) )		
++	1 +++2* 3 *(-1 *x^	+1+ -2	*cos(	x)^	+0*1 * (- x^ 1+ +4	* x *	cos(x)^ +3*+0	*cos	( x)^ 4	)	^ 4 * 0*sin( x	)^3 )	^	-3	*-2	*sin	(	x) 
++x 
+ sin	( x )  ++0	*	cos(x)*	 sin ( x	)^	1* -1	* x ^-0	
+3*sin(x)	^	0
+-	cos ( (- sin(x)^+0	-+0*	cos(	x))	) ^+3
++(+0 *	(+cos	(	(3)	)^-1)^ 2 - sin (	( cos(	x) ) )	*sin(x )^	+3 * cos( (- cos(x) ^ 3+  cos(x) ^	+3)) )
+- +2+3*sin( x	)^ 3*4 *	cos (x	) 
++ cos( x) 
++	cos	(x) +0*x ^	1	* sin(x )*		x * 3	* x		
+4
+-2* sin(	x)^-4
+-4 *sin ( x )^	-3	-+1 * 	(4	*sin (x	) )	 *	sin( (sin( x) ^	4) ) 
++4* x	^ 0-	2* cos((+ 4)	)	^ -0	*	0*2* sin(x)  
+-2 *	cos	( (+sin	( x	) + x^	3*+1*sin(x) ^3	)) ^	+4+  sin((-3	* cos(x )) )^ +4*  sin ( (+2 *cos ( x)--	sin( x) 	* +3*-4 )) ^	0*cos((-3*x	 --4*	cos	(x)	*sin(x) ^ 0	)) ^+3*-2	
+	cos(	x)^	-2
+4*x ^ 0
+-sin	(	x)
+	cos	((4	*(	cos ( x	)^+2)	 - -4*3*(-sin	((-0	*	x ^	-1	+2*( x -+	+3	* 1* sin(x	)	) ^-2))^	4-	sin(x)	^+1)	^ 4 )) ^ -4
+-2	--4	*	cos(	x) 
+2*cos	((+3)	)
+- (+2	-+sin (x)	* cos(	x	)	^	-2*(+3* sin (	(	cos	(x)^+1- 2 ) )^	-4	- 4*sin	(	x)	^ -4 )	^	2	*	 (-sin(x)^2)^ +1 ) ++	cos( (+3)	)	*+3 *sin	(x)	 *	-2	*	((+	cos (x)+-0*cos ((4 *	x	-	+cos(x	)^ 1* sin(x )  *	 sin	(x )	^3	))^4*4* sin(x)		*	+0*(	sin( x) ) )	^-3) 
++4	*x	^	1 -	2	*cos( x)	^+4*  sin(	x	)	*sin( (+x^+2--0*cos( x)	^+4*	cos(x)^1 * 2	* cos (x )	^-0*	(+	cos	(x	)^ +4+ 3* cos	((+x	^+3+ 2*	sin	(x)^	-2	*3) )^+3*2)	^2))^+0 
+	cos	( (+ cos	(	x) )) +	3	* cos(x)	* 2	*+3*( x)  * +2 
+ cos(	(-	+0-	 cos (	(-2*cos( (-x ) )^	2	- +cos (x)^ 1 *sin (x	) )	)	^ 0 *+4* cos(x) ^2	*4*sin(	x	)^	+3	) )	
+-sin((2*	x	^-3+--3*	+3 *-0* (0 --	sin((2 *sin (	x	) 	+ x ^	0*	+3* sin (x) ^-0	) )* 4*(4) *	+4*(+0))) )	^2- + (-4)^ +2	
+-	sin(x )^ 3-	sin (x)		*1	*x 
+-+3 +-4*sin	(x) *	 cos( x)	*+1 
++2	*x
+-sin(	x	)^ 2- +0 *	-1*-1*cos (	x	) *	cos(x )^0 
++2
+--0-+ (x - cos(x ) *4	* sin ((-2+ - (1)	^+1* +0	) )* 1 * sin(	x)^ 0	) * 3 *sin ((0*cos	( x)	^	-2))*  x	^-3 
+- 2+	+sin( (-2)	)* x^	+1*	-1* sin(x)* 4	
+sin(	(+	sin( x)	^-4)) ^	2+	-3 * cos	((-cos( x	)	) )^ 3
++1	-4 *	sin (x)
+-0+sin (x	)		*-4	*sin(x ) ^+4 *	+2*+1*x ^1
++0++	cos	(x	)^	+1 *	sin (	(3	*x	 - -1* cos	( (+ cos(x)		-+1))	 *-0	*sin(x)^4	*  x^+2))*	+0
+x^	1++1 * cos	(	x	)^	-3*1 
+	x^ 0 ++1
++ -1
+2	*sin(	x)^ +3	--3	*	sin(x	)* +1	*sin (x)^2*0*1 *	sin(x)^ -2
+	(- cos((x^+2+ -1* sin ( x)		* sin(	x	)	* cos( x) ) )	^3)	- 3	*	(3)
+4 *(-3	*(	sin	(	x	) - x^ 4 *1*	sin( x)	* +4)^	-3-+0*sin	(x)	* -0*x* x	^ 0	)
++ sin(	x) ^3+4	*	cos (x) ^ -2* -2 * sin	(	(-+4+	-4 * cos (	(0+-4	*sin	( (	cos(x )^0 -	-3*+0*-3)) *-1* sin(x	) ^ -0 *0* cos( x	)^-3) )^3 *	 cos ( (4*cos( x) ^	-0))^	2*0) )	
+-3
+-3	*sin(x) ^	-1
++cos((3 -+2	*sin( (-2*( sin	(	x)	^+2)^ 3 + -3*cos	((2*x	^+4) )	* x	* +4 ))))	^3+ -	0 *cos ( x) ^0 * 2	* x^ 2*	 sin( x)	
++x
+ cos	(x	)^ -1
+2 *sin	( x) - (cos	(x	)+cos(	x)^	+0*	sin(	(sin(	x))) *+2*+2 *cos(x ))	^ -2	* +3	*sin(	x )^+2*	cos( (- sin	( x	) + -3*(2)	) )^ 3 
+-2+-3*-3*	-4* sin(	x	)^-0
+ cos(x) --4	*x^	4
+-3*x	^1
+1 * cos	( x )
+3	*x	^+2
+- -3
+	(+	sin (x ) +3*	cos	(x)^+2 )
++	sin(x )	^ +3
++0* x^	1	--	sin(x)	 
+4* x^	3
++4 * sin	(( sin ((sin(x) ^+4	- 0*(+2) * +4 *(4*cos(x )^ +3) ^ 2)	)	+	-2 *	cos( (-	(+0) ^4))^	+1*  sin ( x)*  cos (x)^-1*-4	)	) -	- cos((-( sin	(	x) ^4)	)	)*3*cos	( x	)^ +4* 	(+3	*sin((++3) ) ^+3-- -2	* 0	*cos	((1	* sin(	x ) ^ 2-	3*2*x^4*	0*	cos (	(1*sin(	x	)))^	+3	))	^	-2*-4	*+4)	*	4* cos(	(-2-3*(1+ +x^3 *-1 * sin( x) ^ +1)*cos(	(+ +4	-- +1	*(+cos	(x	))^	3*	-3) )  *	cos ( (	x))^ +3	* -2	* sin(x )	))^ 3 
++cos(x	)	-0*sin	(x) * x ^+2*	-1* x	 
+2	*	sin( (sin(x	))	)^0	--3*cos (	x)^-0*	cos(	x) 
+4*	cos	(x)
++-4 +2*	(-	cos (	x	)		- +sin ( x	)	^2 )^1 *	-4*sin (	(+0	*cos( x ))	) ^+3 
++ x^	+4+0* cos((-x^4))*sin ( (+3	* sin((2*x	) ) 	++3*-4	*sin (	(-3 *sin (x)^ 2))*	+3) )
+-	3+ 4	*	1	* cos( (-x	^ +3))	*+1	*1
++ sin	(	x)- (3*sin(x)^-3)^0	
+-3 *x^	+4 + x*+0*cos	(x ) *-0*0 *cos	(	x)  
++2	+ -4	* cos( x ) 
+sin(x)^0+ - -0	* 3 * cos	(	x) ^2 * 3*	2 
+-2 *(+0* x+ -	cos(	x	)^1 *-1*sin ( x)  *0) ^+4
+3*x	
+ cos	( x)+-+1	*cos(	( sin (x	) ^1+4 *	cos (x ) 	* 3 *sin ((+	4- -1*sin ( x )	* -0 *x	*+3* 0	))^ 3	* 0	* +2 ))^4*sin( x)*0	* sin(	x)^	2
+0+ sin ( x	)
+- x ^	+1- -0 *(- sin (x	)^	-0) *3*	x^4
+sin(	x	)	^ 4
+-cos	(x ) ^-4- sin	(	x)	^	-1	
+x
+x 
++2 * cos(( sin	(x )--3*(	cos( x ) ) ^ 4*1	* sin	( (x	^ 1))		*	1)	)
+	sin	(	x	)
+x ^+0
+	cos (x)	^2-	+ +0*  sin(	x	) *	4* cos((4 *	(- sin	(	x	)	) ^+1))	 
++0	*	sin (	x )+ x^ 1*	4*sin ( x)^1 *-2* sin (	x)	 
+-	0-+sin	(x)	^+2	*+0
+1*sin	(x)	
+ sin(x)
+2
+2* x	-sin	( x	)^3 
++sin (x	)^ 4
+sin(x ) ^	+4
+3	-	cos(	(+cos(	x) ^2	+ x	*	x ^4)) ^-0
+-sin	( x)
+-cos(x )+2*cos(	(+4* cos(	x	)))	^0*1	*0
+sin (x	)^2+ 3	*	sin ( x	)	^	1
++ x ^+1
++ -0	-	0*	1 *x ^	-0*x *1
++x	 +-	2 *3*	1* x	 
+4* (+1*	(0*	sin(x	)	-+ 4	))--0*cos ( (cos(	x)^4)	)	 * +0*	sin	( x )^4*	4*cos( x)^ -3	
++3-	x^	2*	+2	* x^+4 
+3	*	sin(x)	
+2-  cos	(x	)*-1	* sin(x )^	1
++0	*cos(x	)	 +	-3 *cos( (2* x		-	-4	* 	cos(x)^0*+0 )	)	 *	+4*	cos ((2 *cos	(	x) 	--cos	(	x)		))^3*4 *(sin(	x )		+	cos	( (0*cos(x)^ +2	+	+ (1	-	+-4 *	+1 * sin (x)*-3*sin(x )^-4) *1 *sin	(x)^4	* -4*	sin(	x)^2))^2	*-2*	(sin(x)^-1)^	-0 )	^+2*	3 
+-0
+x -	4 * 2*cos(	x) ^	4
+-4	*cos( (-	cos	((	x ) )	)) ^+3-+ cos(x)	^	+0*	4*cos	( x	)	^	2	*2*	0 *x ^-2	
+0
++4* cos( (0*cos	(x)+ -1	))
+- sin (x) ^3
+-	-2	- 3 *cos(x) ^	4 *	sin(x)		*	0 *sin(	x ) 
+4*sin( (-4	-	+	sin( ( x^3) )*+3	*(+ sin(x )^+4)  *+2*	cos (x	) ) ) +	-cos(x) 	
+3
+ sin(x) ^0	+0 *cos	(	x)*  x*sin( x	) ^3 
+(sin (x )	)^2	++1*	sin ( x)	^2*	2 
++0
+4 *	sin( (+1 *	cos((+0* x)	)	- -	0*	+2*(-4*sin (x ) ^ 2)*	(-2+ 3* sin ( x ))^ -3))
+4	*	( cos( x)	^ +2)  -	4*	cos(	x)	
++sin( x)- 4* cos(x)	^4* x^2
+-4	*sin(x)
+	x	++4*	sin(x	)*(+2+	+x^+3*	sin (x) 	*0	*	cos(x)^-2	*	2 )	^3*2*( cos(	x)	^ -1)^+4 
+2	-	2* 4	*	-4 
+ cos(( cos((-	+2))		+ -4	*sin( x) 	)	)	
+-1* x^4
+ cos (	x)
+++2-	-sin( (-	sin( x)	- -3* x ^+2	*+4* cos (	x)^ +1	) )
+-	x+	-4 *cos (x ) ^1	*-2* sin (	x) *-3 *	cos ((+4 -	4 * x 	*	3*cos ( x)*3 *sin(x) 	* 0 *cos(x	) ) ) 
+1
+x^ +1- sin	(	x )^-1	* 4 * +1*sin(x)		
++0*x ^	4
+3	*	sin ( x	) ^	1
++sin(x	) 
++2	*cos(x)^+2
+-	3	+4
++4	* sin( x)	
+0 --2*4 * 	(-3*x	^3+	-+1 ) *	(4	* cos	((+ x	^-0) )^ 4- 2	* sin	( x	) ^ 3*+4	*(-4	--3 *	cos( x	)^ +3	*1	*sin	( x)	^2 )	*	+2)^2
+-1 *	x^ 4
+-cos	((-0 *	x^	-1))^+2 + (sin	(x) ^	+2)^1	*	 cos(x) ^+3 *sin	(x)^ +1	
+x^	+0	++1	*	x  
++2
+x^ 4
+-x	
++ 0
+-2	*cos(	x )^ 1 -0	*(- sin (x)^	2	+	 sin(	x	)^ 3* 1	*(- cos	(x)^1)^	0	*+4*	-2 )^+3 *	cos	(x)^	2	* 	cos(x	)^1	*	-3 *cos ( x	)
+x-+4*x 	* -2*	sin (	x ) 
++3*	sin(x ) -	x *-0	*	cos( (sin( (	cos	(x ) + -0*	x		) )-	 cos(x)))* +2	*cos( x) ^	+4*+3*sin(x )	
+-	x^4	+  cos(	x)
++cos	( x	) ^-4-	3 *x	^-0* 4	* cos	(	x	) *	+1*cos (x)^	1	*+2*	cos(	x)^-0
+sin(	x)^4 +	-	cos(	x)^1 * x^0
++cos(x) ^1+ +2* sin((+4	--0	*cos(x)	^	-2 *	x	^ +1*	sin(x	)  *x	^	2))	^0	*	+0	* (+4*	sin (	x )	^-2)  
+	sin	( x )^2
+- sin(	x) ^	4 + -	-1
+-3
++0
+2	*sin ( x	)	^ 3- x ^ -1* +2	*		sin(	(+2 *	x) )
+sin	( x	) - +2 * cos(x ) 
+-sin( (-1)	)	^-2
++	x +4	* cos(x )	^-1* +0*		cos( x	)	^+2	* sin	(x )
+-2-2*	sin(	x	)  
+-	0
+0* sin (	x)^4
+-0+-	x*	cos((+x -+2*cos (x)	^	4	*		cos (	x)*	sin(x )	* sin ( (-3*cos (x ) ^-0+	0	*sin	(x) ^3*+3	*2	*	 cos	(x) ))	)	) *2
+4
++sin	(	x	)^+3--2 *x	*	-3 *x 
+1*x+1*cos	((+	cos(x )^	-4) )  *-1* 1
++	cos(x)+0 *	(sin((	cos( (-cos(	x	)  +-0	*2	*cos	(x)	^ 2 ))^3)) ^	2)* 	cos	( x ) 
+cos((- cos(x ) )) ^	-1
+4	*	x	^	4
+0*x^-3+ +	-1*cos(	x)  
+-	sin( x) ^-1+-	(+0	* sin( x	)^+4)^3*3 *x	*-3
+3	*sin ( x)+	-2* -2 *cos	((- 1))^+1	* +4	
+-0 *x	
++1
++	cos	( x )
+-3	* cos	( (- -1) )	
+-2*x^ +0
+ cos(x	) ^-2
+-2*x
+1
+--3	+ 2*x^+0*	+2	*cos ( x	)^2	*sin(x) 
+	x ^1+1	*0*sin(x ) 	
+-4
+- 2+2*	x*  sin((-2	* sin ( (0*	sin(	x)) ) --0 *cos((-3*	cos	(x )-	2 *(- (-sin( x)  +4 )^ 2)  *  cos (x )^ -1*	cos((-3)	)^	+1	* 1) )*4*cos((1*cos((+2	* sin (	x)^+2 + sin	( ( x) )^	-1) ) ^4	- 2 *sin((- +4)	) *3	*	x	^ 2*-4))^ 1	)	)	 *	2
++0- +1*	cos(	x )^1*	-3*x * cos ((-4*	sin ( (4	*sin((-4 *x	 --cos (x	)^3*	x	 *+2 * sin	(x	)  *-1))))))	 *	3
+1+-2 *x	^ +3*cos(x)^-0	* +3	*	x	^1 * +3*	sin(x ) 
+4*cos (x)^3
+	sin (x )	
+	sin (x) ^2-	- x*	 x ^2*	x	^-3 
+++4
++	cos	(x	)^+0
+1--	x	*	 cos (	x)		*	4	*	cos(x)*+2*cos(	x	)	 
++4	* x	^-1
+-	x
+-4	*	x^ 0
+2 + - cos	( (1 *	cos ( x )	^1	-	+x	* cos	( x )  *	x	*	 sin(x) 	) ) 	* -1*sin	(	x)	* 	x
+	(+4	*cos ((0 *sin ((2* cos	(	x	) )) ) ))
+sin	(	(1	++ sin	(	x	)^	1 *-2 * cos( x	) *+3* cos	(x	)^1	) )^-2++	cos(	x)	*-1*x *cos( x )^+4	
+	cos((0+ x^ 0	))^3
+-+2- 1*	sin (	x )^ 0*-0	
+-sin(	(3*	(0*	cos (x ))) ) ^ -1
++0	+	(+4- sin( x ) *cos	(	x	)^ +0 *x^ +0 )^	+2	*	x	^ 1 *sin(x	) 
+2 *x	^ 1
+sin	(x	)	+- +1*	 x *-3 *cos(	x )*	0
+1*sin ( x)^ +1
++1	* sin((-2	*(0 * cos(	x ) ^ 4)+	+ sin(	x)^+0	))	 -	+1 *	sin (x	) ^2*2* (x	 +	x *cos( ( x^	+4))	* sin( x)	^ 4	)
++3*x	
++3
+2 *	sin	(	x)^-3	+ x 
+ x	^ +1 -+	-2
+-1	++0*3	* cos	(x )	 *3 *sin(	x)*+2*sin (x	)
+1*x
+x	^+2
+ cos (	x)
+-x^-1	+-	sin(x ) ^	3	*sin (x	)	^ 1	* 	x	^+4*	+2*sin(	x	)^+4
++0+ +3
+-2* cos( x )^3+ 1*x* 	cos((	cos (x) ^	1) ) ^4
+1*(+	cos (x)^+2	+ 	sin( x)) --0	*cos (	( x))^ 2
+-1*(+4 *(+ -0	- +sin( x )^	-0)	) 
++ sin(	x)- 	cos(x )	 *	x
++2 -3* x	 
+-cos	( x)	^1
+-	-2
+cos	(	(+1	*	sin ((3*cos	( x	)^1)	) )) ^-2+ 4 *x ^-1 *1	* sin ((x	 +	-4 *cos(	x)	^	1	*-1	*	(x^	-2)  )	)	^	3 *+1
+	cos( x)  -+4*	x *2* sin (	x )^-1 *0	* cos((+0)) ^ 2*	+1 * sin(x)		
+-0	*cos	( x)^	+1
+-0	* cos	(x)	^	-4
+-1+	-4	*	x 
+-	cos(( cos	( (--2))^-3+	--4 *2	*sin( x	)^-2	* -2	) )	+	1	*sin	(x	)	*sin( x)^ 3 *1*	sin((-1) )	^ 4*	sin( x )		
+cos (	x	)^-2
+4* (	x ^1)^1-+ cos(( cos	(x	) ^	1+	- x ^	3 *+1*sin (	(+2*x	--cos(x)*4 *+2	*x * +3)	)	^-0 *	x^ +2	)) ^1 * x	*(+2	* sin (	x)	^0++	-4* x ) ^3
+-2*cos(	x) ^	0
+	x 
+1	*x^3 -- cos(	(cos(x)	) )
+ (+2) ^	3
+sin(x	)^1-+3 *	cos (x )*+3 *cos( (-1+--3 *	2* cos(x)	*	sin	(x)	*2*	sin ( x) ^ -2))	
+1*sin(	x	)	 - 3 *sin( (0	*cos(	x)^ +3	+	+ sin (	x	)^	2 * x))^	-0
++1
+cos (	x)- +x	 *-3 * cos(( cos	(x	)^	-0 --	+1* x	^+2 *+2 *sin (	x )) ) 
+	cos (x)
+-	-1+4*sin(	x )	*	0*x^ -3	*	0	*cos(x)	^ -2	
+3
+-4*	sin (	(-1*cos(( x^3) )	^2))
+4 *	cos	(x	)^3	+ +1 
+-x^ 3	-	1	*1*x^3*		sin	(x)^+2*3 *	sin(x ) ^3 
+2++4
+-x^ -4
+ x^ 0+-3*cos( (1+ -sin( x) ^-0*	sin(x	)*0	*	sin(x )) )	^	1	*	3	* sin (	x	)^ +2 * sin ((+2- cos ( x )	^ 4*3 *sin	(x)	))^	-4
+ x
+ x ^ 1
+cos(x) ^	3
+3*cos(	(2 *sin(x	)	+  cos(	x	)))	
+sin( x)	^1+		x^1* -1 * sin((+0 *	x 	- + -3* 	sin((+3 *	sin(x	) ^	4) ))	) 
++3 *	cos	(	(+cos ((+0+  sin(x)^-0*0 *x *	2	*	sin(x )*0)))	)	 -sin( x	)*-2*sin (x)^ -3	*3	*cos(	x)^4 *(-3--4 * sin(	x	)^0*	sin((+	sin	(	x) -+2* cos	(x)	* 3	*	 sin(	(+sin	(x) ^	0 -+2*	cos ((+0))^3* -4	)	)^3	* 4*x	 )	)	* 0*cos	(x	) ) 	
+2	*	cos (	x)^+4	+	sin((-4*sin ((0 *x	++ cos ((-4* cos	(	x ) ^+3))^+3*-0	*cos ((-3*sin(x)	) ) *4 ))	^	4+ 3*	x *	 cos((1*	sin (	x )^ -0))^+3 *	 (-(	sin (	(+2 *sin(x )^2	--	0*-3*	-1	* cos(x)^-2 )	)^ 2+ +sin((+1 *cos (	x))	) ^1*	-0*0*cos (x) ^	-0*-4	* sin(x )  )^3) ^	0 *	+3	*sin (	x	)^ +3))  
+-1 *x	^2++4 *	sin ((1	* x^1)	)	* -3 
+sin	( x)^+2+	-cos(	x)^	-1 *	x	^4 *	2* x 	* 0	
+0*	x^1
+(3 +-3	*sin(	x ) ^-0	*+2 *	 x) -+3 *x*2*sin( (+cos ((+0--	cos	(	x)	^2*sin(	x )	^4	) )	++cos(x	))	)	* +1 *+3	
++1*cos	((- 2	+ 1	*	4* sin (	x)^1	)	) 
+-3* (-sin( x	)^ 0)	^	1+- (-x)  * sin( x)	
++	cos	(x	)^2+	-	x *	2 *0 
++ 0
+- 2
+sin (	x	)^1
+0*(+4* (-cos	(x	)	)+ +1 *	cos	(x)	^	1 ) ^-1- +3*sin(	x)*sin(x	)	*	 cos	((-+0	+	-4	* ( (-x+		sin	(x ) ^ 3*3*x^	4* cos (	x	)	) ^ 0	- -0*	cos((4) ))^-3)) *(2* cos	( ( sin	(x )^ -0 --4*x	*cos( ( cos(x	) ^1-	+2 * cos	(	(+3*	x	)) ^+3*0	))^	-4	*	 cos	(	x) ^2*-4*(3)	^+4 )	)+ 3	* sin	(	x) ^	-0 *+2*1*	cos(x))	^ 2
+cos(	x)	^ -3
+ x ^3
++	sin ( x	) 
++0 *cos	(x )	^1	+ -2*sin	( x)^ +0 *x	*	4 *	cos	(	(1 +	+	x ^ -4 ) ) ^	1	* +4*	sin(x	)^	-3
+-4*(-3	*	x) + +2* 4	*	x
+++0 + 1*cos(	x ) * cos( (+0-sin	((+0	-sin( x )^1*+3*3 *	sin(x) 	* +4 *cos(x) ^	2))^4	* 0* ( sin (	x	)	^ -0) 	*	cos (	x) ^3 )) * 	x	^ 4
++-4	- -3* x	^ 3*+4
+0	*sin	(	x )+	cos ( x ) ^+3 *+4*	+3 *	cos (	x) ^+0*	0* x 	
+3+-0
++4*	sin( x	)	+ (-3 * sin(x)^-0	+		sin (x	)	*	cos( x	)^	-1*-3	*	cos(x) 	)	*x	*cos ( x ) 
+ cos (x)^ +2
+3
+-2*	(cos(	x) ^ 1 +	-2* 3*sin	( x))	+-2 *sin(x	)^3	*	 x* x 
+-0	*sin ((2*	cos(x ))	)
+ cos ((x	^	3	-	+	x	*	-0 *sin (x)	* 	x	^2	) )^4
+-cos	(x)
+	cos (x ) -sin	(	x	)^	-1	*	-3 *	-1	*	x*-4	
++4*cos ( x)	^3-	3*cos (x) *2*sin	((-1*	x )) ^2* 3* x * +3* cos(x )	
+1
+1-+1
+1* (1*( cos(	x	)^+2) +0	)	-2	* cos(x)	*	4* (+2-+-2 *	4 * cos (x ) *	 cos((sin	(x )	^-3))	^-2	* +2) ^-2*2	* sin	(x) ^-1 *	+4	*	x	^ 4
+-4*cos(x )	^ -4++0 *cos(x)	^+4*	2 * cos (x)	^ -2
+2 *	sin(x	)^+0 -	0 *	cos	(	x	)
+ x	^3 +	0 *x		*	3	
+-4	*x ^	3
+x	^-4-	2	*	+3
++3	* cos ( x	)^ 1
+2-	+2* (-cos	(x	)^ +1-+1*sin( x	) )	* 0	*(-4) ^+2*1 *	( x)		* cos(	x)
+cos	(	x ) 
+ cos (	x )	 -- sin(x	) 
++0*x+	+x ^	+3	* +1 *sin (x)*	4
+3 *sin	(x)^	+0	- 3 * 3
+sin (x	)^-4	-+ x^ +0
+-sin	( x)^4
+-2
+-2 *sin (x) 
++4-3*-0*x 	*2	* cos	(x	)
+4	*	sin (	x)^+2
+1 * sin(	(+-4 - 1* sin ( x)^+3	)) -	+ 3* sin	( (+	cos( (+sin(x)^	0) ) ^2+	+-3	*	+1* cos(x)^2*-2 *cos	((3	*cos (x ) ^+4)	)^	4*sin((1*sin (	x	)+-3*sin	(	x )^1 *sin (	x )	*-2* sin( (- cos (x)	^ 4)	)  )	)^+3))	*	-4	*cos((-+1) )	*3	*cos((-x^	+1)	) 
+-0	*	x +-3	*	sin ( x)	^	4*	+1	*x^3	
+3*	sin(	x )	^2
+-4 -+x^0
++	sin( x)	^+1 - +3* sin	((4 - 4	*(-4	* x^	+3- +1 *cos ( (+ cos ( x	)^+4	-	cos(	x	)  ) )	^	3*	cos ( x)  )	^ 1	*2) )	
+sin	( x	)^-1	+ ++2	*	 cos(	x)	*sin( x)^-1 
++3*	(-2 *sin (	x)	)	-	-	2
+ sin ( x)^ 3
+1 * sin	(	x )	^4
++	+4
+- +4	-cos (	x)	 *+4 * 	x	*	0 *	cos (x)^ +0
+-1*(cos(x	)  +++1 )^+0
++	cos ( (+4* (-	+4) ))^4+3 *x^+1* 3	* cos(	x)
++3*sin	(	x ) ^	-3
+-	cos(x	)	+-cos(x	)	
+3 *	x	
++4*cos(	x) -	-	cos(	x )*2	*-0 
+	sin ((-0	* sin(x	) ^ 0-	sin ( x )*-1*cos	( x) ))
+	x	^	3
++0- +1* cos(x) 
+4*sin(	x)  ++2*	cos( x	)	*	x^	-2	
++ +0	- +1* x 
+	sin	(	x)
++	x	^ +2-	+ sin((- x-sin(	x )*-4 *-0 *cos(	(-0*sin (x)	--	-3	*+0 * +0*sin	((-	-2- cos	(x	)^-4 *	sin(x )	* 4*sin( x)^+1 *cos(x	)^0	))	)	)^ 4* x	)	)	*	+0* sin(	x	) * -4	
+ sin(x) ^+0
+-cos(	(-3--	x ^-0*-4)	)
+-0*	cos( x )^3
+-	x-	+ 0 * sin( x)^	+2
++4	* (-3 *x 	++	x	 )^ 3
++	cos(	x)^+0
++2* sin(x	)^	+2
+	x ^-1 + sin	(	x)^	+3 *	-0
+0
+-	cos(x )
+x 
+1	*(1 *x )^	3	-1*	4*sin(x	) *4 
+-3-	-0	*	x^ -0 *cos ( x	)^	+1*	cos (	x)*		x^-0	
+x^+3--	cos(	x	)^	+4*	2*	0	*0	* sin ( x) ^+2	
+-2*cos(((3* sin	(x	) )^2)) - + (+0 * (	cos(x ) ^ +1))	^ -2*+2 * sin ( x)	^ -0*sin( (-0	*	sin	( (0 *x)	) ^ +2))	^0	
+sin (	(-+0))^+1
+2	*	sin	((+	+3+	sin ((-0*	x ))		*	4	*cos(	x )	*(sin( x )+	 cos ( (+ 2))^0*	x * sin( x	) ^2	)^1	) ) ^ -2
++4 *x-	-	sin	((0	*cos( (3	*x))^	-3+ +	+2	*1*sin	(	x) ^+3 *	1* cos(x)^ +1 )	)^ +2	*	-4 *(-3-1*cos	(	x )	*	sin	((0)) 	*cos ( x)	 )^3*(+ x	^	0)^ +0	
+-1	*cos(	x)
+3*	sin(x)
+-2 *cos(x) ^	-2--	sin(	x)*	+1*	sin	(x	)^ +0 *	sin	(x)
+0 * (-	2)^ 2
++2
+3	*x
+-4 -1 *	cos (x	)*	 cos	(x	) *	0*	cos(	x)^2 * x 
+	cos ( x	) 
++sin (	( cos	(	(-sin (	x ) ^0-sin(x	) ^	+1 *4*cos(	x)		)	)^-3 +	sin(	(2	-	3	*	cos(x) )	)	^ 1*+4*	(- x ^0) ^4)) 
+sin (x )+ +	4 * -4 *	cos(	x )^	0	*0	*		cos(x )
++ sin ((cos (x	)^	0)	)	 -sin( (-	cos ((-	cos ( x) )) ) )^4	*	cos(x)	^1 *	(-+4+ +1	*	cos	( (-0+4*(-	cos(	x ) ^+1	-	cos(x )^+3 )^0 *0	*x^ 2 *	+0* -4*	cos( x )	))*	-0*sin( x )^ 2	*	0	)*	1
++	cos( (-x^4+	+3 *	2 *	1 * sin( x) *cos(x )	^4)	)^	-3-+x  * sin((-4	*	cos(	x	)	^ -2) )	*(-1++2 *	1*x ) ^-3 * 3	*sin(	(-3+	+ +0 ))	 
+4*sin( x	)	^	2
+0 *	sin	(	x)^4
+0* cos ( x)	+-	2	*	1*cos(	x) *	cos(x)^ +2 
++	cos ( x )
++2 - 1	* sin ((+	+1)	)^-2*sin( x)^	-4*	+1 * cos	((-0*sin (x) ^	0) )^2* x	
++ sin	(	x) ^ 1 -x	 * 	x^ -4
+-cos( (-2	*cos ( (4*(4	--x* +0 * cos	(x	)		)) )^4- sin((4 *	cos	((+ +4+sin(	x) * cos (x) *	cos	( x	)	 )))) *(- 4	-+ sin( (+1	* x ^ 2)) )	)	)
+4	*cos (	x )^	2--	x	^1
+1 -+1	*x	*	3	*3*cos (	x )	 *	+1 *cos(x)
++	cos(x )	+ x * cos(	x) ^-2* x	^	0* cos( x)		
+2	*sin(x )	^ +3-x *	+2*cos ( x	) ^	+0*	-4*	cos(	x)^-2 *	-1*cos (x) 
+sin (x )	^	2
+2*x
+-4 *x	 +	3	*x^ +2
++cos((2	*sin((+	cos(x )^	1))))	- -sin (x)	^	-0	
++cos( x	)^+3- -(+	x  +  sin ( x)^2*	0*	(-4++ sin(x )	^	4*	0)^2* 0	* 1*sin((++3))^4)
+	x^ -0
+-0
+-2 + 1*	sin((+1*	(+1	*sin (x ))^+2- 0	*	cos	(x)^-4* cos ((+ sin	(x	)	)) * +2 ))	^+0*	 cos	( (+0 *sin( x)^+3) )		*4* (-1*	sin (x )^	-2)^1
++cos(	x) 
+0 *(+3	*sin	(	x))^ 3
+-4	*	sin ( (-sin((0	*sin( (-	cos(x) +		x^+4*	-0 ))	^	3	+	- (+4 * x	)	^3 * -0 *	sin(	x)		*2) )^ 1-		sin(x )^0 *3	*x))	^+2
+	x ^-4+ +(-4) ^ +2	* +1
+sin(x)^ -4	-	0 *	sin (x)	* +2* cos (x)
+	x^+1
+-4	*	cos (	(	cos(x	))	)
++0
+-3*sin( (cos( x)^0-	+ -0*4*	-1* sin(x)^ +1 * x )	)^1
+--3	-	3*cos (x)	^+2 *	+1
++ -1
++4 * sin (	(2* sin	(	(4*sin(x)^	1)	)  +x^	+2	*	2*x ) )	^4-4
+- sin (	(2 *x	- + cos	((-0* sin	( x )+x ^-4*-1*	cos(x)	^	+1*2*cos(x) ))))++1* cos((+3* x))^ -3* sin	(	x)^ 2
+-4+ 3*2*-4* 2 * sin	(	x	) ^ 2 
+-3	*sin (	( x	^3) )^ +3 --	cos(x) ^-3 
+1 * x^	1
++sin	(x)^4
+0 *sin(x)
+-	2 +-1* (3 *	cos (	x )	)^	+2
+- +1
+-4	*cos((+ cos (	x	)	- -2*2	* 	cos	(x )	^3)	) 	-4	* cos( x	)  
+3*x^-0
+0	* cos ( (0 *(+2*sin(	x) ) ))
+1 *cos ( x )
+2 *	sin	(	x	)	^	-1-+ -0*3*+4
+-0*	cos(x) 	+4	*	(+sin(x)	 -x  *+3* -1* x		*4)^-4	*+0	*	sin(x )	^+3	*	cos (	x	)^0 
+0 * x- -0* x*	-1 *x^ -1* 2 *cos ( x)  *	2 *x ^ +2 
+-1*x^2+1	*cos	((-x^2+	cos	( x)  *-3	*x^	3 )	) *(-x 	--	x 	*0) ^4
++2*cos( (+(++3)^-1)	)	^	0
++3	*cos	(	x)	
++ x^2
+- sin ( x)	^ 0
++cos(x)	^ 3	+1* cos( x	) ^ +0 * 	x ^	0	* (-2	* (-1 * sin	( x	)	^0-	+cos(x) ^-4	*	+2	) ^ -0-	-3	*sin( (0*(+ cos	(x	)	^0)	+ 2 *	cos( x	) ^2	))	^	-1*	sin((cos (x	) - 0	) )^-3* 4	*sin(	x)	^3	*2 *cos	( x)	 )	^+4
+-cos ((0	*sin ((+x) )^ 0 -+ 3 * +0* (+-4) 	))^2	-3*4 *2*	sin((0*	(-1--x	 *	1	*	x 	) ^+1 +	+1 *sin (x)^ -3*	2*x	* 3 * sin	((+1*	sin	( x	) ^+1-sin(x)^	+2	*	x ^ 3*	-3*	x)) ^	-0	)	)^ +1 
+1
+	x -	-2 * sin (x	)	^+4	
+3*	cos ( x	)	^-2
+1*x 
+	sin((2*x	))	
+++0
++ x
+2 *cos	( (3	*	x --	x ^	+4* 1 *2*cos	(	x)	^	4)	)+	4*	x ^1 
+-	(-+1	+0*x *	1	*4*	+3 )	^	-1- + cos((+2 *x+3	*cos(	x )* (-2 * sin(x)	--x		)	^3	*	cos(x) ^2 ))	*	cos(	(+2*	sin	((-2*	cos	(	x	)) )-	-3*	4	* cos ( (3	*	cos(x)+1 *sin (x	) ^+0*3	* x ^ 3))	 *sin (	x) 	*  x )	) 
+-sin(x) ^-3
+-cos	(x	)^3
+x
+ sin	((-	+0-	-0 *	4*sin(x	)^-4*+4*x^4*1 )) +- cos ((-1	*cos(	x) ^	4 -  cos (x)^	+2*	4* cos(x)^2*		x ^	2) )	^+1	*	4 *cos (x	) 
++cos	( x	) ^+2+cos (x )
+-3*x	+0*sin	(x) ^3*-3 *sin(	x	)	
+cos(	x )--x	^3*	cos( x )	
++4
++2* cos(	(-2*sin	((0	* cos( (-4* x	^	+2))^ 0))) )^ 4	-+2
+sin	(x )^1
+4* x
++4*x	^-1
+ sin(x)^ +2+ 	cos(	x )		*+1*sin	( x	)	^3 *+2 *	sin	((+	x^ 0)	)*1* cos(	(+	2))	
+-1
+-x  + -2*	x^-4*3	
+cos(x)	^	3	++ 2	
++2 -	-	0
+-3 +- +2	*4
+-	3+2	*cos ( x )^ 1	*2*cos	( x)  
+3* sin(x)
+-0	++x		*2	* cos	( x)
+ (+ sin	( x)	)	^	+0- sin	(x)^	-1	*0 * sin((-4))	*	 (-1)^ -3	
+-1*cos ( x	)
+3	* cos	(	x)^	3
+sin	(	x)
++3
+-3-	-cos	(x	)	^4
+-3	*sin ( (- +0) )	^4
+4 *cos (x)^1
+-0*x
++1*	sin	(	x )
++1
+3	*	x ^4
+sin ((0	*x	+	- cos((x	) )	 *	0*x) )- 4* x *	2	*sin ( x ) 	
++(+	cos(( x	)	)^+2	-3 * sin( x ) ) ^ -3- 1	*+2*+3*	x  *  sin(	x)	
++	sin( x)	^3
+- 1+0*	+4* sin	(	(-	cos(	x )	))  
+-0*	x^-2	+cos((3)	)*+2 *	 x	^0 *	3	*(2	* sin((0	*	x ^+0	++ sin(x )	^1*	2 *	(+4* x+3*	cos( x	)*4	*	0*cos( x) ^1 ) 	) )	)	^ -0
+-cos (x	)^ +4
++-0
+x ^ +0
++4*sin	(	(+1* cos( x) +cos(x) 	) ) +4*	sin	(	(2* sin ((sin(x)	^+3))^0))
+-x		-	--3*	-3 *x^0 *2	
+sin	( x )^ -4+4* cos(	x) *-4 *	x ^3	*-1 * cos	((+2	*cos(	x	)^	-4-	4 * sin (x	)  *	1* cos (	x)^4*	0 ) )^+1 
++1 *cos	(x	) 
+	x^2
+-4 * x
+3
+	x^+3 +-2	
+-cos(x) ^-1
+cos(x	)	+ 2 *sin(	(+sin (x	)	) )  * -2	* 	x^ +4 
+-0 *x^-4
++x	
+(4* sin(x)	)^ +4 -1*sin((	sin	(x	) ^ -3+ -0* sin ( x	) ^ 2) )	*+0	*	x^-3* 2* -4	* x ^	4
+-	cos	( x)	- 2* cos(	(0+ +0*	sin((+cos(	x	)^	2++4	* sin(x)		*	+2* cos	( x)  * sin(	x ) ^+2)) 	* 0* sin(x)^-2)) *	+3	*sin( x ) ^	1*-3*	sin	((-2+	sin( x	)	^ +0* 2*cos(	x) *	cos	(	( cos (	x )	^ -0+2*x^+2*0*	1))	^	+3*	1 * sin( (+ cos( x )- 1 *x	*x  *-4*sin(x	) ))	))	* cos(x)^+3	
+	sin(x)^ -2
++3--(4 *x	^ -1) ^ -4	*-2* x ^-1*0*	(+2*sin(x	)^ -3)		*		cos	(x )
++cos((+2 *	cos (	x)	^ -0-	-	x ))  - cos((-2) )	* +0 *(0	*sin(	x	)	- -+3 *+3 * 	(1*	cos(x ) ^+3) ^ 3 ) ^4*	 (-2	*x ^ -1 -0	* x	)^	2 *	2 
+4*	cos(	x	)^	4	- sin(x)* cos((sin(	x) - +	+1	*	+2*sin(x)	*	+2*0 * cos(x) ) ) 	
+x^ 4	-+4
+- 0- x^	+2*	x ^	4
+-cos((cos	( x)	+1	*x	*	 sin(	(-3)	)*	-0)	)	 +	-	x	^-3
+2 *x
+-3* cos(	x)	
++0 *cos(	x) 
+4	*cos( x )
+0*	cos (	x	)	 -+0	*	sin(x )^	1
++4 *(0) ^	-3
+4	* cos ((+cos	(	(- sin	(x	) ^4- +-0)) ^1)) - 1	*-2*	cos((4))^-3	*	-2 *sin(x )	 *	2*cos((3 *cos	((-cos(x)	^ +1)	)^	4 +x  *	3 * sin ((-(-cos ( (sin	(	x)))	^	-1- 0 * -2*	x ^ 1*	 cos (	(1 *	sin(x	)	-	cos ( x)^+0	*	sin	(	x	)^+4*	0 *	2	)	))))		* sin	( (+ cos(x )^+1+-sin((4 * sin(x)	^	-0))^2*1*x^+4 * (-	0) ^	0)	)	^0)	)	^ -3
+-	-3
+-1*cos	(x)	-	+	sin ( x)	*3*x ^+1*  cos(	x)	^	3 
++1	* sin	(x)^0
++3*x  -+sin(x )	
++4*(0*	sin (x)	+-3 *	x^	1	*1*	+1*	+3 *	x )	 - +	cos ( (- x-4*x^-2* +1* 0*cos( x) ))^3*-1*cos( (-	cos	(x)^2)	)	^ -3*1 *sin( (1*sin( x )	^ 4-- 1*+2	* 3*	+4	*sin (x	) ^0))		
++ 2
++ cos	(	x)
++2+-2* sin(x)
+(1)  - cos (x)	*0 *sin((-2	- (sin	(	x)	^4	+-3*x^ +0*	x))	)^	+1*-0* cos((- +1) )^+2 
+	x	
+2 *x
+sin	(x) ^ +2+	1*cos(	x)	*	+0 *(0* sin((-4	*x )) ^-3)* 4* sin (x ) 
+1 *sin(x)^ +4
++	cos (x	)  -+4	*	sin	( x ) ^2*	cos	(	x)^2*	3 *	1*	cos	(((+	(+	sin ( x) ^-3 + 2 * sin	(x )	^-3*	0* +4 )	^	+3)	^+0) )		
+-0+0*x*+0*-0	
+	sin(	(sin(x )^+1	++0	* x	^-3	))	^+4
+cos(x)	^	-4	-	-sin((0	*cos (	x	)^	+0-	+x^-3	*+0 * sin (	x )^ 3 * cos (x	) ^ -4)) ^+0*-0*cos (x )^+2* +1*cos (	(-3))
+4+sin( x) ^	4	*	cos( x )*  x^+3*2 *	cos	( x) ^	-4
++1	* x ^+1
+x^ +2 -1	* sin ( x)
++sin(	(-	cos (x)	^-2	+ +4	* x	 *	3 *	sin( (2))^0) ) 
++	cos	(x	)^	3
+ x  +	+cos (( x^	-0))	
+-x	
+	x^+2 -+2*	cos (	x)  *	+3 * x*4 *sin(x)^-1 
+-4	*sin	(	x	)^-1
++3*x
+4	*	(+4 *x^	0 -	2* x*  cos((-4 *	sin	((cos (	x ) )	)+	- 2*0*	-4*		cos(x)	 ) )^+4	*sin ( x)^	0	)
+2* sin (x) + +4 *sin	(x )^ +4	
+	(+0	+	0*cos	(x)	*+2 ) ^1
+-+2
+-	x + -4	*2*-2	* (-3+-4)^	+0	
+-(sin (	x )		+3*cos( x )	*	1*sin (x)^	-1*x^+2*	-0)^ 2	++0
+-	x^	+0 - -1*0*	cos(x	)^-1
++x^4
+-x
+-0 *	sin((4	*cos(	(+3	*sin(x) )	)))	
+	sin (x) ^1
+-	cos ( x	) ^-3- -1*	sin	(	x	) 
+-1
+sin (x )
+3* sin( x) 	-	+0 *	cos ((+ 3-	2	*cos	((+3*x	^-4 -	sin	(x	)*	4	*	sin( (+0) )		*	cos(x)	)	)	 *	+3	*	-4	*	cos	(	x)^1 * (	x	^	2- +3*+3 )^0	) )	*		sin( x )*3*-3	*	sin( x )^	-1
+-1*sin	((+ cos( x )	^+4+	-	sin( x)^	+1 *	+4* x ^	-1 *4	* (	cos	(x)	^	1)^ +3 *  cos( x) ))	^+4-+2 *	sin	( x ) ^4* +3	*cos (x	) ^-2* sin	( (+ x))^2 
++1* x ^+2
+-cos	(x)	
+0	*	x^	0
+3 *	sin	(x)^	-4
+4--cos(x )*x^	1 
+- 0
++0
++sin(x	)^ 2
+	cos	(	x	)	+	-1
+-+0
++4*cos( x	)^+2	- -3* cos ( x )* x ^ 0 *	+2*	sin(x)*	-3*sin	(x)^ 0
+-0*sin( x)+	-	2*1*	+0*((+	x+ cos(x	) *	2 * sin(	x)	^+1*cos ( (2 ++4* sin(x)	^2))*+0*sin ( x )	))	^+0* 1	*cos(x	)	
+-4	* sin	(	x)	+sin ( x)* 2	* sin (	x) ^4*4*0 
+-	3
++3*	sin (	(x	 +1*cos(	x ) *cos	(x)^+0))^	-1
+-0*	x+ +2	*x  *-4*-1* sin	( x)^1	
+1*	cos (	x) -1	*cos(	x	)^	+0* sin(x	)  *	0	*	0	*	x	^-0 
+-cos	(	(-	1) ) ^-0-	3* sin (x )*cos( x)^ +4
+-+3
+0*	sin	(	x) 	-	4* cos(	x	)^ 1	
++-2
++cos(	x )^	1
++ +0
++1*sin((+4	*	x 	-	-1	* sin	(	x)^	-1 * 3*	4*cos (x	) * 1*cos ( x))	)-		sin(x)	
+2 *x	
+cos(	x)^0+cos (x) ^	0*+2*0*	x^+2*sin (	x ) ^	2 
+0+	+2*sin ( (sin( x)	)) *cos ((-3*sin	(	x) ) )^ 2 *0 *x ^	+2	
++ 3 +cos	( x) 	
+cos	((-1 * cos((+0))	^+1))	-+2* 0 
+ x	^	4-3	
+cos((3	*	x--1*sin(x	) 	)	)^	3+	2*sin( x)^3 *	4*cos(	x ) 
+1
++ cos (x)^	-4
+-0 *x
++1	* sin	(x)	 - 2	* sin( x)^	4* +3	* x 
+	cos(	x)	^-4 + +1	
+- sin(	(0*cos((0* sin(	x	)+ +(4	*	cos (x )	^	-3- +1 *	(	sin	(	x	) +	+1*	sin(	x))		)^0 * +4*sin ((+	0-		cos(x)	^	1	*	+4* cos ( ( sin(x)^ -0)	)	*	+3	*sin( x)  ) )^2*	sin (	x) 	))  --2*		sin ((+0	--	cos (x )	))* cos ( x	)		*1) )^	3	- 1*sin	( x)*sin (	x )	^-2*+3
+-2
+-4	-	+sin((-	cos((+sin ( x )^-3--3 *	+3* cos	(x	)	^	2 ))	^ +4) ) * 2*cos (	(4*x	++sin	(x)) ) ^-4 
+2 *x^1
+-2+4*sin ( x	)	 *sin (x	) ^+4
++x^	3	+ +cos( x)  
++1	*sin (	x	)	^	1 +	-	cos( x)^ +3 
+-	(-2	*cos (x	) )	^ 3
+-1 *	cos((+cos (x )	+	--2 *3*cos	(x )	))	 ++	cos ((+1* x-	3* cos (x	)	 ) ) *+1
+ cos(x)^-4	-	-3*x^	0*	 sin	( x ) 	*	(+-3)	^	2 
++2--cos (	x	) ^-1
+1*(sin( (+ +4)) ^3)^+3
+-+0
++	+0
+-	+3	--1*	(+0*x^1) *x* +0 *sin(	x ) 	*	-1 *(-2)^0
+4*sin (	(-2)	)^+1 ++ cos	(	x	)	*-1*	0	* (+x)	 
+-3
+4 * cos (x	)	^0
++2
+-	(-1*cos( (-2	*sin((	sin	( x)  +	+4*	sin	(x	)))^3)	)^	4)	^3	-0 *sin ((	cos(x )) )	^-2*3* 4*x 	
++4
+	x	+ +3*1	*	sin(x )^	-1*2	*cos(x) *+1	*	x		
+cos((-	(0)	^ +3)	)
+3
+cos(x )
++3* cos(x)-	x	^ 4	*sin (x )	*2* cos (	x)^+0
++	0
+3	* sin	(	x )	^-1
+4 *(-	cos(x)^ +3)^3
+-0*cos(x)	 ++1* x 	* 2* cos( x	) 	* cos	( (4*x ^-4)) ^+1	
+ x
++cos( (3	* x^ 0)	)^4
+1 *x	^ +4
+4* (+	1)	
+-4
+-1	+	1* (1*	cos	(x ))^+4* +0
+-1*	(+(+0 *cos (	x) ^3- 1*2	*sin(	x )^1	)+-+2 *0	*cos( ((-3)^	2	+	-cos	( x )  ))^ -0	*	-3 ) 
++ x^1
+1
+-	cos ((+4	* x+0	* (+sin(x) 	-+4 * cos ( x )		)*x^1* 3*sin (x))) ^-4	+0 *(- +4-	3 *x^	+2*4	*	sin	( x) ) *	2*0 
+3 *x ++3*cos	(	x )		*1
++ (x	+x ^ 1 *	-3* x	^1	*cos (x )	*	+4*sin(	x ))^+2+-4	*(x	+	+1*	sin	(x)	*x^0*2	*	+2	* x ^3)		* 1 *x* 2	* cos(x	)	 
+-2*x
+-1*(-2	* x	)^	2	--3* x	
+-4*	x ^1--	x^ 1 
+x ^	3
+- cos(	(-cos	((+2	*	x) )	^0 - 0*(4 * x ^2) ) ) ^ 0
+2	* sin	(x)^ 1
+2	*x^0--3*	x^-4 * 	sin(	x )^	-3 * 0	*cos(	x	) 
+-1*x^	+1
+--0
+-	(1 *x	^ +0) +		cos	(x)	*	2*x  *	(+4+	+0* x^ -3	*4*cos (	x)	 *	-0 )	^+4* x	
+-1	*sin ((3	* x )	)	 - - 0	
+-1
++1*cos(x) 
++0
++2 *sin	((+3	*x- 3	))	^4	-	2 *cos((-1	* sin(x) +0	*	cos	(x)^	-0*2	* +2* 0*cos(x)	)	)* +1
++1 *	cos( x) 
++x 	-		cos(x )^1
+sin(x	) ^0	- 	(-1)
+sin(	(3))	^-0
+-	cos	((4*sin	(	x) ) ) ^	-1
+4 +4*cos(x)^	-3 
+- -0 +3 
+-	x
++-0+	+ cos	((+3	-+ cos	((++2+1* sin ((	x ^4)	)	 )	)^ 0	* sin	(x)	^ -1 *	+0	*	-4	) )	*  sin( x )	^3 *-4 *	sin ( x	)^+4 * cos	(	x)	^	1
++	x^-2	+ 0 *x^-0	
++sin	(	x)
++3*cos (x)	^0
+-3 *x
++4	+-sin	( (+ sin( (cos(	x)^+3)	)^4))^ 4
+3	*cos( x)	
++1
+-	-2- 1*sin (	(+ x ^4) )
++4*	sin(x )  + +	(-sin (	x	)	^-0) ^	-4
++0 * cos(x)	^4
+-x ^-4
++	-4
+- 3+-0* (- -2)	^3	*	0
+2*	(+-1)^-2 -	sin	((+	cos((cos(x	)^1))		++ x	^	+4 *4	*	( sin(x)  -+1*	sin(	x	)) * 2 *	(-	+2)	* -2	))	*	2* (-sin( (-x^3	--4*	cos ( x )^	-2*	-0	*cos(x) )) ^-0--cos (	(1-sin(x)^ -0*	-2))	)		
+-cos( (-1*x ^ 0)	)	^ +1
+- cos(x )	^ +1- +	3*	 cos ( (+	(+0*x ^-0)	-	+0	*	(+3 * sin(x ) +	3*x*2*	cos (x )	^ 4	*	+1	*sin(x )^	-2	*	+0*sin(	x)	^ +1)^-0*	2*	2	) )  *	sin (x	)
++sin(x ) ^-2
+	cos((	cos(	(+3	*	cos(x	) 	+x ^ -3	*3 * x	)	)	))	^1
+	sin(x)	^2
+2*	(3	*cos(	(-+2))+cos	(	x)^1 *cos(	x)^-3 )
+	sin	( x)^+4+	-2 *x	*x^	0 * 	sin (	x)
+-0	*cos(x ) 
+x	^	+4
+-0 *	sin(x)	^0
+-cos	((- cos(x)	- --4*	x		*	-3	* x^+4)	)	^ 0-x*	3 *sin(	(-	2))  
++2* cos	((+x)	) +	+0*	sin((+-4)) 	*	-1*	x^4 *+2 * (-x)*+4	
+-2	-	cos((3 *	cos(x	)))	* cos	( (+1)	)	
+2
++cos	(x) ^	4+	+ cos	( (+3 *sin( x) )	)	^ -1 *4*sin(x) * +2 * x^-2*	sin((3	*	sin(x ) ^4+2* sin(	(	x	^4)	)^ 4 *cos	(x)	^+4)	)^ -1	
+-	0
+0*sin	(x	) -+0 *cos (x	)	*0
+	cos((	cos( x )	)	)	-	-3 *(+sin( x) + sin ((-3 * cos(x)	) )		*	-3*sin(x)	^2* +1 *	sin(	x )^	0	)^+1 
+2*(2 * cos( (+1) )	) ^ +4 -+ -3 * 3	*0
++x^2
++4*(+cos ( x )^-1)	^ 3- -2*	0*	x  *  cos (x) *	sin	(x )^	-2 
++2	--1* sin( x)	*4 *	0	*cos(x)	^-4* x 
+- 0
+sin( (+	cos( (	(cos	(x ) ^	+3	- x ^2)^1))^	0 -+3	* cos	(x	)	*4* (+ cos	(	x)^ 3)	^2*	+1 ))	^	+1- +3* cos ( x )^-2
+-x +	-4*x 	*x 
++-1-cos( x)	 *4 
+-3
++1*cos(x )	^ 3
+3
+ x^ +0-2* 	cos	(x) 
++2 * ( sin(x	)^ -3)^ +4+1*(+	-0+ -x * 2	) ^ +2*	-0	*cos(	(-2	* sin(	x )	^ +3 ++3	*	cos((cos( x))	)*+4*	0* sin	(	(-+2)) * sin	(( sin(x)- cos(	(-3*	cos(	x)^2	+	1	* cos(x	)	*sin (x )	*+4 *	sin	(	x	) ^-1* sin	(	x	)		))	) ) ) ) ^+2*		cos	( x	)	^	3 *	sin((4))
+1* x^	1 +4	*(	sin	( x)+ 	sin ((-1*	x^2 -	4*sin (	x ) ^4* x^	1*	1	*sin( x)^	-2*+4))	*	cos (x)^4 *+3*	sin((-4 *	cos(x )	^2+	3	*	x ^+0*1*	+1*sin	(x)	)	)  *	cos (x)	^	1 )	^	4 
+3 * (-2 *cos(x	)	+	2*cos	(x	) )	^ -2+	3*	cos ((cos(x )))
++1 *cos(( sin	(x)^-1)	)^0
+ (1) + +1	*	cos(x)		
+sin	(x )
+- cos(	x	)^1
++ +4-	+ +2	*	+1	*1
+4
++0
+cos(	x)^+1
++0 -	+3* cos	((-1	* sin ( (+2)) ^	3 -		cos	( x	)	^+3*x  *+4	*sin(x )^2	) )^3	*	cos	( x	)	^ -0 * 0*	(4	* sin(x)^0	+ 3 *	sin((+x^3--sin ( x	) ^ -2)) *	cos	(	x )	 *	+2 *sin(( sin(	x )	--1 * x	*2	*cos(	x)	^	-0* +1*	2 *	sin (x) ^+2	))^ -0	*  x^2)*	2* sin (	(+x +	1*	sin	(x	)	))	^ 3	
+++3
+x ^+3-+2 *cos(x ) ^ +1*	-2	*cos	(x)^-3*	x	
+-3 *sin	( (1*sin( (1*	cos( x)^-3) ) ^ 0	+	+x * sin(	(- x + sin(x	) ) )*2) ) -	2	*sin	((- cos(x	)^ 2	-4* sin	( (-4*	cos( x) ) ) * -0	*sin((+0*sin (	x)^	0 -	cos(x	)^+0))*	+1	*sin (x ))	) ^+4	*-3 * +0* (-3	-- +1	*	+1* cos	(	x)^-1)	^+1
+sin(x	)^0 + (-0	*cos(x) ) 
+1*	(4--4) ^3	+-0	*cos	((-4	*cos	(	x ))	) ^-3* 2	*x ^+4*-0*cos( x)	
++3*	cos(	x) -- cos (	x	) ^+0 
+-4 - (- 0 +	+0	* cos(	x) 	*	-0* x	 *-4)	^2 *3*(3	*	sin(x	)^-4)^	0 *	 x	^	1 
+-2-cos(	(cos ((+0)	)) ) ^-0 *cos ( x	)^-2	
+-x	+-1	
+4*sin(	(3	*x )) ^ 2	+	cos (	x)	 *cos (x	)^1*sin	(	x) ^-1	
+-3* cos (	x )+- x		*	-0*-0	
+1*cos	((+3* x		+	-	0*4*	cos (	x) ^-4 ) )-	 cos ( x )^	3*+1 * sin((0	*cos(x)- 0*	x^0))*	cos(x )	^	2*2 
+(2--sin( x)	*+0*x	^+2* 1*	cos(x	)	^ 2 *	 sin (x)	^	0)	^2
++	sin(x	) ^+4
+	sin ( x )	^	3 -	4*	sin( x	) 
+-0- +1*	cos(	x)	*2*(+0 * sin((2 * sin(x)	))	^0+	 cos(x	)	^0 ) ^	3*	+3	*cos(	x)^-1 *	cos(x	)  
+x	
++0*x
++sin	( x)
++2	+	2*sin(	(-1* sin(	(-1 * cos(	x)^0))^0) )	
+sin(x) ^	-2 ---4 
+- -3
++sin ( (cos	(x ) )	)
+-2
++sin (x	) ^+0
+	cos	(x	)- sin (x) 
++4* cos(	(+2))^3
+ cos	((0 *x)	)^+3- -3*		sin	(x)^ -2 *0
++ x ^ 0
+-cos	(	(-x	))
+3	*x ^+4+ +	cos(x) *-0 *cos( (	cos	( x	)+ cos	( x)* 3*	x ^+0 *x	 )	)	
+- 0
++ -4
+-3*cos(x )	
+--4
++cos(x)
+-3	* (++2) -+2*sin((3--x))^0 *		sin	((x-	-3	*sin ( x) ^3 *1 ))	^	4*+4	*	cos((+2 *sin (	x )) ) 
+++1
+3--1*cos	((-3 - +3	*	sin(x)^+3))^2*4
+2 * sin( x)
+	sin((1	- -cos (	x	) ^3))	
+cos(x )	
++4*sin(	x)	^ -2
+0--x	*	0	* x	*	cos((2	-+(3	* (- (+cos (	x) ^3)^	-0)	^	+1)		))		* +0	
+4 *	x^+3 + -1*	sin	( (3*cos((4	* cos	(x ) ))^	+4	-	cos(x)	)	) ^+0*3	*(4*cos(x	)^ 0)^ -2* +1	
+4	*x ^	1
+	cos (	x) ^	+4 -	+	cos( x )		* +2* (cos( x)	^+4) *	+2*	sin	((+ sin	(x	)) ) ^+0	
+-2	*	sin (	x	)+	cos ((+ -2	-	-2*-0*	cos( x)))^3*1	*(+0--(3*	x-+2 *	x	^0 *-2	*cos (	x )	^ -3 * 2* cos	( (- x ^ -2- x^ 1	*-1*	x ^	-4*1*cos (	(0*	x^	-1+4*4 ) )^ -1* +2*	x	))  * cos	( x) ^ 0 ) ^-2* sin(	x) ^0*2*cos(	( sin (	x) )) ^+4*+0* sin ( x))^ 4	
++	sin( x	)^3-	+3*	cos(x ) ^ 0*	2	* (-0) 
++3+4 * cos ((+(1	-0 * sin (x)	^	+2 *	x^ 2*	cos(x)	^-3 ))) ^	0*sin(x )	*1*x
+	cos(x)
++	x	
+x	^ +4++3*	sin	( (	((	sin ( (cos(x )^	-2)))	-	4*	( cos	( x ) ^ 2)	 *3* cos((+2)	) 	)+ sin(x)  * +2	*-4 *sin(x	)^	3))		*	+1
+1*x 
+++1
+4
+-+2- 2* x* sin(x )	^0	*	0
+4* x	^ +4	+	-3	* x		*	+3*2 *x^1*	1 
+ cos(x )	^ 1	- +x	 *	sin	(x)* 3*	( cos (x))	
+1	*sin((-1	* sin	((+	-1- +	3	*1 *	4	* sin(x	) *cos(x)^	+4 )) ^ 3	+ x	 *	-2 * (0 *cos((1))^	-0)	) ) ^ +2 -	+(3* cos ( x	)^	1	+ 1*	sin(x	)^2 *		sin(	x	) )^	1*	+4
+3* (1 -4* sin( x) 	*1	*sin (	x	)  *0)^ +1	- 4 *x^-3	*	sin((+0*cos(x )))^ 2	*	sin	(x)	
+-+0- +2	*-2* sin(	x)* 	x ^3*+4* sin	( x ) 
+- 3
+-4 *sin( (-	cos( x)) ) 
+	cos	(x	)	++ x ^3	* 0*sin (x ) ^	1*2* (-	0--1 )	^	2	*-3	
+-3*sin(x) +  sin	(	x	) * 1	*cos	(x)		* sin	(x ) ^1	
+3
+	sin( x ) ^	+0	- x ^-3* 2* 1 * +1*cos(	(+4	+ +4*-2*	sin	(x)	*+4	))
+-	x	
++3*sin ( x ) 
+	sin (x)		-  sin(x)*+0*	(4*cos(	(	sin (x	) ^-1) ) -+	sin (x	)^ +1) ^ +3
+-0*x		-	3* sin (	x) ^ 3*-0* x *3	
+1*	x
+(-sin(	x) ^ 1)^ 3+- sin (x )		*4*	x	^ 4	* +4 *cos(	(cos (x	) -	+1 *x^	3*cos	(x)) ) 	
+-0	* cos(	x	) ^ 3	-	+ cos	(x	)* 4 *x	^3 *	sin( x)^ 3
+ sin(	x)^ 1
++3
+0
++ cos (	x)^2
++4*x
+4	*sin	( x)	+ 0*cos(	x	) 	
++3	*sin	((0 *cos ( x) - + x*sin(x)	^1 *x  ))	
+0 *cos	((-	cos	(	x)^4) )^-1
+cos ( x)^+4	- -	+4	* cos( x)^-2 
+-0	* x ^-0
+cos (x)	^3 -	1 *+4	*	-0	*sin( (-1))	
+0
+-0* sin (x)	 ++sin ( x)	^ -1	
+2
++x ^	0	++ +4
++4
++3	*	cos(x)	
++ sin (x)^+1
++x^	-2	- 	sin((+sin	( (+0	*	cos( x )	^	1)	) ^4))	*	sin(	(+	2))^	-2 *2	* sin(	x) ^+1* x^ -0 
+2*sin( x ) 
++0* cos((+x	^-1 -	-0*	cos (x) *	x^ 4*-2) )	+sin (	(- x	))^1	*3	*3 *x	^	+1*	1
+x^-0
++sin((3 +	+ 3 ))^ -4
+3*	sin	(	x)	^-2
+cos (x ) ^	1+ -	cos(x	)  *	 sin(x)	* -1	*(-cos (x)^2+(0*	sin(	x	))	^ 4	*	2* sin ( x	) ^	-0	) *	-0
+-4	*	x ^3
+0 *	sin( x)	^+0
+1- +1*	sin (x)	^ -2* 2 *	-2 *cos	(x)	 *0
+x	
+3 *	sin(	x )^4	+	4 *	4 *x ^ 2* cos	(x	)	 
++1 *cos	(x	) 	+ x ^+2*	(+4*	x	^-2 +1*cos	(x) ) ^	4*-0*sin (	x )^ -2 
+0*	x^-1
++cos((+0	- 0	*x	*4	*		sin (x	)		) ) ^2
++0
++2* cos(x) ^-0
+-0*x^	4-+cos(x)	^1	* 2* ( (++0 +	 cos ((3*sin(	x	) +1* sin (x)  )) ^0*sin (	x )	^-4 )	)^ +2 
+cos	( (	x) )^4-+	x	*sin	(	(+-2-cos(	x)* 2* -4 ))	* 	x		*	1 
++	sin((- 0+ -0 *1	*cos( x)	)	) 	-+ cos ((-3 * x ^-3)) *		sin( x)
+	x	
+cos(x)	+1*(-(4 *sin (	x)^	-0)^	-3 -+0*sin	( x)^0 )^ 0 * (-	0)^	-2
+ (0-	+0 * sin	(x)	^4)		-3 *	(-0)^	2*sin	(x)	
++4 * sin	(x	)  +  cos	(x	)^	0
++2	*cos(	x)
+2* sin (x)^ +3++	cos( x	)^-1 * (2*	x^3)^ 0*1*cos ( x )	* x^	1
+x-	cos	(	x	)
+-3 *cos (x)	^4 - ( (-	sin( x)^ 0) ^-3	-0	* sin(x) ^ +3	*3)	
+2*cos	(	(+-4))^1
+-cos(x)- +sin ( x	)*-1 *	cos (x)	
+-	+3
+-0 *sin(x	)	
++cos( x)	^	0
+1
+-0 *	cos(	x)	^2 + 2*	sin	( x	) * x	
++2	*x +0*(-2* cos(x)	^2	+3*cos	((+x^ -1-cos	(x)	*+4*sin (x) ^	1*3 *sin	(x )^ +0	*sin(	x )^3 )) ^3*+4)^ +0* +4*sin	(x)^	4 *+4 * cos(	x) *	-1* x ^3	
++2* x
+x^4
+-(0) - 0*x	^0	*cos (	(+x ^ -3- 4*sin((cos(x)^-4)	)	 *2* x	^	0 *	-3	*	cos (x)	^3*-2	*cos( x) ^4	))^	-1* 2	* +3*sin ( x)	
+3
++2*	cos ((-2*cos	(x ) - 0 *x	^ -2*2*cos( x)	^0* cos ( x	) ^1	)) ^0
+ cos ( x)^	+0
++0 *cos( x	)^0
++(- x	^	-1)--3*x
+-2-	-+1	
+cos((+cos(x	)^	1)) ^ 0
+3 *sin (x ) ^+4
+-	cos(x)-x*+4 *	4 
+ cos( (-1*	x -+2	* cos	(	x )^ -1*0*cos(x	)) )	
+	sin ((+3*cos (x	) ^2	--1	* sin(	x )		* 2* sin(x	)	^	+1 ))	^ +0++0
+-3
+sin	( ( sin(x	))	)^ 2
+3	+	 x	* +0 *-4*(4)^-1*	+2	*	cos(	x	) ^	-1
++2 *x	+- -4*  cos	( x	) * cos(x) ^	3*+4	* x 
+-0*cos	(( x+-4* cos ((2	*cos	(x	)	)) ^4 * sin(x ) ^	-4	) ) -+2 *sin (x )*0*	x		*cos(x)		
++cos ( (4*(-x)	^+0)	) ^0- 	sin(x )^ -1*	sin	(	x )	*	+2*sin((-4 *cos	(x	)^ -3 +	-	1 *	-0 * x))^	1
+-0*(cos	(	x)	)
++	0
+sin(x ) ^+4
+	cos((-4*cos	(x)--cos ( x ) *-4 * +1* sin((3	+ 2 *cos(	(4	*(-2	*	cos	( x	)^4)	++	sin(x)	*	1	))  * 	cos ( x)	^3	*cos( x ) ^4	*	(+	2)^+1)) ))
++sin(x ) ^-2
++cos ( x)	^3	+	-1*	cos(x	) ^ -0 *+4*x^ +2	*	(-1 * cos (x)^	-4	+--2	* 0*	sin( x	)*		cos	(	x)^ 1*4 )^+3	*+0*	cos	(	x	)
++	0 + -0* 4	
++cos(x	) 	+-3* x  *		cos( x)^2	* 4* x^+4 
++	-1
+-x--	sin(x)*+2	
+	cos	(	x)^	2++4 *	cos	(	x	) ^ 2	
+sin((cos( x	)	^1	++1*sin(	(-	cos	(x	)^-0 +	-3*	x	^ -0 ) ) ^ +2 *0	* sin (x ) ^ 2	*	4) )	^-1
+	x -	+sin	( x	)^ +0
+-	3
+0
+2 * cos (x)	^	-3
+-2* cos(	x ) -		cos(x)	*sin(	x ) ^0 
++cos( x)-	+1 *	sin( x)	^-3 *	2	*x^ 1 * -0*cos(x )	 *	-3	*sin	(x)^1 
++4	* sin( (+4) )
+-2* x^0	- +sin	(x) ^	+3*1*	x	^	-0*0*	-2 *	cos ( x) 
+-3 +-	2*  cos	((+ -3	+ +0	*x^+0))^	+2	
+1	*	sin	(x)^	3	- x^	-1 *	cos	( x)^-2*	(-1 *	sin ((--1-+1) )) * 0 *x	
+1 *cos(	x )	^ 0 -+sin	(	x ) ^+4
+3 -	- x	^ 0	
++	sin	( x	)
++1* sin	((-3 - --0 *sin	(x) 	))^	-4	-+3 *	sin	(x)
++(4)  -1*	x ^-4	*	2*	sin (	(+2*sin( x) )	)^-2	
+cos(	x )	
+4	+1*	cos	(x) ^1
+ cos(	(+1 * cos(	x	) ))^0 -3* x	^	3 *	 sin( (2*( cos (x) ^3- - -1*sin	(x	) 	* 2*4 *x	) +	cos(x )^+3 * +2*	1*cos	( x ))	)^ -4* 0 *-3* sin(x)^	0 
++ +4
+-3 * x	^-0
+- 0--1*sin(x)^	-2 *1 * cos (x) ^ +0	* 4*	cos(x	)	
+-	sin(x )
++ cos((sin (x )^1+ cos	(	x )	 *	 cos(	x	)	 *-2 *+2 ))^ 2
+-	-1
+- sin((+x	+-+1*	sin	(	x )^-0*	sin(x ) ^4*	+2) )
+	sin(	x)
++4 * x ^ 0 +	sin (x ) 
+-	(+cos	(x) ^+4	-+ 0*-2*	x  ) ^+0 -+2*(4)	*0	* x ^	+4 *+3* cos	( x	) * 3*sin (	x )
+3
+2 *	sin ((sin (	(1	*sin(x) + 1	*x*-4	*	(+cos	( x ) )^ 1 ))^ 3)	) ^	+0
+4	* (+0 * sin(x)+	sin((+cos(x	)^ +2) )	 *sin	( x) * 0 *cos	((cos (x	) )	)^+0 )^	+4 -	 cos(x )^+2
++4- 1* sin( (+3)	)*0*sin	(x	)	^-4	*+2*	x	^+1
++2*	x		- 1*	(+2+	-cos(x )^-3	*-3*	sin	(x	) )^	4	*	cos ( x)
+-x	^-3 -	+3 * -1	*x^+4 *	+3 *	(0*x^	3)^-4 *	cos (	x)
+-0
+- -0
+-1
+2	* cos	( x ) ^1
++sin (x )^+0
+1 -	+2*x ^	3 
++ cos(x	)+	cos	( x)	^-1	*	0	*cos	(x) 
+ x	
++-4- +	4*1 * sin ((+	x^ -0))^1	
+-(-1 *cos (x )+	 x*  cos	((3*sin (( x^+3)	)	^+0 +4 *x *	 cos( x)^+2	*3	*3*cos(	x	)^1)	) *	sin	(	(+(-0	*	cos (	(-2	* x	)	) ))	))	^ -2
++2++0* 3	
+-1 -	cos (	x)^-4*0*x	^0
++	sin	((cos(	(+4))^	0) ) 
+cos( x)^ -0 -x 	*3	*sin( x	)	
+3	*	cos (	x )
+ x ^	2
+1
++1
++4* sin(x) ^	-3 - +cos (x )
++x^1
++1
+	cos(x)^+1
+-4	*cos( x) ^-4	-- -4
+3*	sin (	x)	- 3*x	*sin( x)  *-3* x	^3
++cos	(	x) +	4 *	+2* sin( x	)  * +3	* cos( x)^-2	
+2*x ^-1
++ (+ +2)-+ cos( (-cos (x	) ) )* sin (	x	) 	*	2*	sin ((-4* cos((3* sin(	x)^-0)	)^ 3))	^ +2
+-	-3
+3* sin (x	)--	cos(	( cos( x )	^-3)	) *+0
+3*sin ( x )	
+3
++2*	cos(	x)  +cos (	x)	*	sin (x) ^+2	*	sin( x) ^ -0	*0*	x
+2 * x 
++3*	sin ( (+3 * x 	+	--0*2*	sin ( x)	^1*	cos(x	)))^	-4+ - 0*-4	* cos (	(+sin (x )	^+3--4*cos	(x )		* -3	*	x	^-0)	)^	1* +1 * sin((+ sin( x	)^ 3+	0)	)^-1
++0* x^4++4 *	x *	4*x*	 cos (x)	^3 
+-sin	(x)
++-2- + 1* x ^+0*1*	sin ( x )^	-1	
+(-1 *sin (x	)^-2) ^-4
+-2
+2*	cos ( x ) ^3
++	sin((3* cos( x))	)^0--sin((+2*	sin(x	)	))	*sin	( x )^+3	*cos(x)	^ 3* cos((-2*x	^+3	+	+	+0* sin	(	x ))) ^+4 
++sin	(x	)	^-3
+0	*	x 
+x 	+sin	(x )*x  *1 *	sin	(	(3* sin	(x) ))	^	2 
+1*sin	(	x	) 
+sin(	x	)  +-0 * sin(x	) ^ 3
+cos (x) -1	*cos( ( sin(x ) +- (+-0)^ +4* 1	*	+3*x 	)	) 	*-3
+cos	( x) +-2 *sin((+	x	) )	^-0	*	-3*2* sin(x )		*cos((+ 4+0) )
+-cos (x)^ 2	--1	* sin(x	)	^+4 * +2 *	x ^	-2
+1* (-cos (x	)	^ 3)^3--3*	sin ((+	cos( x)^	4)	) * cos( x)* 2* cos(	(4	*x) )		*3 *cos	(( x	)	) 
+ x^+0
++cos(x	) ^4	- 3	*	cos (	(+cos( x) ^	+0))^0*	+0
+ x
+-+3	-	 (4*(4 *sin((x^+2 ++ cos(	(+-0)	)	^0	*	4* 	sin ((-x )	)* 1 * cos(	x) ) )	^ -4 -+ -2	* 1* x ^	0* 0 *(+0	*	sin(x)+-1*	-0* cos (	x) 	) * +0 *sin	(	x)) ^ -2)	
++1	+sin(x ) ^	-3*4 *sin( x)^ 0 *x	^+4*sin(x)^	2
+-	sin(	x)
+	sin	( x )	
+ sin	( x)^	-0-	0	*	(	cos ((+	sin ((0* x))^4	+	+3* (-3	*sin (x )	^4	+  sin(x)* +4*	x ^-4*2 *cos ( x )^	2*	( sin	( x	) ^-0)	^ 3) ) )	 + 0*cos(x) *	-1	*	( sin(	(- (-sin(	x) )-cos (	x))	)^-4	+	0)	*-0 *sin(x) ^1	) ^+1*sin( x)	^-3	* 3 *(1 *	x^	-4-	-4	*	cos	(x )^-1* 2*cos( x) 	* cos( x )	^+0 *0 *(1*(-	-4) ^2	+1* cos (x ) ^	-3	)	^+2	)	^+0* +0 
+3	* sin (	x)	^	1
+2	*cos (	(+3*	x	))	^ 1- 2*-1*cos(x)	 *-0*sin( (+ -0+	3*sin(x)	* 	cos(x	)^+3*0* (+ x )	^ 3) )  
+3 *sin(	(3 * x +	 cos (	x)	^-2 * 	x	^	4* 	sin((-4*	cos(x )^	+0 +	cos	(x) *cos( (+1)	) ^ 0))		*		x^-4	))
++	x	^0
+ sin(	x)	+1 *cos	(x ) ^ 4 *3 * cos (x ) *	1	*cos(x ) ^0	*cos (	x ) 
++0	*(+4- -4 *x	^1* 3*(3 *sin(	x	)	^0- cos (x	)^3*	sin (x ) ^-4 *	cos((- 2) ) ^-0 * 3)^	+4)^ -0
+-1	* x^	-2 - sin	((+cos((+0*x)	)	)	)^+3 
++ 1	+ 4	*x
+-3	*sin(x)	 +- x *1 
+-4* cos ( x)
+1*sin( x)^+4
+- 4+ 3 * x^	-3*	sin	(	(+1*sin(	( x^ 1 -- x	* sin((3)) ^ -4 *-1	*x^0))^1- -0	*	(+0 +1*cos(x)^ 2*0*x	* 4 )*x)	)
+cos (x )	 +-0	*2	
+	x	^ -2	+ +	cos( ((cos(x)	 -+	sin(	x) * x	* x	)	^ 0))	 *-1 *(-4*x ++0	*-4	*cos	(	x)^	3 * 1* cos (x ))
+--1
+sin(	(+cos(x ) -+3	*x*-1	* 0* +3*x		)	)	^3
+0	*	x	
++sin	((+ sin((-0*	cos	(	(+sin ((--3))^ 0-	+(	cos(	x )^2++1	*3	*0*sin(x ) )^+0	* cos	( (- x^	1 - -sin( x )^ -0	* sin	( x	) ^0)	)^+2	) )	^	4+1 *4 *cos( x	)	^1 * 0* sin(	x )		* +3*x)	) ^ 4) ) ^1	- 0*cos	(	(4*	sin( x) 	-	cos	((-	+4) )	 *3 ) )
+sin	( (+ cos( x )^	4)) 
+	sin(x)^+0
+	cos( x ) -3	*	x	*0*	x  
++1	* cos ((+3	* sin(x) ^3))
+sin	(x )- 2*cos (x)^	-4	* sin	( x )	 
+4*cos(	x )	 + 4*x  *	cos ( x)^+3* +2
++0 *cos( x )^+1
+1
++ sin( x	) --x 
+3 + 3 *x^ +3
++1* cos (x)^ 0
+-x^+3	--4
++sin (	(+1*sin( x	)	^ 2)	)- cos	( x	) 
+-4	*	cos	((+sin (x)^+1	+ 1*+2 ))
++	3	+1	*+3 
++cos( (- x +	-1*	+0	*3 *cos( (+1 * sin(x	))	)	^ 4 *-0*	cos(	x) ^ 1	)) ^+2
++2	*	(+1 *cos( x))	^ +0+ -cos	((0*sin	((+1* sin(	x )	^+2)	)	^+2) )	 *4*	sin ((+ 2 ++	sin ((+0	*sin (x )	) )*	 sin (	x	)*-0)	)	^0
+cos (x)+	 sin( x )^ 0*	cos (x)^-3
++0*(2* x)	^	4+ x	*1 
+-sin(x	)
++0	*x ^ -2
+	sin( x	) ^+1
++1	* cos( x)	
+sin((0	+ +2 *cos ((+2 - +2*	sin( x	)) ) ^+1 *x^ -3*	+3*x) )	
+--0
+sin ( x)^	-4
++2+	3	*( sin	(	x)	^ +4) 
+-	2+		sin (x)^ 4	*	+1*	sin(x)^0 *	0	*cos	( x )^ 3
+	x+ sin(x)	
++2	*x	^+4+-4 *	x	 *-0	*sin ( x	) ^	1*x^	0
++1	*cos(x )	
++x^	+4
+-0-	-cos	(	x	) ^ 3*-4*sin(x )	
+x 
++4 * sin(x	)	^-3
++ 4 -0*	(-sin (x)	^+2+ +-0*	+2*	+1 )
+-0	* sin( x)	^2 -2* cos (	x)^4 *-0 *x^	-3 *	2
+-sin(	x)^0
+- cos	(	(0 *	sin (x)^	2	+ sin (( cos ( (-1)	) ))	^3))^2	-+3*	sin	(x)
++ x ^ +1-		sin ( x	) * cos (	x) * -1* cos( x	)*-1	
+2* x 
+3	*	x	--sin (x )*+2	
+cos ((-	cos	( x	) -	- sin( ((+	x)^0) )^2*	4	* (+2	-x*	cos	( (cos(x )  - +sin	(x)*1*sin(x	)^	3* -4*x^2	* 3*	sin (x)^1 )	)^3 *-3*	0 * sin( (4) ))	 *1 ))--1*	sin	( x	)^-1
++	sin( x ) ^-4+	-4	*x
+-2
+ x^	+3
+1* (2)
+1	*	cos(x)	^2	+-2 *x ^ -1	*4	
+-x^	2 +	+0*	-3 *	sin	(( sin	( x))) *0
+-+1
+	sin( x )^	+3
+1 *sin(	x )^2--2*cos(	x	) ^-1	*+1*cos (x )^	3*	 sin ((+cos ( x	)) )^	+0
+4*	x
+sin (x )	
+3	*x ^ 3
++ x ^-4+	+2 *cos(	x) ^-2* x ^ +4*-2* x	^2
+-0 *cos ( x)^-1 ++	0 *		sin	( (cos(	x)) )	 *-4 * cos((	x^	3	--4*	x  *2	*+3*	x	 )	) ^ 4
++ (+	sin	(	( sin	( x	) + 3* cos (x	)^ +1 ))^0)^+1
++	sin((+2 *sin( x )	^	-1+	-	x^+1	)	)	^	4-3	*	sin(x)  *2*x ^	4*x  
+ x	^-4
++1* cos (	(2*cos(	x) ^	-4	++0*1	*	cos ( x)^ 2*	-2	*x^ -4*	2 ) )	^-2
++	sin( (-3-x	*		(-cos (	x)^4)))^ 3-	-cos	(x)	
+3	*x
+sin ( x	)	^	0
++3*	sin( x )	^+1	+ 2*+1*(+1)*cos(x	) ^ 0
+2	*sin	( (+	cos	(	(4*sin	(x)) )^ 2))  + 1 *(x	-	-	-3* cos (x)) ^	1	*1* 1	*3	
+2*	sin( x) ^+3
+sin (x) ^	3+	sin(x )		* 	x^ 3	
+-4	* sin	(	x)^ 3
+-+1
+ sin(x	)-x *	sin( x) ^ 2 *-1*sin	( x	)^-2*	4	* x 
+++4 +	0	*sin	( x)	 *1*0*sin(x	)		
+	cos( x)^ 0-(+	(	sin(	x	) ^1)	+	-0 *sin ( (-4)	) ^+0*	3	) ^ +0*	0* x 
+	x -	x 	*	cos	(x)	^ 1
++	x
+-3	*	sin( x	) 
+-1* cos(	x	)	
+(-	sin ( (sin( (0	*	cos	(x)	+	x	*+2	*	(+	x ^ 2 ++ sin (	x	) *	-2 ) ^	+2))))) 
+1*	cos ((-cos(x)^	-4) )	+	3*-1 *(4 *cos(x)  +	x *	 x*-2 * cos	( x)^	4*-0*x^+3 )		
++3	*	cos (	x) 	-	-0*	4*x^4	*	+4 
++-3
+-cos(x	)
+x^+4+ 4	*	x^1	
+sin ( x	) 
+( cos(x	)  ++4 * -4* 3* 2	*cos	(x) )	-+3	*4*	2*	sin(x )^ 4 
+0*	cos	( x) ^ -0
+0*sin ( (3)	)	
+sin	(x )	
+3
+ cos(x) 
++3*	x++2*	cos	( (+1	* cos(x)	)	)		*	sin(	(+3	*x^ 1 + 0 * (+4 *	sin	(	x)^	0+	+ 1	) *+1*x^	1* (+1)	^	-1)	)	^2 *0*	(+0 -		cos (	x	) *4 ) ^2
+2*x-+cos (x	) ^ 0	*+1
++1
+ x		- + x^+2*0	*(-2* x^ -3)	 
+2	*	x^+1+	+3 * -2	* x	
+	cos	(x	)
+sin(	x	) ^ 0
+2 * x
+-3	*	x^+3
+0	* x 
++0
+0*cos (x	)^0++ -2*cos ( (1	* cos(x)^+1))	^4 
+sin ( x )-	+1	*sin	(x	)^ -3*-2 *	cos ((-3* (4) +- +0* sin(x)	))	^ 1 *	4*	sin(x) 
++ (+4*cos ( x)^	-3)	^-2 +	4	*	sin((+0))^1*0*4 *	sin	(x	)^ 0 * x ^2 
+	x
+0	*	x	 +	sin	((3 *cos ( x	)	+0))		* x 
+- -3
+	cos( x )^	+3
++4	+4*	cos ((	cos( x )))	* sin (x	)	^ 1*	2*(++4)^ 4	
+-1*sin (x)	 -+4*	sin	( x) 	* -4*sin ( x	)^	+3 *+2*sin(x) 
+- cos (x)	^	1	+ 	cos (x)^ +4 *	-2	*cos ((4	* sin(	x	)^1 - sin(	x)^-3*+0	*cos (	x	)	* +0*x 	*cos( (+	cos ( x)^-3))	) )^ 2*	+4	*x*0 *(4)^	+1 
+0+1*x*	3* x *+0*x	 *-2
++	cos(x	)	 --0	*cos( x	)	^	-0* 3*x^ 4* 	sin( (--3 -+0) )	^2* -1* (-3-	cos ( x	)*  sin (	x)	^ 0)  
+-3*	sin( x ) ^	3	+ -	cos( x)	^3*	-2	*	sin(	x	)
+cos (	x	)- 0 * cos	( ( sin (x	))	) 
+-2 -+ sin(x)	^+4	* 	x
++4	--	cos	(	x) ^-2*	+4 *x^ 0 * x	^	-0*	 sin	(x)^2
+3	* cos ((- 4-2*cos	(x)	* sin(x ) ^4 * +4	*x * +2* sin((+ 2))))
+cos(x )^	4	+ +-3*	sin ( x)^ +0*	0*	cos((-3* cos(	(- cos (x ))	)	 -	cos	(	x	)	* +3	* ( cos (	x )+-2	*	sin ( x	) ) ^-4	* 2* x ^3))^1
+1 --cos(	x)^-4 *-3*sin (x) 	*	0*x^-1
+0- 1*sin( x) ^0*4
++sin ( x )^ 2
+-1
+x	^ 3
+-2	+ -4	*( sin (x) +x^	+4	*	4 *cos((4 * cos (	(-cos(x) )	)^-3)	)^2	)^ -2*(2 *sin(	(3 +4	*x	*-1 )	)	 + -x	* 2*cos	(x	)		* sin	((1*sin (	(sin( x	)^	4)	)^	2)	)	)
+	sin((-cos(x) ^ 1))^ -0
+cos(x )
++	(+-2 +-3 *cos (	x) 	)^2- 	cos(x	)		*-4	* x^0	
+-+3
+ x-	--4 *+4
+	cos	(x) ^-2 -0* x ^3 * -0 *	cos (x	) ^-3 *	 sin	((-cos(x	) ^+2))	^-4	*	2* cos (x) ^ -3	
++-4
+4 *	sin	(	(+3	*	sin	( (+ sin (x )) ) )) ^+2-+ cos (x)
+-sin( (2 *cos(( sin( x	)))	^+1)	) ^	0
++	x	++4 * cos(x )
++1
+-sin( x	)^3
+ (+2*	cos(x ))	^+1
++2* x
+3	*	x^ -0
++0*sin ((x )	)+-sin ( x)^-3	*-0*cos (x	)	
+0
+1	+sin	( x	)	* +4	*sin	(	x) ^+1*sin ((	x -3 *x	*	cos( x)	^4 * -4 * sin(x ) *x^ -2 ))
++	(+-1)^ -1
+-+1
+-sin	(	x)^ 3
+0 +cos	(x )^ +1 *sin	(x	) * 1*x	*-2
+4
+--1
+ (x)	
+3*	sin((0))^+0- 	x
++	cos(x) ^ -1 --	sin	(x)	*	-3	*cos	(x	)	 *1*	(1	* cos(x)^0-sin(	x)^ +1*sin(x	) ^+2*	+0 *	(-1 *	cos	(	(2))  +	3* x ^ -2*  sin(x )	*+0	*	sin ( (- sin (	x) ^ 0) )^+3	)	^0	* 3 *sin	((+4	*cos(	x)	^3) )	) 
++1--+4	*1*	-0 *	cos	( x )^-3* 0	
+	cos ((+x^+1+2* sin( x ) *	+3))		+ +4*x^	3	*-4	* 4	*cos	((+	cos(x)	^	4 +-(+0	*x^3-	--4*  cos	( x )	 *	0	*cos	( (1*	sin (x)	-+ x ^4*	0* cos ( x) ^ 2*	1*sin	( x	) ^ 2 ) ) ^ +2*cos	(x) 	) *+2 *cos (x) ^ 3* x^ 1) )	
+0*(- +3	-sin(	x)^+4* 	sin(x)*  sin((2+	x)	)^	3	)^	-1
++sin((3*sin ( x ) ^1+sin(x )*	cos( x )* -2* cos	(x) ^2*3*	(-+1--2*cos((3	*cos (x)+	-3*	x* 2*x^2)	)	)^1	)) ^3
+0 *	(+4)-	3	*sin(x) 	*  ( x ^	+3+1	*sin (	x	)  *x^	-0*	cos(	x	) ^+2 ) *1*x	^	3*1 *sin( x) ^1
+-0*	cos(	x)^ -0	+	+4*sin ( x )  *-4*sin( x) ^0	
+-3* cos	(	x ) ^+3	+	+sin (	x ) * +4	
+++2	-	+0*sin	(x )^ 2*4*	cos	(	x )	^-0*		x^	3	*	cos	(x) 
++ -2 -	+x		* sin( x )	 
++1 *	sin(x )	^-1 -3*x	 * -3	*cos ( x	)^+2* x^	3	* x^2
+3
+4 * x^-4
+	x^ -1- cos	(	x )	*	-2 
+-0	*	sin	(x	)^-0
+0 *	cos(	x )^	3
+-4*cos	(	(sin(x	)	^+4) )+ (0)^-1
+3* cos(x )
++0	* x ^+3
+4*x	^	3
+-	cos( x)	^	+3- 0* x *x ^+1
++	1++0	*cos(x	) *	x	^+1*	sin	(x)	^3 
+-2	+ + 0 *	(-sin (x	)	^+4)	^3	*	 sin((- sin(	x ) +	x	*  sin(x	)^-4)	)^2 
++4
+-3
+3 *x-+	4 *	cos (	x)^3	
+-x	^ -0
+-0 *cos	( x )^2
+0*x	
+2* cos(x)
+3 * sin((3*sin (	x )^	1)) ^ 3 +	1*cos((+ 4	+0	*sin	(x ) ^ +4 *+0	* cos( x )	^2))^0*3	*	sin(	x )^	-4	
+- x	^1+-(+0 *	x	) ^-2	
+4*x ++4 * x*x^ 3
+cos(x)
+-3*x	^1
++1	* x ^	3--	2
+	sin( x)	+-0*sin (x	) 	*+0*x*2	*	sin (	x	)	 * +0 *	sin ((4*cos( x )	) ) ^ 2	
++cos (	x	) 
+2
+3 *x	^3
++0 + 0 
++	+0-+	cos	(x)^+4	* 4*x	*0* x ^1	
+4 *cos(x) ^1
+0	*cos (x) 
++sin( (+-2	+ -	sin ( x)^+4	*	 cos(x) ) ) 
+-3* cos	((0 *sin (	x)^ -0)	) 
++0
+cos	(	(-3*sin ( x)^-2 +	- cos( x) *	+4* sin (x	) * 	sin ((4 * cos (x) ))^3 ) )
+0	* x +	sin((-3	-+x^1) )	^3*+3*	sin((sin (x)	+	+cos	(	x) ^2*  x	^	+3 ))^2	*-3	*1
+-cos (	x)	++1* cos	(x) 	
+x^0
+-0	* cos(	(-	+2)	) ^-1
++0 + -3*sin	( (sin	(x)^	-1	+-4*	 x^	3)	)^	1 * cos (x)	 *	-4* cos (	(-3*sin( x ) - x	^+0* x^ +1*	-4 )	)	^ 2	*-0*	x	 
+-3	*	sin ( (+	x	^1+0	*cos	(x )^ -0*sin ( x)*0*	x ^	+1 *0*cos ( x)^	-3) )		+	sin (	(+0 *	sin( x	)	) )	
++	cos(x	) 
++2+	1*sin	((+4* cos( x	)	)	)^+4	*		sin	( x)^ 1
++0	*x
++-1
+-+2
+ sin ((+x-+1 *	 cos(x )	^1 *	(3	* sin	( x	)^3	-+2	* x	*4*sin	(x	)^4 )	*	-3	))^-3 -	-+0 
+sin((-1*	sin( x)	^	2	-	x)) 
+-	sin	(	x )	^ 4+0*x	 *	-1 * 2	*-4
+-0*cos (x)	^ -0
++(0	*	x -0	* x	^ +2	)^+2	+ 4 *cos	(	x )*	2*	1 
+-3* sin	( x	)++0	* 3* x^1
+	cos(	(-sin(x)^1- -sin ( x)* +1*+4 *(-	3)^-3)	) 
+-	sin (x)	^ 0 +-0	*sin ((- x^ 3	- +4*-1	*+0 *	cos( (+4 * cos(x) )) * 4*	x	^ +1 ) ) ^-2 *-1	*	((-sin((-4) )	 --sin	(	x)* x*	2 *sin	(	x	) 	* sin(	(+4	* sin	(	(+1))+-	(0 *sin( x	) -4	*+3*x )	*-4 *	x  *cos(x )) )^	-3) )^2 
+4 *	sin ((+0	+ 1* sin(x )	^	+3) )^-3+2*	cos(x ) 	* sin(	x	)^ 0*  cos(( x	))	* cos(x	)	
++ sin(x ) + - cos	(x ) ^3
+x ^	1- 2	*	sin(	x)	*4	*-1	*4
++3
+sin(	x	)
++(+-0 - +sin (	(+3*	sin	(	x) + +4 )	)  *+1 )+3	
+2	*cos( x	) -4 *x ^	-1	*  x		*+0
+3*( x) ^ -4 -2*sin( (+2*cos(	x)^ 4))*(+ 0)^ +1 *-1	*	( sin	((-3	*cos(x	)	^ 3) )^	+2)  
+- cos	(	x) ^1- cos(x	)	*	x	*	+0 * sin((3*	sin((-0+	sin(x )^ -1	*	x^ +4*cos(	x)	^	2 *+3*(1 * sin(x	) )) )^ 0	+ 	sin((++3) )	^3*	-3	) )^4*  cos( x)^+3
+-sin ((+4	* sin( x )	^0 -4	* 	sin(	x) )) -(4- 1*	x^ 1* 1	*+1*sin	(x)	^-0	) ^ +0* -0 *(3 * sin	( (-4- 	cos( (+3 +	1*cos(	x) )	)^ -4*	(- 4 -cos(	x) ^	-4 )	^1*-3 *cos (	x) *	-1*cos ( x)	^	4	)	)^4)
+-3	*	sin(	(-2	* (3*sin	( x )	^ -1	++ sin ( x)	)^ 2) ) ^	2
+2* x	^ -3	--4 *-2
+4*cos( x )	^ 1
+2*	(+3	* cos(	(	x^ 1))	+ 0*sin(x	) ^0	* 	x)	+	-0 *sin(x )	*	sin	(	x)		
+3	+	0	*sin (x)	
+2
+-4+-1*-2*cos	(x)	
++2 *cos(	x)	
+-0
+cos( x	) ^	0 - 1* cos(x)  *+4 *4	* +2	
+ cos	( x )	
+-4 + cos (x)^-0 * x ^3
+x 
+-x^ 0
++1 *x- +	x^1	*-4*cos(x ) ^-4 * 3*cos	( x	) ^-0* 1 *sin(x	) ^ -0
+-2
+-4*sin(x)		+	x	^	4	* -4* sin( (0 *cos	(x ) ^+0)	)^ 1
+2*cos	(x)	
+4 *	cos ( x)
+3* cos ((3--4*sin(	(-x) )^-1	*	-0 *1	*cos(x ) *0* sin( (2) )^-4	))	
+- sin ( x ) 
+-2	+x *x ^-2* 2 
+(+	0 +-4)	
+++0--	x*	sin	(x	)^3 *x*3
+ (sin (x)^	0	+ +1 *	3	* sin	((3* (+ +2)	^	4 - sin((+sin	(	x ) ^ -2--	sin (x )* 0*	x^ 2*4 *x	*1 )	)^	-1 * x ^	1) )  )^2
+4-4* cos	( x)^	-2 * +4* cos ( (+(+	x^2+ +3	*sin	( x	)*  cos( x )	*  cos ((-3*sin ( x)))	^ 2)	+ +2))	^2*-1	
+1 *cos ((0 *sin	( x)		+0*sin	(	x )	*2 )	)^ -0+--3	* +2*	sin((+	+4 +	+x^ 0*-0	* 3 )	) 	*		cos((+2*x	) )
++3 *sin (	(-3* sin((4*x	-4 *sin ((-x- 1 *sin	(x )*+3 * sin (x)	*+1	) )^ 0) )	)) ^+4-2* cos ((4*sin	( x) ))^ -0* 	(3*cos(x	)^	0)	 * (-2-	(-sin((+	x	-  cos( (+cos	( x ) ^ -1	+  cos	( x	) ^	+4*-0)	)	*0*  cos(	x	)  )	))	*cos(x) ^+3	*	3	*cos (	x	)	)^-4	* +3 * x
+ (+ x^ +3)
+-cos ((-+1	+ 3 *sin( x	)	^	-4 *2 *cos((+4	* sin(	(+0 ++cos ((x-	-0))*+1*cos(x) ^	1*	x	^ +0)))	)^	-2	)	)	^ +4
++1+4*cos	((3	*sin(	(x))	^ 4+ x	^1*x *	(-4*	x)	 *	4	*	x))^+0	
+-1* cos(x	)
+ sin	((4*cos(x ) ) )	^ +2
+-sin	(	x	)
++2 -  cos	(x	)	^	1	
++	sin	((+	sin(	(-2 *cos (x )		-+1) )^	2))^2
+0 *	x +-	cos(x )	^-3 *+0 *x	^	-0 * 	x	^0*1 
+1	*cos( x)	^ +4
++3*cos ( x ) 
+2* sin( x	) 
+-0- +4*sin( (+0+ 4*x^	2 *+3*sin(	(-2+ cos(	(x	-2*	 cos(x) )	)^ +3*	sin	((--1))))	) )		*2 * -3
+-1*cos( (+3*x) )  +cos (	x) ^	0 *	+4 *cos	( x)	^-0
+sin (	x) ++	cos	((-	0)) ^-3
+x	-	-0* cos (x	)^	+4*cos	( x ) ^2*0
+0 *cos(( cos(x )) ) 
+2 *sin (x)
+-x^+4
+1*	x^	0
++ -3
++x^+4
+-x^ -0+	-0*	sin(x ) *	3*x	*	0 
+2*cos( x)	^	-3
+-2	*cos( x ) + 2*x ^+4	*-4	*-0*	sin	( x	)*	(3*x^ 1	- 2*x	^-3 ) ^2
+- x	^ 3+sin((cos(x)	^ 2	+ + 3*2) )	*+0 
++3-	+2* sin((3 *	sin ( ((-2) +	- 2*+1	*sin ((-0*x	^	+2-  x	)	)	^4)	)		-	4	*	cos(x	)^	0*	-0) )* sin(x )	* -0 
+cos( x	) ^	-2
+ cos((+-2+- sin(	x) ))
++4	*x
+4 *cos(x) ^	4 -	-2 *	(x	^	-1)	* +1 *	cos	(	x)^3*3 *sin ( x )
+-x
+-2
+sin((0*sin (( x	^ +3)	)^	-4-+	x^	+1 *3*sin (	x) ^4	*  x^0) )	^ 2
+2 * cos((+-4) )
+0 *	cos((4	- 4* x)	)^+4
+sin( (1* x	^1- - +1 *x	))
++0* x
++4
+-	4
+ cos	(x) ^ 2
+0
+-sin( x	)	
++1 *	sin(x) ^0
++4
++4*(+	sin	(x)	^1 --sin(	x) 	* 3 )	
+2*	x	^	1
+4 *	(0 *cos	( (-0	- 2*	sin(x)	*	0*cos (	x)*+1	*	sin	(x )  *( sin ( x	)	)		)	)^+1	-	-4	*1	*sin	(x)*-3 *sin	((++1-1* +1	*	x*	-1	)) ^ +4*	cos(	x)^	4)	
+4*(+-4) ++2
+4	*sin(x )-+x^	2* -3*-2*	sin	(	(+-4)	)	*	+0*x
++4++3*sin(x	)^0
+2
+3+sin	( (x))^ +0*	((+2	*cos (x	) -cos ( x ) ^-1*1*sin (	x	)	 ))* +4* cos(	x)^ 4 *	3	
+3
+cos(	(-1+ +0*sin( (-sin(x) -		sin((+cos(x)- 4*-3))^	4)) 	*-1*sin((-	3))	^	+1* 3* sin (	x) )	) + -cos((+ x+ 	(2) 	*-2	* 0))		* 2*	cos(	x) ^	-4*	-4	
+-(0	*x	) ^ -0 +	-4	*x^ -0
+ sin( x )	^	1
++0* sin(x ) ++0*cos	(x)^0 *0*cos	( x	)	*-0	
+- x ^+2
++cos(	x	) -+-1* 	sin (x	)  
+-sin( x )+-sin (x )	^ -0	
+-2*cos(x) -0 *	sin (	(0*cos (	(+ +0)) ^-1) ) 	*sin	( x)
++3
+0 *	(+1*cos (x)	- +sin (	(1*cos(	x	) ^ +3)) ^0* 4*cos(x) )	+2 *x 
+-0*(0*	x +1)	
++ sin( x ) ^	3
+1
+-sin ( (3	*cos( x	)	^-0))
++1	*cos(	x)
+	sin(x)^ 4
+cos( (-3* sin ( x )	+x* +4	*x ) )
++	sin((	sin(x)^0	- sin(x) *x)) ^1-0* cos( x )		* cos	((+0	*cos	(	x)^ 2 +	0))* cos	( x)	
+-	cos (x	)
++ x-	+1*cos	((+2)	) 
+-x^ 1++0*	cos(x	) ^-0 *		sin(	(2)	)	^ 4 
+4	* x
+- sin( x)^+1 -+1*	sin (x)	*	1*cos( x )
+1*(-sin(	(1* cos (x)	^-2	-2*sin(x)^ 4 *	sin ( (-3*	(4))) )	) ^0	- +	+3*	 sin(x	) ^	0)^2 -+4*3*	x 
+ cos( x )	- -1 *2	
+	x^	1- +1 *(4) ^ 1 *	4*	cos ((-3)	)	^0* x *4	*	(-	0+-(+sin (x	) ^ +3)^-2 *x	)^4 
+3	*x++ 2*3 *	cos	(	(--3)	)	*+1 * (- +2)
+-4+	sin((+2))	* 2*(- x 	+2*sin (x	) * x	^ 1)^+2*	+1 
++0*(sin(x)^+2+	sin(x) ^+3*+0*sin(x )  ) - +3 
+2*	x ^4-	- sin	(x) * sin	( (0*sin	( x )	^1- 2*sin(x	) * -3*cos (x )  *	1	))	^ 1 * x
+0*	cos(	(- 4))
+-1*cos(x )	^2
+-+4
+-cos(	x	)^0 +-cos(	(-1*	cos	(	(+	+0-+cos((+0*cos	( x)))	*+1	* x^	+2) ) ++1*0* sin(x	) ^4* -1	* sin	(x )^	+4 *+1 )	) *  x 
+4	- x 	*	+0 * cos(x)	*4 *cos ((	sin(x	) ))		* 	x  
+x^	-1
+	cos(x)^0	-	+cos ((- 4 +4	*cos((-sin (x )^2)) 	*	1*sin(x	))) ^+3
++x	
+	x  ++4 *sin(x) ^ 3 *3*2*-0*	(+2)^	0 
++cos(x)	^	4 - cos	((-2*	cos ( x )	^ 2)	)	^ 1
++1	* x  -1	*cos(	x	)	* cos (x) ^	2	
+-cos( x) 	- + x	^ -0	* 1*sin	( x )	*1	* 2	*	(-	-4)^3	
+-0-4 
+sin(	(cos( (0 *sin(x )))	^1 -1)	) 	+ - (-3	*	sin(	x	)  + +	sin	((+cos	(	x)) )^-2 * x^-3	*-2*	cos	(x)*3	)	^	3*x * 2 * sin (	(+1*	x^ +3	- sin	(	x	) ^2	)	)	 *+4* cos( x)^ -3	
+-(-4 *cos ( x )	 + +	2*-3*cos(x	)^4	* -4)^3- 2	*	cos	(x)^ 3	
+0*sin ((sin	(	x) ))
+3*	cos (x ) ++-1*  sin(	x) ^ 3*	-1	*	sin	(	x)^ 4 
++3	*sin	(x )--x ^4 *sin	( x )	 
+x^	-1	-2	*sin(x)  *-3 
+- cos	( x)+-(+0-- -2 *1 *	cos	(x ) ^-1	* +0) ^	2	*	2*	cos( x )	^-2*	cos( x)^2*	sin	(x) 
+-1 *cos(x )
+-0
++cos( (-1++2	*1* x	) ) 
+-sin(	x ) ^1
++0	*	cos(	x ) ^ 1
+-0 +		cos(x )^2*	x
+2	* cos	((2	* x		+ -3*sin( x)*	cos((+1)	)	^	4*+0* sin	((+sin( (+0	+ -1	*( sin(	x)	)^+4*-1	*	x ^	-0 *  cos(x)	^	+4 )	))	)	^	+0)	)
+- -1
+-	(- sin( x)	+1*x ^1 )  +  x * (-	cos( x)	^ -0 -	- 3	*3	* cos(x	)^ +0 ) 	
++1 + 4*cos( (-0*cos((- sin(	x)^ 3))	))^	-3 
++1
++4 * x	+cos ((4* cos	( (1	* (3	-	0 *	2)^+0- 	sin((-1*	x )	)^	+1*	2	*	cos (x)^-4*	(- x	^ 0+ + cos(x	)*-3*	x	^	-3	*4*	x		)^4	)) ^ 0-2 *	(+1 +4	*-3 *1	*sin (x )^ -4 ) * 	sin (	x)^0	)	) ^ 2	*1	*0 *3 *cos( x) 
++2+ 4 *cos(x)*+3*4*	x
+-0*sin(x	)^ -0
+cos	(	x	) 
++2
+2 *(+	x )
+ (1	+	+ x ^+3*+2 *sin(	x) ^3*3* cos(x)^4	)^3
+3*sin (x	)-+	-2	*-2*sin( x	)  
+cos(x)-(0*	sin(x)^3+3*cos ( x	)	* +3 * cos(	x) ^ +2*+1 )	^2*+0	*-3	*	0	
++0
+0	--	x	
+1* cos ( (-	+1) ) ^	0+cos(x)  *-3 *cos((4*x^	-1 --1	* x	^3) ) 
+x	
++ (1	*cos	((-4* cos ( (	cos	(x) ^	-3	-++1)	)	+ -0*x *+0	*cos	(	x)^ -2 )	) ^ 4)+ 2*	sin ( x )	^2*(x	^ -3) *	-3
+	(+0 *	cos	( (+3 *sin(x ) ^ +1+cos	( x	)^	3*x	*3*1) )^ -0 +  cos (x)	*+2*(+0+ - +3*	 sin (x	)^	+2*  x	* 0*x^ 1)	*2*	4* x	)^+2
++0
+- 3	- -4*x^3*	x*0*	cos(x)^ +3
+ sin(x)	^	-2	+-0 *	x^2	*1 
+sin(x) -	-x ^	4*	1 *	x ^ -2 
++2
+- +4+3	*	sin(	(-2*	(+4 *cos	((+ (x	)	^2))^	+1) 	-sin	( x	)	*	4 * 0* -0	))* +4*	x ^4	*	 cos	(	x)* x^+0 
++3 *	x^ 4
++x^ -2-	cos(	x)	
+cos (x) 
++0*sin( x) ^ +0 ++	cos	(( cos(x )^+1-0* x ^ +0 ))^ 3 *3	* cos((+x	^+1) )
+ x 
+ sin	(x)- -sin(x )	*+2*+3* cos(	(+1* cos (	x ) ^+0-	+sin( x	)^ 2 * 2*	x^4	* 1 * cos ( x)^2))	 
+	x	^2
++cos(	(+	2))^2
+-3 *	x	^4
+2 *sin(x) ^4 +	-3*x ^	3	*	sin (x )	^-4 *	3*x	 
+-4* cos ((+ x +-sin(x	) * 1* cos(((3	-cos(x)	 *3*cos( x)  *4*(-3* cos	(x) ^	+0) ^3 *+0	* sin(x) ))	) *	-4)	) ^+0
+2*	cos( (-3	*cos( x	)	- +0* cos (x)^-0*+2))	^	2
+1
+-3	*	sin(x ) ^-0-4*sin(	x	)^-3	
++4+-4*cos(x) ^0* 2*sin( x	)^ -0* 	(+3*	(	cos(x )- +	x	^-4 * 0	*cos(x )*-4)- - sin (	x)^ 2*	3	* -0*sin( (+0 *x)	)	* (x	^	-0)	)	
+0*	sin((+cos (	(+3 *cos ((cos (	x) ))-+4 * 	x))^1--4*	x*-4 *sin	(x	)^4* 	cos	( x))	) +  sin(	x )^ +2*	-3*2	*+4	*x	^1
+-	cos	(	x)
++	+0
+	sin	( x	)
++	cos(	(+	x^-4- cos(	(x^ -0))* +1	*x	*cos((+sin (x ) )) ^2	* sin(	x )^2) )^ -3 -	sin	(x	)	^-3* sin ( x ) ^0*	3	*2	*	cos(x)^0 
+-x
+4 *cos (x)- (+	(1 *	x	 -1 * x ^1* 3* -4	* sin (x )	^	0	)) 	*sin ( (sin (x) 	+ 1 ) ) ^	-1*2	
+	sin(x)	
++4 *sin ((+ +3+-1 *sin ( (++1 + 1	))^ +0	))^	+3+	- -3	
++4*sin( x	)^ 1	+	-sin(	(+2	* x	 -3 *4	*	cos(x)* 1)	) ^	1
++0 *(+ sin( x )	^ 0)	^4
++2* x	^	+1-+1 *cos(x)  *	x^4* +3 * cos	(x)^-3
+-0 *cos((+3) ) -	-+1* cos	(x)  
+-1
+-2-	x^3*	-4	*3*sin(x)* sin	( x)	^1
+sin	(	x	)
+sin(x )^	0 - -0 * (+-1) ^-1* cos(x ) 	*  sin (x	)	
+- 1
++	0 -	+	sin	(x )*	sin (	x )
++	+3++sin(x )	
++3*	cos(x) 
+4 -- +2	* +4* sin (	x )^	2 * 1*x^ +4 *	+0	
+-2* cos(x	) 
++ cos (x	)	^ 3+	-1* x*	4 *sin	((+	(-2	* (+	-0)	^+4-0	*	cos(	x )^	1) )) *0 
++ -4-	-1*	sin((-2))	
+ sin	((--0) ) 
+sin	(x ) 	+ -	cos(	(1	*	x	+-1 *	 cos (	x	)	^+0*	sin(	x )	))^+3 *-0	* (3 *sin (	x )	^0)^	-1
+-1 *x
+4*cos( x)	^ 3
+cos (x )		+ + 4 *+3* sin((+	sin(	(2))	^4 -	3*	cos	((3+ -3* (4*	sin(	x)) ^-4*-4* 	sin(	x	)	^	3 ) )^+4* 2*cos	(x)) )	^	4	
+-(++4) ^ 0
+-4*cos(x ) 
+-0	- -2 * +4 *-4*(+ x	^+0 +- cos (	x)		*cos	(x)^-1	*3)	
++0	*x
+3 *cos((3* cos(x)	-1*	sin(x)^0* -2	*cos	(x	)^+3*	x*1*x		))^1
+x	+3 *-3 *	 ( sin (x	)	^ +0) 
++sin( (-0 *	x +-sin( x))	) ^4
+2	- ++1 
+2* cos ( (+	x )	) 
+3 *cos	(	x	) -	-4 * x	^+3	
+-3 *cos	( (2*sin	(	(-0 *sin(	x) +-2	*sin ((- 3))^ +1	*	2*	sin(x	) ^+1* 4*(-2*x--sin((	cos	( x ) ))	*	-4 *cos (( sin	(x	)	)	)		* cos (	x)	)	^4	*sin(x))	) -3*sin( x) ^4* cos(x	)^ 1*	4* sin	(x )	 ) ) + 2	
+-4* x 
+1*cos( (4*sin( x)^1))^+2
+sin (( x ^	4) )^-3
+0*cos ( x ) ^2
+sin	( (-cos (x )^ 4	--	-1 * -1* sin	(x)	 *3* sin((x 	-	- sin ((+4	*	sin(	x)^2) )	^	1 *3* cos(	x)^ 2	*cos( (+cos	((x	^	+0) )^0))))^ 0) )^ 2 -	-3*	cos (x)	^ +4 *	-4* 3*cos(x)^	-0
++ 4	-cos (	x)	
+ x
+0* cos( x	)^1
+-0
+1	+ 	cos	((4 *sin(x)	^-1+cos (x	)	* 1* -3))	
+-3*	sin	(x )
+3	*sin(	(	cos( (	(sin	(x) -  cos (x) * x^4	*	sin	(x ))^ -3 - cos(	(2*(+3)^-4	-3	*	sin(x	)*-2*x* 	cos (x)^	-0	)	) ))^ +1-2 * sin ((cos(	x	) ^1) ) ^ -2	*0*(-	cos	(x)-	x^3	*+0	* -1	)	*  (+2* cos	(x)-+	x^ +0)	*	cos(	x)^-0) )^ 2
++	4 - +4	*3	*sin	( (- cos ( x)	+2* cos(	x	) *-4* sin(x )	* -4*	sin( x	)^+3 *	+0	*	x	)) ^	4
+0	*	x^	-1
+1-+3	*sin ((-	sin ((-	x^ +4) )	)) ^ +3*-0* sin( (- +2 -+cos(x)  *3 *sin(x)	))		* 0	*sin((-0)) 	*		sin(x ) ^	+2	
+-x
+4 +2*cos	((sin(x	)	^	1 +4 * sin	( x) *sin(x )	^ 4 * +4	*x  ))		* sin(	x )	*3	*	sin	( ( sin (x)))^4*-1 
+sin(x	)
+- 3-	-1 *sin ((+2) )*-2*sin (	(+	4) )	*	-0	*sin ((+sin(	(1*x	^	-4 - 	x	 *0*sin(	x) )	)^	4)	)	 
++ cos ( x) 	- + -3 *2	
++3
+4	*cos(x)^-2+0* 0*(-3*	x+	cos( x)  * 2*+1*x	)
+	cos (	(+3	*sin ( (+	x))-cos	(	x) ^+4	))
+-(0	* cos( x)	- sin(x)^	3	*	1 *sin(x)	^	2	)
+2 * x	^1	+ x	^	4	*cos	(x)^	1* 1	*sin( x )	* x 
+-4
+-+2
++-3
+4
++-2	+ 2 *cos(x)^	4 
+sin ( x)^	+2
+- +0 ++4	*2	* x  
++1* (- sin	(x)^0)  +	+	x^ 1	* 3
++ cos (x)	
+-x^	1 -	- 1*	3*	cos(	x	)	 * -0 
+- 0-	-	3 
+sin	( x)- -4*	sin	( (	x - sin (x )* +1*	sin(x	) ^3*	-3	*	2*(- x ^ -1)	^-3 ))  *-4
++4	*	sin(x)^ +0
+-2
++2
+3	-x*3*3	* 1*sin	( x ) ^3
+1 * sin ((--2 -1* (+1 *cos(	x) -	-1*cos	(x	)* sin( (+3*cos (x)++ 2*	-2	*x	 * x )	) *	4*cos	(( cos(x	)^-3 --3*	cos	(x) ^ +2	*-2 *cos(x) ^	+2*+4 ))	^1*	 cos((	x ^4))	)  *	+3*cos(	(-2	*x--	+0)))	)		+	+	-2	
++3	*	x ^+3+-4 * cos(x) * -0*cos(	x )	*0 *	cos	(	x )*x 
+-sin(x )^	4
+-	1 + + 0*	3*cos(	x)^1*	+2	
+3 - sin	(x )	^ 1	
++1*x^4
++	sin	(	x )	^-3	++4*(1- -2	*	2 *-4) ^	+2
+- sin ( x )	
++(	cos ((3 *	sin	(	x)	^+4)	)^0 --2* +1 *	sin	(x) 	*	2*	cos(x	)	)^	2- - sin (	x)  *	0 *sin((3 *	x^	4) ) ^	+1*	0 *	(	sin((-sin	((+	cos	(x ) ^3	- x*1	*sin( x)	* 4*cos	( x) ^-2*	x^ +1	))	)	) ^3)	^	+0* cos (	x) ^+0	
+--1+	+4 *sin(x)	^ -2 *	+2 *sin (x ) * 3 *x^-3	* x	
+-+2 + +4*sin(x)*x ^1
+sin	(x)	^2
+4* cos(	(1+sin(x	)	^ -3	*cos((-cos ((-1)	) ^ 4)	)	^ 1	))
++1 *	cos(	(-0)	)
++x^ -3
+-	sin(x )
++ +1
++1+2* sin (x )	*x * +3* +4	*sin	( x )^	-4	
+-	sin (x)	
+2* cos	( x)+ 0 *sin(x)^+1* cos	(( sin	( x)	--4* cos	(x )	*sin (x) * 	cos((3*sin	(x )^+1))^	+4)	)  
++ x^0
+4 *sin (x) ^1-	1 *cos	(	x) 	*+4 *cos( x)  
+cos(x	)^ 1+	-sin ( (0*	sin( (-3+	+3*+4* x^-3*	4	))	^+0))	*4 *sin(	(-4	*sin (x))) 	* sin ((-1*x ^3))^0	*4	*	x	^+1 
+-+1
+1 *cos (x ) 
+-0 -		sin	(	x)	^ -0 *-0 *	cos	(x )*	 x
+1 * sin(x )++	2	
+	sin(x)	^+0 - 1*sin	(x ) *3	*x *+2 *x	^1	*4
+2*sin(x)	
+-	x-3	
+1* cos( (-1	*	cos((- sin (x)	^ 3 ++	sin ( x )^	3) )	^2++ 4	))
+ sin(x )	-1* -0*	cos	(x ) *3 *sin ((+	+4) ) ^0*+1 *	x 
+--2
++1 *cos((3	*cos ( (0-+3 *	sin((	sin	( x)  - cos(	x	)^ -4*-2*	 sin( x	)^	2*	x^	-3))^ 2*		cos((3)	)^1*	0 )	) ^	0 + -	sin (( sin (	x)^	1)	) * +2 *1*-0*cos	(x )^	0))+	1	*	sin(	x	)
++ +2
+ cos(x	)	^ 0
++	x 
+3 *cos	((4-	1* sin ( x ) 	*0*	cos ( x	) 	*	2*	sin	(x	)	 ))	^-4 +	3*(sin	( x)^ 2 ++	+2 * 	x ^	3 * x *+3 )^ +4 *	cos (x	)* sin((-4*sin( x )	)	)^+0	* cos (x	) 
+-+0
+ (-0	*cos((--2 +	+	x^	4	))^-1) +	-3 * x*+0 * -1 
+	sin(	x	)^0
+4* sin (	x )^ +0
++	x
+- x^-4	-2*0*	 x	 * x	^ +4
++ cos(	x	)	
+-cos( (+	1) )
+4	*sin	(	(+	-4))	-	2 
+1*sin ( x	) ^1- 3*x	^-3* 0* x  * +0	
+2*	sin(x)	 -+	(	cos( x)^	2++(2	*	cos	( x ))	*1*	cos(x)	 *	3	*(	sin (	x )) ) ^0	*+1*	sin	((+sin(	x)^ 2-	--2* cos(x )))^4	*	3*x^	-0
+2
+	x^+0
+-1* cos(	(0*	x))^3
+-0	* cos(x)^ -2 -- x	^ +0*	1* x^+0 *-4 *	cos (	x )
+-1*sin (x)	+	2	*cos(x) ^3	
+- 2
+1
+-3* cos ( x	)+ 2*x	^	2* cos(x)^+0 *-2 
+-cos(	(+4 ++ (+0	*sin	((+	+1))	)*	1 *1*x^	2 *x^4)) ^	-1--	cos (	x ) 
+- -3
++4-+sin((--1 +x ^2*	4 *(+4)*0	) ) ^ 1* -3*2	*sin (x)	
+sin	(x )	^	3
+-	0-	0 *	sin	(x) 
++cos(	x)	^+3
+x	^+0
+1 +-1	*(-1)^	+1	*	cos(	x ) ^-4	
++3+cos(	x)*	+1 *-3 *x^+0*		cos(	x	) 
+4 --0*	sin	(	x	)^4*2	*	cos	((-x^ -3-1*	x	* 4	*cos(x)* x ^	3) ) 	*cos( x	)^1
++	1
+0	*	x	^	4
++	sin(	x )^0+1	* +1* x *	+1
++4 *x 
+cos(	x)
+	x^	+2	+ sin(x	) ^ +2* +3*	x		
+0 +  x ^1* 	cos( x	)* 3*cos(x )	^3
+4*sin( x) ^3
+-4* cos((-3 *x^ 1	+-1*(+4) ^+3 *0*	1	*sin (	(+3	*cos	(x)^-4+- 4	*-0 * cos	(x)		))	*-3	)	)^	+0
+2 + x^	1	*	sin(	x)	*0*x	*x^	4 
+ cos(x ) 	+ --0	*0*( cos ( (-2 *	cos(x ) ))	+ -cos(	(-4))	*cos( (-0*cos	( x) ^+3 + --2* sin((- 3))	*	-0) )	)
+ sin	(	(-	+2	-	- +4 *+1	*cos(	x	)	 ) )
+-2	+ +2 *sin( (	x ) )*	cos	(x ) ^ -0*-4 * (+3 *	sin((+ 4)) ^+0++x	*-0*  sin (	(4 *(4	*	cos(x	))^2)	)^-4)	^0	* sin(x	)	
++2	* cos(x	)^1
++ +4+ - +3*	2
+--1
+sin (	(+1 *	sin (	(-1	- +0 * cos	(x	)	 *-3 *	sin	(x)^+0))	-	+1*x^1 )	) + 1 *	cos((-x - 4	*	sin ( (-2-4	*0 *sin(x )^ +2) ) ^ +0* +3*x^ 0	) )	^1
++ +3
+1*sin	(x)^+3
++0 *	x -+1* (- (- +3)^ 3)  * cos( (+3 *(+1	*sin	(x))^4)	)	*1	* -0
+sin	(x)^	3	+	-1
+-cos	((+3)	)
+x	
+-sin	(	x )	
+-	cos (	x	) ^1
+-	sin( x	)	
+-+0
+1*	x	 +	(-0*cos (	x))^2	*		x ^+3 *	 sin(	(-0))	^2 *+0 
++-4
++	sin ((cos( (+	x	++ -0*-3	))^	-0+	sin ((-2	* x^1	+4	*	x^0 * x 	))	))--4* cos((4 *	cos(x )	)	) 	
++2	*x
+4* x ^ -2	+ -1 *sin	(x)^	+3	
+0 *sin(x )	 +0	*sin	(x	) 
+-4* (-	cos(	x	) 	+1*2*	x*	(-sin( x) 	-	-1 ) *	 sin(	(-	2)))^ -4
+cos (x)^+3
+0*x^	-4
+2	*	sin	( x )+	1*0*cos	( x	)^+2 
+	cos (x )	^	0 -+cos ( x ) *	cos(	x	)^	1 *	-0	
++	sin(x) ^3
++ sin (x) ^1
+x	^ 2+2 *sin(x	)
++cos((- cos	((+cos	((2* (-	+4 - - sin(	x	) *-3 *	cos	(x)		* sin	(	x)^+2)	^-0+1)	))	)	+- -0*4) )
+cos ((	sin(	x )	^-0- +x^ +4))^1	-	1 *	(2*	x^ 3)^+1 *-3 *	cos( x) *	4*	sin	( x)^+1	*	+4*x^+2
+0 *x^4 +	sin ( x)	*1* cos (x)	^2 
++0	+ sin	( (+ (-0 *cos (	x)		-x^	1	*		cos	( x)^ 0* +0) ^-4 +-1*	cos	(	x	)^	1	))* cos (x)
+-	cos ( x)	^ 2
+-+2
+3
++	-2-+0*  x^ -3	
+2*	x
+3 - -4 *	x	
+-1	*	sin(x)	^-3
++	-2
++4*	x ^0+	+2*-1
+4*x	-		sin (x)	^	-3 
+cos((-sin(	(3* cos( x	)))))
+cos	((+3))	^ 0
+-	cos (x)	^0+4	*cos((3 +	-2*cos( x) *+4*3	)	)^ 1*x^-2*0
+-3
++x^	+2
++cos((	(-4*cos(x ) )	^3) )	- 4*x^4	* -3*-3 *		cos (	x)	
+4 * x
+cos(	(+sin( x))	)^1++cos(x)	 
+-3
+0	* cos( (cos(x	)	^4))^ 3-+2	*sin( x	)^-1*cos( x )	^2 * -1	
+-1*x 	-0*	x	^-0	*	+0*cos	(	x ) ^ 2 * sin(x)^-1
+1*	(+0*sin	(x) ^-0)	^	+1
+-4* cos (x)^	2
++1*sin	(x) ^	4 -+-3	*	cos((-	4	+	+ sin	( (1*cos	( (+-2- - sin	(	(+x ^ -3)) ^ -0)	)^	1+	-1* cos (	x )^2	))	^ 3*3 *sin ((-3	*sin	(	x) ) ) *	+2 * cos((sin(	x ) ^1)	)		*2	*sin	((sin(	x)-	+	4	* 3 *cos(x)^ 0*0* cos	((+3+ 1*cos	(	x ) ^ 4)	)*	+0*	cos(	x)^	1	))^	+3	)	)	*	 cos(x)	*3 
++4 * x^ 1
+-4
++3 *x	-4 *x	*+1	*	(0)^	1*	 cos (x)	 
+	sin	(( sin( x)^-3) ) -	-4*cos	((3) )^	1*sin	((+2* cos(	x)- 3	*	x* (+ x ^	+1)*	(+2 *x ^-3	+ -	cos (x	)	^4) 	) )* 4	
+1*	cos(	x) -2*sin(	x)^+0	*cos	( x ) ^ +2*	-4	
+-1
+4	*cos (	x)
+3*cos	(x	)^	3
+(-1*	sin( x)^3-	3	*	x	^-2	*cos (x)	*	-4*sin	(	x)*	cos(	x	)) ^	-3--+0 * sin(	( cos(	x	)	^ 4--	x^-2)	) ^4
+ sin( x)- 2*  x 	
+3	*sin(	x ) ^	3 +x	* x  *		cos ((+ 2	+	sin (x )*-1*sin (	x	)^ 4	* 4	* cos	(	x	) )) *	 sin(	x )
+-+1	-+0*(4	*	sin	(x ))	^+1*	sin	(x)*+0* cos	(x	)^ 0
+2+	-cos(x	) ^	3 *	 (1*(cos ( x)^	1-sin(x	)^	3* cos(	(+	x))*-2	*sin	( x)	^	3)^-2	-	- sin(	x	)	*3* 4*2)^ -3	
+ x^2
+3	* sin	(x	)+ sin	( x) ^0*+1
++ cos	(	(+ 2 +0	* x^3	)	) ^-2
+0 *cos((3	+ -0) )^1-3	*-0*	cos(x	)	^+2	
+-0	*x^-3+	1*sin	(	(-0*	cos	((- +2)	)	^	2)	)*	x^ +4
++4	+cos	(x )^-2*3	*sin(x )^3	*-2*1	*cos(x	) ^-1
++	(+3--cos(	x)^	+2* cos (	x ) ^3)
+4*	cos	(	x) 	+1	*	sin (	(+ cos(	x )	)	) ^+2* +2*	cos( (- +1))		*	sin((-1+	cos(x) ^1*4 *sin(	x)^+0* x ^	1 ))	^	+4
++1
+-cos(x	)^	0 ++x	 
+3* x ^-0 -1	*cos (	(+sin (x)^	-3- sin( x ) *sin ( x	) ^ -4	*3	*x^4	*	sin	(x )	^+0))^2 *cos (x	) ^+3	*4*x^	+0 
+cos	(x )^ 3
++ -0
+1*sin (	x ) ^ 1 -	x
+-	-2 + x ^	-1	*	sin( x) ^4	*-1*	cos(x)	 
+-	cos( x) ^+1
+	sin (	x) ++cos(	(+-2-	+sin	(x)	*-3*	sin ( x )	*+2*cos ( x)	)) *+1 *+2*	x*sin(	x )	
+ x -	x	^	3	*cos	( (0* cos	(	x)^ +1	--x*	-3 *	cos( x	) * 0	* sin (x)^4 ) ) ^-3 * 2* sin(x) *	cos	( x) 	
++0 *sin	(x) ^+1+4*x*	-1*sin (x )  *	1
++cos( x) 	+  (+4 *sin (	(3*sin( x	)))) ^ +0 *	 x^	1*		cos(	(-3)	)^	4 *	 cos(x )^	+4
++	cos(x	) -	-4*	x^ 2*	cos (x)* 2	* cos	( x)	^-4*2 
++2* sin(	x )
++x	+ 4 *x^-2*	(0 *sin( x)	 + -x * 0	)	^+4* sin	((1 *cos((- x	^ 3)	)^3	-+0* sin (	x ) ^ 4	*-3 * (1	*cos(x ) ^ +2-cos((+ x	 -	-0*sin( x)	)	)^3 )* (+1) 	)) 	
++0 *	sin(x)^ 4-+4* -0 * sin((-+4	+ 3 * sin(x	) ))^ +3	
+4 *	sin((-	sin(	x	))	)	^ -3	- +x^ +2* 4*cos(x )		*x ^	+3
++4*sin(x	)
+3*sin (x)	^+3
++ sin (x	)^ -0- 0* sin(	x )	*0*	cos ((3)	)	* -0
++	-2	-0*x^	0*-4* (-sin	( (+ cos	( x)^	+4)	)^	3-1*cos(	(-0*cos(	(+ +0 ++cos (x)	^-4)) +-	sin ( x )^	1	* 2	*sin( x	)	^2) )	*	cos	(x)	^-2 * sin	(x)		*0	*cos (x)		) ^	4*3*sin(x)
+-1	*cos((-0*x^ 4)) 
+3+ -3
+ sin	((+1*	cos(x)	-	0*cos	( x ) ^	0) )	^	-2- 1 *	sin( x) *+3*cos(	(+2)	)	^-2 
++cos(x) 	+ 0*cos(x	) ^0 
+-4- +	+2	*1*sin (	(- x^-1	+-0*2 * +0*	sin (	x )*	4*sin(	x)	^2) )	^	-2*1	
+	x 
+3 * cos	(	(4	- sin((-	sin((+ +1 +	+cos(x)	^	1*	0 *cos(x	)	)) ^-0)) 	* 1*-2* sin( x)^ 3 ))+	+1 
+sin(x )	+	3*0	
+sin	(x)	^ -2+0 
+4
+-4*sin	(x )
+1*	sin( x )^+3+ -	+2 *0 *	x^ 1	
+x^ -1-	sin	(	x) ^+0	*	sin (	x) *	+4* (-0 *	sin	(x )	^ 0)*4 *cos( x )^	-3 
+-	1 -	-4	*cos(	x)	^+4	*	 cos(x	) ^+2	*2* (+3) *	1
+ cos(x	) ^3-sin ((3	*cos(x)^+2 +-0	*sin ((cos	(	x	) ^0)	)*1*	(-+2- 4*	x	*		x	^ +2	* 2 *	cos(	x) ^	+0	* x	)^+3 ) )^4
+	cos	(x )		-		cos( x ) ^-3*2*sin(x	)  *+2*x *sin(x	)	^+0
+-3
++cos	(	x) ^	4- 4*x	*+2 * sin	(	x	)		
+cos ( x)^	-2
+-cos	(x )	^	4+2	* x^	-1	*1*x ^+1
+-0
+2
+-1 +	2	*-4*	cos(	x	) 	
++3*cos	(x) 
+-3
+ cos(	x) 
+3* cos(	(x	^ 3+		cos	(	x	)		* cos(x )	^ 0	* -3	*	cos (x ) ))^	0
+-2 * x -+cos ( (-	x+	-0 *cos(	x )^+2	) ) ^+2*0 *	x	*+1 *sin((cos ( (x	)	)^	0	-	3* sin( x)^0	))
+(+ cos	( x	)	+1* cos ( x)		*	0	*-3	*+3	*cos (	x)	)^+2	+ 0*	sin ((	cos( x)^+2-1*	x *	4* 2 * sin	(x)^ 4) )	 * +2 
+2	*sin(x	)++1* 2 * cos(x ) 
+-3	+	x	
+-0+-3* cos ( x)^ 1*	+2* cos	(x	) ^ 0	* +0	
+4	* (	x	+	+cos(x)^+1 )		+	+0*x ^1*	-3*4
+	cos((-	3)) ^	1	++sin	( (sin(x	) ^	2)	)^+0	*-3 *	cos (	x) 	* (0 * x	^ +1	- -3 * 2*	x *	sin((4	*	cos (x)^ 3	--	4 )) ) ^ 4 *	x 
+-3 *	cos ((+0	*	x	^ 2 - +1 *x^ 2* +1*1*	(-0 *	cos (x)^-4)	*	 cos( x	)) )
+-	x ^+3
+++0
+-1 -+cos(x	)	*	sin (	x )	^	1*	+1	*cos(x)^	1	
+-sin( x	) ^ -4
++	4
+ ( sin(x) )^1 ++4	* cos(x) ^	-3*4	
+- 4	-	- cos(x ) 	*+4* (+1*	cos(x	)	^ 1) *+2	*	(+4*	x -3*sin(	x)	*cos(x )^ -0	*+0*x ^3	*2 )
+2 *	cos	( x ) ^+4
+- cos	(x) ^	-3++cos( ( (- +0	+0*cos(x) * 2 *	+0 *	x * +0* cos(x)	^-0 )	^	0-sin ( (cos( x )		+0* cos(x)	^ 1)	)	^ -3))		*  x	*	-0 *cos(x)	
+1+x
+-1 *sin	((+0* sin(x) ))^+4
+4* x^ -2+	sin(	x )	^1 *	(2* cos	( (0* x^ 3))^4	-	-	-0* (sin	(x )) *sin(	x) ) 	
++(4	* sin( x) +1 * sin(	x ) ^+2 *+3	*+3*sin(x)	) 	+-3* cos (	x	) ^0	*		sin( (- 1))
+ (-sin(x	)	^ +4-+2*+1	) ^ 0+	-1 *x * +4* 	sin(	x )	^	3 
+1
+1	*cos	(	x )  -4	
+-0	*	sin(	x)
+3 * (x^	+2-- 0*x^	+3)^	+1
+4	*	sin ((cos(	x)^1)	) ^	-3-		cos (x) 	*	+2*(+4-	1*	cos (x)*	1 * cos (	x	) ^ -2)	 
+sin((0))^ 4
++ sin	( x ) -+0*(+0 * sin	(x))*+2 *	cos( x )*-3*	(+3*cos ( x)^ -4+ -3 * sin((+ 3) )	)	
+- -0+cos	( x)^1
+1+ 1 *	 sin	(x	)  
+4	*cos(	x)	
+ x	+-sin (x)* cos((- 3	+	+2*	x)) ^0 *	1 *	cos ( (1) )	
+4* cos(x)^	-3- +	cos	( x	)	^	-2*sin(x)
+sin	(x)^+1
+0	*x ^	+1
+	cos	( (1)) ^ -4
+ x 
+-cos(x)		+sin(	x)^	-1*2* cos(x ) ^1
++	-3
+-2
+-0*	cos	((-2 -0* sin(	x) *	0*sin( x)*		cos(	x) 	* x ) )^ -4	+ +4 *cos	(x)	* 2	*x ^ -2*	-3	*	x^ 2
++1
++sin(x)^ 0+	+4 * x	^+3	
++2	*	sin( (4-+2*sin	(	x	)	*0)) ^	-1
++x^-3--4	*cos( x ) *	+0*cos	(x	)^	0*+3 
+sin	(x	)+ x* -0 * x 
+4*x^4-+	3*x	* 	cos(	x )
+-3	*sin	(x ) - +1*sin(x	)	*1* 	sin	(x )	^ +2 
++	-1-cos	(x)		* +0*sin (x ) 
+--1++4
++1*	sin(	x )^ 1	-	-2 *	cos (	x )* +2	*x *3*cos	(	x)	^ 1*	cos	( x)^ 4
+x^ -1
+1*cos	(	x	)
+1*(-	+1 -4 * sin(	x)  *x^ 4*	1	*	cos( ( sin(x ) ^ -1 +	+4	*cos(x	)	)) ^+2*sin ( x)	^ 4	) 
+- sin( x)
++cos	(x	)	
+-3*cos( x	)
+-1 * x	+ 2*sin ((+2* sin( (-0	* cos	( x)	^2) )	^ 4)	)*+1*(+1	+ cos (	(0	*sin(	x))	) * sin(x ) * -0 * x*	0*	cos	(	x)	^2)
+- sin( (-x ^	+0++	-2	*	sin (	x	)^+0)	)^+4+	+(-4 *(	sin (x)- +0 * -4	* x ^	4) ^	-3-+sin	((-	+2+-4	* cos (	x ) * x^	0* 1 ))^+2 ) ^-2	*-4 
++2
++0*cos	(	x )	+	-3* sin ((1*	x ) )	^ 4
++ sin( (+1))	^+4
+sin((1	* x^	+3)	)^-4
+	(-2) 
+sin ( ( sin(	x )))^ -4- 3* sin	(x	)	 
+-3	*x^-3
+ sin( x	)^2+	cos(x)	^3	
+3	*	cos(	( sin (x	))) 
+-4* cos(x	)
+	cos((cos(	x	) ^	0 -+	x *4* cos(x)	^ +2	*	1*	-3))	+ 0 *	x ^-0	* (	cos( x)	^+2	+ 3* sin	(	x )* 0	*1 * cos ( x)	^ +0 )
+4- - 1	*	sin	(	x ) ^	0	* 0
+0*sin( x)	
+	sin(	(0*	sin( x )^+2+ 1* (3*	(1) )	))^-1
+-1 *sin(	x )	+-4*cos(x)	*	cos(	(-	1- 4*sin	((1))^ 1	*-0	*cos(x)	) )		
+1* sin (x)^ 2 - -	+1
+4	-1* sin (x )^ -3	* 0*cos( x) *-2* x^	+3 *		sin(x)^-0	
+cos	((+4*sin(x	)^3+ -2	* sin(x)	))+	cos	( x)^	+3*	sin	((-3*x ++4*cos(x )  ))^	+0	*0 
+ x ^+2
+1	* cos(	x )	^	-4
+ cos(x)  +	1*cos(	x ) *sin (	x)	*sin( x)	^1
+-cos( x )	-	sin (	x) *+4* cos	(	x) *+3	*cos(	x) *-2	*cos(x )^ -2
+-sin	((+2*	sin(x)^ 1) )	^	+4
+0*x^3	+ 	cos (	x) ^ 2 *0	*	cos ( x) ^4*x*	0 
+sin (x	)	 +	cos(x)^+1*	cos(	x )  *	x	^ 3*0 
+cos	(x)^3+	1*	sin( x	)  *2* cos	(x )^ 3*	 x	
+1 *	(cos(	x )	^	4) ^ 3
++sin( (2*	sin( (-4*sin	(x))	)^1	-cos ( x)^+1 *+3)	) 	-1	*(-2+1* cos (x )^ +3* 2	)^ 0*	cos( x	)^1*	0
+ cos (	x)	
+-4 * cos	( x)  + sin	(x)  *	cos ((4-- sin((-0* x^ -4)) 	*	+3	*-1*	sin(x	) ^1) ) 
+ x
+-3
+-3 -	-sin( x	)^-1* 0*	x^2*-1 * cos(	x) 
++ x - +2*	x^3	
+-	+0+ -4 * x	^3 *	+0
+-1 *	sin	( x)
+-2
+ sin( (-0)	) +	- sin((-0*	sin (x)))	^-4*-2 *	sin(x)	^ -0 *x	* 	sin(x	) 
+ (+0-++1*	 sin(x)* 	cos(	x) ^+3)^ -1
+0+ x	^ +1*	3 * (-	cos( x )	 + +	cos (x)	 )	*		cos(x) ^	-2
++ x^ -2	-	1*	x^ 2*	x		* 	sin(x)^-4	
+	cos	(	(0*	x^-3)	)^	+3
++ -4	-sin	(x	)^-4	
+0
+3+	1	*	sin(	x )	 *2 *+4 
++cos(x) 
+-+2	- x ^ 0 *-0*cos(x	)	^	1*	cos(	x )	^	-1	*sin(x)	
++ -2-4	
+-cos(x )^	3+-4	*-4*sin (x	)	^+2	*1*0	
+0
++	+4-+2 *	x*+4*cos(	x	)	^ -0
+-4*	cos( x)
++0*(4 -4* 1	*cos(x	) )+  cos (x) 	* sin( x	) ^+0	
+-2*	(+3	*sin (x)	^	4-+3* -2 * 	sin	((+ x^ 4	-	x	^ +1)	) )	 +	+2* ((cos(x)^ 2 - -0*sin( (+ cos( x)^+4)) ^	+3*+0*cos (x) ^ +2* +1) ^ +2)
+-4* (-2) ^0	-1*	x^-2*(0 *sin( x) ^ 3)	^-4
++2	- sin((-1*sin(x	) )	)*cos (x)	^-3* x
+- cos(x)	^-2
+1*x	
++1 *	sin (x)^+3--0 *	sin( x )^0	*	4
+-3--cos	(	(+ sin	(x )^3++0* (2*	cos( (- sin(x) + + 0)) - 2*	(+2* sin	( (+3	*cos (x)^ 3))	^+1 +-	x	) *sin ((- 4 ++ sin (x) ^ -4*	+0 *cos(x) 	*3* (1 * sin (x)	^3-+	x^3*	0*x^-1	)^ 2* -4* x ^ -1 ))	* 	(-2	-	 sin(x )^-2 *4 * sin(	(+4 *cos	( x	)^1++1 * x^4)	)^1*2	* sin(	x ) ^ -1	*	-3 *	cos( (4*	x ^ -1-+1* 1* sin(x	)))^+2)	)^3* 	(2*cos(x )^-2 + +	cos (	x)* cos( x)^-1*	sin	(x ) ^+1 ) ^ 0 *	2)	)*sin(x )	^3 * sin	(x)^ 4 
+3
+	x
+3 -		x 
+-	(-	-4) 
+2 *	cos ( x)^	-3
+4	*cos( (-1	*sin(x)))--3*sin ((+2-+1 ) )*  (+1) 	
+++4
+2	*cos ( (-	sin(x)) )	^	2 -	+3	*	sin (( cos(	x)^-1- cos( (2	*	cos(	x) +	3*sin ( (+	x^2)	)	* 4*(+cos	(x) ^-4)	^-4) )	*-1*sin (	(+4	*sin((+ x-+ 3*1*3 ) )^-4)) ))^ 3*3 * +3*x	*	4*sin ((1-	4	*sin	(x)  * cos ((-	+0-- +3))^+1*-0	*x	)	)	
+2*	x	^+0- 4*	sin ((3* sin ( x)))^3
+-0 *	cos( x)	+	(2)^2* -0*(1*x	^ -1)^ -1 *+0*	sin( (-2* x^	2+	+1*1*cos ( x)^	+2	*	x^1 ))
+3	*sin(x	) ++3	*	x^	2
++x	^	+3 -+1 *(+ +2)^ 1	
++sin	( x	) 
++cos (x) -4	*	sin	(x) ^2 * +1	* cos(x ) ^ 1*4*x*		x ^0 
+-0*cos((x	-	+3	*	( sin((0*cos(x)	^	+1-1 *2	*	2 *sin(	x)	^ +4*	x	)) ) * 	sin(x)	* 1	*sin	((+4) )	^-0)	)^0
+0*	cos( (4*cos(	x )	^+3+	+	(+ 1)^ -2*	-1*+0*+1)	)
+x^-3-	-	sin(	x ) *4*cos	(x)	^ +0	
+cos	(	x	)
+3
+++2
+-4	*	sin	(	x)	-+ x	^-3	* sin (	x)	^ 4
+(-2*sin( x )+ 	x^ 0) +	+	cos	((-+0+ -4*	sin	(x)^-2* sin	(	x ) ^ 4 )) 
+++0- 2	* sin(	(-	x + +x	^ 3*		cos	(x	)	^ 2*	(-	sin	( x )^ -1)*3 * x	^	-0 )	)^	-1*sin(	(+	cos(	x	)	+	+x *		sin (x)))^-1
+-0
++3	*x	^4 -4 * sin ( x	)^4* 1	*+3	
++ 3
+-3*	sin (x	)
+-1*x	^ 2 - 1 *	-4	*	+4*x ^	2
+-+4	+	 x		* 	x^	+2	
+0 *	sin(x	)	
+-3
+0 +	+sin	(	(	cos((+x ^-4 -- -0 * +0 *	x		*	-1* cos (	x) )	))	)	^	+1*  x ^ +3* 0 * sin(x	) * 0 *x ^	-0 
+-4	+	0*cos ( x	)  * 1 *sin (x)	^	0
+3	*cos	(x)	^+1-2*x^ 0* x^	+1	
+3* x - - 4	*4*cos(	x )^	-1	*0	*  cos(	x	) 
+0
+1	*sin (x) ^1
+-4	*(1	*sin ( x	) -	+1*	sin(x )^	+2*+3 *	4* sin	( x)*cos	(	x ))^ 2
+-cos(	(3	*cos	(x))	) -  x^	0	*-1*cos( (sin ( x)^	-2- +	sin(x	) *cos (	x)	* -3	*	+2*	x^	-4))* 1*sin	(x)
+-2
+4	-	0*sin(x	)*	0	
++	(-2 * sin(x)	^	0	-  sin	(x	)* -2* 0*cos ((-3 + +2*3* sin(x )*	 cos(x	)^ -2)))^ +3
+-1	- sin	( x)	* sin	( x)*2 *-0 
+1	*	cos	(	x )^0
++ 4
++1*cos(x	)
+- cos ((-0*sin	( x	) ^4+	4*cos(	x)^3* 3*	cos(	x	) ^-2	))	-4 * sin(	x )	 *3	* +2
+1 *sin(	(4*	sin(x) 	-1	*	x^-1*	cos(x) ))		-+x ^	2*-3*	sin (	x)
+ x^1
+0	*sin (x)
++x^0+2 *	x	*	sin(	(-x^ 1 -	3 *cos ( x) ^	-0 ))^-1
+0* cos	(x)		-cos (x)^+3 *	1 * (	x^3+x )	^	-4*	+4 *	sin	(x)	
+-1 *	sin(x	) ^4
+3	* cos (x)^ -4
+ x^1
+ cos((+4++2* +3*sin( x)	^ -4* 2 *cos	(x )*1	*cos	((2* cos(x )	^-1)) ^ +3 ))
+3*cos	( x)-0 *	cos	(x	)*4*	1	*sin(x )	* cos( x) 
++sin(x )^-0
+-sin (	(-	sin( x) ^ 4)	)^+4
+4- +1*-3	
+ cos((4* cos(	x)	^4+	+3*0	*	cos( x) ))	^4	--cos(x	)	^	+1	* sin(x)*1	*cos ((-sin (x) ^ 2+-cos(	x) *	0 *(-4 + 	sin(x) ^-3*-3*	cos	(	x)	 *2	*	-4* x		)*	1	)	)	
+-3-	-3*cos	( (+sin ((x^2	-3*cos(	x)*	x	^-0*3))-		sin(	x)^+1	*	sin((1 *cos	(x)	^	+2)) ^-4*-2))
++cos	( x )	
+0*cos	(x	)	^ 0-	+sin	(x)^ 2	*	cos(x	)
+- cos(	x	)
++0
+x	
+- 2+	-2	*cos(x	)^	-1* -4	
+- cos	(x	)	^3
+-+1--2* x *2 *	 sin( x ) 
+2*sin	(x ) 
+ x^1- 	cos( (+sin( (+cos( (	sin(	(1*x^ 2+4*	sin	(	x)	*	2	*cos	( x	)^-0	*	sin	( x)	^4 ))))  + -0 *	x ^+4	*cos	(((-	cos(x	) ^ 1-3*	sin (	x) 	))	)^+2	)) ^+1))*		x  *	cos ((- +0- +0	* x	^+4	*+0 *	sin	(	(	(+sin	((0* cos( x	)	+ x	 ))^2)^+4 -	1	*	sin((-4))^+3* 3*-2	*	sin (x )^4 )) ^ 3)	)	*+4*	cos((	cos( x	)^+3))
+-0*x ^4-2* sin ( (-4 *x)) ^-1	
++4
+-	-4+	-(	x)^+0*(1)	^0*	4*	cos( x	)	*	 cos (	(cos(x )))		
+3 *	cos( (cos(x ) ^2))^	-2+-1	*sin(x)	
+-	x		-	-	4*-0	* sin	( x)	^	3	*	1 *x
++3
+1
+2	* cos (x)^	-4
+3- +4 *sin(	x)*	1 *sin((-1)) ^-4*x^	0*1*cos(x) ^ -1	
+sin(x)^	4-+ x ^ +3 * cos (	x)	 *	 sin(	x	)^-4 
+0+2	*x	
++cos ((	(+2	*sin	(x))) ) ++	sin( ( sin ((0)	)	+	 (3	*x	^ 2+ -sin( x) *cos(	x)	^+3) ) )	^+3
+-0	*x^	-2 -	-2*x * sin	((+3*x 	-	1*	x	^-2))	^-2	
+-1*	x	^+1++0	*	cos	(x)	* sin(x ) * -1	*-3
+cos(x )^1-+ cos(	x)	^+3	*cos	( x )*	 x	
+-2*sin(x)
+0	*cos( x) ^-3	+	-1 *x *	+2 * cos( x)  
+-4	*	cos(x	)^ -4- +1 * sin(x)^2* -0
++2
+2*sin(	(-sin	(x ) ^0+3* cos	(	x ) 	* -4* cos	(	x )^3 ) )	+	4 *	cos(	x	)	^	+4* -2	*	+2
+	cos((1 +	- +0)	)	 -	-0*cos((+cos (x )	^ +4))^2	*-2 
+	sin	( x)	^-3
+-1
++	3
++0	*sin(x )^ 1
+-sin	(x)^1
+ sin	((-1+4*	((x	^1)		++4* cos	( x)	)	^ 2) ) ^3
++3
+ cos(	x )^ 4
+-	-3
++4* sin(x ) ^3
+-1* sin (	(-(3	* sin (x ))	^	-0)	)	 ++cos(	x) ^2
+0 *	cos(x )^	2
+1*	cos (x	)	
+cos( (+1	*cos ( x) ^	-3))^ 1
+4 *cos((+	-3+	(-1	*	cos(x) 	-	- cos(x ) 	*	-3 * sin (x)	* x	*  x	^ +2 )	^	1))	^+2
+2
+-cos( (3	*cos( x))	)
+4 *x+2 
+1	*	cos (x)^	+2- --0*	-0 *x	^-3
++2 *cos( x)	^ 3-	3	*	( x ^+3	+	sin (x)^-4	*-4 *x^2* 0*	x ) 	* cos	( (-cos	( x	) + 0 *	cos	(	x	) ))	^-0 *	+1* sin (	x )	 
+	sin (	x) 
+-(+	sin( x	)^ 1 +	2*x	^	0 *4 *(	x	+	-cos((1	*x ^ 1)	)	)	*	0*+3*cos((	(-3	*	sin ( x)		-	+x	^	+2)	 +0	*	cos((-	cos (	x	)	++4	* sin(x) *	4)	) ^+4	*-4*0)	)	^ 1)^ +3
+2 *cos ( x)	^ 1-	--4	*cos(x)^ +1 * 	(-cos( x)		- -0*x ^0	)	* 1
+ x+cos ( x )^	+0 
+3	*	cos((-	cos ( x )^+3 -	-0*	sin	(x )^ +1	)	)^ -4
+1* cos (x ) ^	3 -2	* x* 	cos(x	) ^	-1*	 sin(	x) ^ 1	*+0*x
+-4 *cos(x	) 
+0*x
++-3-	+cos(x ) ^	4	*	x  * 2* cos( (1*	cos(	x ) ^	-1))	 
+-1
+3 *sin((-2*cos(x )^-1)	)^	-0 - + 4*	cos(( cos( x	)	^ -2))	^1* 	sin	( (+2*	sin( (	x ))	^+2)) *	 (-0 * x	^4) 	
+2 * cos(x)-- cos	(x	)^ -3	*	3 *	cos	(x	)	* 	cos(x)^+4 *		sin (	(1	*sin(x	) ))	
+-3 * x	-1*	x * cos (	x)	*	+2* x	
+-0* x  +x*-3 *cos(x)	*	 sin(	x )^	-0
+3*sin(	(+1 * cos	(x	)^	+4+ -	sin	(x)	^	-1*+0)	) ^2 -4* (-4 *	x ^ 1) *	4	*	2 *sin (x)	 * -4	
+-	cos( x	)	- -1	*x ^-2 * 2	*3*cos(	x) 	
++3
+	(+0 -+2	* 3 *(+ x^ 4 - x	^	+1	*0*sin ( x)	^3	*2	* 4*	sin	(	x) )^-4*3	*	0*sin ( x)	)^ -2
+	cos((-4* x^	+2)) 
+-1-1	*cos(x )*	0*sin(	x	)	^	+0
+1	* cos(	x )^3--0 *3 *sin ( x) 
+x	
++2	*sin	((2 *	x^-4)	)	+-(-x	^ 3)*-3*sin	(x	)	^ 1*-3
+- cos( x) ^	1
++3 -	-	+2* 4 *sin	(x)^-2
++3 * cos (x	)^0
+1*x^0
+3	*	(sin (x	) )	^ 4	--	4	* sin ((+cos(x)	^ +0 +2	* x ^ 4	) )	*	+2 *cos( x) 	
+-4	* cos(x ) ^1
+-3
+0*	cos( x	)
++sin (x	)^-1
+-4 *x 
++3*cos (	x)	-4*-4
+4
+--4---0 * -1	*	sin(	x)	^	+3 *4 *sin(	x	)	^2*+2 
++	+0-- sin	(x ) ^2	
+-1
+4*cos ( x)+ 	cos((- 3-	-0	*3* (+2*cos(	x	)	-x^3* cos(	x ) 	)	 *1	*  cos ( x )		) )	*	cos(	x	) * x^ +0
+-3*	cos	(	x	) +cos(x)  *0*sin((3)) ^ 2
++3
++0*sin	(x)^0
+- x	
+4*	sin (	x)	
++3	-+0	*	cos(x )	*	-0*cos	(x)
+-0 * cos	(	x)^ -1
+	cos( x)^	+4
+2* cos(x) 
+-	x ^	4
+4	-	-3*cos(x) ^-1
+-3*	(+x) ^ -0
++x +-sin(x) 
+-0
+0* cos (x) ^+3
+-sin(x ) 	+ +	sin	( (+4))	^ +2* +1* 3	*3
+sin (x	)^+3-+(+	cos ( x) + x^0*0	*	cos( x )^	+4 )^ -2
+1	*	(-2	+2*-4 *sin(x	)) ^ -4-sin(	(-3) )^4 
+1
++ cos ( x )
++	sin(x) + +0* sin ((++4) )	 *	0 *0* cos( x )	^2	* +4	
+0*cos	(x) ^ +3-4	* cos (	x )^0* 2*(-2)	*	4	* cos	( (+ 1	+2*cos ( x ) 	))*-0 *sin(x )
++cos	(x	)	
++4 *sin(x)	 + +1 *	sin(	x)	^3*+2	*	cos(	(2* sin(x )-	-	-3 *	sin( (-4*sin	(x)	^+0)) ^ 3* +2	*sin(x ) )	)	*1 
++1 *	sin	(	x	)^ -0
+2*(cos(	x	) ) ^	-0 -3 * cos(x)		
+++2-	3
+2	*	sin(x ) 
++3
+x^4
+4 *cos (x)^ +0
++2* cos(	x) + -	cos	( x )^+4*	+0 * 0
+2*sin(x	) 
++cos(x )^4
+3 *	cos( (	x^3-- -1 *	1 * sin	((+3* sin(	(+0+3 *cos(( x^+2 --3	*	sin( x)*3	*	cos	( x)	 *+1 *cos(	x	) ))		*2*x	^-0)	) ^ 1)	)	*	-1)	)^-4 +-3 
++	cos(	x	)^1
+	sin	(	(1*	sin (x)^1 + +4 *cos(x )^-4	))^ 4 +3 *	sin(x)	
+-	+1	++sin	(	(+sin(	(+2*	cos (x	)	^ 0))^ 1+ -3* x	*	 cos	(	x	) *sin ((sin((++4	+ -2	*	sin (	x	))) ))		*  x ^1)	)^-2 * (2 * sin(x) 	- + -4 )^0*cos((	x	^-2))^4	*+1 * x^ 1
+- x 
+-	-4- -2	*cos(x) * x*-4*	sin ( x	)*	1	* x	
+-1*cos ((+1	* sin( x)^2) )^2+-4 * x	^4 *-3*3*		sin ( x	)	
+ sin(x )^	+4
+	cos( x)	++4	*	sin ( (-sin	(x	)	^+3+	- sin	(x )* +3*-2 ) )	^1 *(-2)^3	
+3	* (+ sin	(	(- +3)) 	+2 *sin	( x) ^+2*	x ^ 1	*1	*	3*x^1	)	^+0
+	cos	(x)
+0 *	sin( x	)^ 0
+-	x	 +-4 *1	*cos( x) 	
+4
+2 *cos(	(+0 *cos	(	x	)	^ +1)	) ^-2-1 *	cos(x)* cos(	x)	^ 0
+	cos((3)	)	^ 0 - 0*sin ((-x	))	*	3	* 	x* (3	*sin( x	) ^	0)^	3
++1	*sin	( x	)	
+cos ((+ 3))
+-cos(	x	)	+	-sin(	x)	 *	 x 	
+3 *sin(	(+1*x)) ^ -0+	sin (x	)^-2 *	+4* cos	(x )	* +1	*	cos((-2	*	x^4))  *-0* sin (	x	)^ 3	
+-0	*sin( x)^1 - -2*sin	( x	) *4 
+2 *	cos	(	x) 	+ 1* sin(x) ^ -1*		cos ( x)^ -3 *	-3	*	x^+3* x	
+	sin	(x)^-3- - 3	*+4*x	 *	-4	
+1*cos(x) ^-0
++	cos( (0))^	+4 - +	(	sin ( x)	^2+0	*cos (x )	^4) * cos( x) 	
+sin( x)	 -+3	*(+4*(-x	^	2) ^ +3)* 3 *	-3*(-+2+	+	sin	(x)	^4 *-0 *(1*sin(x ) -	+sin(x) ) ^	+1*		sin(x )	) 
++1*x  ++(-3* x^	-0)	^-4*cos(x	) ^	3	
+-0	*(0*cos	(x)	)	+4	* sin( x)		* 	cos (	x)^	-3	*	1*sin (	x )  *x	
+ x	^0 - +-4 
+cos( x	)+-4* sin	(	x) * +2
+0-+1 *x ^+1* x	*	0*sin (x	) ^0*	sin	(x)	 
++4	- +4*	cos(x )	 
+-1 * sin ( (-4	-	-0* cos(x )	^0) )		+-	sin	( x)	
++0*sin((+cos	(	x )^	-2 -	-0	*cos	(	x ) *-2* 	sin (x	)^	0	*	cos	(	x )	)	)
++sin (x)^+2 + 4 
+-3
++x 
+4
+x  +		x *	cos	( x	)	* cos	(	x	)  *	-1 
+-	sin(x	)-	4	*+4* sin ( (4) ) *	2* x	
+1+ +2*cos((4*cos	(	x	) ))
+-	3
+3* cos(	x	)	^ -1
+1
++	sin ((1	* sin ((+	(	sin(( x)	)	++	-1 )	)	) -	-sin (	x)^	3) )	 -+ -2	
++1 *	cos( x	)+- cos(	x	)	^+1 *	1 * sin ((cos ( x)	)	)^	1*3* x	
+0*cos	(( cos(x	) ^+2))	+ 3*cos	( x)*		cos	(x	)	 
++0-	+3 * -0 
++cos	(	(+	2) )	++	sin	( x)^1 
+- +3	--2*+0 *	x	*	 sin	(	x	) 	
+-(+ sin((- ( cos	( x	)^ +3)))^ 4)
+0*(- x)^ 3+	-1*sin(x )
+3	*sin((0 *(-1*	x	^+4-	+4*sin	(x )	*3	* 3	*sin( (-	2+3* cos(	x )	))^	3*	-1*sin	((cos (	(x	))))	)^+0))^-1
+-0
+3* sin( (2*	cos(x	) - -x ^ -0*4	))	^1
+- 0
++	4+ sin (	(-sin	( x	)-0*4 * sin(	(0 * (-	1+3 * cos( x )^0 *+2* sin(x	)	)	^+1) )	* 4*cos(x)^2	))		*+2*	sin( x) ^0
+2- --3	*	+4 *cos ( (- cos(x)	^ 3 - sin	((cos((- x	^	-4	-+3*	cos	((+ +0)	)^	+0* 3* sin ((+0*cos(	x)	)) * 2*x^1 *-4	*	sin	((	cos(x ) ^ -2	- -	cos( x)^-2* x	* sin (	x	)^ +1	)) ^ 2)	) ^	4))	^4*	cos	((+1 *x))	^	2 )) * 2 * (	sin	((4 * sin(	x)	) )^+4	-1	*cos (x )	 )	 * -3	
+++2
+-cos	(x	) 
+cos((-sin	( (cos (x)^ 2))^ 0-	+ (+cos	(x )^-2+	+x	^ +2*2 *sin	(	x ) *cos(x)^ 4) )	)  - -3
+cos (	(+3)	)^	-3
++0
+- cos (x )	^	0
+cos(x	)	
+0-	-4 *cos( x)	* 3 *0*	x ^1
+4*(+2* sin( x )+ -1*(-x	+  (+1* cos(	x)) ^	-0 *cos (x )	)		*	0	)^-3
+-1	*sin( x )
+4 * cos (x)	
+2+cos	(x	)	^2
+0
+ cos ( x) 	+ 1* cos(x	)^	+3 *0	* (4	*sin( (sin	(x )+-3	* cos ((-4* sin(	x) ^ 0+4* +2*+1	* sin ((4*sin	(x)^+4+	4	)	)	*	sin(x)	^	3 ) )	) ) 	+ -	x^-2) *	0*	cos ( x	) 	
+2	--cos( x )		* sin	(x)* -2	*x ^-2 * +4	*cos(	x)	
+-2*( sin (x)	^ 1 -  sin(x) ^	2	*3*sin	(x) ^0 )
+-cos( (0 * sin	((+2- 	cos((4 * cos	(	x) ^	3) )		* sin(	x)^ 3	* 	cos	(	(+x	-	-2 * +2 *	-2	* cos((-	cos(x )^ -2) )	 *sin((-2-+2*	sin(	x)  *  sin(x	)	^ 2	) )	 ))^ 4*	+4* x	 ))	-	 cos ((+2 - 	(0* cos( (	sin	(	x	)^ +0+1	*sin( x )	))^ 0+3*	x *  sin	( x) * -3* (sin(x )^+0- -sin( x)^2	*  sin ( x )^	+1 *sin	( x	)		) ) ) ) ^4 * cos((4*	cos(x )		+ -	x*3* x ^	+4 * cos (	x)^+0)	)	^3	) )^	+1
++1*x^	+3
+4	-	x^+0	*	-4 *sin(x)		* 	sin(x)	^-4
+-0*cos( (-+0))	++2	* cos(x) ^0 
+- +2+	0*	-0 *sin(	(-2))^ -1	*	sin(( cos((x	^ -1- +cos(	(2*cos	( (-1	-1*	x ^	2*2	*	cos(	x)	^-2* cos ( x) *	+2	* sin (	x)^-3))	 - 2 *	cos ( x)	*  cos(	x	)		*+1* +4	*sin(	(+2++ 3 *2) )^0))	^+2	*  cos((3 *x 	+cos((-sin (x))	) ^0*-2	))))	^0) )
+-4*	x^-1
++	sin	( (	x^+1))	^ 1
+2	*(3	*cos( x )	^ 2	+	4*cos(x)	^+2*1* sin( x) ^4	)^	+1
+x
+	sin(	x	)+ -1 * sin(	x )^ +0*	cos( x)* 4	
++	sin(x	)
+cos	((- 0-+	sin(x )^4* +1) )	--1 *	sin(x )^-1*-0*sin( x)  * 3* sin	(x	)	
+-0+-3 *(-x^-3)	^ -0
+-1	*cos ( x )^	1-	-2* sin(	x)
+ sin	(x) ^2	+	sin (x	) * +1* sin	(x )	^ 3	
++ sin( x	)  + +cos (	x )	^	-2 * sin(x)^-4
+-0
+-0*	x ^-2-	1	*sin	( x )^ -4*		sin (x	) 
++ cos(	x	)	^ 0
+cos ((+0	*cos( x )	- cos((	x ))	 ) )	^4
+1+cos ( x)	 
+-	x ^	3
++1*	(-cos(x ) +4 *x^	+4 )	+ +4
+-4+ sin(	(+0-+	x^ -1 *sin	(	(-	sin (	(+	x ^	-0)	) -3 *cos	( x) ^ 4*	 sin	( x) ) )^2) )*  cos ((1*cos	(x)	)	)
+	( x^ 1) ^4
+- 1
+- +1
+sin(	x) - +	sin	( x) 
++sin ((+4*sin( x	)^4) ) -	x ^	-0
+-1*	cos (x	) + -x ^ 3	
+ sin ((sin ( (cos( (-cos(	x )^	2-sin	((	cos ( x	) -2	*	cos	( x)	^-3	*	cos	( x)* cos(x	)	^	0 *	sin(	x)^-3 )	)^4 *	3	) )	-2	*sin (	x)	* x) )^3	-+cos( x)^+1) )		++1*	cos	(	(3*	x^ 3 - + cos( x )	*4* 0*x^+4*		sin((3))	) )^ 1	*	3	
+-	(+3*	x	^-2)	
+-2	* cos (x) 
+3-	-1	*sin	(	(	x	+0*sin(x	)  * cos(	x) ^+1	)) * cos (x)^-4
++4	-	+4*cos	((0*sin	(x	) ^	-1+ x ^ 2 *	cos(	(+1++4	* x* 4	*cos ( (-3	*	x)	) *4*	cos	( x	)	^1	)	)	)) *  x^3 
+	x	+cos	(x)^ -3*	-1	* cos((+0-+1* 0* sin(x	)^	2 *+1) ) ^ 4 
++-3	+ -0 *-3	
+2*x +2 *	-0 *cos(	x)	
+-sin (x )	- + 4 *	cos ( x) *	x  
++x	^ 2	- +	4 
+0
+-0+	- cos(x )^0*0 * 4 * x ^0	
++	sin (	x)
+3	*cos (	( cos(x	)	+	+3*	sin((3* sin	((+3 *	sin(x )	++	1	*2))	^	+1++4 *-4	* 4	*cos ((+1*cos	(x	)+-3	*	x* +2	*+3)	) ^-4	))^	1*2*x	*	+0*x ^0 * 	sin((+sin (x )	-3*sin	((0*x) ) * +0*cos ((sin( x	) -	4	*cos(	x )^ 4*x^+3*	 cos(x )))^-0)) ) ) ^-2
+- +0+ +3 *	sin	(	(-	cos (	x)^2))*		sin	((4 *x-	2	*cos(x )^	+0	*+3 )) ^ -3*4* sin ((3 - -1*	cos(x	)	*	+3* sin( x	) )) ^1
++0
+1 *x^3
+0
+-2-		cos	(	x	)*1
+-cos ((cos	(x)) )^ 1
+	x	
+ cos (	(2	- x^1*+4*	x^-1*	x	^ +4* 4 * x 	)) -sin((-	cos(x) ))*+0 *sin( x	)  *3 *	cos(x	)	^3*	(3 *	x++1 *	sin (x)	*	4 *x^	-2* 2	*	sin	(x )*+1* sin(x)^4)^ 0 
+ sin( x)
+ sin	(x )^4--0* (-3* (1))^	+3	*+0 *sin ( ( cos (	(-cos(	x) ) ) ^	+2))*+3* x  
+1	-	+	x ^+4 * cos ( (-4))	
+- cos (	(	cos(x	)^	+3))^+3
+4
+-4*(x	)+	-1 *	sin	(	x ) 
+4-+	-4*x	 * -0*	(- cos(	x	)- 4	*(+1*sin(x)	 +2*x*4*	sin (x)	^2)^+2 )* sin	((	sin	(x )^+0++4*  sin(x	)^+1* +2*x	^	+2) )	
+0 *	cos	( x) ^	+4-	-(-cos(x ) )	*(- cos(( cos ( x	) 	+ x 	* cos((-0	*cos( x )	))* 4*sin	((1*x		+	0 *	x^+2* 2*	-3	*	4*cos	(	x ) )))	) ^ 4- sin( ( sin ( x )))*-3	*	cos (x)	^-0	)	 * 	( x) ^	1	
+0*	cos(x	)	^+0
+2
++ 0
+--3
++4+	sin((2 * x^2	+ -	1 *4* sin(x)	*3 * cos(	(sin(	x)--sin	(x	)		*1 )	)	* x^-2 ))*x	
+sin(x)-+	1	
+--4
+0*sin(	x	)^ -2
++	+0
+--3
+cos((+x ) )^ 3 + -x
++1
+	sin(x)	-+-3	*		(+sin(x	) ^-1)*	(	cos	(	x) ^+0-	 x* +0	* sin (x)  * +2	* cos	(x	) ^2	)^ 2	*0 * cos(x)	
++cos ( x	)^	2++2*	cos(x)	 
+-1* cos(	(-	cos	(	(1	*	sin	(x ) ^-3 +	-2 *sin(x	)	))	^	+4) ) ^	-0
+-2	* cos( x)	^+3+	sin(((-2*	sin	((4-+1	))^ 0) ) ) ^	2*3*+0 * 0
++4
+cos(x )	- +sin((0 *	x	)	)^4 *	0*x *	cos(	(0*	cos(	x)	) )	
+ sin(x	) ^4--(+3*sin(x))		* 1 * cos(x)^3 * +0*	 cos (x) 	
+-3
+	cos ( x)	-- +1*+4 * cos (	(-0 *x	))^	-3 *cos(x) ^ -1
+-0
+0*cos (x) +-3*cos ((	x +1*	cos	(x) ^-3	* cos(	x) 	* +3 *	x) )^2*	sin ( (-0*cos(	x)^	-2)	)^ +1*0* x	*	x	
++ cos ( x)
++sin(x)^	+3-	-4	*sin (	x ) 	*	-2 * +2*sin (x)	^-1
+-	sin((2*x)) -+x	^4
+- -4
+x++1* cos(x)
+1 -	 ( sin((+cos(x ) -	-4	* x 	*	x ))	)^ 3 
+ x -	3 *+3*	(4*sin ( (3*	cos(	(1)	)+-3*cos ( x )^1*-4* sin(x)^3*(-	1)		)))^	+3	
+1*	sin (x)
+-0+ 	(+4 *cos( x)) ^-2 * -1* +0	* cos	( (+	+0))	 
+ sin(x )	
+3	+1 *	sin (x )^4*	3 
+0	* sin	(	x ) ^	3
+1
+3	*(+x^	-3 ++	-2 )^0
+-0*	cos	(	(- +4) ) + -2	*	sin(x)* -3 *cos (x)
+-	sin	((-2 *cos(	x)^-3 + 3	*	sin(	x )	 *	+0	*	cos (x	)	^+0	*	cos(x)	^	0)) 	+	-4*sin	(	(+ +1	-	1* cos(x)^+1*3	*	cos ( x) ^3*  cos(	x	)^	+3)	)^3
++sin (x) 
+1	*x 
+ cos(x	)	+-	sin	((3	* x	^	1-+	x )	)		*	+3	
++2 * sin (	x)^1-+0 *+0	*+3 *	(2)	*  cos	(x )	^1	
+-0
+- x ^-2
+-	sin ((1*sin	( x)	^ 4)	) + - (-2- +0 ) ^	+4 *x^ -3 
+0* cos	(x)^ 4
+2	*sin	( x )-	4	*cos((+-2	- -2	*sin	(x	)* +2* sin ( x) *2 * 4* sin ((+1)	))	)^	4* 0* -4* x	^	3*	-0	
+2* sin ( (-0 * x	--cos( (4* x	^+4 --sin( x )	^	1 * -4*	+3	* sin (	x)^ 3) )  * cos(	( (+	sin( x	)	) -+1*(+cos ((1*	x	)	))^ -4 ) )	^ -4) )  +  x	*0*x ^-3	*	cos(x)*sin(	x) ^-4
++sin(x )^	-3
+-2 *cos(x ) + 4	*cos	(	x) ^ 2
++0*cos (x)
+3
+-0*x ^+0
+--2+2*sin	(	(	sin(x)	- +0*cos (	x	)  *+1 *x^-1 )	)^	2 * 2* (2*sin(x))^ +0 
+0+0*x^ 4*4
+ cos(x ) 
++4*(-0 *sin( x))	^ 4-	4*	sin	(	x) ^ +0 *1	*sin	(	(4 + cos	((-3*	cos(x ) ++ +1	*+1	* 3*	cos	(x)	^	1 * 1 *cos (	x ) ^+0	)) 	*3) )* +1
+2+ -cos (	x	)*cos(x)	^3	*-3	*	sin( x)^1*-2	
+-sin( (-	sin(x))	)	^0+2*sin( (4)	)^4*+2*2*	-4*x 
+2	*	cos( x) +  cos (	x)	^	-0*sin (x )  *+1	*4 * sin(x	)^	+3	
++4-+ sin	(x) * 0	
+-4 *cos(x	)	^	+1-	4*(+x ^ +2) 	
++x	
+-3*	sin( (sin(x)+	0	*	sin(x	)	 * 3	) )	^-1	++sin ((-4* (-x^ 0)^+3	-0*	cos ((-2 *x) ) * -0 *	x^+4)	)		* 2*sin (	( sin( x	)		-  cos( x)	^1)) ^1	*+3	*	+4	
++sin( (cos	( x	)	) ) ^-0	+ 	cos (	x)*-1	* sin	( x) ^1 
+-0*sin( x ) ^2
+-cos	( (+3 *x))
+1
+-	cos	((3))	-+2*sin(x )	* 4* x ^ 2
+-(2	-4 *sin(x)*sin	( (+x^ 0)	)	* +0)^0
++2*sin ( x) --4 
+	x
+3
+-	(+0*	cos(x )	^	-4-2)	 -	cos (	x)	* 1 *	1* x	 
+ cos ((-0*sin(x)	-2 *	cos(x)^0* sin((+2 *sin	( x)	))	^	3*-2) )^3
+ cos	(x)^1+	+x ^	2 
+-1*	sin((4* (+cos((x+-1* cos	(x )	*	0)) ^-0+-x	^-4	)) )	-	sin ( x)^	+2
++4*x	 +	-sin(x)	^2	
+cos	(	x) 	+ -0 
+2 *	sin( (sin( x)^+0	+  x^ 4	) )-	+x 	*+4* -0* sin(x )	
+4*	sin (	x) 
+2	*cos ( x)	-cos( x )^+1	
+1* cos(	x)	^-1+ +sin	(x	)	^3* 4* x	^-3	* +0*sin	( (+1	* x	^	2) )* sin(	x )^3 
+2*x		+ -1 * x *+2	
++2* x - -3*cos(x)^+0* 3*	3*	sin(x)	*	-2 *	cos (	x) ^-0 
++3	*	cos( x ) 
++x 
+3 *sin(x ) - -4	* -0*x^3 *+4	*4	*cos	(x )	^	4
+0 * cos(x ) ^ 0	-	-4	*(+4*	x ^	1	+-2*x^+3* +4)	^	1* 3	
+-sin( (+	0))
+-4 *sin(x	) ^+4
++2*(-	cos(	x	)		--4	*1 *sin (x ) * 2*	x*	 cos	(	x )^ 0 )^ +0+- 1 *x*cos (x)^1
++3	*sin( x)	^ +4
+	sin( x)	
+sin	(x)	^ +0++ sin(x) *-1 *sin(x) 	
+-sin ((0))^ 2--3*	sin(	( sin(x )^ -3)) *	0
+-+0
+sin ( x )
+2* (+4*(+3*sin ((cos(	x	)	^-0+ -1	*	sin (x )^4* (-2)	^	0))	 +-	sin ((cos( x)^1))* +0*  cos	((sin(x )+	 cos( x) ^	0* 1*sin ((4* sin	(x) ^	0))		) )  ))-	+1	*sin	(x)	^-4	*	+2	*	sin	(x )	
+ sin( (-3 *sin	( ( x )	)	)	)		+-	x	^1
++4*x^ 0	-	+3	*+0
++ x
++0	*	sin( x	)
++3
+- x 
+-1*sin(x)^-3+(+3)	^ 2	*	4	
+-4 * cos ((x^	0 +3	*	cos( (1*sin ( x)	-+ sin( x	) *	+3 * cos	(x )*cos ( x	)^	+0) )	* 	sin	( (4*sin(	x)	^1)) *	0 * cos	( (+3)) ^ -1	)	)	
+4	*sin	(	x	) ^ +3-	+x	^0
+	sin(	x)+sin( x	)		*1*sin	(x ) ^+2 *+2*sin (x) ^	+3
+	sin ( x ) ^ +1
+-3 *	cos (x) ^	+3
+-	1
++3
+-	cos( (-0 *	cos(x	)^4	- 2	*	cos	( x)	^2 * 	sin(	(-x) )	)) 
++4	*	sin(x)
+3*cos ((-2*	cos(x)) )	 +-3	*	sin(x	) *+2*x	^ -4*0 *	sin	(x	)^ -1
+-	sin ( x)	
++	2
+0+ - sin( x)	
+x ^ 0	+x^4 *+1*+0 *cos	(	x)		*	-2 
+0 *	(+x ^+3+ +4*cos(x )^	0 *+4*x	^1* -0*	x)^4
+2* cos(x)^	2
+0
+3* sin((0 *cos(x)	^3	-	+1* sin	((+3	-+	-2* 1* sin(	x)	^+1))	^4	*-2) ) 
+4*	sin (x)	
+0 *	sin	(x )
+0 --2 *	sin (x	) * sin(x)		*-1 
+-2 -	-4*x  *  cos(x) * +2*cos ( x )^ 3	
+2	* (-sin (	x)	^ 4 +	1* cos(x)*+4 *x^ +4	*sin(x	)^3*4* cos ( x)	^	0)^0
+0	* x	
+-0* x	
+x+ -4 *	cos (x	)^ 3 
+-(2*cos	( x)--3*x^-2* x	*-0 * x	)^ 1
+-	2 -	sin(x )		*-0 *cos	(x	) ^-1*	-2	*x	^+2
+-1*	cos( x) +3*sin (x )	^-4*-2*cos( x ) ^+3 * cos	( x	)^+2 
+4
++2
++1	*x 
++sin (	x )	^3
++4*	sin( (1 *	sin	(x	)^ 1 -		(x	) ) )	^ 0-	4	*sin(x )	^ -2	
+4*(	x^0-1 *+1*sin	(x))^+3 +3 * x
+-4	*	cos (	(4*	cos( x))	)
+cos(x	)^-3
++	0-	 x ^+3* 	sin(	x)  *	x^ 4
++-1
++1 *	x - cos((4))		*	0 *	 sin	(x )		*  cos	( x)	^	+4	
++2 * cos ((-	cos( (+1* sin(x	)+ x	) )		- +0*	cos(x	) ) )	- -0	* sin ( (--1-	-cos(	x )	*	sin (x)	 )	)	
+	x^	+0+	2* sin	(x	) ^0*	+3*sin	( (	cos (x )	^1) )	*	sin((3) ) ^	+3 *4* cos(x ) 
+0*sin	( x)	+ 1	* cos( x)	
+sin ((1 *	cos( x)	^4) ) -+2 *x 
+-	cos(x) ^2
+- -0
+1	*cos(x)^2
+-0 *sin( x	)  +sin (x) *3* sin	(	x ) *	4	* x 
+2 *sin (	(++1	--3 * 0*sin(	x	)^1 *+2*cos (x	)^	-0*(	sin	(x	) 	-+0*cos (x)^4	) ^1	) )- +2 *x*(-	sin	(x	)	^-4)	*0* x* 4
+x ^-2 - +sin(x	) ^0 
+2* cos	((1) ) ^+0-	+x	^	4
+2* sin (x	)
+	x ++3* -0 *x	
+4*sin( x	)	^2 -x^+4 
+-1* sin	(	(2)	)	^	-3+-3 *cos( (+ cos(	x) )	) * +4	* x^+2	*2*	cos( x	)^+4 
+-+1
+x	^ 3
+- -2 +2*sin(	(	(+-1)^ +1) )^	+2 
++ x+ 3*sin	(x) ^	-0
+-+4-	sin(	x ) *	+4* sin	(x)
+x	^	+1
+3*sin(x ) ^3-	2 *cos(x)	^	1*+4	*	(-3	* x)	*	x	
+1*	x	
++1* x ^-1
++2	*sin(x)
++ cos(x)	- -1*(-	x	)		
+2	*cos(x)^	4
+cos (	(-0 * sin(x)	^+0)	)^+1++1*	sin(	x)^ -4 * 3	*cos (	x )	
+-4 +2*cos(x ) *	cos((-4*x ^0)) ^-3*+3 *	cos	(x )  *1 
+1*sin	(x) 
++1
+--2	+sin(x )		* +3	*4	*	x^	+3*+3* sin (x )^ 0	
++3	+ -0 * x^-2
++sin (	(+sin( x)^+4-2	)) 
+sin(x)	
+-(+	0) ^+0
+0*(-1)	+1	*cos ( x)^+2*	 sin	((cos ( (+0*sin	( x )	^+1	+ x* 3*	x *	x*  cos(x )	^0 ))^-3- 4*sin(x	)^ +3 *1) )^+4
+0 *cos(x)	^+4
+2 -2*cos(	x	)	 
+- 1
++0 +	x	* +2*x*0
++	cos	(	(-4	*cos(	x	) +	+2	*-0	* cos(	x)	*	x))^	+1 ++	+3	*	1
+-sin(	x)
+0 *x + cos (	x)  *sin( x ) ^ -3
+cos	(x	) -cos(x ) *		sin ( x	)*x *x^+2
++cos	(x) ^	+1
++	sin(x)	
++sin(x )	^	-3--	cos(	x	)	
+3	*cos(x)	--3	*x ^	2 *+0 * sin	(x)	*	cos((2*	cos(	x	)-	 x^	+3* -4 * (+ x	^3)	^ -1	))^ 2 
++ cos(x )
+ sin	(	x )^+1
+3	*sin	(x) 
+3 * x ^ -0
+-4 -	+ -0*4*+0
+-2 *cos(	(4 -1* sin( (2	* sin (	x	)	^+0)) ^	1	* +1 *	( x	+	0	*cos(x	)^1 *	+1*1 * cos(	x)^	+4) *	sin( x )*4	* x)) ^	4	+ 1 * (x+ 4* cos(x)	* 1 *	sin ( x)^ 0 * 	sin( x) *  cos(x	)	)^2*3	*cos	((- sin ( x	) +		x*		sin ( x)^-1*1	*	x *(0 *cos (	x) 	+-4*x	^2* 0*sin ( x)^ 2 )	^-0))	^-0
+-0*cos	(x)
+cos( x)^0	--0 *	cos( x	)	* x ^	+2 *x	^	4* 4*	(-1)  
+-	sin((+1)) ^-2
+ x
++ cos ((-(- cos((4* x)	) ^-2) -x	^ -2	*+4)	)
+2*cos(	x	) -2	*(-cos( x)-	x^-2	*	cos((3*cos( x	)	))	^+4*+1 *+1) 	*cos (x	)*	+1 *+1	*	cos	((0* sin	( (	cos(	x) )) + +	sin	((cos	(x)	-4	*sin	(x ) ^ +0	)) ))
+-3	* sin(	x )^	0+ +1* 3 *sin	( (-0	-+ -3 *x ^ 2	*	4 *x^ -4	)	)^2 
+- x	 ++3 *sin((x)	)*	+4 *	0
+-0++cos (	x )^	+3*1* cos ( (+	x)) ^ -2 
++ cos(x )^2
+- sin(	x)
+sin(x)^2+	-1	* cos	( x)^ +4*	cos ( x	)	^	-0
+0
++4*	cos	(x )  -	cos (	(+	cos(x)) )^1*	-4* sin	(x)^ -3 * cos(	x )^+1*  sin(x	)^	-3
+-	4
+-	+4-0 *cos( x	)* 2* 2*x^2 
+2*	x^0++cos ( (+4	*sin	( x	) ^3))^	2*	2 * 3 *	cos((	x		- - sin(	x	)	)) ^	+2
++x	 - -1*	(-2 *cos	(x	) ^-4)	*	cos( (1 *cos(x )	^-2)	)^3
+-0 *cos	( x) ++0* -1	*(3 *cos	(	x	)^2) ^2	
+3*x ^	3-+2*cos(x)^ 1*2*	( sin (	x	)^0+	-0 *cos(	x ))^-3*	x^	-4	*		sin	(x	)
+-4
+sin( x	) ^+1- x* sin (x)^0 *	x *sin( x)^	1
+-	cos( x	)
+-0*(+x	^2++	2	)	^+4 -2	*	cos ( x	)*	+1 *	x	^0 
+4	*sin	(x	)	-+0	*sin(	x	)* 0*	sin((	cos (x	) ) )*-0* sin( (-2)) * x ^	0
+x	+ x* 1 *	cos ((4*(	sin( x	) + -cos(x	) )	--	sin (x	) ))^ 3	
+(3*cos(	x))+2*	cos (x) ^	+1	
+	cos(x)	^4
+3 * sin((-0	-+0 *-0	*	cos	(x)^0*cos(x)	*+4	) )	^0
++1 * sin ((+1* x^	2 +- cos	(x ) ^+2)) 	--	x*	+3 *sin	(x	) ^ 4*x^2	* +2 *( sin((1	- sin ( x) ^2* 	x	* 2	*	cos (x	)	^	-0)	) ) ^-2
+-3 *cos((3))
+-	+2
++x
+ (3*sin(	(1* cos( x)		+	+	cos	(x	)	) )	- -cos( x )	^+0 *+0*+4*sin(	x ) ^+2*	 (4+ x^1)^1)	+4	*cos	(x)	 *+2	*(	cos (	x)	+	0 *	sin( x ) ^	-2	*	3	*	-0*	cos(	(-x ^	2)) ) ^ 4	
++0*x^ -3-	4*x^	0
++	x	
++2
++2	--cos	((2 *cos(x )	) )	
+-cos(x	)^	-4
++sin(x )^ -0	-	sin( x)^ 4*  ( cos(	x)	^	0)		*-1*cos	(	x ) ^+4
+-3	*cos( (1	+ 4*	sin ((-+0)	)^ +2	) )	^ 2++4	*	3 *	2	* sin(	(1 -+cos((x	^+2 +-0	)	)^ +4 *x ) )^ 4*2 * cos (	x )
++	3
+1 *sin (x)^	0+ x^4*-0	*	-2 *1* x^ +0
++0*x	
+-	cos(	x )
+-1* sin	(	x	)^1
+(-1 *	x^	-1 +-1	*cos ( (+ cos(x)-	cos( (+	cos (x)^	2+	+sin(x )^	+1	*	3*	cos (x )^ 0 * sin((-	0)	)^+0 *	sin (	x	)	^ +2)	)	^ 0))	^ -3 *	1*4 *	(1	* (+ sin (x	)	^ -0))	 )	 -1 *sin(x ) ^	4*x	^ +0*0*cos	(x)	^	2*2 * sin(	x	)
+-cos(x)^	-2-	+1*cos	(x)^	-4*-4	*cos( (	x^ +3-3*	x	*-3*  sin( (+sin( (-0	*(+0 *cos(x)	-	- +1 )	+-2*cos ((-cos(x	)	)	) *2	*	cos	((3	*cos(	x	)^2))	^ 2 ) ) )) 	) )^3*+1	
+cos( (4 * x^	-0))
+-0	++1	*x	^ 2* x	^0 * 4
+4	* cos( (-	sin (x)	))	+3 *	sin ((0	*	sin(x))	)^ 2	*	 cos (	x	)	^	-0*	+3 * cos	(x)^+3 
+4
+1	* sin ( x)^-4 ---2 *	 sin((-1* sin	( x)	 -- sin((+4+  cos (x	) ^3 *	+1 * 4))	* cos(x ) ))^1*+1 
+3	* sin(x)
++3
+cos	((+0 *cos (x)	+ 3 *cos	((	cos ( x	)	)	)	) )	^2 -	x	^-1*x^+2
+1*cos( x)^3
++2
++	x
++	x	-	2* sin( (-x	^ +2)	)^	-3	*-0*x *-2 *	cos(x)	
++x^-1
++4	* sin(x )  +4	*	+2* sin(	x	)^	-0
+4
++-3+1 *cos(x	) *cos	(	x) ^+0	
++1	* sin((-0*(+	+2- cos(x))^	-0-+ sin	((-0+	4* cos(	x ) *0	*	cos(	( cos (x	)	))	*	-3 * sin (x) ^ +4*cos( (2* sin	( x	))) ))	)	)
+4	*	cos	( (+1))^	-2
+3	*	(2+4*	sin(x )*	x	^	+4 )
+-1- +cos (	x	)	^	+2
+4 *(+	-2	-	1*(sin( x	)^	3)^ 2	* 3* 0	)^2-  x	^	+3	*2	*2*cos((-4)) ^4
++ +1
+	sin (x	)
+-1
+	x^4	+-3*2*	+4	* sin	( x)	^4	
+2	*sin(x) ^3
+1+ x	 
+-2	*sin	(	x) ^ -3
++cos	( x)	
+- sin(x )+ 2	*x ^2	*0*	cos ( (-1))^	4
++sin	( x) 	+	-sin (x)^ 0	*+0*sin	(x)^+4
+0*	sin((2 *cos (	x	)	+-4	* sin (	x	)	* sin(	x	)^1 )) +	sin (x)	^2*2	*+4	
+-0 -2 
++	sin	( (	sin ( x	) )	)
++4	*cos((+4	*sin (	x )-2* cos(x)^	1))^-0	+-cos((-	cos(	( sin( x	)- -4*	cos (	x )	*+0	* -1 *cos	( x ) ) ) ^0 -  cos(x) ^	+3*	+4*	x))	* +0 * cos((4 +	2	* ( x ) *+1	*	(++3 -	-sin(	x )	*	-3 *sin ( x) *	sin( x ) ) 	))  * 	cos((-1	++(1) 	) )^-4 
++cos( (+1)	)^ +4 +	+sin((0*cos( (4*x  + 2 *x * 	x ^	2) )	^ 0	+-sin(x) *+0*(-1* x^ 3 -+4* x	)	^-3* 1	))	^	-3	* (0 *cos	(x	) - -2*cos	(x	)*x  * +2)	 *+1*cos((	cos	(x)^ -0)) 
+	cos(x )- 4 *cos	(x ) * 0*sin( x	)^3 * 4
+0*	cos (	((-x))	)^1
+0 - +	(+1)	*	 cos	(x	)  
+x ^2+ -cos((+2*	sin	( x	) -	1*x^	1	) ) *0 *	x	^4	
+cos(x	)	 -	+3 
++	sin	((2*sin	(x )^-0+  sin(x	)^2*3	*	sin(	x )	* +2	*0 *	cos	(x) ^	1))	^	3
+ sin (x	)	^ +2 +-2	*-2
+2+	+ +1*+4 *sin	( x) ^ -2	* 3*	x
+-2	* sin(x )^0	- sin((	sin	(	x )^ +2))*	4	*(0) 
+0	*	sin (	x)	-- x	^	+0
++ +2
++3 *	cos (x)
+-4 *	sin((-sin (	x) ^3+		x ^ 3*4	*cos	(	x	)	) ) 
+	x^	0+	-4
+4* (+ 1)	+	(0-	-2) 	*	2*-1
++sin	(x )^2
++0* cos( (+ sin(	x ) ^-3	++-4*	 cos( x	)^2	))	
++1 *sin	(x	)^-3
+-0*sin(x ) ^ -2	- 2*x * sin(	(-0+	+3 *x^2*+3* 3*	sin	(x) ^ 2* +4	*sin(x	)  ))*	+4	*cos (x )^ 2
++x+-sin(	(-1 *x ^ +4 -		sin (x ) *2*	4 )	) ^ 2 *	cos	(x )^0 
++-2
+-2	*(4) +-1*	cos (x )	*1	* 0*sin	( x )	 
+-3 +-sin	(x) 
++ x ^	-3
+1
+1
+-1
++4	- -1	*		sin (x)
+-	+0
+1* cos(	x)	^-3
+3 * x
++0*x		-  sin	(x	)^	+0*	1 *	x^-2*		cos	(x	)	^	-3*sin(x) ^	0
+-2 -2 *	cos( x	)^	-3	*		sin((+-0+ +1 *	x ^-3 *	+2	* sin( x)^+2 *	2 ))^	4 * 4*x	^0
+	cos (x)^ 2 -0*sin((3*	cos(x ))	)^-2	* -4* 	sin	(x	)	^ 2 
++ +3- x  
+-	x^1
+ x+cos ( x ) ^1*-0 *cos(	x	)  * cos( x ) 
+	cos(x )^	3- sin (	x) *	0 *	x  *sin((- sin ( x	)^4	-	4	*	2 * sin( x) * sin	(	(0)) ))*0
++ cos	( x)^+0+1 *	sin	(	x	)*3 *	sin (x)	 *	1	
+2
+-4* cos(	(-3 *	x ))	 +	+3*	x ^ +2 
+1	* x ^1
+-	-4 +1	*	-4*	sin( (-4	*x - +-3*	2*(x	)* +1	*x)	)	
+-	cos (x)+-4*4*	cos	( x)	^ -4 * 3* sin(x) ^ 2
+1*	x^-1	-	-2*	sin(	x	)	
++ 4
+- -0
+sin	(x)^2+4* sin	(	x	)* sin	(x)
+-cos	(x )	
+1*	x	
+-0 + + -2* 2*x	*3	*(-3	* sin((+sin (x)^+1-	2	* x	^0 ))	)
+- sin	(x)++-2 
+3 *cos((1	*	sin	(x )  +- sin( x	)	^+2*+2*sin( x)^3) )	^3+ -1	*cos	( x )^+4*	4 * cos( (-4	*cos (x)		-+2* sin	( x	) * +0 * cos (x)		* 4	*cos( x) ))^	-4 
+cos((+2*	x	^-4))	++3 * x^ 2*	+2	*	x		* 2
+-4 * x - 	cos( (- (-	sin	( x) -	2 )	^1) )^3 *2	*cos( x)	^ 3*	x^	3* 	cos ((2 *(-3*	sin	( x)^0)	^	-0)	) ^ 1
+++4 ++ sin(x)  * +2	
+2* sin ( (-1*x--	cos (x	)* -0 * cos	(x )*3	* x)	)^+3	-1 *	cos( x)^ 1*3	*	sin( (-1*sin	(x )	))	
++3*sin(x)	
+cos((+2 +	x ^ 1*0))	^ 4
++sin(x ) ^2
+cos (	x)
+1
+sin(	x	)^ 2+-3*sin( x)*-1 *	sin(x)^	+2
+	x^-1	++0 *3* (+1	* x)
+4* cos(	(+-1))^ -0
+0
+-3*	x +-	sin(x)^ 3*	0*4*+3*cos(x )
+ cos(	x )
+4*	cos(x)^ +2
+2	*sin (	x	)^	-2
++	-0
+2 *cos ( x )	^ 1-	4	*cos(	x)
+3* sin(	x	) 
+0
++	cos(	x	)	 + +4 *4	*sin (x) * 4 
++	sin (x)
++0*	x^ 3
+4*sin	( (3	++sin(	x	)	^+2*  sin(	x )^ 3	* -1*cos	(	x)	^-0*+1*x))	^ +4+	- x
+4-2*cos(	x	)^+4	
+-1	* cos (	x)^ -4 ++	cos ( x)^-1 
++cos(	x	)^	-1
+1	-	1*	x	*+3*sin( x)	^ +4	*+0 
+	sin(	x)^	+2
+ sin	( x ) 
+	(-	sin	(x	) ^+1 +	cos ((cos( x )	+- -2 *-4	*sin((	x^ 3	+4 *	 cos(x) 	*	 sin(x)^2	)) *x	 ) ) *-4 *x^2*	sin(	x )	 )	^ -1
++2
++ 2 +	sin ( x)	^+4	* -1 *sin	(x)^2*+2 *-2 *cos ((++3+0*	(+1*cos (x)	^-2--4	)^	3 * cos(x )	^ 4	*		x *sin((-x+-cos(	x)	^ -4*(1	*x	^0)	 *	sin	(	(3* x))*x ^-4))	))	
+sin ( (+4*	cos(	(4*x ))))^	-3+sin(x	) 	*		cos	(	x)	^	-2*2 *cos(x )  *3* cos(	x)^ 4
++ 0 ++sin( x	) *	+1*cos (	x)^1 
++	cos(x)	
+-0*sin(x	) 
+0+ +0* sin	(	x )	*	 (	x)*1* 0*	cos( (x^	2 +4 * cos	((+3	*	sin(	( sin	( x)-+	cos( x) ^2*	1 * sin(	x) ^ 2))) )))^ 2
+3*x	
++1*	cos(x)	^1
+-3 * cos(	x ) 
++4+	-1*	sin (	x)	^ +2 *	-0 * x	* 2	*	x		*+4 
++3
++cos	(	(2	*cos ( x)^+2) )	+	1	*x *	1*sin	((--1))^	1	* sin(( cos(x )	)) 
+- cos(x )^	+0
++4	* sin(	x)^	-3
+ cos	(	x )^1
+1*	x^-3	-	+2* x^0	*-0	* cos (	x )^	3* sin(x	)	*+3
++sin( x)	^2- -	4 
++ cos ( (-	2 -2 *x	)	)	-+3*	sin	( (cos( x)	 + --2) )	^ 1
+-4*sin((sin	((x ^ 3++sin	(x)*1 )	)^2-	-0	* -3*2*  cos ((+ 3)	))	) ^	0	- +(-3*sin	( x) )	
+2- -0 *	cos	(	x ) *3*1*(-cos	(x)^	2)^ 0 
+-(+ 1) 
+cos (x)	^	+1 -4 *	sin((3*cos (	(sin ( (2 *	sin	(x	) + +3 *	cos	(x)	^	-1	*1*x	*		x	^ 1	* sin (	x)^0 ) ) ^	0++3*x^0*sin(x)^0	*sin	(	x ) 	*(0 *	sin(x )-x 	* 3*	4*sin(x)^1*	sin( x)^+3 ) ^-0	)	)-+ +2) )^ 1 *3*	x^1*	cos(x	) 	
+0	*x^-2
++	sin ( x )
+0+ +	cos	(x) ^ 0
+4*x^ 4	++1*	cos (x)	*-2 * sin	(x)	* x 	
+-0-	(4+-3 *	sin (x))*+3*cos	((+1 *sin (x) ))	 *2*	sin	( x)^ +0	*	sin( x )  
+0*sin(x)+ +0* sin(x) * -1 * cos(x)	 *1* x*3 *	sin ( (-1-		x	^ -0*1*	x^-3))	
+sin	((+	cos( x )^	-2))
+sin( x ) ^ 3
++ cos(x )	
+-sin (	x	)
+-0
+3 *sin (	x)
+-cos	(x) 
++4*sin	(	x ) ^ -4	+  x^	+1 
+-3*sin	( ( cos(	x)	+	4 *0*x^-2* 3	* cos	( x )^	4 *	-1*cos	((-	x ^ +3))^	4)) ^	+0
+- (+	2)^	0 +(4*	(0 -	+2	* cos(	(+4	*	cos (x ) ++1*+3 *sin( x	)^4*	3 ))	)) ^3	*	(0 *sin (	x ) 	-0	*sin( x ) ^4)	*+2	
+sin	(	x	)^	+4
++x 	--sin(x )^-0	* +2*	4*cos( x )*		cos	( x)^	-2
++0+	-1
+cos (x)^	-3
+x ^0-	cos (x) ^0
+2*(-cos	( x	)		-1	* (	(3 *sin (x	) ^ 2-	1*		cos(x) ^	2*+3	*cos	( x)^3* +4* sin	(x)  ) +	4*	cos ((- x^+2)) ^	+3 *3)	*	1*	sin(	(x	^3))  * cos(x )*+0*cos(x	)^	1)^ +2
++ 2	+	-(3 *cos(x)	^ -3)	^	3* sin(	(-2	+ +4* cos(	x) ) )^	0	
+-	cos((-3))^	1 +	0	* 	cos(x	) ^ -3 
+0	* cos (x )^+4
+2-+1	* (3*x) ^-4	*	x	^2 *	 sin (x)	^0
+-0 * x	^4-0*	 x	*cos (x)	^3 
+3*(1	* cos(	x)	 +	 cos(	(+-3-+	cos	( (+ +4)) *4*x ^	+2 ) ) *+4* 4* sin	( (2 +0* cos(	x)^1 *		(1	-	+1	* cos (x )	*-0*sin( x ) 	)^+0)	)^+1	)
+2
+4	* cos( (+	cos(x))) ^	-0 -1*	x*+4*	x^ 2 *-2	
++ sin (x	)^	-1
+2 *	x	
+3	*sin	(	(+0 *	(+sin	( x)- cos(x )^1*2*cos(x)	^ 0 )-+	+1	*x^-0 * 4*cos( x)^2)	)	
+-cos( x )- -sin (x	) ^2 *4*x	^+0 *  cos( x)		
+-cos (x)
+-sin	(	x)	 +++2 *		x^-4	*	x	*	cos(x)	
+1* cos((+4+	+ 0 )	) 
+4*sin(	x ) 
+-sin (x	)^-1
+	sin(x	)^+4
+-cos(x) ^ +4	+	0*x*0*	cos (x )  
++-2
++2* cos ( x	)^-4
++ 4
+-	x^4
+1* cos	( x)
++(-	sin (	x )	) 
+0- 0	*	sin (x )
+-3*cos	(x)	
+-2*cos(	x )	^	3
+-x		++ sin ( x )^1 
++2*	cos((+	1+  (++1 + -4* cos(x )	^ -3*4* 	cos ( (x^ 4))^4 )*+1	*(3 *x^4-	 x	^+4)^	4*0	) )^-3- -2	* sin(	x	) * sin(x	)^0	
+4-  sin(x)^ 3* 1	*	+4 
+-4
+0	* x 
++ 3	+	-sin (x	) *-1*	cos((x^4) )^-2*	0	
+sin (	x) +-0*sin(x)^-4* +4 * x	
+-cos ( (1 *	cos (x)	+	1* 0	*sin(x)	*x  )	) + -x	
+-4*(-3	* x + sin ( x )^4	)^	0
+-3 *sin	( x )	^ 0
+	cos (	x	)
+sin(	x )^ 3	-- 0	*	+0*	x*0	*	sin( (0+	-x ^-0 * -1	* cos(x)	^	4 )) ^	+4* -2*	(	cos ( x)	^+0)	 
+sin( x)	
+4 *(+1	*cos(x) )^+3
++4*	sin	( x) 
+-4	+	x^1 
++ x^+4
+4* (3*sin( (+4*	cos	(x )	)))^	1
+-1 *	sin ((+ cos ((-2 * sin((-	cos( x)^ 0-+3))^-4- +	+4 *	+3 ) )^ 2))^ 0+--1
+1 -+	sin ((+0 --1* cos(x)^ +1	* +3*sin ( x) ^	-1 * 0	*	-3 *	cos((	sin(x	)	)) ) )	*-0	*	cos	( (4))	^0*	-1
+-4*cos	(	x)^	-3
++1	*	x
+3 *cos	( x)^+4	+ - sin (	x )*x*	1*sin( x	)	*-4 *	sin (	x)^	+2	
+-cos((- (3))) --1 * x	* -1 * -2	*cos (x)	^	0 *+4*	cos ((cos ( x ) - x^+1	))	
++ sin(	(2*cos (x	) ^4	-1	*cos((2 *cos(	x	) +	-1*0 ))	* 2* cos	((sin(x) ^1-cos	( x )^+3* sin	( x ) ))	 ))
++3*cos	( x )^4+	+cos	(x)* +2 
+4	*cos (	x	)	-2	* sin(x ) *	sin (	(4*	sin (x) ))	 
++1 *	sin(x)	^+4 --2	*	(+-1)^1 *	 cos	(x	) 	*	0 
++	cos ((+1* cos(x) ^+3-4	*sin( x ) 	))^+4	-	sin	( x)
+sin (x	)^	+1
+sin ((+sin	(x)	^+2-+ 2	*	sin	(	x	)^+2 )	)^+2
+1	*	x	^	-2	+	- 3*  cos ( (+ sin((-+2	--2	*	cos(x)	^-4) )^ 4)) 	*4 
++cos	(x	)
+1*x	^	-2
++2* cos	(x ) 
++sin(x	)	
+1- -cos	(x )^1	
+3	*	x -0	*sin(x)^1 * sin(x)* x
+3	+	4*	4* cos	(x)		
+-sin((- cos(	(sin( x ))	)	^+0+-4*cos( ( x	^ -1))	 ))^ 0
+cos(x	)	
++	( x^ 2	+	2 *cos(x)^3*2*1) ^	+2 +-	cos	((+1*sin(x) )	)	^ -1	*	+1*	x^3
+2*	sin(x )^-4++1	*	sin	(	(4 *( cos( (0) )	)^-2) ) 	*4* sin( x)	* 1*4*x	
+0 +-1* sin	(x)
++x ^2-+sin( x	)	^ -2 * 	sin(x )	^	-2 *-1* 	cos ( (++2- 1*	sin	(	x)	*3 * x^	+3*	4	)	)  
+-x^1
+3
+- cos( (-2*sin ((0) )  +-	+0)	) ^ -0+2*1	* cos((+3	+2 * sin	(	x) 	) )		
+2*	x^+2
++	+0 +	+cos( x)^ 1*x^4* x ^3* 1
+ cos(	x )^+1
++cos(	(4 *	x -3*+0*cos (	x)  *	2*sin	(x	)^0))
++(+ 0 ++	4	*	1	* cos(x ) ^ -4	) ^2+	-0* sin(	x)	^+0
+4	-+	-0*3*sin	((4*sin	(x)) )^ +3
+1*x^0+0	*(4-	+3*cos (x	) )  
+-	1	+ -4* sin (	(-0* sin((3+0 *sin	( x)^ 2	) )	+-x*	 sin( (2) )*	+2 ) )	* -1 *x * +0 *  sin	((4) ) 
++0	* cos( x	)^ 0
+0	* (0+	-2*sin ( x	)	^	-0*	3 )^2+cos(x)	*	-0 
+	x ^-0
+-sin ( x)	^3	+cos	(x	)  *-1	* x		*	+0 * cos((0	* cos(x ))) ^+0*sin ((	(+x^ -1) ) )^ -4 
+1 * cos(x )^-1
+-4
+-cos (	x)	++4	* sin(x)	^+1*	 cos (x )* 4 *sin((-2*sin(x)	+  x^4) ) 
+-2*cos (	x)	- +	+1* 	cos(x)	 
+ sin(	x	)^+0-1 *sin(x)^	-0 
+-2++ +0
+-	0	+x^	3*	+0 
+-4*	x^	-4
++3*sin(x)	
+-sin (	x)
+x	
+x
+-2+	+ +0* -0 
+sin((+ (-sin	(	x)	^+2)) )^	2 +  (-4*sin	( x	)	) ^ 2*2*x	^-1*1*x^ -0
+x^+1+ +0*cos(	x) *0
+2*sin ( (-(4	*	sin(	x )	^ +0)	^+1))	 -+0*	x
+- +2	-	- sin	(	x)^	4*	+4*(0	*cos	( (+4*sin	(	x	)	))	-	-	3* +2	*	sin ( (+cos (x ) ^0)) ^-4	*	1*(3) )^	-1*	sin(	x)
+0	* sin	( x	) ^	0
+-4	* x
+-3	-	-(+-2)^+1	* cos (x)^	2
+sin (x)
++ cos	( x )^ +2
+3*sin(	x	) -+	cos( x	) 	*sin(	(-4	+	 cos( x) *+3* x		*3 *cos(	x)	 ))		*1 *0 
+sin(x ) ^2
+2
++sin(x	)^	+1
+2
+4*cos(x	)^2 - cos(x	)^	3	*	+2	*	3
++2	*cos( x)
+3* sin(x)	^0
+4	*	sin(x) ^+2++0 *	-2 *  sin (x )^ +1
+2
+4	*x	++ cos ((-0 *	sin( x	)	^+4)	) *-0* 2 * x	 
+-2* cos( (0 * x- 	sin( (-0)	)	* 4* sin	(x	) ^	+2*-3* +3)) +	x ^0	* -3	*sin ((cos	(x )^ 1 -2*	3 *sin(	x	)		)	)^ -2*0*	cos(x)	^-4*2
+0	* x^-2
+	sin (x)	^	+0
++1* cos (	x	)^	1-+	x^ 4	* 	sin ( (-2	*(+0*	x ^4 +-0*	cos (	x)	*	-4	*-2) ^4+3*(4	*	sin	( x )+ -4	)*2	*cos(	(-0*(0 *	sin( x )	^ +3)^ 4)) 	)	)^0 * sin	(x ) ^1 
+-4 *	sin ( (1	*sin	(x	)-+ 4*  x	 * +1	*x  *	(-0	*sin	((-cos(	(3	*cos(x)) )-sin	((3*	sin (x	)+	-3	*cos	(x	)	^ +0	*+2	) )	*+2) )	^ +3)) )	
++ x	^	+1 -cos(x)* cos( (-	sin(x	))	)^ +1 
+	sin ((3	*cos(	(-sin(	x )	^ +1 +	+0*	cos	(x)^	+0* x))	) )^2	-	-0*cos (	x )^4 *+3* 1	*		sin( (2*	sin (x )	^2	+-2	))^	4	
++(-	3)
++sin((-	+3)) ^2
+ cos( x)
+2	*(2	*x ) ^ +2	++ x^	-1 * 4	* 1*x ^0*-2*sin ( x )	
+-	sin	(	x	) ^+2
+-2* cos ((	sin ((+4 *	cos(x	)	))	))	
+-0*	x
++1
+-	(- sin( x	)	^-0 -		cos	( x)  * 1	* x *	2*x  * -3) ^ 2 - 4	*	cos	((3 * sin	(x) ^ 4)	)	*2	*	sin	(	(-x ^-1-- 0*0	*cos (x )	*	 sin	(x)^	2))
+-sin (	x)+0 *	sin ( x	)  * -2	
++sin(x)		+	3	*sin( x)		*	 x	^2 *	x^2	*4 *cos(	x) 	
++4
++ sin(	(	sin	(x)	))	
+-x^	4
+4*sin(	(4 *(0-	cos(	x)^ -2	)^-4) )  +	+3
+-4*cos(x )^-0
+cos( ((+2 *x	^ +3)^4 --sin ( (+1+ -2	*sin( x	)^ 1)	)	^3 *	cos( (3	*	sin	( x )^1) )	))
+0* (4* sin	( x)^2	+ -0* x* x *	+1	*x 	) ^+1
+ sin	(x	)^ -4	+x * 1*cos(	x)	^1	*4*	cos ( x)^	+0*3* cos(x)	
++x
+3*cos (	x ) 
+0*	sin	((-1	*sin (x)^1))^0- 4*x^3*	cos(x)^ +0* -3
+	cos	( x)+	-2 
+-	sin	( x ) ^3	++4 *sin(x )^ 1	
++2	*	cos(x	)	^	+1
++1 *sin ((cos	(x )	^1) )+	-(+2	*	sin	( (- x)	) ) ^0*-0*x^1*(+0	* x )		
+- sin( x )	
++-4
++x^ 3+-sin(	(-1 -- sin( x ) *	1* sin	( x )  *-3*	(-0) ^	-2*  (-0)^ 2) ) ^+1
+(x^+1)	^-0-	+3 *cos(x	) ^0 *-3*x		*sin(	x	)*	sin	(	(+0*cos(	x ) ^	1)	)	
++sin(x) 
+	sin (	(+3*	cos(x)-3*x*sin (	x)^3* sin ( x) )) ^ +4	- +1 *cos( x)* 1	* sin((-sin( x )- cos ( x) ^ -4 *sin (x )  )) 
++3*x
+1-	-4	*-1	* 3*	cos ( (-	(- 2)	^	-0	+cos(x )^ +2* sin	(x ) ^1)	)	^ -4
+sin(x ) -sin (x)*2*x	
+1	*sin(	x) 
+4* sin	((sin(x)	^+0	+-	+1 )) 
+sin	( x)	 +-2 *	-0	*sin	( x)	 
+3
++4	*cos	(x	)^2-2	*x	^	3* (-	cos( x)	)* 	cos(x) 
++cos	(	(sin	((0 *sin(x )	^ 0	-(3*	cos (x ) ^ 0	- 1*cos	(x ) ^ -1*	-2 *	x^ 3	) ^ 0	*+3	*sin	(x	) 	)	)) )	^4-+	+2
+sin	(x )	++4	*1
+-2 *	cos	(	x) ^1
++cos	(x	)^1+ -	sin(x )	
+3 +- sin((3)	) * 4 *x^ 1
+ cos	((- cos (x	)^ 0	+ -1 *	x^+4)	)^ +0
+-2	*	sin (x	)
++1*cos(	x) ^	-2
+3 * x ^0
+- +0 -3 *sin ((+2* sin(x) ^ 1))	^-0* 	sin	(x )  *	3 
++ cos( x)	^	-1 -+3	*cos( x) *	-3*	sin ( (-sin	( (-3*sin (	(-+2)	)^	2)	)^-4 -sin(( (3) +sin((4	* sin	(	x )^0))^ +2*x^0	*1)	)	*	cos	( (+2*	cos(	(- cos ( x)))	^-1+ x ^ 2 )))	) ^4 * 3
+- sin (x)	
+x	^ -2	- -0 * cos(	(4*cos( x)	))
+-0++	+1 *-3	*sin(x	) 	
++sin( x	) ^-1 +-sin(x)	^ 3	
+4
++0 *cos	( x	)-	+0 *x	^ -4
+- 3 ---2 *	2*		cos	(	x)^-4 *-1 *sin( x )	^ +3 
++1*cos(x )	- 	cos( x )  * cos(x	) ^-3*	 cos	(	x )
+sin(x) ^3
+-3* cos(	x )  -	-sin( x)^	1	* 4* sin(x )	
+sin(x	)^3
++ 1
+-x ^2	+ -3*	cos( x	) ^ -3* cos (x)	*cos(	( cos(	x	)	^-1-+ sin ( x ) ) )	^4
+- 0
++	cos(x)^ 0+	3* (3)	^0* 2*x	^	1	*	cos( x ) ^0*	+0*	sin ((+ sin	(x ) ^0	-+2* sin(	x)	^2*0)	) ^-1
++	(0 *cos	(x)	^	4+	3*x ^ -0	*x 	*0 * cos(	x)) ^+0
+4*	(1 *sin	(x) - -3 *	x	*4 *cos(x	)* -0	) +1*	(-0)^-4 * cos ((0	*(3	-	+ cos (x)  * 4 * +2*sin (x)	* +2*x ^-4	)	^+3))	^+1	*	-3 *cos( (+ 4 + - +4	) ) 
+ sin(	x ) 	-	x *0 *	x  *	-3* sin	(	x)
+2	*(++3+  (-4 *x )	* +2 * sin(x	)	*0 *cos (	x)^ 2*0*x)	
++x	+ sin( x	)*1* sin	(x) ^ +0	
+2* x+ 1 * x^	-3* +0 * cos((+4	*	cos( (-x	-0	*cos((1) )^1	* 1*	x*2	*	x	*	3 *cos(x )^2 )) 	--sin (x)*	sin	(	(3	-- cos (x	)	^-2*  x^2 * -4 * x ^ 2	))	*1 *cos(x)^+3) )	* sin(	x	)^	-0 *-0*x^0	
+cos(x)	^ +2+	+3 * cos	(x)	^3*		x
+3*cos( x )
+3
++1* x	+ +3	*+4
+-x -	--1
+ cos	(x	)
++	(+sin ( x)^+2) ^	3 -	+	sin	(	x )^+0 *	cos	((-2+	-x * 	sin	(x)	* x *-4	*x^+1	) ) ^	2*+3	*(2)
+4
+	sin( (+0* cos (x))) ++(3* x ^2)	^	1	
+-x^+3
+1 *(	x^3)	^	0
+0	*	sin	((- sin (	(+4))	)	)-+4
++2	* cos((+0	*	x^4+	 cos( (-1 *x) )	^2))++x	*	+2	*	x 	
+-x ^-4+ cos(	x	)*	(- +1)  *+4 *x  *	-4	
++0
+1* x	
+1
+--2
++2	+ 3
+sin( (-sin(x )^	0	-	-0	* -0	*cos	( x)	* 2 * sin (x ) ^ +0)) + -3*	-2*(sin(x) -	-2	*+2*x  *sin(x	)	^-4*	 sin	( x	)		)	 *x* -1 *	x
+-4* sin (x	)
+1* cos(x	)^-3	++3*sin	((-2 + 4*	x^-4 *-4	*cos ( x	) ^-4	*2 )	)	^+2	*4*cos((	sin( x)^-2+0* 	cos	(x)) )	^+2 
++	2- -1	*+1 *x  * 3 
+-0
+-1	*x
++1
+4	* cos(	(+	cos	(	x )^+0 +-cos( x ) ))^-0-	3*3*cos( x	)^ -3 *2	*+0* cos (	(+x^ 3-3	* +4*cos	(x)	*0))	
++ x	^3
+-0	* cos(	x )	^0
+- 3-		sin(x	)^	-3	
+sin (x	)
++0
++	(-3) ^+2
++	1-	+4*(+0	* sin(x)	^1) ^+1 *	-0	*cos((-+2)) ^	-1 * +3* sin ((+x	)) ^	-1 *3 
++sin (x )
+1	* cos ( x) ^0-	 x  
++2	- +1	*cos( x)^0*x* 2	* -4	
++x^ +1
+	sin (	x )^2+ -0*	(sin((4)	)	)
+3*x^ -4
+2*cos (	x	)	
+ cos(	x	) - 3*	cos(	x )	* 0	*4*sin( ( sin( (3	++(+	sin( x)	^-0) ^+2	*sin ( x	) ^4	*	3*	x^ 2 *4 * x	^ 1 ))	^+2+	-cos((0	++2)	) ) )	*1
+-3 * x	
++1* sin(x)-  sin ((-2* sin (x) ^	-1)	)^+0*-4
+1 *(+2*	(+0* (+ sin	(	x) -2 *0)	 --x^	-0	*	4 ) ^+4)	^ 2
+0	*	sin( (cos ( x)))	-	- +4	*	+3	* sin(	x)	^-1* +4*sin((x	))  *3*sin((-3))	^ -3 
+-x 
+ sin(x )
++0+ + x* 2 *	sin	((-0	*sin((-4 *x	^1- 	sin ((-cos ( (--4))	-	3*(+4)* 1 )	)^	4*3))	^-0-sin ( x)		*	sin((4 *(- sin(x)) ^	-2) )^	-4*	 cos( x )*3* x^	1 ))	* 3*cos(((-0)^3)	)*-3*x
+-4
++1 * sin	((+3* cos (x ))	)		- cos((+1	* x	^ -3-	x^2 *3*sin( x	)	*	sin( x	)^ -3))* sin(x )*	+3*	x^ -2
+cos (	x	)- 4	*sin( x	)* cos (	(3	*x))	^ -1	
+-1*	cos	(x)
++4	*	x^0+ +2 *	x
+x ^ +4
+-+1
++1	*sin	(	x)^	0
+sin(	(+3*	x		+ 0 *sin (x	)  *	x	*	 sin	( x	)	 )	)+ 3	* sin(	(-4) )	*+3 *sin (x)^3 *	(+	cos ( x	) ^	+2+ sin (	x	)	^+4*1 )	^ 0*  sin	(( cos	( x	)	^-2))
+0*	cos	(x	)
++2	*(0) 
+x		-2*cos(	x)	^ 0	*-1
++ (+2*	sin	((-3	*cos	(x )	+-1	*sin( x	) )	)	^	0)^1-		sin( (-sin(x)	^ -0)	)		*-0*cos(	x ) ^-2	*x^	+2 
++ x	^4
+	cos	( x	) - +2*	cos((- x	^	-0)	)^	-1
+3 *	x^	3+ sin(	(2*sin	(	x) --3	* sin( x)*2*sin( x	)^ 0*	4 *x	^	+3	) ) ^ 1*	 cos	((	(x		-x	^ 4 *-1	* cos	(	x	)^	+3 *+3 * cos (x )	)-sin ( x	) 	*		cos ( x	)))*-1*cos	(x) ^2	*	sin(( sin(	x)	--3* sin((4*cos ( x )	- -2	*x ^	0 *2* x^ +4*x^4) ) *cos( x)	* -3	*	sin( (+1--sin (	x)^+2*cos (	x)	 * 4*cos ( x ))	)	*	-1))	
++	1 -+ cos(	x) ^-4 *		cos(x)*	2 *x *4*	sin(x)	
++4	*x^	+1 - sin	( x )^	-4	* 1
++3*sin ( x	)^	3+ 0*sin	(	x)	*0	*0	* sin(x)	 
+ (-(cos(	x))^1-	-1* 2	*x ^	+3*0	*x	 *-3 ) 
++ cos(x )	 -	sin( x	) ^1 *+4*	cos (x)	^2*	(cos(x)	^	+2)^ 0* cos( (+sin (x	))	)^	2
+1	* sin ( x )-0*	x^	0*+1 * sin((0 * sin (	x	)	^ 2--sin	( x	)* 	x	 * +2* cos( x))) 
+1 *cos (x)^ 1 +-0 * sin (x	)	^ +1	*	x^4 
++	x	+0	*(+1+3* sin	( (2))	*-4*2*sin(	(3	+	+3 *sin( (+0--4 *cos	( x )	) ) *-2	*+3*-2*cos(x) ^1)) )^-0 * sin	( x)^ 1*3	*sin ( x	) 	
+-3 *sin( x	)	-+3 
++sin	(	x) ^	-3	+1 * sin(	x	)*(-1	*cos (x)+ cos ( x) 	*cos (	(-x  +-4*	x*	3 *0*	x^3	* 2 * sin(x) )	) ^ +4)	^ 3	
+-sin(x	)
+-cos	( x ) 
+- -1
++sin ( (1	* sin( (- sin	((+ sin(x)^	-1- 3*x	* -4*x ^	0*cos	( x)	^+1	) )^-1-+ 4 * (+cos(	x))^	1*(-cos(	x) +-cos (x)	^3 *sin(	x ) ^ 3	) * -2))	^ 2)	)
+2*x		-+4*cos(	x)	 
+-3*cos(x )	^ 0
+-cos(x	)	^2	+- sin	(x)	^ 4*0	* cos	((+3*	x ^+2)	)	^	0	
+- sin(	x) -	-1*cos (x )^-1*cos	(	x	)^+0 
+- 4
+0
+--0+-x	* (-(-3	*cos(x)^-2)^	+3+	0* cos( (+4+	-4* sin (	x	)^3	) )		*sin( (cos(x )^	+1)) ^ -2) *sin((-sin((-cos (x ) ^3+2*x	 )) ^ -4	-1*(3	*sin(x) ^3+	+2 *	sin(	x	)	^ 1 * -2	* sin (x))*	sin( (+1*x	^+2+	+	x))^ 4)	)^2*+4*cos ( x)	
+4 *(2* cos(	(2)) ) ^ 2
+-+1	-0*cos	(	(+x^+3) )	
++4	*sin( x) 
++0
+- (+1) ^-4++1* (sin(x ) ^ 0+	+0) 
++	cos	(	x )	^	-0+ +0* x * cos(( x^ -4) )	*cos ( x)*x		
++ sin(x )	
++	cos((2* x	^ -1)	)-cos(x)^+1*	-0*	cos(x )
+-3+2*(4)^	2 *+2	*	sin(x ) ^2
++3	++-3 *-0*sin	(x)	 *	1	
+3
++0*x--	sin((-0	*	cos (x)^ +4)	)	* 2*	(+sin (x )^ -4+	+0 *	x	*	 x	)	^+2* 0 * sin (x	) 
++sin(x ) ^3
++x		-2	* sin((- cos (	(+ x  +	sin (	x ) * 	sin (	x	)	^	+4* x )) 	-	1	*	-1 * (	sin	( x) + +4*	sin(x ) *0 )	*	-2	* x^0 ) ) *	4
+0*sin	(x) +-3* x^ 4*+2	*	(+2 *cos(x)	 +	+4	*	x^ -3	*2 *	sin((+3*(cos	(	x) ) ^+2) ) *x^	4)*	2 *x 
+-0*x	++	sin (x)^4*0 *	-0	*-3 *x ^0	
++2	* sin (x)	^ +4 -4*  (+3) ^	+3	*-1* sin( (+3	*	x )	)
+4+		sin( ( x^	2))^+2*1*	sin ( x) 	
++sin (	x)	-	-1	*cos ((1-	+	sin	((1*cos(	x))	)		)	)*	0	
++4
+4
+-4 *x ^ -1
+-cos (x )^3
++cos(x	)	^-2
++sin	(x)^	+1
+-	-0
+0 *sin((4*sin	((2*	cos ((-4) ))) ))		-	- sin( x ) *	sin(x) 
+-4*cos	(	x)		-+2*	2	*	0 *sin(x	)	^0 
+1
+1*sin	(x)++	(cos	(x))	^	3	*		cos	(x) ^1
++-1	--3	*cos(x )	*4	*sin	(x )* ( x- +1 *sin	(x)	^	-2 *3	*(+ sin	(	x) ) ^3 *	(0)^+3) * +2*cos ((1	*(cos((2))-	 (2 *x	)*4*	(+sin	( x ) +  cos( x	)		*sin(x)	*sin	( x	)*-4	) * 2	*	sin (	x )	^	1*-0 *	cos	(x ) )^ +3 +1*cos(x)^ 0 ) )		
+-0 *x ^+2	+ +( sin((-4* sin(	x) ^+3)	)-+ sin ( x ) ^	+1	*	+1	*	1 ) ^ 1 
+-4- +1 *	cos( x	) *1	*sin(	(3*x ^4-1 )	) 
+ sin(x )	^1 +-cos(x)^4 *	+4	*	sin((+2*sin(x)^+2) )^ 3*	2	*(-1)	
+-4	*(-1	*(-0 *sin((2 *	sin	(x)	- - cos(	x	)^4	*-0	*	cos (x )	^4 *3*x ^ +4 )	) ^	0)	^ 0)^-4++	-0 * 4 *	4* sin	(	x) ^1	* -1	* x 
++	cos( (2	*	sin(x )	^4	- -4	*	4 ) )	
+ x ^ +2
++x +-sin	(x)*+2* 3*+2*x	^-3	
++1	*cos ( x ) 
+-sin((1 + -	cos( x )*sin	(	x	) ^1 * cos( x ) ) )^	2	+ 	sin( x)^0*+4 *	cos(	(-cos	(x)))^1 *1	*	x	^ -2* cos(x	) ^+1
+-	+2-	+-0	* sin	(	x)^2*+2*cos	((cos	(	(+	x	+ sin(x)  *	cos (	x) ^ -1*1) )	^+2+	+3)) 	*+2 *(-0	*	sin ( x ))	
+-0
+cos(x)	^-4-	-0	* x	^ +1
+1 *x ^1
+-1 *( x	 - + -0*0	*	cos (x)	*	+4 *	x) 
+-1
+-(3*x^	+3)		+	+4*sin ((0 *	sin	(	(+2 * sin( x	) ^ 0)	)^1))^ 0 *  x	^	2 *cos((+ +4+ -2 * +0* sin (	x	) ^	+2	*+2*cos	(x)	 ) ) * x ^+2
+-(- cos (	(-	sin ( x)	^4)) ^-3+	1*(+ x^2)	^	4)
+	x	^+0
+	cos ((-0*x))	^+4 ++	sin ( x )^4*3 *x ^ 4	* cos ( x	)^	0
++1 ++4*	-4	*sin( (3*cos( x	)		++ sin(x)	*	1 * x ))^1*cos(x )	* 4 *x 
+-2	*sin (x)^+4
+	sin	( (+4	*(-sin	(x)	)^2)	)	- +1*	3
+sin( x)	^1
+0*cos((--3+	+4	*x^	+4*-2) )	- 2* sin(x	)	*	(+4*sin(x )) *	0 *	3
+ sin( x	)
+1*cos (x	)
++	sin(x	)^ -1-0 *+1*	sin	((-sin(	(1	*	cos ((++2 -	- sin	( x	)	^-3	* sin (x)^ -0*	sin ( x ) 	*cos	(	x )		))	+ 0*	sin((4*	cos	(x)	^1	-+ sin (	x	)	*0 *	4	* cos(x )	*2 *sin (	x	)	)	)	^4*	-1	*(-cos(x	) ^+1- cos(x)*0* sin(x)*-0) ^-3*	+0*	sin(	(4 *sin	( x	)))	^3* +0*	x^ 2))^ 3)	)
+3 *	sin	((1 *x ^3))^	0	- -4* sin((x	^ 0	+2*	sin ( (	cos (x)^	-1)	) 	*	+2*x^-4 )	)	* x^ +3	
+ cos	(	(+ 2-+	cos	(	(4 *	cos( x)^	3	--1*-0	* cos	(	x )	 * -0 )	) ) )	^ 3
+x+ +0*x* 2*	cos (	x	)	*	 x	^	-2
+2* sin	(x)
+3
+-1
+4
+	sin(x	)		-	sin( x)^4 *		(3*	sin (	x	) ^2-+	-3 )^ +3*0* x^4*	4	*	sin(	x )	
+-2*(	x	^-2	- 	sin(	(-0* cos	( x )^+0 - -1	*	-2	*0*	-3) )^ 2	*sin((1*sin	(	x)	))^-0)^ -4-	4*sin	((1 *	( (3*(++0))^	1	-cos	(x)	^+3	) ^ 4))* 	x 
+1*	(+3* cos ( x	) ^+1+	-4*	 x^ +0*	cos(x )* x) ^ 0	+3*x *+0 *cos( x) ^+2*2*	x *-0*x^+4 
++2* sin (	x )^ 2- +2	*(sin( x)^ +0)	 *2*	(0*x ^ 2)	
+-2
+1-2*sin ( x) ^+1
+-2 * sin(x	) ^ 3
+-2	*cos(	(+2	*	cos (	(+1) )) ) ^0- -0 *	-0*sin((+1*sin	((-+1	+ cos	(	x )^ +2*	+4	* 3	*x	*	1 ) ) ) )^	+1 *3* cos	((+ +3)	)	
++0	*	x ^3+-cos	( (4 - 	sin(	x)* x^+1)	) ^-0*-4	*x *+0*+4
+- 0	+-1 *sin ( x)^ +1	*1*	(+2 +	0	*cos	(	x)^-4	*  cos (	x)  * 	sin (	x )^	3	)^	+1	*	sin(	x	)
+ x  -	+3 * sin (	x) *1* 3	
+2	*sin (	x) ^-3
+ x 
+4 +	x ^+4 
+3*	cos(	x)^3
+-x 
++ +1
+ sin (	x )	
++1*cos(	(	sin(	x	)	) )	+ sin(x	) ^	1
+ x^	+0-+ cos(	x)*2 *	cos (x)^+0
+0	-x
+1	*cos ( x)^ +0
+3 +sin ((-+0))		
+-+3
+-(3*cos	(	x)+4	*sin( (	sin	(	x ) 	++	2 *x ) )^2* sin( x	)	*(-0 + -	sin	(x)^	3 ) *	4*sin ( x)^ 0) 
+	cos((+0 +-cos(x )^+3* sin((+2 *	sin ( (-1*	sin(	x)	^	2)	)  - (- -0) ^ 4 *	cos(	x)^0	))		*		x *	 sin	(x)^-1 )	)	^3
+sin( x)	^-4
+-0
+3
+-(-0+	-	3* 1	)	
++3 *	cos(	(+cos (x	)	^ 1+1 *sin (	(- (	x-2	* x^-0	)^ 3 +4	*(-4 * cos (x )	^	+1 +cos(x)^	3 * cos(x)^-3*	-4 *x	 )	^	+2*cos	(	( x ^ 0+ 4 * x^	3 * x*	sin(x	)	^ 0*-2	)	)	^ 4	)	)	^-1) )^0+1*x^ 0* sin( x)*	(+0+-3	)	^	3 
+ x ^	-0
+- sin ((+2 *cos( (0*	sin((+3))- cos(x	)*-0*x * 4* 	cos ( x	)^+4)	) )	)^ 2 +--4 *2	* sin( (-0 *cos( x)^ +4-	2	*cos(x	)	*-0 * sin	( (+2 *(-3) ^+1 --4*cos( (-0 *	cos (x	)	-	+x ^+4 *4 *cos((2- 2	*	cos	(	x	)^ -3)	)))	*		sin( x)^-1	* cos(x)^-4*1*x)	)^+0 *2 *sin(x)		)	) *	3*+1	
++2* sin (x ) 
+sin(x	)^-4+-2	*	sin	( x) ^ 1*x 
+x	
+4	*cos(x ) ^1
+-sin(x )
+4	*(sin(	(	sin( x	) --	-1)	))	^	1+-1	*(+sin(x)^	1)^	-4*	1
+-1- cos (x) ^2	*2*x *1	*	cos( x)	 
++cos(x	)  +	sin(	x)		
+-	cos(	x	)-+ 1*-3 *cos	(x)^-2	*	sin(x	)	^+0* -4*	cos	( x)		
++2	* sin (x)^	1
+-2*	cos (	x	) ^+1
+sin ((	(- x) ^ -4))^ 4-2	* x 	*	+0 *	sin(	x) 
+- 0
+x	^	+4-	+sin	( x	)^-1	*	cos	(	x)		
+-2* sin((1 *sin (	x)) )+ 3*cos( x ) *(+2 *	sin ( x)^-3++-3* 1)	* 3	*x*	0* sin (x)^3
+1	* cos(	x )^ 1
+sin	((2))	
+	x-+1*x^-1 * -2*	x^	-2 
++ 1
++	(1*sin	(x )^	3)	+	+cos	(x )  *4* cos(x )*1 
+2	-+1 *sin (x )  *sin (	(+	x	^	4 -	+ sin( x)))^3
+3* cos( x) -	 x
+x^ -4	-	4* (sin((0*cos (x)	^0)	)	^	+4 --2 *sin( x)	*-3*0* sin ((-1))^4	*	sin	( x )^	+3 )* (sin((1*sin ( x)^	4	++1*sin(	x)	* x ^	+1* 4	*cos(x)	))	)	 * +0	
+ x
+1*x 
+-	2
++	x ^2+	sin(	x )	^+4
+3	*x 
+ x^+2
+2 * cos( x	) 
+-3
+-cos	(	x) ^+1
++ cos (	x)	^ -1
+-0+4 *(-	(x^+0) +	+3*sin	( (-	x) ) *3*	cos	((0)) ^-2)*+2
+-	x
++0*	sin( x	) ^ +1+2 *sin( x)^ -0
+0	*	sin	(	x) ^	-2+2	*	cos ((sin(x ) ^	+0 -sin(	x ) *	0 *4 *	cos (x	) * 2 )) ^	-1
+-1*	x 	+	 x	*	cos(	x	)^	-0*	-4	*	cos(	x ) ^3
+0 *cos	( x	) - +	sin( x)	^0	*cos	( x)		
+ cos	((+1)) ^1++1	*sin (x )^ 4 *1
++-0
+- -2--1*3*x	
+-	0
+2	*	(-2)^ 3
++ cos	( x) + sin((sin(	(+sin (x	) -x	*	cos ( x)*x	 *	+2))^+2+ +	(4*	sin	(	x)^ -3)*	0*	cos (x	)^ 3*	+0 * 2*x) ) 
+4*x	
+-(0)^ 3
++4	*cos ((-	x) )	
+-x	
+3 * x^+4-3*	x ^2	* 	sin	( x)^	-0 
+	cos	(x	)
+3	*sin(x)^-0
+-3
+-4	*	sin(	x)
+-1-+1*sin( x) * 2 
++3 *sin( (+ sin	( x )^ -4 +cos(x) ^ -3* sin	(x )^1 )	)^4
+-2*x
+cos	( x	)	+cos	( x	)*	-4 *cos( x	) *-1 *3* cos	(x)	
+-4 * cos((3*sin	( (2*x++ cos((-4* x--1	*cos(	x) ^+2)) 	) ) ^3) )^0 +-3 *(+1 *sin	(x) +-2	*	cos	((+cos (	x)	-	cos( x	) )	) * (0	-sin ( (-0 *	sin (x	)^ 0	-sin( x ) ^ +0	*0*	sin((-2)) ^2*-4	* x	*	+2	*sin( x	))) *sin	( (1*	sin	(	x )^4) )	)^	-2	)^	3*	2	*sin	((- sin( (+	sin	(	x) ^	2-1	*	(- cos (	(-4))^4	+1* (-x^ +4-- sin(x) ^-3) ^	-0)	^ 1*	+0 )	) ))		
+- (+x	++2*cos (	x )) ^ +1+2* sin (x )	^	3* 4
++cos	( (x	++0 ))
+4*	sin(	x	)^+3- -0 * 3*0*	sin	(	x	)	^+1	
+ cos(x ) -	2*	cos((-4)	)^-2 
++4*cos(x	) ++	sin (x	)^2	*	cos	(	x	)	^ 4	*	cos(x)	
+3	+++1	* 	cos(	x	)
++ x^3
+2 * cos( x) 
+-1*sin(	x) ^2
+3	*cos(x)- 0*cos	( (x^4 +	sin ((+ +3))	^ 0 * x^-2*	sin	((x^	1)) ^-3))	^	-0* 2*sin(x	) * sin	(x	) ^ -3
+-x ^4
+4	*cos( x	)^-1+	+2	*	x* 1 *sin (x)*	x^-4 
+sin (x)	^2-	++4	*sin((1*	cos ( x	)) )^0* sin( (2)	) ^	1 
+x++sin(x	) ^+2
+-sin((+0 * sin	(	x )^ -1- sin	(	x) *-4 *x*	sin ( x) *	0	) )
+0
++ +1
+	x^3
++2*cos(x	)		-	- cos(x)  
+-3	*(+	1)^	-1-	0 *x	* 4* 	sin(x)^1 *		cos ( x )	^+4
+	sin(	x ) ^4-sin(x	)	^2*3* +0 
+-4
+-	cos	( (1 *cos((cos(x)	 -x	^	+2*	x	))	- +(+4*(4* x^	-0+	+4*  sin(x)^ 1*3	*sin(	x )  )^	0)	 * 	sin	((+sin	( (-3))) ) ^3 *	4 * 0))
+	cos(x)^-1
+-	cos	((+	sin (x )+	(-x^ 1)*1	*sin (x)	))
+sin((0	*x	^	-2) )^	+3+-0*	cos( (-x	))	*-1*+0	
+-3*sin (x	)^3	- -	+1 *  x	^ -1
+-3 *((+1+0 *1*sin ( x)	 *  sin(	x)^-2)	^	-0) 
+-3* sin( x)^4 +	-1* cos (	x	)*1 *sin(	x)
++1	*cos (x)	
++2 *cos(x )^ -0
++4*cos (x	) ^+4	-	+4*	x^ 1*3
+-x	^	0
+-2*x^0-	cos(	x) *0 
++ +1
+4 *sin	(	x )^+0
+2	*	x+3 *	sin( x)  
++ (1* cos(x	))+	1 *	cos ( x)^ 1*	-2	
++3	*cos	(	x	)	^0+4*sin(x)	 *0 *+2* (+ cos (x	)	- -	+2) 
+2	+++4
+	sin	(x	) 
+-1* sin( x	)^	-0-x	^	2	
+-3 +	1	*cos( x)^-1* x* +4	*	x  *2
+0	* cos	((1* x	+	4 *	(sin	( x ) + 4*	cos ( x) ^+4*	x^3 )^ -3* 3*	cos	(x ) ^2))^2
+ cos (	x)	^	+1
+cos(x)	-	+	( sin	(	x)++ cos(x )*  cos( (-+0) )	*	 x ^+0*-4)	*4*x 
++ sin( x)	^0
++sin	( x)	-	3	*cos	( x	)	^+0
+4 -cos	(x)	 * sin( x)^ -0*sin((-+1)) *	3	
+-	sin	( x	)
++x
++	sin	( (0* cos	( (3 * sin (	x) )	) ^2	+	sin (x)	))	^ 0
+	sin ((+3*cos (((3* sin(x)	^	4 --2*	sin(x	) ^	-3 *	+0 ) -	0	*sin	(x )	)	)^ -3)	)	^2-	+ (-3* sin(x	)^ +3+ 2 *x *	1* sin (x ) ^	+4* 	sin(x	)^	+4)^	-0	* -2 * sin(x	)	^ +3 
+--1	-3 * cos( x )	*	x	^-2	
+0
+-sin (x)^	0
+	x	-	1*4 *sin	(	x ) *3* x	
+sin ((1 *x-1	*cos(x ) * sin(	x )^ 4 *sin( x)^+4	))	--	0* cos(x)^-1	
+-4*	(1 *sin(x )^3)^-3
++	0
+-3*	x ^	3-3 *	sin(	(0 *	cos(	(3 * cos	(x)^+4+3*sin(x	) 	*3 *x*4* cos (x)		) ))	)
++0 *	cos(x ) 
+- cos	(	x) +-4*	x^1 *  cos(	x)	
+2* cos (( x	^1+1	)	) ^	-4 - + sin	( x	)	^-0*-0* cos(x )^	1* +4* sin	( (-4	*	(+ x	^	-0) ))^1	* 	cos( x) 	
+- +3
++3	-	cos(x )	
+x	 +	0 * sin (x )
+-sin(	( sin(( cos ((3 * sin	(x) ^ -0)) ) )	))^	4
+	(3 *sin	(x)^4 +	0 *sin	((1	* sin	((4*	(-0 * sin( x)	^2)	^ 4)) + 3 ))	 *cos(x )	^ -0* 	sin	(x) ^	-4	* -1	) ^ 2- -3 *-0*	cos	(( cos(x))	) *-1*sin	( x )
+-x+	-	1*+3 * cos (	x) ^+2
+-1 *	sin((+0)	) 	-+	sin( (+1*cos(x)) )^	2	*	cos(x )^3	*	 cos(x	) ^-3*-2 *x ^ 4
+-1	*sin	(x	)^ +1
+4	* x ^+0
+4	*cos (x )	^	0 + cos((1* sin((3	-sin( x) ^0*	sin(	(+0)) ^-2 * 0	* (3	*cos	(x)^	3) ))^4 +	3*	(-3 *x	-	+1*x 	*-0	)	^	+2)) ^	+1*(+ x	^-2+ +-4	*3	*sin(x	)^-3	) ^	+0*cos	(	x)*-1	* sin	(	x) ^ 3	
+0 +-	1*sin ( x)*	0*cos ( x)	
++	-3
++ 2-+4* cos (x) 	
+ cos	(x)	--1 *x^	+0 
+(+4*(+2	* sin ((+ 3)	) ^	1	+ 4* sin (( cos (	x) ))	)^2 - +3*		x	^+0)	^1 -+ -3 
++ +2 -1 *	(+3	*cos( x	)	- -1	*	sin ( x)^+4*+4	*	 cos	( x)^ -4*sin( x) 	)	*sin((	(1+	3 * cos	((+2 -+4	*	cos(	x)  *	 sin(x )^+1)	)	^ 1*	4	*	x	^+2*x^	-1))	)^ 0 *cos	((- 3 -cos( (+	+1- 1 * cos((-x 	- 2	*4 ))	)) ^+3	) ) ^2	
+-1*	x ^0
+-	1	+ 3	
++3
++	-0-	+2	
+3	*( sin (x	) ^+4 ++(sin(x )^4	--	sin	((0	*sin ( (+2	*x^+0))+ - 1*		cos(x	)	* 4*	x))^	0)^ -1	*2*sin (	x)^-4* -1 *sin(	x	)	^-4)^3
+sin ( x)+1 *0*cos(x	)^ 0 *-0	*x	^+4	
+-cos	(x	)
+	cos	(	(1* (sin(x ))^+4)) ^-4	+	-(0-	+2	*	x^ -3*x ^+1	* 1)
+1*cos(x)	^ 2	-	cos	( (x ^	1) )^ +0 *-2 *cos(	x)	*	cos	( x) 	
+-0* sin ( x	) --	sin	(	(2++ 4 *	2	*	1 * x	^3	*2 ))	^ 3	
++0
++0 *	x ^4
+x 
+cos (x)	^+0
+-+0
+	cos(x ) ^2-1*cos(	x )^ +1* 0	*	cos (	x	)	^-0 
+-3*sin (x	)	^ -1	+0	*x^	-2* cos(	x)	*	2*cos(x)^+2	
+1* sin	( x)	^	+1
+ sin(( cos(x	)	))^3	++	-1	* 4	* +0*-3
+cos	((-+2))
++sin( (-2-+0	*	sin	(x )^-2*	x^-2*4	) )	^ 1
++0	*x 
++4	*x -x ^2 *	+1*cos (x) *sin (	x	) 
++ 1
+-0*x	^3-+2 *sin	(x)  * 1*	+0*cos	(x ) ^	1* 4 
++4* sin(	x	)  -	+4 * 1 
+1	*cos(x)^	+2-	-2*	+3* cos	(x )	*+2 * cos (	x	) 	*-0 *cos ( x)^4 
+ x	^	+4
++	x^	+2
+4*cos(x)^ -2
+-cos (x) -4*sin	(x)	^ -0	
+-	4 - +1*	sin( x)	^-4
+2
++ cos(x )^0 -+ +1	*	+1*	cos( x)^ +4*	 sin(	x) 
+cos	( x	)	-  cos( x)* 	x	*	2	*cos(	x)*	cos	( x)^+1
++4*x	+ 2*sin (x )^	-2*0* cos	((- -3))
+x^	3++x* +3 *	x^	4	*	+3 * 3
+3--3 *	(+	1 + -2	*	cos( x	) )	
+2 *x	
+sin(	(- cos(	x)	^2+ -4*	x )	)		++0 *-2 * sin ( (	(-2*cos	((3* (+	-4))	)^ 3-+0*	cos	(((+0)-+3	* cos( x	)	 *2*	cos	((1)	)*	+2*cos	(	x	)	*4 ))	^+4)	-+1 * x ^-4)	)^	1
+-	cos((+0	*x^ 1)	)
+-1
+-2	* x ^ -1	-+cos(	x )	^	+0 * sin (	x)*+0 *sin( x	) ^1 *	x
++0
+-1	* cos	(x)^1
+2*cos ( x	)	^1 +-	-2 *-3* cos(	x)^3 * 	x ^	4
+cos(x ) ^0
++2 ++4
+2+	+sin((+ (-2 *	cos	(x	) + x ^-3*+3*2)	^ 3- +0 * x	*1	* x)	)  *	+1* x ^ 0
+-	1	+-3* 4*	sin(	x) * 	sin	(	x) ^0 
++sin	(x	) ^ -2--2 *	(	x ^3 +	+ x ^3	) *0 *	(+-1	+ +cos(	(+0)	) 	*		cos(x )^	2*	+2*	cos(	x	)		)	*	 cos(x)	^ -4*	(cos (x )	 ++4	* sin	(	x)	^	0*+3	) 	
+- 4
+-(4 *	cos (	x	)^1	--x*+2 *	 x ) ^ 0
+	x ^	3
+cos	((-x) ) ^+1	- -x *	-1*-0*	sin ( (cos (x)  -+ x) )	^	3
+1	* cos(x)
+- 0++2*	x	 
+2*cos (x) -	+	1* +1*	cos ( (2	++ 0	*+4*sin (x)^+4*	-4) )^	0	
++2-	+ x^ +3 * (+sin(x) +2	*cos	( x	)^ -1	* 	x*	3 *cos (x)	^4 *+3*	cos(x	)	^-0)*2 *	+4
+ sin (x	)	 +	-	sin	( x )	^3	*+3*(cos(	x))^-2	*  cos(	x)  
+-	x +	+ sin	(	x )^-2	*	-0
++ sin	(x	)- +3	* sin ((+ x	+-4	*cos(x	)^ 3	*	4))		*	2* 2	*3*cos((+2	*	cos	( x)	^ -1 - + x	 ))^ 3
+3*	sin( x )	+ 1* cos ( x) *+4 
++0*sin(	(3))++2	*+1	*sin(x)
+-0
+-3 *cos (	x) ^+4- 	cos( x ) ^ -0	* +2*x^ 3*	cos(	x)	*	+2
+	cos( (2) ) 	-	--0 *	cos (	(-1	*	cos ( x ) 	++ sin (x	) 	*		cos	((0	*x	) )	*-3*	cos ((- (x^0+-1*	x 	*	-2* -4* cos( x)^1* x)-+	0	) )^+3	* +1	* cos	((+ 1-	sin(	x )^	2	*0*cos ((4*sin	(	x)^0 + +x  *  sin( x	)^ -0	))* x	^ +3*+1	*x)	) ^ +4))^+2* 1 *x ^	-1 
+-4
+-4- 1* sin (	x) ^	4*	2*sin( x)  *1
+3
+4*	cos (x)	^+0
+-2*	cos(	x	) ^-1+	0 * -2	* sin( x) ^ -0
+x^	-0
+--4
+-2 *	x	^ +1 +4 *3*	sin( x )*2*(2 * sin ((3- -	sin(	x	)^ -0 *-4*-0	*	x	) )- 0	)	^ 1 
+-0
+-1	* cos(x	) ^ +3 +	+ x	*4*	x	* -2 *cos	( x) *	2	* cos (x)	^ +3	
+- sin	((+4 * sin (x)	^	1 -0*x 	*	-0*x^ 4*-0*	cos(	x)^+2	)	)^+3 -	+4 *x
++3*cos(x	) ^ +1+	- +4*	2 
+x	^	+2 +-1 *cos(x	)	
+1*cos	(	x )	+	+3 * cos(x)^ +1*	 cos(x)	^+3	
++	sin	(x	) 
+	sin(x )- --3	*	4	*sin(	x)	^+3*	+0	*	(-	cos(x)^ 3)*	0	*x ^ 4 
++	cos(x)	^0 --1*	+2*  x^ 2*	x^ 0	
+-	+3+2	* sin ((2 *cos(	x)^2) ) 	*2	*cos ( x	)	^ 4 
+-x  - 	sin ((+4*cos((0- +4	*sin	(x)^	3*	sin (x)^-4*	0*	sin( x	)	 * 	x )	)	^	+1)	)^	3 *	sin(	(-3))^+0*sin	((0))	*x	^	3
+1*cos( x)
+-4	*	sin ( (+	cos	(	x	))	)
+-2 *sin(x)^0
+1++cos( x)^ 1
+4*	cos	(	x)^ +0	- sin	(x )		*	-3 *x ^	0 *	-0
+4	*sin	(x)^2
+ cos	( x )^ 2
++ sin(x )^ 2 +2*	x* 2* cos	(x	)	 *0* x ^	2	
+(0	*	sin((-	4-	+1	*cos(	x)*2*(-0	*x	++0*+0* x^+3* +0 *	x^	2)	* 2*x ^0) )	++0* -2)	-	x*1*	cos((+cos(x) ^+1))^	+3	*4 *cos(x	)^0	*-2
+-0*sin(x	)	
+-4*sin( x	)
+- 2
+0 *cos((+-3+	+2*(-	+1)	*x )) 	+	(-3	*(+1 * cos(x)^-2)^ 4)^ 1 * 3	*	0 * cos( x)	
+	cos	( x	)^+4	- 	cos ( (x  -	+cos (	x)	^3 *	-2*sin( x	) * cos	( x	) )	) ^+0
+	x^+0 -+	+1
+4+	- cos(	x )	
++	sin(x)	
+2	* (+ 1)^ 0 -+	+0*1 *cos	(	x)	^4*	-4	
+1 *(+3* cos((3*cos (	x )	)	)^1 -	-1*3* cos(x) * (-0	+-1*sin( x	)^1 * sin( x)	^	-2	* +0*	x *	1	)^ 3	)
++0
++4 *	x ^1
++0	* x
++1*cos( x	)	
++(+3) ^ 0--	4	*		x  *-1*+2
++ sin (x	)^3
+2 *	(1+  sin	(x	)	^1*	 x ^ 4	)^ +1-+cos	((-	sin	( x ) ^4+ +x^	+3 * -1	* cos	( (+3 +0 * 	cos	(x)^	-0*4* sin (	x ) ^3	*		x^	+3) )^0))^1	
++ 1
+sin ((- cos((+cos (	(+4) )	^ +0+4* sin((4+	-+2 )) *	sin(	(-3 * cos	(	x) )	) *x* 4*x	))^ +1))	^	+0 -4* cos(x ) ^	+2* cos(	(-sin( x )^0))^+4
+4*	cos((3*cos(x)	^ 0	+ +	-2)	)		+ 2	*	cos((+ cos (x)))*	-4 *	-0	*	x	^ -4	
+cos (	x	)	^ -1	- 0*cos(x	)	*	x^-1*	sin ( x	) * +1*cos	( x )	^-3 
+- x	^1+0 *	cos (	x )*1*x	*x*3
+- cos	(x )^-3
+-cos(x	) 
+1	*x
++3 * sin	(	x	)^2+	3*	x *2 *	x^ 2* 1 *cos(	(- -0+ 3 * x *	+4	*	cos( x)  )) *sin	(x)^ -4 
++4*cos( x)	
++1
++cos	((-3+  x	^ 3	*(+1	* (	x ^ 1)^-2)^4 ) )	^+2
++2* x	 -	2*sin(	x)^0*0
++(sin( (+3))^-2)		--1
++4-	-1*1*	0 *cos( x) *3	*cos ((+4 *	sin (	(+0 *cos	( x )	))+ +x*0 ))	
++0	* cos (x)
+ x^ -3	+ +0* +4	*	x	^	-0
+	sin(	(+2	-+ 0* cos (x) ^-2*-2	*	sin	(	x )^0))	--cos	( x) ^ +1* 	cos(	(+4*cos (	(+4	-	-0	))	^	1 +-sin(	x)		* cos (x) *3	*cos((-0*cos	(x ) ^	+1)	) ) ) *	(-3* cos((+	2+2 * 2*	0) ) ) 
+0 *	cos (x	) ^-4++4* x^+0* -0
+++3
++cos ( x) ^0
+ sin(	x	)^2+sin	( x) * +0	*-2	* x ^ -1*-1*	sin( x)	^+3
+	sin (x)^	-3
+sin (	x)^+0+-2	*sin (x	) ^	3	*	4
+	sin (	(-1*	sin(	(+2)	)	))^0
+-2 +	+-3	* 3 * x*	2 * cos(	(cos(	x	) )	)
+ cos(	x)^	3
+sin	( x) 
+sin	(x ) ^2	+-0*	cos( (1	* sin(	x ) ^	+3-	-1 ))	*	cos(	(3*	cos(	x)	^+4) )^+2 
++3*x 	+	- cos ((-cos	(x ) ^	1--+3*+1	*cos((+	cos	((+1) )	^0) )^4 *-1*x^ 1	))	*x *3* x  *+0*	cos(x)
++4
++ -1
+2 +	+cos	((+ 4+	cos( x )	 *	+0	*sin(x)^3*x ^ +4 *	-4	*	cos(x )	^-3) )	* -0* sin( x	) ^2	*	sin (x	) ^4
+2 * sin(	(	cos(x )		+-3* 	sin(x )*	2*(1*x	^	4)^4 *4	* cos (	x)	) )
++0*cos	(	x ) ^ 4+ +-4	
+-3*(+	cos(( cos((- x + 4*x*	2* 1))	)	) ^3)	- 2*cos((	sin	( x )	^	+2 -		sin (x)	^ +3 *cos( (	x ))	* sin( x )^-4 ))^4*	-2* x^	+0	
++4*sin	(( (cos (	x )-- 1 )))^-1-+ cos	(x	) *0*	cos(	(+2	*	sin(x )^0- 4	* 4 *	x )	)	^	3 * sin	((-2+	x *0*(2* x	^+2	- 3*-3 *  cos(	(4 *cos ( x	)	^ 4) )^	+1* 2	*	cos (x)	^	+1)	^ -3 *	sin(	x) ^	3))^	2	*	sin(x)	
+-2-- cos(	(+3*	sin(x)^	-4+	+ +0 * 0*sin ((3*sin(x ) ^1)) ) ) *	sin	( (sin ( (sin((4*	sin(	x)	^ 0))^+2- ++3*-0*	cos(x)	*+1*	x	^	+1))^	-4	-	 cos( x)	^4 *+4	*sin ( x)		*	cos(	x	) ^ 0 * sin	(x	)^	-3)) 
++	sin((+	1 +	4*	x*	cos((+2*(4	*	cos(x ) )	) ) *4*cos (x )	^+0 *-4* x	^3))	^4
++ sin (	x	)	^+4
+x^+3 +	-3*	x ^1 *	4 *sin (x ) ^0* 2*	sin	(x	)^1 * x 	
++x	^ +0 +	cos ((+cos (	x	)	 --cos	( (4 * x ^3)) *	 sin (x ) ^	0))	^	4 *-0
+-	0
+	sin(	x) 
+ cos	(	( cos (x	)))^ 1
++3+-sin(x)^	+1* 4*	sin( x)^ +4	*-2* 1*cos(	x	)	^3
++ cos (	x	)	^	+3 --	x^	-4	*		sin ( (-	cos(	(cos	(x	)	^ 4)	) -1	*(4 *cos ( x)^-0)^+1*	0	*-0* sin	(	( x)	) ^	2	)) ^ -3 *3*		x	
+- cos(x)+-4 *x	^	-2
+ sin ( x	)	-	-2 *x *-2	*cos(x)	* 4	*cos(x)^-1 *0 
+sin (x)^ 4+	-sin ( x )
++ 4	- cos(x)* x * cos ((+3 +	2* cos (x)^-1	*0*	cos	( x)))	
++2++0*	x	^+2 * 2*cos( x)^	+0	* 4	*sin(	x)	^ +4 *	x 
+sin (	x)		-+	+2*2*sin	(x)^ 3	
++ +1
+-4*	cos ((+sin((+	-4+ sin(x)  *	(+0 * sin(x ) ^	+2 ++4*	+2*cos(x )^ -3 )	*	cos( (-0*sin	(x )	)	) ^ 2*	cos	(x)^3 ) )	-+	sin ( (-2*	cos( (+ cos(	x )	 -	+	4*3*	+0*	+2)	) ^0) ) ^0*+3 *cos	( x)	*	cos ((+3))^2) ) +	x*-2*	cos (x)*-3* x	^ 3 
++0 *	x 
++	+3
+4	*(	sin(	(2	*	cos (x )^-3- 1 * cos	( x)^-0 ))^+0) ^ +4
+	sin	(x	)^ -2
+-2*sin((+-2)	) ^	1- -x ^-0* cos((0)	) ^	3 * x 
++2
+- +2 -+4	*sin ( x) *+0*	cos( x	)		*sin( (+0*sin (x	) ^3)	) ^+0	* +4 
++4
+-	-4	-+2 * sin(x )^1
+2	*x
++0	*(+	cos(x	)^	+3)	^-3
++sin((-3*sin ( x	)	+1*x^ -1 * +2*sin(	x	)  ))	^4
+cos(x) ^	-1+1*sin (x )	* 3 *	(+sin(x )^-0) 	*	-4
++ sin (	(4*cos	(x) ))^ -2-	-2 *sin(x)^	0	
++3	-	0*cos (	x	)^	1 * -4*	sin (x)	*+2	*sin( x	) *	2 
+	cos	( (-cos	((	sin(x)^4))))	^	3	-	+cos ( x) * 0* sin	(x	)
++cos( (2	++4*x  *-3))^3-2*	x *1	
++1
++	cos (x	) -cos(	x)*	1*cos(	x	)	* cos (x ) ^	1*-1 
++	cos(x ) ^ +3 + +	x *	0 *sin( x ) ^	-0	
+3 *cos(x)	+	--4*-4 *cos	(x	) ^ 0
+--1
+x
+-2	--0*sin(	(4	*cos( x)-	+3* cos((0*	sin	( x)	-2 *cos (x) ^2 ))*	2*	cos ( (4	*	cos( x ) ))*0*(-3)^4 ))*	 x^	2
++1* sin(x	)		+ +4	*cos((4*	x	^	-2))^	+2*	-1	*cos	((1	*	sin(	(4	*	cos	((3*sin (	(--4)) 	+	2	*x^ 4 *2	*	cos(	x	)	^-0	) )	-3 * cos	(x )	))	^	1))*(4*(0	-	4	*sin	((0 * cos(	x	)^3 -4* cos(x) ) )		* x ^	-3 * 4*	x )^2) 
++2*cos(	x)	^3 -	-3* sin (x	) ^1	*1*cos (((+2 *	x^ -2)^	4)) 	*	+3 
+-1	*cos	(x)-	-sin	(x )	^-0
+-x+	-sin(	x)	^ 2* 	sin ( (+x ++	2	*	3	* sin (	x	)	*cos(	(-	sin	( x) ^-0- -1* cos	( x) 	)	) *sin (x)	)	)	^+1
+sin(x)
+-	sin(x ) ^ -1 -cos ((+	(-4	*	cos	( x )	) ^-3-1* sin	( x )		*cos(x)^+4))^ +2	*0*sin((-3 *cos	(	(1+	0*	sin	(	x )	^2	) ) +	-sin(x)  *(+ x )  )	) ^	+2 *	cos(x ) 
+-3*cos(	x )	^-0
+0+ +cos	(x	)* 4	*	3*cos ( (+ (+	cos (x ))^-0))* 1
+-0
++4	*sin (	x	)++cos ((4	*(- -1)^ +1))	
+	x^+2	- sin(x ) 	* 	x ^ 3 *	(-3)
++0 +-sin (	x)^ +0*sin((x^1 -3 *cos(x	)*	-3* cos( x )	*+3 )	) ^ 1
+3 *	sin	(x)^4
+0 *cos	(x	)^	-0
++2	*	x
+- sin( (+4 *cos (	x )- x	*(1*	(- x +		x*x	^	+1* sin(	x )^ -1)+	+1	*x^	2	) )	)--3 *	(-4 *sin(	(-0	*sin(( sin( x)	))^+1-	-4*cos(	x)	* 0 * sin(	x ) *	+1	*	(2*	cos	(x	)) *	3)) 	++sin((+0*cos ( (2*x	^0+ +	0 )) ^ 3))  *+3	* sin(	(x ^ 3+ 4	* -1* cos ((4*	sin(x) )) ^ +2)	) ^	2	)	
+cos( (- cos( x) ^0)	)
+-4* sin(	(+1* cos ( x) +	 sin ((+4 * cos	(x	)) )*+2 *	2 *+0*	( cos	(x)	-	+3*x ^ 0	*+0 *cos(x )	^	+0* 2 *x )^+4 ))^0
+0	* sin	(	x )	^2-	1*0*cos(x) *0 
+-2	*sin (	(+	2))^+0
+ cos ((+ x	 +3*	cos	(x)* cos (x	)	^ +4	* 3	* sin	(x) ) ) 	++-3	
+cos(	x) - +	(--3	++ cos(x)^ 1* -4*	+4*	sin ( x	)^	-4)		*+2 *	(4*cos	(x)	^	-3-+ cos(x )^	4*-4*	 cos(x )	^	2* 4 )^	1*	3	*x ^ -4	
+3*x  -	+sin(	x	)^	+3
+0
+-0 *	x^	+2+x^1
+-0*sin	( x)^ +0-4*cos	((0*x^2)) *	-4 *cos(	(4) )	^3
+- 0	-+	1 *1	*sin ((+ sin(x	)	^ 4))^1	
+ sin ( x)	
+4 *sin(	x)	^ 2
+4	*	cos(x)^	2
+-sin(	(-cos (x) +	+2 *	cos	(	x)		*1 *	sin((+ +2+ +1 *4 * sin(	x	)	^ 1	)) ) )-+ x 	
+-4*sin(x )
+-1 * cos (x)-2	* cos(x) * x*	+3*x	^ 2	
+1*	sin(	x)	^	+0 -4	*	(+sin	((-3 *cos	(x)^+4))^	+4-+sin( (2	*(1)+2	* 4	*sin(x)	^	+1) )^+3*	sin (	x )	^ 3)
+- -1	+--0 *cos( x	)	 *  sin (	(2*x ^-2)	)^2 
+1	*(	cos( x))^2
+3*sin	(x )^ 0--	x	^3*	4 *2*	(- 0-	+0	*cos(	x )		* -4	* 	sin (x)	 ) ^	2*	-0 
+-1*sin (	x	)^2
+3* cos ( x )	^-2 -0*x *(3) 	*-4 
+	sin	( x)		+2 * sin(x)^	3 *0 *sin(x)^ 1	*sin((+ cos((-	x^+4) ) )	)^+0	
++2 * sin ((cos( x) ^	0)) 
++1*cos	( x)^1
+-0 -cos	(x)*sin	((-sin((+3-	+0*	x*2	*cos(	x )^2	* x 	)	) --sin (	(1-cos (	x )	* 	x		)	)^ -4*	( cos(	x)^ -4)		*-0) ) *4* x* +0	
++-4
++0	*x
+-+2 - -0 *cos( x )^ 2	* 3*	(-1 *(3	* sin(x) ^ 3-	sin(x)	)) *1	*sin( (+cos	( ( sin( x)^ 3	++	sin(x) ^	-4	*cos(x) * sin (x) ^4))	^	+0- 0	* cos	((1*cos (x)^2))	)) ^+1
+2 *sin	(x	)  +	 sin (	(3 - 2)	)^0	
++	sin (x	)+0*1 *cos(	(-2 - -2	*sin (x )^-3	*-3	*4*(+x- cos (x) )	 )) 	
+3*	cos((2 +0 *	cos ( x) * 2 * x^ -1	*	 x^1 )	)
++-1- -1	*cos(	x	)^4	*	-2 *+1 *3	*	sin (	x )^	4
++x	-	-0*	+1*	sin(x) * sin	( x) ^3*	 cos( x )^	-3	
+-4-	sin ( (cos((3))^ 1)	)^ +1*1*(1	*sin( x	)+-cos (x)	 * -0 *	x	)^+2*-0
++1 * x
++sin(	(sin((- 4-	sin(x) ^-4 *	x	*-2	))	^-3	-+	x *sin( x	)^+1 *	0 *sin(x)* +4)) 
++	2	+1*cos	(x )^0	*cos (	x	)^ 2 
+cos ( x	)	
+-	x^-3-1	* cos(	x ) ^	+3	* +4	*0 
+3 *	sin( x ) 
+ x
++ sin	(	x ) ^-3
++3	*x 
++	(cos((-2* cos	(x)^1) ) +	--3*1 *x	^-4	*sin (	(cos(x	) ^3))		)	
+-sin	(x	)^-3	--0*	+0*(-x	^+4)^	+1
+sin( x	) -+	sin(	(4*cos( x )^ 4)) *sin (x )	*+3	* x^0*(	(+4	* x))	
++1
+3	+1 *cos(x)	^-4	* +4*sin(	(+2)	) ^	2	*-4 *x	^+3 *2* cos	((+3	* sin(x	)	++2* sin( x	)	)) ^3 
+ sin((0*x) )	^+0	- 1 *	sin((-+2)	) 	*-2
+-sin( x )^2 ---0	*		cos	((+cos (x)^	0)	)^ 2 *	+1 *	x 
+cos(	(-	sin (x ) ^ 1-	- cos(x)^	0 * 3	*sin( ( x^4))*	2	* sin (x )	^+2	* sin(x)	^ -2	)	)^	+2
+(-4*sin( x	)	)	+-3
+3	*x	^0
+-4*sin (x) 
+-cos((+4*cos	(	x )^+3 +-0	* sin(x)	^0* +1	* 1*cos( x	)	^ 0*+1)	)	
+0* cos	(x)
+3* cos ( x	)+	cos(	x ) ^0	*sin(	x)  * x ^2	* +4
+sin(x)
++sin	( x)^ 4	-+4* sin	((1 * sin( (1+- cos	(x) ^4)	) ^0-	2*x^3	*+2*sin (x) ^	+3*  cos ( x)	)) 	*	+4* x	^+4 
+sin( (+2 *(2	*cos	(	x	)	)	^-1- +cos ((+	cos((+2	*	sin(	(+	-4 - 2	* -3 *sin(	x ) *+2*cos(x)*+1 ))	-	cos( x	)^	+3*x	^-2	* -1	* x	)) ^2	-+2	))*	+1*	2*x 	))
+0*	x^-0	+	+cos(x)	^4	* cos	(x )	 
++0*	sin	( x )^0 +-	cos(	x	)^ 3* x	
+	sin (x ) + +4	
+-0	*sin	(	x ) ^+3+sin	(x	)	* cos( (- x	) )^ 2 * cos ((cos(x)^	+1) )
++1* x ^	-3
+-	sin(x )	-+sin	(	(+	-1)	)	^1* 	(+0* cos(x ))^-2 * cos (	x) 
+	sin ( (+ cos(	x)^+3+	-1*x	*-2	) )^ -1	+-2 * cos(	(	cos (x	)^+1))	^	+1	*1	*	+4 *cos(x) 
+x ^1
++	cos(x)^+2
+sin( (	x	^4) )
+1 +x ^ 1	
+-3	* sin(x )^+2	+-(-	x)	 * 4 *	sin(	x	)
++ 2
+	(-	(+-2+ +2* sin(x)^ 4 *-4* x	) 	--4	* cos(x)		*3*sin(x	) )
++3 *cos ((+(1* sin(x	) +	0 *cos	(	x )	^2 *	1 *-2 *+4	* (x		--1*	2*	sin( x ) ^4*	x^ -4	*3*sin ( x)^ 4)^+3)^1+ -4	)) ^ 0-+	-1	*+3*	x	 *		sin(x)^-2	*cos	( x )	
+3*	x  -	1*cos(	x)	
+sin	(x)
++4*sin(	x )  + +4 *x 
+-	2
+2*x -	3*x		*+2*cos(x) ^-2 *+0 *sin	(	x)	^ -2* 	sin( x )	
+-+0
+-0 *sin	(x)
++ 4
++0
+0 *cos	( x	) 
++-0	--	sin (x)	*-0 *(-0 *	cos	((-	x ) ) --3* cos ((-x^	3++3*	x	^ 0* cos ( x )^3 *	-2*0 ))	^-0*	-2 * cos(x)^3	*	sin( ( cos	((2*cos	((+ x^-3)	)^3- 	sin ((-cos ( x	) ^ +3)	)		*1 * x*3	*	sin( x)^	-1	))) )	^	4 * +3 *cos(x)^+0	)^ 4* sin (	x	)^+2	
+++1--2 *x	^2	
+4 *(+ +1- 	sin(x )*-4*sin	(	(	cos(x ) + +	cos (x) ^	1	*0 *x		*	-1)	)	)^3
+- x	+0
+sin (	x)+ +-4
+(	sin (	x	) ^ 4)	 - +sin(x)	^	2	
+4*sin(x )^-3-+	sin((-2	* cos((+3 *x	 +-sin (x)	 * -4	*sin (x) ) )+ 2 * sin	(	x)	^	4	*	(0 *sin	(x )^	0 -	4*sin(x	) ^	+3	*-3	*sin((x^0))	^ 1 *3	*	x) *	3 ))^ -2
+cos (	x)^+3	+1*	cos(	x	)	*3	* cos(x	)  *-2	* x^	+4
+-1
++1*cos	(	x)
+- sin (x)	^ 1	-	x 	*sin( (1	+3 *	x )	)^0* 3	*( cos (	x)^	+2 +	- 1*	-3* x 	)^ -3	*1* x^ 0
++	sin	( x)	^-0
+2	*x^ 4+ 1	*sin	( (1*cos((1-1 *	sin(	x)		*	+4	* 4 *cos (	( x))	 ) )	 -	+-2) )	^	0 *		(	sin	(	x) ^-0 +	++4	)  *	 cos( x)	^0*-2*sin((+ -1	++3) ) 	
+	x -	3*	+2 * (-x) ^0	
+ (+cos(	x)	)	
+-x
+x	
+sin (x) 
+-sin	( (-cos (x	)^1))
++0+	cos( x)^-1 
+- cos ((+1 *cos((-4*sin	( x	)^-3)) +	0* 1*x^	+0) ) ^+1
+-2*	cos(x	)+-3*x^	0	
+- sin (x)^ 4
+	sin(	x) ^-1-+2	*sin(x )	* 1*(4	* sin(	x))*	+0	*sin (x)^+2*-1*cos ( x	)^-0
+cos((1*(4-	3 *sin	(x )  *-4 * sin( x) ^	-1))	)^-4	+ -	(-2	-+cos	((-	x^	-3)) 	* 0 *	2) *+1*	cos(x	)		*x	
++0	* x	+	cos	(	x)	* +3* 4
++0	*	cos(	x	)^4
+cos(	(+	cos(	x )	)	)
+-4*cos	(x )
+-3*	(- 3+-(4	*(-	2 -+1	*x *sin (x)	)^0)*sin(x ) ^4)^ 4-+sin	(x)^+4
+-0 + -0*x	^ -2	*	+2*		cos (	x)^	3*-0*cos(x)	
+-2 *	x	^ 3+ cos (x)	*1	* ( (+4) ) *x^+0* 3
+3*	sin (x	)^+4+1 *(-4	*sin (x)^-3)
+3 *	sin((- +3+-	cos(x)		*(1 *x 	+ 1 *	-3*cos (x ) *+4)	^ -0 * (sin((+sin( (1* cos( x )	+	2*x* x^+1*+1*sin(x)* 3	)	) )	) ^0)^	+0*+4))
++2*sin((+cos((-4	* cos((-cos( x	)^	0) )^	0+-	+0 *	-0*cos	(x )	 * (+	x ^0+ +	-1*+1*	cos(x	)^-0 *	+1*cos( x )	)	*	 sin((+0*	sin (	x )	^3)	) ))	^	2))^-4-0
++cos(x )
++4*	cos(x)	
+2*	sin (x)^-2	--4	*	cos (	x	)	*sin(	(2 *sin	( x)) )^ 0
+	sin	(x	)
+3* sin	(	(+0	*	sin	(x)	-	0*sin(	x) *sin(x))	)^	1
+2*x 
++	2 -3*	x  *+2*	sin( x )	 
++4 *cos (x) ^	4 +0* sin ( x )
++sin (x	)-1 *	sin ( x	) * 	x
++4	* sin(	x)
+-	+3
++0
+3*x	+3	*+1* 	x	^+2 
+	x	
+1 *(+2* cos (x)	+-2*	 cos	(	x)*1	* sin(x	)	^+3)	^1
+-	x^-2 +	+0 *1	
+-x^1
+0
+2+	x ^ +4	*	+4 * -3*sin ( x)	
+ cos (x )^-4
+-2*x 	-1*	sin(x ) ^+0
++(0	* cos( (-cos(x )))	) ^2
+2*sin(x) ^-1 -	+1 *(0 *cos ( (+2))^	4 -+cos(	(+0*cos (	x	) ^ -3++	cos	(	x ) ^	3 *x	* 3) ) ^3*sin	( x)	 *	 cos	(x )^ -2	)	
+-0*cos ((+sin( x)	 +3*cos( x )))^0-3*cos ((-0) )
++2
+ x	^-4
+	x^1	+ -	cos( x	)	^3 *	+1	*-2*	cos ( x	)	^3
++4 * cos(x )	^3
++cos	( x) 
+sin(	x	) 	- (3*cos(x)	)^	3
++1*	(-sin	(x) +-1	*sin (x )^-3 *	0*cos( x)* -4*cos (	(3	*cos((-3) )^	0)	)		) 
++ cos(	x)^1- cos	((-	0) ) 	
+cos( (+ sin((+1+	+0*sin(x) ^	3	*1 *cos	(x)^2)	) ^3)	)- +2 *cos((+2 *	x	^ +4)	)^ 1
++1 *cos	(x ) ^	2+	cos	(( (0- -0*cos	( x) ^0	* +4	*-2	) ^ -4) )^-0	*4*	1*	-0	*(-0) 
+4 *	sin	( x	) 
++ -4+-2* x ^+3*-3*sin	((+	cos( (-2)	)))	^ -1*4*	2*	cos(	x )  
+ cos (	x) ^0+ sin (x	) 	*sin(( sin ( x)))^ 3*	sin	( (+cos	(	x)^	2	- ++4	) )  *2 *sin (	(((+1 * x^0-+ sin(x)*0)	)^ +4+-0	* cos((cos( x)^	+4+		x*	+3 *sin( x )^ +3*	sin (x)^0 ) )*	cos( ( sin (x	)) )	^	+0 *+2	*sin	((- 0))	^	2 )) 
++	+1
+-	cos	(x) ^ 4
+(0*x ^ 3 + 4	*x ^	1	* +1*3 *sin ( x )^-2*+3*cos	( x	)^+2)-+	cos((-x	^ 4))  *0	*sin	(x)
++-1 -+0	*-0	*x ^+3 *3* cos( x)		*-0* sin	(	(3* sin( x)) )^	0
+3	*x	^	-3--3*x	^-1*	-2 
+- 2
+-	x	^4
+sin( x)	^4
+2* sin ((sin (	x )^-1)	)
+- 1
+-+3
+	cos	(	x	)	^ +0	+ - 0
+	cos (	x)^	-1	+cos (	x) ^4*	cos ( x) ^+0 *+3	*	+1*	sin(x )^ 3	
+-4 *	(3	- -2 *	(- x^	2+	-1 *cos	(	x)		*+1 *x )*	2 *cos(x))- 4	*cos(	(3*cos	( x) -	+4*	(- cos(x )^ -3) *	-3	*sin (x)^	+0*-2 )	)^+0 *-1*sin	((4)	) 	
+3*sin( x)^	+1++	+2	*cos( x	)^+1	*	 (0	*x^	-2)
++4
+-2	*x	+0 *(1	+	-cos(x	) ^1	)^	-0
+sin (( sin	((sin	(x)	-	0*	3*3*x	)) ^+2)	)	
+-0*cos(	x)^	+3-	sin( (- +1	-	0 )	)
++1 * cos(x)	^	-4
+1	*cos(x) ^1
+-	-3+4 *(cos(x	)	+	+1	*x ^4) ^ +4* 0 *(cos( x)^0) ^4* cos( x) *3	* cos(x)  
+sin	( (3- 0*	sin	( (-0	*	cos (	x)+0	*-0))	*0*x*	1	*cos(x	)	) )-+cos (x)		*cos	(	x)	^1 *1 *+0*sin	(	x)		
+-4 - +1 *	sin ( x )	^-1*sin ( x)
+1
+-	cos ((1 *sin(x	)	))	^	-3 +2
+-	cos( x) -	-1*sin	(x)^ 2	*4*x	^4 *sin	((+ -0 - 2	*x) )^+4 * 0* sin(	(-3* (-	-2+ -3	*	+0 ) ^	0))^-3 
+4 * x^+0+ +0	* x 	
+-1 *cos	((+	(- -0	--2	* 1	*-3	* 1*(3 *x +	x	^0)		)^+3)	) ^-4
++	cos	(	(1*sin	(x	)))-3*cos (	(-	-4	+-sin(	x	) ))	 * -4 * 0 * (	sin ( x) )^ 3 *-2	
+-2	+	1* x	
+-2* sin(	(1	*x ^+3)	) +(0*x)^	-3*2 * cos (x	)	
+cos	(x) ^-0+	-	(-3*	sin((-3 *x^ +2))^	2 +	+1 *	 cos(x) ^	+3 *1*	(-1* x^ 1)^-1)* 	x	
+- sin(x) - +x*cos	( x	)* cos( x)^	-1	
+--4-	x^	-3	*	-1 
++	+4--2* cos( x	) ^4 *sin ( (+2*cos (	x)	^3-	2*3* (0*x) *	-2* cos ( (0* sin(x)	^+3) )^2	* 2) )^-3* sin( x) 
+0 *sin (x	)^	+0+- cos(x )	*+0
++sin(x)	^-0
++ sin (	x)^3
++3	*cos(x)
++3-+ +0	*	4 
+(-1 *	sin	((-4-3* sin	(x) ^ 4 *cos ( x)	)))++1 *cos	( x ) 	*	-4 *cos	(x	) *-0*	sin(	x	)	* 	sin(	x	)	^-0	
+3	*cos (x )	
++2
+0	*cos(	x )  -	sin( x	) 
+sin	(x)
+-3 + - 3* x	
+3*sin	(x	)-0	*sin	(x )	* 2 *+3
+-0 *cos(x	) ^	2
+	(-	-1 -	- +0 *	+0*sin ( x) ^ 1*	cos(	( (+3* sin	(	x) ^-2++ +3	*	3*	cos(x) 	*4	*-3)^	1 - +1*sin (( (cos( x)^	+4 -sin (x)) ^-4+-1 *	sin(x	)^+4*	+2* cos(	x )	) )^ -1*	cos	(	x	)	))^3	)
+x++	sin ((0 *cos(	x)	 -	4*4	*x	^2)	)	* 3	
+0	- - 0* 4* sin	(x)^+4*	x^	1 *+3 
+4	* cos( x)	^-3
+	x	^ 0
+-3+	+	cos(x	)^	2*3 * sin(	x	)*-4*	x	^ 4	* 3*(+sin(x ) ^	3)	^ +0
+sin (	x)  ++	+0*sin (	x)* 3
+4-	+ x^+1
+3	*sin ((-4* (+	+2)	)	) ^+3
+cos((+ +0	+cos (x)		* +4*sin (x)^ 2*+0 *x	 )) ^+1
++0* x	
+ cos(	(-cos(x )+	3	* cos(x	)*	 cos ((4 *x	+ 0	*x ^-0	))^ -2* 	(-	x^-2)^	0	* -1 *x	)	)	^	+4	--	sin(x)	^2
+- sin((+	0))^-0+	+	cos((-x ^	-2))  *-2	*sin	(	(- sin(	x) ^+4))	 *3 * -0	*	cos (	x ) ^ -2
+0+ -1 *	sin(x ) * x  * cos ( (	sin( x)	^	1))	^+3
+-3	* cos(	x	) + 2*	sin	( x	)	*	 x*	-0* -3* cos ( x) 
+-cos	(	x	)^1
+-3	*cos( (-0 *	cos	(x )-3*	1*	0	*x	*-4)	)
+	sin	(	x	)	^4++ (+x	^ 1)^+3
++ (-cos	( x	))^	-0
++ sin( x ) +	- 1	
++0* sin (x	)  +	--4	
+0+ -1	*2	*	 cos (x)	^+3 *+4*cos(	x	)	
++3 *sin ((sin	(x)	))	
++0* sin	( x)^ +1	-cos	(x	)^1 * x*		sin(	x	)	
++	sin(	x)	^	3	+ +3 *x *	4	* cos(x	)*	0*(-x)	*+0*sin ( (-cos(x)	+	cos	(x)*-0 * sin(x)	^1*	4	*x ))^	+4 
+-1 *cos ( x )-	1 * sin (x )* cos(x )*+0	*	x^-0	
++sin(x	)	
++ cos	(x) 
+x
++3*	sin( x)	-	3* sin (	x)	^ -3
+4 * cos((+0))	^+2
+cos	((	sin((cos ( x )	^-1))^-3 -	sin(x )*2 * cos (	x)	) ) ^	1 +	2* (4) 	
+- 3+sin(x ) *	+4*x
+3 +	+2 
+3 *sin (x) --0*+1 
+0* cos(x )^-3
+-0
+-	4- 	sin (x ) ^-0*+0 *sin ((+	sin	(x	) 	-+(+3	*sin(x)	^ +1+-sin((-	cos (	( sin	(x	) )	)^ 0)	))* +3*sin(	x ) ^ -1))		
++-2	+ -2 * x ^ 1*+0	
+3 *(-1)^ -2	- + x  *3	* cos(	(	sin	( x) ^2) )^ +0
+	cos	(x	)
+-2
+x^1
+0*	sin(x)	
+4 *(- 0	- -3	*cos(x )*	x	* 	((0 *	sin(	x	)^2 -+1 * sin( x	)	^ 2 *+4 * cos( x )^+2*-4 *	4*	sin((3* cos (	x ) 	-0*	x^-2	* 4*x*+4))		) 	+ -2*	sin (x))^	2*sin( x)	 )	 ++	sin (	x	)*sin (	x)^	-0*+4	*4 *(3 *	x^4+0 *cos	(	x )^	+0	*+3*(-0 *cos((-+2 +-cos	( (+1-+	cos(x)* 4*	x 	*4 ))  )	)^ +0-+	+0 *0*	(-sin ( (- cos (x) ^	-2) )^3)	*-4*cos( x)^	+0	)	^ 2*	2	* cos ( (+4 * cos(x	)^ 0	+-0 *sin(x	)	 *	+4* x ^ +4 * x	*sin	(	x )  )))^	2
+-1 *sin	( x	)
++	+0	++ (1	+ + sin(	x)^	+0	)	^3
+-	(x-+1*cos (x)^+2	*	-2 *	cos((-	cos(x	)^1-x	* 	(4* sin (	x))	)	)	^ +2	* cos(	x	)^-2 )^2	+ sin	( x)* +1 *	2*0
+sin	(	x	)^	4
++ cos(x) 	- sin(x)	 
++2
+-2 *sin(	x)++	cos( x)	^ -3 
+4	*sin( x ) ^	3
++0*	(3- 	x^+4*	+3* sin (x	)	*x^+2	) ^	2	-+2*sin	(	x	) ^-1
++sin( x)	+	x	^ 4	*1*x *	-0
+-0*	cos(x ) 	-sin (x)	 * sin((-4* sin(	x ) - - 3 *	(-1 -+1 * x *	sin (	x) ^ -0*4) *	sin ((+4*sin(x)	) )^-1 ) )*	cos	(x	)^	2	
+-	1 -3	*cos	(	x	)^ +1 *sin(x) ^3*	0 *	x^+3
+cos (x) ^2
+-x
+1 *x	^ +0
+-	sin(	x) +1 * cos (	x)	*	sin	(x)	* 3	*	x * x	 
+cos(x) ^2
++4--2 *4*cos( (- sin(	x) -0	*sin((++0)	) ))^	0 *	-2*	sin	( x)^0 
++0-	cos( x	)^ +3 * 1*sin( x)	^-4	
++4*sin(	x)^-2
+-0 -	x		*		cos( x	)^	2 
+-1	*cos	((-	cos(x	)	-	+	x* sin (x	)	* sin( x)	*-2)) -	+	cos(	(-cos(	x) ^4 +cos( x)	 *	-1*	cos(x ))	)*+3 *x	 *-0*(-3 -0 * sin(	x	)^2*2*	 x*  cos(x)^1	)
+0 *cos( x )	
+-2
+-cos ( (1)	) 	- cos(x)^-1	
+4*sin(	(-2*cos( x)^	+2++2*sin((	x	-3*x	^+1*(-1 *	sin (	x)^+4	++-2* sin	( (-3 *	sin(x )^+1))*0* x^0	)^ -0* +1* ( cos(x	) ^ -1) )	)*-2*cos(	(0 *	cos( x)-	+	sin(	x )*0*sin(x	)	*+1))	)	)
+1 *	sin( x) ^3	- -3 *cos((2	*x^1++3*sin	(	x ) )	) ^ +4*-1 *cos( x )^	0
+3
+0	*cos ( (-0*sin(x	) ++2 *	sin	((-sin( x)	^	-4) )^+1* -1	* cos(	(- 0) )		*	x *1*	x		) )^ -3	- x	^	4*	-3*sin(	x	)
+-4*sin((+ +1	+x	)) 
+cos	(x)^	1+0 *	+4*sin(	x	)	^3
+0
+1*	cos (x)^ 1 +1 *	x	^2 
++	1	--	0 *cos	(	x	) 
+cos(x)- 1*	cos	(x)^	-3 * sin (x) ^+1 
+-1*cos (	x	)  -	cos(x)	*-3*sin	( (-4* (+x^4)	) ) 	* 	x^ 4
++1 -  x^	0	*+0*sin	( x) 	*0*0	
++cos	(	x )
+3*(+sin ( x)^	4-- +0 * 4	* x )	^ 0
+0	* x^	0
+x^-3 +	- x	*	-1	* x	^4*1 *+1 *x	
+2+	2
+ sin	(	x) ^3
+sin	(x )  -	2* x	*	1*	4* cos (x)	* +2 *x	 
++0*(-0)	^-3+-	sin( (- 1-2	* cos ((+4+ sin( (-4 * cos	(x)	^ 0 -	+3* cos	(	x) 	* +2*cos(	x )) )^4	*-0*cos (x)^3) )	* sin(	x) ^ 0*	 cos	(	(	cos ((4)	)^	-4)	)	)) ^	0* sin ( (1 *x	) )	^3	*	4	*	2 *cos	(	(1	*x))	
+- -3-	1	* cos((+x	+	sin	(x)	^2*	2 *cos(x )	^	1	) )	 *		sin (x)	^	1*	sin	(x)^ 4	
+3-3 *cos	(	( sin ((0	*x^	1)))	) *	4	*cos( x) ^	4	*1 * +4*sin( x )
+1 *cos	((1 *	sin ( x)^	1 -+(3 *cos ((+sin(x)^2) )	^4+ +	+3*1	)^ -2	*  x * +0 *-1))	^1- +0*sin (x )^4
+	sin(	x)- 0*-0	*	sin(x ) ^	4 *1	* 	x^-1
+2	*	sin(	(+3* (0 *	(-1)^ 1)	^-1-0	* x^ +3*-3*	sin	(	x)^-1*+3*sin( x)	^+4	*2)) ^-3
++ 3
+-cos(	(-3*(- cos (	x )^ 0-+sin(x )^4 *	0	*cos(	x	) *  sin(	(- 2 +	x* +3* (+0	*	cos(	x)	^ 0)	*	0) ) ^	2	*	cos(	( cos ((	x ^2)) -3	* sin (x )^+3	*2* cos (	x)^ -1	) )	^1 )	)	)	^	+0
+-2
+ x ^	4 +--3 *-1*	cos(x) ^	+4 *	-3 
++	x	
+3*sin(	(+sin(x)^+3+3*sin(	x	)		* -1 *	sin	(	(+0* sin(x )))*  sin( x	))) -	+sin(	x) 	* sin	((- (-0 *cos	(x) ^-2)^	4 -0)	) * +4*4
+sin	( (1)	)	^	1
+3 *x	+4* sin (x)	*-1
+4	*(+sin ( (-3	+ sin	( (3*x - -x	)	)*	sin	((sin (x)^-0)))	)	^4 + +1*sin((+1	*x ) )^	+3* 1)
+sin	( (4* sin	(	x	)	^-1))	+x *	sin (x)	^ +0
++	cos (x)
++	2	- -1*sin(x ) ^	+2
+-0	* cos(	x)++1	* cos(	x	)*+2	*	cos ( x )	^ 1	*cos(x )	^ 1*	2 * (1* sin( x)^ 3	+1	* sin	(x	)^0 *+4*sin(	x )* 4)
++x	
+1-+1*(+4* x^+0)^	+3* -1 *0* 3
+4	*sin ( x) 
+2 * cos (x ) -3	*	sin ((-3	*x  -	+3 ) )	^2 
+-1	* sin (x ) ^3+x		* (-1*x^ -0) ^3	*x^ 1
+3
++ -4	+1 *	cos ( x) *  (- 4	+	+1 *sin	( x	)^-3 )	^	-1 *	4	
+-1*	x ^-3 -+ +4*	(x	)^	-0* -3	* cos(	( sin	(	x	) )) 
++	2 +	+0*sin	(	(+0* sin	( (+ 1)	)^3 ++3*(+3	*cos (x	)	-	3*	x) *	+3 * (-cos(x)-sin (x)	^ -3 *sin	( x)^-2 *	1*	x  )	*	+4 * x	^	-1))	^4* 2*	sin( x)	
+2
+- sin (	(3*sin (	x	)))	
+-sin( x)^0
+-sin( x )	-4
++cos ((-0*sin ((-2*x ^-2+1	*	cos(	x	)*	sin	( x)	* x ^	1*0))^-1))^+3+	cos	(	x	) ^3* cos( x)*	4 *	(	sin	(x))	^-3* 2
+( cos (	x)	) ^	+0
+ sin( x )	^ 4
+	sin( (3	*sin	((+3 *	x	 -0*sin( x)	))-	2	*+4*sin(	(-(+3-	-	sin(x	)* +4 *	-2 *cos	(x) ^+3* 2)))	*4*x^ -4)) 
+ x^ 1 - -cos	(x ) ^2*	sin( x	) ^ +4
++cos	( (+4) )
++	4
+-4 *	sin	((2 * cos	( x) ^+2++4	* 	sin(x )	))
++1 * x^ +0	-	+1
+2-+1 *cos((+sin((+2* sin	( (3))))	-+sin(	(1*	x+ 	x 	))	 )	)	*	-1	
++2	* x
++	-2
+sin(x	) +-cos	( x)	* cos (x	)^ +3 *	x^2	
+1	*	x + +	cos(	x)
+-cos (	(+	-2	++	cos (x)  *-3*	x^	+4* -0*sin	(x)	^-4*+1	*sin(x )	^	-0	))
+sin(x	)	- +3 * +3	* sin ( (-1*	sin( (x^-3 --4* sin	(	x)^2	*	cos ( (4*cos	(	x)	^	2+-4*	sin (x)* 	sin ( x) ^3*	0*cos	(x ) * 3 *sin	(x	)	) )	* 	cos (x)  ))^ 1 - -3	)	)	^+1 *sin(x)
++3 *	x	-+0	
+2* cos ( x	)+4 *x ^2* -0	*	cos(x)*	+1
+-	sin ( x)^2
+- cos(x) 
+ sin	(	x)	^-4++ cos( (+x	^-1	-+	+4 * -3)	)		* 1*	cos ( (+3	* cos( x ) ^ 2 --4	*	x	 * 3	*	sin(	x)	^ 0*cos( (1	*cos(	x	)	^	-4	+ +sin( x)^	-2* x*	cos (x)^+2*	4 *	sin (	x)) )^	0* -4*(sin ( (+0*cos (x)  - -4 *	x ^1	*-0*x 	* -4))		-++0	* sin (	(sin	( x )	^	4))^0)	^	+0 ) )^ +3 
+4
+	cos((++1))^0 +	- x  
++ sin(x) 
+1 *sin( x )	^ 0
+3	*cos( x)^-0
+-1 *	cos	(x )	^	+3
+2
++cos (x	)	+ +0	*-0* x *	4	*(-x	-1*cos ( x	) *	sin	( (+2	*	sin	(x)^	-0)) *4	*sin	(	x	)	^3)^4
+++1
+0	+ + sin(x	)
++1	*	cos (x ) +	sin	((+0*	x  --+2*sin(	x) *2	*x	 ))^	0*0*sin (	(+ x^	+1)) ^+2*(	sin(x ) +	- +1 * -2 * sin (	x) ^	-2*-0*(-1*(sin(	x)^	3)	+	sin(	(++0)) ^	+0 )	*	(+1	*cos	( x )	^2- 4* sin	(x)	^3)		)^+1*	1
+-4
+-0	*cos(	x)
++4	--1*	sin ( x	)^-2	*	 sin	(	x	)^+3 
+1*	sin (	x)	+ +1 *		cos	((3*	(+0)  ++ cos (x) ^ +4*	+1* sin(	(+x	^ 3 +  x * -0))  )	)^	0
+- +2
+-+1	+ 2 *cos	(x)*+1*	cos((-1*x^ +3- +	1	*+3*-4*(-2	* cos((-3	*	cos ( x )^2) )^-3	-	-+0	*2* sin ((4* cos(x)	^	4) )	* (+cos	(	x	)^ 1) ^	0	) ^ -0*	+3* sin((3*cos(	x)	)	) ) )*+0*x 
+2 *	sin(x	)	^-2
++4 *cos	((4*sin(x)-  cos((+2*cos	((0* sin(x )+	+4	*x		*	-1*sin(x)	 *x^-1)	)^ -1))	* 	cos	(	(-3* x ^3 + -3	*	sin	( (-1	* sin(x)^	3)	) ^0* 4	)	) *		sin (x) ^	-3	* +2)	) +	cos (	x) ^ +2 *	x^	-3*	x	^1	
++0	*	sin(	x)^3
+-3
+0
++cos (x) 
++	1
+3	*cos ( x )	
+1+1 *	(2* cos(	x )	 ++cos ( (1+2	*sin	( x	)^0) )		*+3*(-1-	x^ 4)*(2*x) ^1	)	^+0 *	-1*	sin(x )	*4*	sin(	x )^+1	
+cos ( x) -	+cos (	x	)* (3*(0 *sin(x))^	0)	*sin	((-	3	-+3* x ^	-0) )  
+3 *	cos	(	(3 *	sin	((4* sin	(	(-4	* cos( x)) )^ +0-4*cos ( x )*cos	(x )* 	x	))^ 2))^	3-3 * cos	( x	)^2 *sin ( (+cos (	x) -+x *	 sin( (+sin	(x	) ))^ +2*+2	* +2	*	x  )	)	^-3 * 2	* cos((--2- 2	*(- 2)^+2 * 0	*sin( (+-4 +cos(x	)	^+2))^-0	)	) 
+2 *cos	(x )
+1	*cos(	(0* sin (x)^ 1)	) 
+-	+0
++3	* sin( (3 *x^	+3)) +	4
+-	sin(x)	^	3
+	cos (x) -	3*	x^-1 *	4*sin( x	) ^ -3 *  sin(x) ^-2*sin (x	)^ 4
+0
+2
+-0 --	0 
+4 *sin(x )	
+x ^ +4 -	x ^+3
+-cos ((+ +3++	cos ( x) ^ 3* 2 *+3*+2	*	cos(x) ^-2	) ) +	- 0 
+2
+--3
+-4
++sin (x) ^2
+-4*	cos ( (-1*sin( x )) ) -+2 *	x^ 3 *+0 *sin((3	*cos	(x )	+	sin(x) *0*sin	(	x	)*cos	(x)^+3 )) ^ 3*3*	1
+(+1*	cos( (-0*(++1 +	 sin (	(x	^4))	^4*-0*cos( x	)  * -1*sin ((cos	(x) ^ 1+	-1*x	* x	 *-3*sin(	x	) *3*	x ) )		)^ 3- 4 *sin(	x	)^2* +1 * (sin	((+x ^0) )^ 2+ +cos (	x ) ^ 0 *	+1*sin(x)	^-4*		sin( (0 *	x^-1+-cos(x	)^+3* cos	( x)*		x * 3) )  * +3 *cos ( (sin	( x )	))) *	2*-4))^	-2	- -sin(x)*	cos((0*sin (x ) ^2+4*	-2*1	)) ^-2* 3*x	)^+3
+4 * sin(x	)	^-3
+-sin(x	)^ 0
++4*	(- x^ -1--	sin(	x )	 )
+ cos (x)
+- cos(x)^4	-	3*x	
+cos (	x	)	
++ cos(x )^	0
+-1*cos( (1 *sin	( x )	)) 
+	cos	( x	)	^	4
+-x
+1*sin	(	x	)	^+3	+ x ^	-4
+3 *x^2 +4 *	x	
+--2
+sin (x) 	-+4*	cos (	x)^+1* cos	(	x)  * -2	
+cos	( x )^+1
+-	cos((+	sin (	x )	)	)	
+sin(( x	 +sin(x)	 * 2*(cos (	x)	^3 +sin (x)	^4* +2 *	cos	(x)	^ 2	* sin (x)^4)		)	) +		sin	(	x	)
+4
+x+-sin	( (+3	*sin	(	x	) ^-3	+	+1*2*-1	*-0 *sin( x	)  ) ) ^ 0 * 4	*(+ 3	-	-3 *	 cos( x	) ^ +0	)		
+-sin ( x)^0
+x
+-0 +0* cos(x)^4
+cos	((+1*(	cos(	x)) ^	2)	) ^ 3
+-4
++ +0
+-cos (	x)^ 3
+3	* (x+1 *x )	 -- 3*	sin ( x	) *2*sin	(x)	
+ x
++cos((cos( x	)^ 2)	)^+2
++4*cos	((sin( x)	^2) )	
+2	* x-2*x*+4*x *	+1	*1* cos(	(sin	((-3	* cos(	x ) ++0 *(-3	* sin( x)	^	1- - +0	*2)^1* +0	*	x ^ +0)) ))	
+- cos (	(-sin(	x )+1	* cos((-0	-sin((+ cos	(x ) ^ -2))	 *  x ) ) ^ -2* x *cos( x )^ 4))^ 1-		x ^0*  sin(x	)^ 4*	1 * -4*	cos ( (4*sin(	(3*	sin(x	)))^	-3-	x	*	2*1*sin (	x	)	^0 *	3 *sin (x) ^3))	 
+-1*cos( x) ^+0
+	x -	-cos(x	)	 *	4*	(+3 *	sin	( x	)^	-3 +--2 *4*	 x * 4*	x^4	)^0 
+x	^	4
+3* x 
+0
++3 *	cos (	(-1	*	sin( x )^	-1	+  sin	(	x	)^	1)	) ^-3
++1*cos((0))^ -0 - - 2* ((+4 +	-1 *cos	(	x )  *1 *0 * cos((1	* x	-	+	(-0* x -4* x *2 *	-0 *sin	(	x	) ^3	) 	))^-4)++0	*x ^+0 )^-1*x *+1 *	x ^4
+2	*sin	(	x )^ 1 -	 sin	(x	)^ -2 *-1 *x^0*+4	
++ (- +3 -	-2 ) -	1*	x *1*sin(x	)^	-3
+(1*	x ^+4)
++1*	cos( x	)+	+	x  *+2	*x	^ 4*	4	
+4 *(0+	+	+2*2*cos ((-cos	( (-2*	sin (	x)+	0*x ^2)	)^	2+4 * cos	( ( x ^3-++4*+2	*cos(x)	^	-0))  *	 sin (	x)* +4* (	x 	- 1	* x * 4	*	x^	2 )) ) ^3* 3*	x^1*(2*cos(x)+ -	-3*sin (x	)^	+3*+1*	x^3*	+1*sin	(	(-	x		+sin (x ) ^2 * sin(	x) ^	2	* +3	*	 x	^ -0	) )	)  ) ^ 0
++2*x^ 1
+ sin (	x)+-2 *cos ( x)^+4
++sin ((+2 *	sin	( (+0	-	 cos((x--	cos	(x) ^ +1	* x	 *	2	*cos (	x)^3*	+3	*sin	(	x))	)  )	)	^0) )	
+-	+4+	0 * +4*cos(	x)	
+x	^ -2	+  cos(	x	)^4*x*1
+2 +3 *x ^-0*-0* +4	*cos	(x)	
+0 *	x
+-3*	x^-4
+-1
+(- x	-	+	x *cos	(	(+	sin(	x	)))  )^+1
+ sin	( x )+ 3*	cos (x	) * cos(x) *-0*x ^	-0
+-0* sin	(x) +0*cos(x	)^1	
++4*cos(x	) +-0 *cos(x )	^ 3	*	+2*sin (x	)^+2*sin	(	(+ x^3+	 sin	(x	)^1	* cos (	x	)*	-4	*		sin((2	*sin( x) )	)	) )^3	
+++0+ x*	cos(x) *	0* x^ 2*	x	^+3
+-2* x^ 0
++ 4
++cos(	(-3-0*	sin(	x)^+3 *	+2*-2	*cos ( x	) 	* +4*	x ))^+2
+sin(	(1))+-1	*x ^	3	*	 sin(x )	^+4 *-3 *-2*(	sin(x))^4
+	x
++ cos (x	)	^	-1++cos((+x^	-3))^+0	*	cos	( x)^	0	
+3 *x
+0
+-	-2-+1*cos(x	)	* 4 *cos(	x) * (-3*	sin( x	)-	-x*	0 * 0*sin( x)^	-1) 	
++2 + 3*	x	*	x ^+3	*	 cos( (- x	++1 *cos( x )^2* +2 *	sin(x)	^	0*1* -1) )  *	+0 
+-1 *sin((+3-1*1*sin	(	x )  *	sin(x	)^2*+0* sin (	(	sin	((+x ^3)) ^-0))^	0)	)^3
+--3
+-1 *cos	(	(sin(x)	^3+ +1)	)^ 1
+-4	* x
++1	*x - 1*(3	* (--3)	- - cos	( x)	 )^ 0	
+-(+ +0)^+3
+	x
+cos(	(	x)	)^-2	+	-3 * cos (x	)^0	* 	sin(x) ^-3*	1 
+-3
++1 -	+ 0*3*	cos( (-0* (x)))	*cos( x)^-4*	x	
++0*cos (	(3	*	sin(x )))	
++	(+0 *sin( (1	*sin ( x	)	+ cos ( x) *	-1* sin( x	) ^3* cos(x) ^	0	*sin(x))	)^1-	1	* cos( x	)	*sin ( x)^ 0* +4	* sin (x	)		)
+ sin (x)^ -1- +2*	sin(x)* -1	
+1* cos ((-4	*	cos	(	x) )) 
++4 * x	
+-1- -4*cos (x ) ^1 *	2 *+2 *	4*cos	(	(+x^	+2))
+-2 *	x ^2 -+3 *x *-1*	sin(x	)	*	sin(x) 
+-	cos(x )
+-2*x^4 +3 *-2 
+1*cos (	x	)	^ +0	++x ^-3	*2 *	cos	((-0*x))	* +2 
+sin(	x ) ^	2
+ sin(	x )^+2+	+3*sin (	(+ x	 --	cos (	(+4*sin(x	)	-	+3 *cos ( x)))^+2))^3*cos(x) ^3
+	cos(x)-	sin ((4	-- cos( x)	^2 ) ) *-3* 0*cos(	x)	^2* 3
++3*cos(x	) ^	+0
+ cos	((-3- 1	*cos	(x	)^-0) )
+-3* cos(x	)^	-0 +	0*x	
++0*cos	(	(cos ( (+sin (x )	+ x^ -4))^ -4)	)^0
+-1
+--1 +-2* cos(x )* +1* sin(x )  * 	cos	( x)	
++1*x ^ -1
++0	*x
++	+0-cos((-3+ 1* sin (x )*	cos(x	) ^+1*sin	(x	))) ^ -2 * sin (x )	^	2 
+-3
++	0
++	sin( x	) 
+0	*sin( (+4*	x+ -4	* sin( x	)^2	*	cos (x )	^	-4*  cos	(x)	^1)) 
++-2 - 0	* cos(	x)  
+-2 *x	^ -2 + 0 *sin(	x	)	^	1	
+3 * x^2- -x	^	+3	*2	*0*	x	^-4 *	 x
++3 +-cos((2* sin (x ) 	+0*(+1 *	x		++sin	((+cos ( x)	))^ 3 * 4	)	))^	1*		cos((1*sin(	x	)	) ) 
+-sin ( x)+x		* 3 * 2*	0	
++4*	(+	sin((+2*sin(	x	)	+4	*	(+x	-3 *sin ( x )	) ^-2)) 	+2	)	
+-	1	--x^ +0	*	3*3*sin	( (3	*	sin (	(-	1	- -3	*	sin	(	(0	*x ^+0) )	^	0	*+4 *sin( (3*	sin	(x) ^0	++cos(	x	)	))^	-3*sin(	x))	)^-1-	+sin( x )		)	)^-1
+x 
+-2
+x ^ -2
++sin(	x) + 3	*3 *	x	*	 x	
++	x	
+4
++1* cos	(x)	^1+	1*sin (x)	^	1	* (+2 * sin	(x)++-3	*	sin ( (cos(x)	^	4) )	^4*+0 *x 	)	^-3*0	*  cos(	x)^+4
+-1*cos(x ) 	-		sin(	x)	
+-+1- x 
+(+4 * cos(x)	)		+	-cos(x)	^	4 
+-0
++cos (x)--	sin (x) *+1* x ^ +4
++4 *sin ( (-cos ( x) ^	1+	1	*cos(x ))	) 
+-	x 	+sin	(	x ) ^+3	*	sin	((4	*sin	( x) +	0*		cos (x	)^ 3) ) ^+1	
+cos ( x ) +-sin	( x) *-3* ( sin	( x	)^+3	+	-sin	(x) ^-3 ) * (+ x	^+3)^4	*1	*sin(x)		
+(3* x ^-1)
++	x ^ -1+ cos(	(+4))  *	sin(	(+ +0	-	sin	( x ))	) *	+4* sin (x	)	 
+-	0	++2* sin(x	)		* 0 
+-3	*	(+	sin ( x)	)	 +	cos(	x	)	^	-2*	0	*	2 *sin(x	)^	+0 
+- 3	- 	(x	^0)	*	+2 *0*cos ((-2 *sin	(x)^ +3))^	0
+-3 *x + + sin(	x	)	
+4* cos	(x)^	4
+ x 
+	sin(x)	^0	+ -2 *sin (x	)	^+4
++ x ^1-	sin	(x	) *cos	(x ) ^	4 
++sin (	x	)	
+3*x	^	-1 +	cos((1- +2*x)) ^	0 *	+2*cos	( x)^+0 
++0 *x^	-4+ +1*sin (( x)) *-0
+4 *cos( (1	* x))+-1*	cos(x)	
++	+4
+1*cos((3	-	3* cos((- +2	- 1	* cos( x)^ 4	*	x*-0	*cos	( x) ^ 3	) ) *	sin(x	)^2	*4* cos	(	x)^0)	)
++3 *	sin(x) +	cos (	x )
+	cos(x)^-3
+	cos((-2*cos( x	)	-	+1*	cos(	x	)^-1 * sin( x	)  ))	^-1
++2* sin	(x	)
+-2
+1 *sin	( x)	^	-0+ 1	*cos(	x	)*+0 *sin(	x )	^ 1*+4	
++sin((-+3	- +3 *	x ^+3*-3	))^0
+-cos	(x)+sin(x	)^	+0 
+	cos(x	)	^	0	+ 3 *	sin	( (+	+2))^0	*+0*sin	(x)	^0 *0 *	x	
+	cos(x)	^1+4	*sin(	x)^-2*+1*	sin( x)	^2 *	-2*sin(x)^3 * sin( x	)
+ (3*	x+ -cos(x)^	-3	*3	*	cos	(	x	)  *cos	(	x)* sin (x	)^3 ) ^ 3-+	cos((2)	)  * +2*cos(	x	) 
+-4* cos(x)	^ 3 -x * 	x 
+-0*	x-	3 *	+1*	x	*4 *(-	+4)^	4	
+-x 
++-3+	+x^-3*	+3	*x  
++4*sin	(	x	) 
+-	3
++ sin( x )^1
+-1 *cos(	x) 
+sin(x) 	+1 *	sin( x )^-4 *cos((+ sin( x))	)	^	0 
+	sin(	x )	^3
+4	*sin (x) -2	* cos( x	)* cos ( x )	^2 
+	cos (x)
+4*	cos	(x ) +-0* x* 	sin(x)	^	2 * 0	
++	sin (	x)	+ +3*x^+0 *(	(+sin	(	x)	^-0))	
+2* cos(( cos (x) ^	-1-3	*+3)) + 2	*sin(	x)^+3 * -4* sin(x )	
+0*sin (x ) ^-3
++x	++4*	cos (	x)
++cos(	x)-0* cos (	x)		
+0*	sin(x)^ 3
+- (0	+ -0*cos (	(-cos ( (0-	+2 *0 *	3 *cos (x)*	+3*sin(x	)  )) ^+2+2*cos	((-1)	)  *x *	-4*	x)	)	* x* -3 *sin	((	sin(x)) ) ^ 0 ) ^	4
+-2 * (x^ -1) 
+3*sin (	(+3*cos( (+	+3))^0 +4	*	x)	)^	4-	-1	* sin	((0 +3*	( (--1+	0*	(+	cos( x)+	-sin	(	x )	*	-4 *cos	(	x	) 	) ^	0 * +1	* cos	(x	)^+4)^	1) ))^0
+-4	*x^2
+++2
+-x^	-3+ -	cos	(	x ) ^2*2 
+-2
+--2
+-1	*sin	(x	)	^+0- +1	* x^	1 
++-2 + +cos(	(-	x	^+3)	)^	0* (0*(- cos	(	(0*sin(x) ^1))^ 1- (-3)  *	cos(x)	*	3 ) ^3+	+sin(	(+2 *cos ( x))) ^ -4	)	^3	
++x
++2
+	cos( x )^-2 + +	0 * sin	(	x)	^1*1*	cos ( x	)^ 3	
+-1*	cos((+	x ++	cos	(x) ^-4 ))^-1
+(	sin (x) + -3* sin(	(0	* cos(	x) ^-2+	4*	sin(x)	^	-3* 	sin(x)^1*cos ((-1*	sin(x )	^3) )	 *-1	)	) ^ 4	*	sin(	x )  )		+ cos(	x)^	-1	*  cos ((3))^	0 *	x	^+0*0*sin	( (- (1	*x	) ) )	^ 1
++ +2+		cos	( x )	^	+2* sin	((	cos(	x)^	-4)	) *	-3 *x^	1*	+1	*	sin( ( x ++sin(x	)^ +1 *	2	))	
++0	+4* x 
+1	*sin (x )
+1	* x^ -4	+ --1	* x^1	
+2
+sin (x) -	2* sin(	x )	^1 
+1	+2	* -3 * x	 * -0	*	sin( x)	 
+(4*sin	( x ) - sin((-	cos(x	)		+	-x * cos ( (1*	sin(x) ^ 0+-1 *3	*cos(x)))) ) *-1*-3*cos	(x	)^+3*cos((+4) )	)	
+-0+	+1*sin(	x)	^+2	*	 cos (x )  *+4*	x^-2	
++3* cos(x	)  -4 *(-3* sin	(	x)	^	2+ +1 *3*sin(	x	)		*	 x*x) ^4 *	4*x 	*(-+4--0* cos ((+2*cos	(x)+- sin ((0- +3 *	x	) )^-3*		(sin(	x	)	+2*cos(x)*  sin	(x) *  x	^4 ) ^ 2 *4	*	sin	((+	-3- 2*cos (x)^ 3 *sin(x)^	-0	*sin(x)  *	x		) ) 	))*	2*cos(	x)^+0 * 1*cos(x	)	^	+3	)	*cos ((+1*cos	(	(2	*	x^+3- x^1)) ^	4- +0*sin(	x)	 *  cos	((+cos	(x)))*	cos(x) )	) 
++1	-3*(1*(-sin (	x	)^-1)^-0 ++3	*	(x)	*	2*+3*	x ^-2)	* 3	
+4
+2
+-0*x-	(4	*cos	( x ) ^2 +	-	cos((- cos (x	) ^3-x*sin( x )	* +0*x	 )	)	)  *1 *cos( (+-2))		*1*cos ((++3 -+cos	( x)	* -3*cos	((	x^ -3) )*0*	sin (	x ) )) 	
++ sin (x )^2
+3* sin (x )^+1	-	- sin(x) ^-3*	sin ((2	*x  +	1 *	x^	3 * +1 ))*cos(x	)	 
+	x -++2	*0 * 4*(-4 *sin (x)		+	cos(	x	) ^ 0 )	*1
+	sin	((3	*	cos ((+1*cos(x)	^ +0+x*	-1*cos( x))	)	+  cos(	(-3 -3* cos	( x	)	^ -4 ) ) ^-0* sin (	x ) ^-2 *3*cos	(	x ) ) )
++cos (	x )	^-0 ++3 *sin	((2))	*sin	( x)	^+1
+-cos	(	x )	^	-0 - sin ( x) *4 *+0*	cos(	x	)		*sin( x )	
+2
++ sin	( x)-+4*+2 *3 *sin	(	(-3) )^-4
+0 *x
+0*	x+	-sin(x	)^ 2* x * cos (x ) ^	+2 *-3	
+1	*	x ^ +1 -4*4* cos (	x	)^-4 *	sin(x)*-3* x	^+0
+-0	*	sin (x	)	
+2	*cos(x)	
+-1	*cos	(x)^-4 +-3 * +0 
+sin (	x	)^4 +	cos (	x )	* +2*x 
+-2	* cos(x)	
+cos(x )	^ -4
++1
++3* sin( x)	-	cos( x	)*-1 *	(1	-3*sin(x	)^0* -1*sin	(x)	^2*0	*cos(x )^4*  sin(	x) 	)	^+0*  cos	(	x )		
+cos(x)^2
++ 0
+1* cos( (x ) )	^2
+- x 
+1 * sin((0*cos ( x) -	-2 *cos	(	x	)	^	-4*1*	cos( x ) ^+2 *0) )	
+3*cos(x)	+ -x ^+0*	-4	*cos ( x ) ^2
+sin	( x) ^-3
++1* x^4
++2*	sin(x) -	0 * cos	(x)  *	cos	(	x)^4 
+	sin (x ) ^-4	+ +	x* 4* cos((1*x+	+4 *0 *	sin(x) ^ +1 * cos( x)^1 *1 * x))	
+ cos	(x	)	^1	-sin((+sin ((	cos	( x)^4) )^	1))*-2*( cos(x))^	-0 *+0*x	
+-1	*	sin (	(-	(+ sin(	x ) )+ -3	*	sin	( x )	))	^	-0
+	sin( x	)^+2
+-x 
+x	+	- sin	(x)^	+1*-1*0 *	(+4*sin((3	*	sin	(x )	-0*x^3 *	3	*sin	( x)	*1)) + sin	(x ) ^+3 *	cos (x)		*3*sin(	(	cos(	x)	-	 cos(x	)*+0*	1))	*	0* cos (	x)^	-1)^	3 
+-4
++sin(( sin( x)		--3*	cos(	x	)	^3 *4	*	cos( x )^ -3))	--4 
++2* x+0* sin	((1)) *	cos (	(-cos	(x	)) )^	-0 *3*x^+3*+4	
++cos (x)^	-0
+sin	(	x	)^	+2 - +0	* (+1	*x)		
+1 + 4* cos	(x	)	^	+4 *	-2	*x	*	2* x 	*+0 
+sin ( x) 
++3	*sin ( (3)) + cos((x+-3*x*	3 *sin(x )  * 	cos	(x	)^1	* sin	(	x)	^ -4 )) ^ -3	*cos( x	)	^0*	(- -4)
++3 *sin	(x)	^3
++2*cos (	x)^-3
+3* x ^	1	+	+	0* -2*	x*	0*sin	(	x)^0	
+1*	cos	(	x)^ 1
+-cos	(	(	x )) ^-1-+cos ( x)
+ x	^	0
++ +4
+2* sin(x	) +-1*	-1*	sin(x	) *	 x^-3
+--4
++1*	cos( x)^+3
+	cos (	(+	+4	- +4	*	-1*	(cos(x) + +1	*cos( x) * sin(x)	 *(-3* sin(x)) *	(-	x	^-1))*	-3*cos(x	)^+4 )	)	^+2
+-1*	x
+-1	--0*x^+4	* 4*sin( x)^ 3* 2	*	-1 
++3+cos ( x	)^3*3*-4*x^	-0 * 4
+sin	(	x	)^	3-+0	* -1	* 4	
++cos	((-3 ++ 2	)	)	+	-cos((+2	+-	cos	(x)	*x 	)	) ^ 4* (-2) ^	+3* 1 *sin(x)^0	
+	x	^	2 ++3	*	2*cos	( x )^4	*	4 *	cos ( x	)	*0*cos(x)^	-2	
+- +4
+-1 *(1*sin	((+ +1)	)-1*	x	^3	*	-4*	sin	(x)^1 *-3) -+	0* -1 * x^+1 
+- x ^2
++1	*	sin	( x)	^+2	-cos	(	x ) ^ +1
+ x^ -2
++0*sin( x	) +4 *cos	(	(-2 * x^0+	(+sin ( x	))))	
++ cos	(x)	^	+0
++2	*x
++cos ( x)	^ 3 ++	sin(x )^+2*		x	^2 
+cos( x)
++4 -0*	cos(x)	
++x
++0*	x	^	4
+-	+1++	cos	(x) *sin	( x	)^-3	
++x	+sin	(x )^ -1*sin(	x )^	-2	* x  * 1 *x	
+2* x^ 1	-  cos	( (0)) *4*1*cos	(	x)^	4	*	-0*	sin	( x)^	3 
+-4*x-+sin((+1*cos	((-sin(x)	))	^	+0	-	+4*sin(	x )*-4	* sin	(x)^+1 * 2 * -1	*cos( (+ (-2	*(2 *x	-	2* sin (x)	^3* 	x ^ 0* 0	*sin(x) * -1	) )) )))
++x	
+sin( (-x) )
++3*cos( x)	- -cos(x)*3 * x	^	+3
+-0
++	2
+0*sin( (-3) ) ^	-1+0	* cos( (-2	*cos	(x) ^+1 --4	*(3 *	x)	) )	*1 *cos (	x	) * +1	*-3* x 
+1 * cos(	(+2 - - 3 *cos(x)^	0	*		cos(	(3	- -sin ((-3	* cos (x ) ^	3))^-1 ) )	^ 2 )) 
+ sin (	( cos (x	)^	1++ 1 *	cos (	x)^2*2*x^0 *sin( x )  ))^ 2 + -sin( (sin ( x	) ^ +4)) 
++ (4*(3	*	x - cos ( x ) ^+0 *sin ( x) *  sin(x )	^	3*x))^ -4
+2	*x+ +	x ^+3
++4*	cos(	x)	-+sin( x) * -4*cos (	x )^ -3	*	-0 
+1 * cos	(x)	^-0-	4*cos(x)  *	cos(	x )^0
+1	* cos	(	x	) ^ +0 + -x	^ 2 
+-	4
++-3
+-1	+ x^+3 *	 x *	 cos( (2*cos (x	)		- x *-2*-4 )	)	*	 cos((3 * x 	--x ^ +1)	)
+2	+ 3* cos( x)		*-3*+1*	cos(	x)* +4 * cos(	x)
+2 +	-cos((+	x -4 *cos (x)	^3 *2	*	0	* cos (x	)  ))^-3
++3	*sin ((	sin (x)	))
++2
+-	cos	(x)	-x	
++sin( x )	+ -cos (	x ) * 0 *	+4 *sin	(x)  
+3*	sin ( x	)
+-0 - +sin(x)  *+0
++2+4* sin(	(3* cos ( x))	)^3*	x	^0	
+1	*cos	(x	)
+4 * (+sin	((-sin(x )^	+0))	 -+	sin (x ))
+-3
+-+3-+	cos(	(+ 2 - -1* x	^ 4*		x		))	
+x^ 0-cos (x) ^2*	 x	^-4 
++4	*cos (	x)^+3
+- sin(x )	
++4--sin(x	)^1	
++ 2
+ sin( x)  +- cos((4	-	+4*x ^+1*+4	*x	* 2* cos	( x )))	*	+2* x ^ -0	*	 sin( x)	*	4* cos(x )	
+3*	x	 + 0 *x	^-4
++2 *	x
+- sin(x) 
+	sin	(	x)	^	1
+2	*sin ( x	)	^+2
++	-3
+-0 *sin( (-	3 - +2 * x^ -2	*	-2* cos((+2	* cos (x)	^1 -	-cos (x	) ^ 3))^ 3) )
+	x 
++ 2
+4*cos	(	x)^+0
++	0 -+3 *cos(x )
+-(3- -3 *sin	(	( x -2* cos	(x)^3))	* cos ( (+2)) ) -+ sin(	x)	
++2*	x	^ 3 ++2 *	x^3*	cos(x	) ^1*1*x ^+4
+x^3- 1*x *2*sin(	(+2*	x^ -4 +	-4* 4*x  *2	)	)^4 
++	sin	(x	) 
++0	*(-	cos	(	x ) )^+0+-3 *cos ((0	*cos (	x) ))	^	-2*	2	
+3*cos (	x)	
+cos(	x )
++3*(+x ^	-1) ^+4
+3 *cos ((+0 * sin	( x	)))^1
+1* sin	((+ -0- +0 * cos ((1*cos	(x))	) ^4)	)^	-4
+- (+3+	 cos (x)	* 1*x*sin (x) ^+2 )^+3
+-4+ +3	*	sin (	x) ^3*0	*sin(x) ^+1*	x		
++3*	sin ((3)	)-4*	x^ -1 *	0* sin	(	((- sin (x)^0) +	+	x^-3))*sin( x) ^	3	
+x^ 2
+-2-	+0	*	sin( x)	
+4*x	+ cos ( x )* sin ( x)	*4* cos(	x	)	
+-1
+0* cos(	x)^4	++2	*	cos(x)	*	sin(	x)^1 * 0 *x
++4	*	x	^-1
+4	+-cos( x	)*cos	(x) ^ 1	*	-3
++ (-sin(x)) -sin(	(-3))  *	 sin(x)*	-4*+2	*	cos	(x ) 
+0*sin(x)^ 0	+ 	(+	-0)	^+4*		sin	((+4 *sin(	(+(+2*cos	((-3*cos(	x	)^3	-4 *sin ( x )	^-2*0*	cos ( x	))	) +-3 *cos	(x	)*0* sin	((0	*cos(x )	- + sin (	x)^-2 * -0*sin (x	) ^1 ))*	1	*	cos( x)^+1	)	- +0*(2 *	cos(	( cos	(x ) 	+	-3*x 	*-3	*x^ 1* 3 *	sin	( x	)))	) * 2 *	sin (	x) *4*x ) ) +-4*	3	* +4 *cos	(x )	*-4* sin( ( x^	-3)	)	))		*	-0	
+0	-	-2 *x	^	+3	
++3	*x^3
+1 * sin	( (sin(	x) - -sin(x )	^-1 *0*x	^	0*	0*	sin ((x^4)	) ^ 0*cos( x)))^-2
+-0
++2	*sin	((+2))	+ 1* sin (x)^2*  (-x	 + -0 *	sin (	x	)  *	-1 *x	^ 4 *		sin( (-x^	-1+	0 *x * 0 *sin((++4))		))^	+2)*		sin(	(sin(x)	--sin(x)	^0	* x ^-4 *	+0*x*	sin( (+2*x ^-3))	^3) ) ^	2	
++0	*	x	^	0+0*	sin((4*	x ^ 3)	)*	-2*	sin( x)^0*	4	
+- 2 +	4	*		x	^+1
+-3*x^	+3- x	^-0 * 0*-3 *	+1*	sin	(	x ) 
+-2	*cos(	x)^-0
++0* x	^ +4
++0	*cos	(x	)^-1
+0	*cos(x	)^-4
++3*	x	^4	+-4*sin(x ) *	sin(x)^ +3* x ^ 2*+1* cos( x )	^0	
+4*cos	(x	)	^2	-	-1 *cos (x) ^+4*	3* 0* 2 *sin(x	)^ 0 
+sin( (-1*	x^ 1))	-3* x 	*	sin ( x)	
+-2 *sin(	x )		+- 3 * sin (x	)^	-2	*+0*sin ( x) *	-4*x
+-4*cos ((-	cos	(x	) ^-1)	)^4
+0*	cos	(x )		+	+4	*	cos	((2 *(1* cos	( (- +2) ))	^+0+		x^	0 *  x^ 4	*	+2	*sin(x)	) )  
+2 * x ^-1
+4* sin	(	x)	 +4 *	sin	(	x	)	^	+0
+-sin ( x ) 
+cos(	(+2	*cos( x)	^+4))
+-2* x^	0
+3*	x	^	-1
+-4*x	
+ sin	(x) -	+4* cos	(x)^3*x^-1 
+-4	*(- x+2	* sin( x)		*+1 *cos(x)^	2*cos	(x)	* x		) +	2*sin	((	cos ( x)^ 1-+2) )	^ +0 *	+4*	 sin(x)^3*	sin( x)^4 
++1*x^ 3 -	4 *2*	x	 * x	 
++ -4
+sin(x)	^	1	- sin(	x	) ^	2
+	sin((-0*	sin (x )	^	-3))
+	cos	(x	)^0 -4	*	cos ( x	)^-1	* +2	
++2*x 
+3* x^	1	+	2	*cos((+0* cos (x )^	-0) )	^+0	*cos (	(+	x	^	1)	) ^ 0	*	0 *cos	(	x)	^-3	*	+4
+	sin	(x) -	+2	*cos(x )		* -1*cos ((1	-	+cos( x)	*  (-3*cos	((+sin (x)	) ) ^3)		)) 	*	3 *cos(	x )	^0	
+1* sin(x)	
+-0*x	 - -	sin	(x	) *+4
+-1*x^	-4
+cos	(x ) ^	+3-+2	*cos (x)*2 *cos( x)	*+3*	sin(	x	)
++3
+	sin ( x)
+-2*x 
++1*cos	(x )^2
+	(-3	*(-3	*	cos	(x) 	-	sin	( x) ^ 2)	 -1	*2*3*sin	(	x) )^	1+ 4* x ^1*3
+-4	+(-x	+	cos(x	)	*3*cos (x )^3 *x ^ -3) ^ 1*x*+2	*(-4	*x^	+3)^4 *0
+4 ++0
++1 *	x ^+2
+ sin	((4 *	sin(x	)	-2*-1	* (+ 1) 	*	-2	* cos((- 4	+1	*	x *  sin	(	x ) 	*4* cos (x	) )	) *2*sin( x )	^-0)	)	^	-1+	+2 *x ^ +0 *3	*	x^	3	*	1 *cos ( x)	* 	sin ((+1)	) 
+4*sin	(	x) ^4
++1	+3*cos ( (0*	sin((+	x )) ^	-1 +-cos (x)^1	)	)^+2
+cos((+ 1	+	+1	*x )	) ^ 3	+	cos	( x	)*-4* sin ((-2++sin	(x)^3	) )^+2
+3	*	(-	sin(	x	)+1	)-+3	* +3*cos	(x )		*	(0 * x ^ 0)^	2	
+	cos (x)^0- +	cos(x ) *+2* sin( (-3*(4 *x^-1- +2 *x ) ))	^1	*	cos( x) ^	-4	
+1-	-	cos (x	)	 
+	sin ((2* x +	- cos (x ) *	+4* x^ 2	*-3 *	sin (x) *3	*cos ( x	) ^4)) ^1+	-	sin(	(-cos(x	)^4))	 
+-+4
+sin (	x)^ +4
+-	cos	(	(- 3)	)^-0	-	+1 *	cos(	x) 
+3* sin (x)- 0	
+- sin	((+	-1))	 - sin ( x)
++-2+	-	x	^ +1	
+x 
+-sin	(	(-sin( x	) -		cos	( x	)	))^2	++	(x	^ 0-1*sin	(	x)	* sin( x	)*	1 *	cos(x	)	^2	*	x	^+2	)  
+-sin( x	)	^0
+(4+	+-3*2	)^+4- 	sin	(x)* 4 
++3	*cos( ( sin(x ) ^-3))^1--2	* sin	( x) 	
+-(2 *cos	(x)	^+1) ^	+3+3
+cos ( x	) ^4
+- +2
+2
++	2
+0*	sin(	x )
+-+4
++2*(sin (	x	))
+-cos ( x)+	+ x * x
+sin	((+cos(	x	) - 1	*x^	-4 *-3*	x^3 )	)^0-0
++2 * cos(	(--2	+ -	(+2	*x^ 4)		*	x^-3*3	*sin (x ) * -0	*cos((+	sin( x )^-2 +	2 * sin((-1*x)) *	sin (	x)	^+0*1 )	) ^3) )^ +4
+2	*(x^-0) 
+2 *x ^ 4
++3 --3 *	cos((+	-2)	)	^	-3
+sin	(x) +	-	+0*		(+sin(x	) )  *	2
+1	+ sin (( cos(x)	))	^	3 
+	cos(	x)
++4+	-3*	sin	( ( x	) )^1*	 sin	(	x)	 *sin	((+	sin(	x)^3-	x) )*-3*(-3*x	^0)	 
+1 *x
+-0	* cos(	x )	^3-- cos	((-0*sin	((0 * x ^	0)	)^ -0)) ^ 1	
++2*x	
+-sin(x)-	sin(x) ^+3	
+	sin	(	x) +	2	* (+0	*	cos	(x)) ^	-2* cos(	x	)^	-2
+ x ^	1
+0*x
+4	*sin (x	) ^1 + +	+0 * 	sin(	x )	*	+4*cos((cos	(x)	 - +-3	*	-4)	)^	4
+-	x
+-+1
++0* cos (x)	^1- sin (	x ) ^	1
+cos	((0	-	-1*	x^ 2*sin( x	) ^ 4) )
++1*cos(x )
+-3	*cos	((+0* cos( x)^-4))	^-2
+- sin( x)
+-3	*cos((-+0) )
+-3
+3*	x-	1* (+	x ^3	+	x	* -0*	-0*cos(x	)	*+3 *	sin	(x ))	
++	3+ 1*+3	*	sin(x	) ^ -4*		x^-4*4
+-4+x	^	0	*1	*x	^3
++0 *	cos (x)	^ 4
++3
+sin(x)		-1* -1*-1 
+-2	+	-1*cos (	(	cos( x )		+2 *sin(	x)	^-3*	3* sin(	x )*2 * sin	((sin (	x) ))^	2 *	-3))	
+-x+-2	*	sin(	x )	
+1*sin	(x)^	2--2	*(+2*	x^+3+	-2*	+1*	x *	3 *cos	(x )  )	 *	4 *	sin(	x )
+-sin((++0 -	- sin (	(+sin ((3 -+2*	x	* 0*	+3 *	x	))^-2-	cos (x	)		*1 *	sin(	x)^3*	(+sin( x ) ^-1)	)	)	* -0*x^2 * 2 *	+4) )^	4
++cos(	(+	sin	(( sin (	(1*cos(x ) ^	-3))) ) )) 
++3* x^ +4	- 3	* cos(x )	 
+-	x  -	+3* sin(	x	)^-0 * -2*	sin	(x )*+0 *sin( x )^4	
+- 4
+x	
+	cos	(	(cos(x) +-4*	(-1)	)	)
++sin	((+x	+-1*	cos	( x ) )) 
+2*	cos	(x )^2
+-	(0 *	cos (	(-0	--2 * x^	1 *+4* cos ((3	*	x) )^2) )	^ -0)  -	3* x*	-0*	(3*cos(x)	^-3)^+4
++	cos	(	x)	^0
+-1 * x
+3*	sin( (cos(x)-	+ sin(	x ) ^ -0*	sin	(x	)^+1) )
+-4 -+4 *	x	 *	2*-2* 3 
+-cos( x)- sin (( cos	(	x	)	^+4) )  *	+1*  cos	( (-4	* x ^-0	++	2*+1*	sin	(x)	^ 0 *	x* cos( x )^	1))*	sin( (-sin (	x))	)	
+0	*cos(x)	
+x --	2*0
+-2	-0	* (+ 4-+ sin ( x)	^0	* 	cos(	x	)^1	*1*cos(x)*+0	*	cos (	x)  )  *	4*-1 * sin(	x )	
+ sin (x	)^0+	-3	*	x ^ -2	
+	x- -sin( x)		*cos	(x ) * +1* x *	1 
+3
+3*	sin(x ) ^ 2 +cos ( x ) * 	sin	(x ) ^-1	*-4	*sin	(x)	
+2*cos ( (-+0	-	+3 *x  *	1	*2	*	+3 )	)
+-2 ++2* 4*	-4	*(+cos( x ) ^3)		
++4*x ^	-2
+2 * cos ((+4 *sin((0)	) ^	-0)) ++4 *(-1 -2*	-0*	 sin(	x )		*	+1	*sin(( cos( x)	-	x	^	+1 *sin (x	)^-2	))) * 0	*cos((+sin( x	) +	2	*(1	*sin	((+cos (	x) -	-1	*sin (	x)	^ -1 *	+1*sin(x	) *	+2)) ^1	+0 *	cos ( x	)  * 	sin( x	)	* x^	+2 * -0	*sin(x )^	-1 )^0	) )^-2	
++4*cos	( x	)		-- -2* x	 *	cos	(	x	)	^-4	
+ sin(x	)	^-0
+4 * x	^0
+-2
++0	*x^	+1-cos(x	)
+sin (x) 
+(-3*cos	(	x))^3
+-4	*sin((1* sin(x)^3+ 0	* x^ +3*+3 * cos	( (2	*cos ( x) ^-3	++	cos(x ) * cos	(x)^	+1	*2	)	)))^+3
++0 *sin	( (+1	* x -	sin	(x )	^+4*+1 *x^ -4 )	)
+ x^ 0
+-cos (	x	)^+1 ++ +2	
++	-0
+-1*	sin(x)^1-	+4* -0 *sin	( (-1* sin	(x ))	)		*	4	*sin	(	x	) *sin( x	)
++ +3	+	-2 * x^	3	
+- x
+0	*	x^4 + +4 
++0-4*sin	( x)^ +3 *	-0
++sin( x) ++(+cos(x	) ^ -1) 
++x ^	0	+2	*sin (x)
+	cos(x) ^4+ -0	*(+	cos(	x)) ^4 
+4	-	+0 *1*(4 *cos( x) )*sin(x	)^-1* 3*cos	(	(x^+1)	)^4
+cos( (+	x	^ -0) )
+x ^2
+4	*sin	(	(1*	cos( x )	^	1)	)		- sin	(	(+sin	((-	2- - sin((1*	(-1* x	^3)))^+4*	2 *+3 )	) ^ -4 +	-0	*	sin	(	(+3-+sin	(	x	)		* -0	*sin	((sin (	x)^+2 - 3	*	cos(	(+4))*sin(	x	)	)	) ^	3*-1)) *0*cos(x) *cos((sin(	( (sin(	x )+1	* x^+3	*	3* cos	(x )^	-4 )^-2	++4 *cos(x)^3*	x	^	0 * 0*cos ( x)	))))	) )		*+0*	sin( (+x ^-3))* +2
+3	- +	+0	
+2 *sin (x)-+0	* sin	(x )		*4 * x	 *		cos( x	) 	
+4	*	(- sin( x	)^3) +4* x ^-1*2*x*3	*cos( (+sin	(x	))	)^	+2
++sin	(x	)	++3	*x ^0
++	x -	-sin(	x) 	* +2 *	sin	( x )	^+3	
+	sin( (+0))	^	-2	-	+0*cos(	x)*4	*x^	-1 * -3	* 2 *	(x	^1)
+-	sin	(	x)	- 4*sin (	x)  
+4*(+	sin(x	))	
++4
+0	*	x	
+ x^3 ++4* -2	*3	*cos(x)
+-2 *(+4	*cos	(	x)^	-4)
+- 0- -4 * (cos (x))	^ 4	* 1	* 0	
+-	2-+1	*	0*	-2*x 
++	x^+1	++ -3* 2*	(3	* cos( (2*sin(	x))	)	^	-0)	 *+0*sin	((-sin (x)^1) ) ^-2	
++2* x
++4	*x	+	0
+cos(	x)		+ sin(x)*	1 
+	sin(x	)		-	+1	*x* 1	*sin(	(+1 *	cos	(x )	-+1	*	x ^1	) ) *	+1	*cos(	x)^	+0*	cos(	(+2*sin ( (1))		+	+	cos	(x )*+3	*	+0	) )
++	sin( ( (-cos	(	x	)^ 3 - +3* cos	( x )*	+0* sin(x)		)	^-3-	-0	*x^	2 *-2 ))^4-x^ 0	*+4* x
+2*	sin( x )	^+3
++1
+0 +	2	
+x	 -+sin(	x) *1*	(- +1	+-2*	x*	 sin(((- -1++sin(x)^-0 ))))		*+0*sin(x	)^	3	
++2* (4 *(3 *cos((sin	(x)^-3)) ^3-+1)	^	0 -	0	)^4 -  cos(x)  
+1	*	sin	( x	) 
+-+4
+	sin	(	x	)
+sin (	x) 
+1 *cos(x)^-0+	2 *sin ( x)	^-4* (4*cos	(	x ) ^	0)	 *	cos ( x)	
++2 * cos(x)^3
++4	*sin ( (	sin	( (-1)	)	-	cos	(x)	) )^-3
++	cos ( (4 *sin	(x	)^4-	+2*	(-4	- 1	*cos (x ) *	cos( x)	) ^-3	* 0* cos(x	) *sin( ( cos	(x )	) ) * -1	* sin(x	)))	^	-1--+3 
+1*cos((+(-1	*sin	(((3*x	- sin( x )^+4) ))^1 ++2* sin((+	cos((4 *cos( x )^4)) -+4*	+0	*cos((-0-+0*cos(x)	* 	sin	(	x)  *-4 )) ))	 * +3	*sin ( x )^2	*	cos( x )	)	-1 *cos(x	)	^	4	) ) 
+2*	sin	((-4	*	sin (	(1+-+1))	^1)	)
+-3	*cos	(x )		+-	0	* x^3 * x	^	+4	
+++1
++4	*(- cos(x)^ -1 -2*-2	* sin( x))
+-2*	sin ( (cos	(x)^+2))
++4
++ (-	+1)	^-0+		cos((-4*	x+ cos	( (+ cos( x)+3* sin(x )	*cos(	x)	^ 0*+3)) 	) ) ^-0* sin ( x	) ^ 3 
+--0 +cos(	(-1 * x^2)	)
+cos	(	(-0+ 2* x	^3*  sin ( x )	^-1 * cos(x	) ^0))	-	3 *+2 
+ x	^0	- cos((-0*cos	(x)^ +1- sin (	(1 *cos ( (-+2 - 2* sin( x	)^-4 *+3	) )^2- x* x^2 *4*x ))		))*x	*sin(x)	^1
+0+	4*+2*sin ((-4	*x^	4+  cos (x) * 1 *+1 *sin(x )	))	
+- sin	( x	) ^ +0
+4+cos (	x )	*0*x ^	2 *cos ( x )	
+1	*	cos (	x)
+-1	*	cos ((4 *x		+ 0* x ^ -2 )	) ^3- +	sin (x)	*2 *	 sin	(	x )	
+	cos (x)^+3 + +sin(x )	*1* 	x	
+sin(x ) ^1
+2	*sin((2*sin(x ) ))	+sin(	x )		
+sin(	x	) ^	1
++ 3- +2*	x ^	-2
++	4
+0	*cos(x)^	0	--	cos(x)	^+0
+4 *cos( x	)^+2
+-4* sin(x)
+1 *	(+ sin((x^+3	- 	cos	(x)^ 1 *0*	x^1* +1 *sin	(x ) ^-0*sin	( x)^ 2	))^ +3+	3 *0*	-4	* sin ( x )	) ^-4+	+2	*x	* 	cos (x	)  *+0
+0	* cos(	(+3 *cos(x)) )	^4	+0 *	sin((-sin(x	)		+ 	cos ( x)^+2*sin (x )	^ -2 *x		*2*cos((cos	(	(+3)) ^	-4++0* sin	((3 -  cos(	x	)^ -2* 	sin	(x)	* x^ -2	*1 ) ) ^1) ) ))
+- x	
+-3	*sin(x ) ^ +2+ 3*sin((2	* sin (x ) ^4))^	0	*2	
+x ^ 4	+	-	-4 *	 cos	( x)^4	*-2*cos( (0) )	^4*cos((+ sin(x ) - 1*	x  *-0	*cos	(x	) * 	sin(x ) ^-4)) 
+-4*(+	sin(x ) ^ +4)	
++0 *cos(	x)+	++3 *	cos (	(2*cos	((2*cos( x))	)-3*cos	(x )^ +1*3* cos(	(sin((-1-0 *	-2 *-4 *x ^-3)) 	+-2*cos (x) * x*4* cos(x)^ 0*	1	))^1) ) 
+4*sin ( x)^	-2
+-2 *(+3) ^2--2* sin (x	)^	3* -4	* -3 
+--3
+cos(x )-	3* x*+2*sin	(	(-1*x) )*	+1	*	cos((-2* x		+	+sin(	x)	^+4	))^+4 
+-sin(	x	)^ 1
+-	-0 -	x^ 3	* 3*	-4
++1*	cos((+0))	^ +2	+2*cos ((0--4)	) 	
++ sin(	(cos (	x )^ -0))	^1++	+0*	3*	sin(x	) ^-1
+-x  +-3*sin( x )	*	sin(	x) 
+x^-3
+	cos(x	) ^	+0-+ -3*	-2 *sin (x )  
+2	* sin	(x )	 +-2* sin(x)*cos	( x) ^ 3
+++3
+ cos (x)^ -1
+-1* sin(x) ^	2
+-2* cos (x)
++cos	((+cos( x ) ^	3))	 +2*	cos(	x ) *2* sin( (1 *cos	(x )^2) )	
+0*x ^ +0
+	(cos( (0	*	cos ((x ^	+0))	++	(+0-	+4*cos( x)^ 2)^ -4))	)^ 1	++	(2+	0*	sin(	x )	)^	1* cos ( x	)* x	^	+3*1	
+-2 * cos (x)^ -1+	-	-0*	-3	* x^-2
+2*	sin	(x)+ +cos ( x	) ^	3 
+-3
+-0
+cos ((-(-	2- + sin( (2)	) *3*sin	(	x	)	 ) ^1- cos (	(+cos	( x	)	 + 2*	1*-1 * sin(	x	)	* 	sin(x)	^-0 ) ) ^3 *2*	sin (x)	)	)^-0
++ +1
+-4
+-3 * x^ 4
+4
++ 0+	-	-0	*	sin(x)	 *	+3*cos	(	x) *1 *	sin((-cos (( (+2)^-4-+2*2*	cos(	(-2	- 	x)	)*	cos(	x ) ^	-0* +1)	) ^1)) 
+ x 
+	cos ( x)	^4 + 2*	cos (	x	)	*0*	x		
+3*	x +4*x	*-0	* sin(x) 
+- cos	((2	*sin(	x) ^	3)	)^ -2
+(+x ^ 2 +sin (x	)^-0 *  sin (	x ) ^ 4*-3 *sin(x	) 	* x ^-2)	+ +0*	cos( (	sin ( x) ) ) *	(-x^ -3--2*	cos	(	x)	*sin(	x)	^	-2 )		*2 *sin ((+-1-	sin (	x)	*	x^4	*sin (x)  )) ^1*3	* sin( x	)^+3
+-cos(	x)
+-sin(	x	)  +	+3*cos	( x)^2
+-0
+-	sin ( x ) 
+	sin (x)+sin(	x)^2 *  (sin	(	x )	^1) * sin (x)^+3	* -1	
+-sin(	(+4 *x	^	+3- +2 *0*cos ( x) *4	*	0 *x))	
+ x + +2 *	x^3*2*cos(	x)^ -3 *  x^-3 
++sin(x)^-3
+cos	( ( cos	( x	)^	-3))	^4-4 *cos(x )^2*	1*cos((-0--4*	sin ( x)*	(+ sin( x) +- cos(	(1*sin	((-sin( x )) )) ) ^1 *	x	)	* sin	( x ))	)		*	cos(x)*0	*x	^2
++4*	sin	(	(4) )	
++2 *sin (( cos	(x	) ^	+4	+--0	*+3* sin	((4*	cos(	x)) )^+0*2))
+ x ^0-4 *x^	-0
+-	4
+-3*x ^-1
++ sin	(x)  + +cos	(	x)^-2 *1
+-4 *x ^	2	-+0	* sin (x )*	0 *4*x^-3	
++4	* cos((0*cos(	x )	))  ++-3 
+2-	sin (x	)*	0	
+-sin(x	)		+4*(-0 *sin(	(+-0) )		++sin( x) ^ -3* +2 *sin ( x )	^	-4	)	^ 2*		(- cos ((3	*sin(	(1*cos( x ) ))	^-1)) ^ -0++	cos	(x)  *x^ -4)^ 0	*	cos ( x	)^	-0* sin	((+0*cos	((-4* sin(	x	) ^ 2 -	-	2*	3	*	sin((1+	+3* cos(x)	*	+1 *	sin(	x)	))	))	^2	-0 *cos(x)	* 1 *cos(	(-cos ( (2	-+sin(	x	) ^2) )-	x ^	3*+2 * sin	(x)^3 ))	 )) 
+-4 *	x ^ 0+	+	-0*1
+0 -sin (x)* +4* x*1*cos(x )^	3	*+3 * cos(x )^+4	
++2 -	3 *x *-2* 	cos	(	(- sin(x )^	+1	+	1 * cos(	x	)^ 4	*2 *x	^ -2*-4*cos ( (	x)	)	) ) 
+2*sin( x	)	^ -2--x^	-4*cos (x)^+0 * 3 *	cos	(x) ^ 4 *	3 
+-	+4
+	cos	( x)	++2*(2	* cos(x)	^-0)^-3	*sin ( x) ^ +3 * 3	*cos ((-sin ( x) ^ 0	-0	*cos ( x	)	^ 0	*sin (x	) * 3*cos	(x	))) * 4 *x	
++2*cos	((+x^ 1)	)^	2
+--4+ +0*	 (-3 --x	^ 4	)^4
++4 *cos	(x)^-2 +	+x
+-4++	-0	*-3* (3	* sin(	x)	+3	*	x*4* x	*	0 * 	cos(	x)^+1 )	^1
+3
++0* cos	(x)	
+-	x^+0
++4	*sin	((1	*cos (	x )	++cos	(x)	))^	3 -4*sin( x	) 	*  cos(	(+cos (x	)^3) )^2
++4 *sin	( x)
+-sin(x ) +-cos	(x )		*  x ^	-4 *1* sin (	x	)	^3	
+1*x
+1*cos(x)	^	+4
+-cos( (+1*	x )	) ^-4+1	*	sin (x )	^2 
+x^ -1
+x	+0	* sin(x	)	*+1*(+0	*sin(	(-4	-2 * -0 *		cos	( x	)		* sin(x	) ) )	+ + sin	( (x ^+3 -1	*cos(	x	) *		cos(x)^ 1	))^+2)^ +1	*-1*sin	(x)	^+3 *  cos(	(+0 *	(- +4-	 cos(x))	^3))^ -4 
+2*sin	(x )	--	x	* 2	*(-1	*	sin (x )	^4 +-2 *1 *	cos((- sin(	x) ^3)	)	 *2	)	^	-4 * x
+-x^+4 +	-1*cos((- x	^	2)) ^-1*	+3	*cos ((+	x^4+2*	cos	(x)	 *	1	* 3	*x ))^	+0*		cos(	(1*cos (x)))
+2*x
+(1) ^	2
+3* sin	(( x	^0)	)	^ 0
+1+ 	(+4)	^+1	*+0*sin( (4)	)	*	+4	*(-4 *	sin ( x)-2 *3)	*	3
++1*	cos (x) ^	-3	-	+	sin	(x)	 * +3*sin(x)^+3
++ -4
+4	* cos (	x )  - 	(-3+	0 * x	*-4*sin(x)	^	+3 *-3)^	2	
++x^-0-0*	sin(x	)*1*sin(x) 
+1*x  +-1 *0	*	(+sin (x ))		*x^4
++4- 3*3 * cos (x	) 
++-4	-	4*	cos	( x)	^+4
+-cos (	(+-3))^+4
+4
+-2*x  + - 3*cos	(x	)		*	+2* cos(	x)^0 
+-+3+	3	*sin( x )^ -3*-2*1
+ cos(	x)^ 2
+-cos( x	) ++3* x*	cos( x )	^1 
+3*	x	^2
++4 *sin( x)
+3 -	+2	* cos (x)	*	x
+3+	0 *	cos (	(1))
++3
++ sin ( (+	+2))^4	- -4	
+	sin(x)+	-	(2*x^	1-  cos (x	)	^ 4*x ^+3 * sin(	x	)* sin(x)) *	-1*	cos((-1 *sin( (4 *cos((-0*	cos( x )	^	3))	^4))	^-0))^ -1 *	2* 4 *	cos ( x)^3
+	sin((0 *	cos((- x	) ))	) 	-	--1	*	3	* cos ( (-4	- +	sin	(	x)	^3 ))	^-2 *	4 
+2
++3- +2	*	x	*	 sin(x	) *1	
++	3	+ -4	*x^2
+cos(x)^	0
++	x	^ 4
+- cos (	x	)	
+-	-2
+-	0
++sin(x)
+-4 *x^	-3	-	-x^	3 
+2	*x --0 *x^ -3*	+4*	cos	(x )		*+3 
++1	*sin ( x )	^ 1	- -1	*	x	
+2*sin	((+ 4) ) ^4
+sin(	x)^ -0
+4*sin(	x	)^+4	+	1 *	(+2*(-x	)	^	2)	*+0*	x 	*  x	
+1	*cos ( (4++	sin	(	(+ sin(	x )	))  *-4	*	sin (x )^3 *1*3*x ^-1) )  --4*cos(x	) ^0* -4 
++4*	sin(	x)+--1
+sin	( (+x +  cos(x)	* sin	((+ sin(x )^3)	)*0* cos	((4* sin	(	x )^ -0) )^	0)	)	++3*	cos( ( sin	(x	) ) )*sin ( x )  * cos ( (+cos	((1*cos ( x) -	- sin(x) *+4*-3*	-1* cos( x	)^	2))))	^-0*  sin ((	cos ((-2 *sin(	x )^ 3)	) -	-sin(	x )	^	+3 *3 * sin( x) ))	^+0	
+2*sin((+4	*sin(	(1*	sin	((-+0 - -3* sin	(	x	) ^-2* cos((-	4	-	- +3 ) )^	0))	+ -4*sin	(x)	^-4* 4*sin	( x )	^ -0 * -0 * sin(x) *	2 )	) ^ 2- +(+ x^ +2+-2*cos	(	(	cos	( (-sin(	x	)^	-2))^2-- cos(	(-3))^4	*-3 * cos (	x)	*-1	*	 cos((	cos ( x )	-	4 *sin( x	)	^ +1*0 * cos ( x)	)	) )) *	-1	*( sin(x )	-	x^	+0	)^ 0	*sin	( (	sin	(x)	)	)^	-2	)*	4	* 4 *x^3 )	)	^4
+-cos(x	)^	-2 +-3	*3*	( cos(( sin( x)	^ +4 +1 * 0*x^	4*	+4 *cos	(	x)	^ 2	))  + +2*	sin	(x) * -3*sin (x)^	-4 * -3	* cos((1*	sin( x	) ^ -0)) * -2*cos(x )	)^	3*-0*	cos(x )^-4	* 3	*x ^	-4
+-1*cos	(x)^+0
+-1	*	x^-4	-		x	^	-0*cos( x )^+0*1 
+1*x +sin	( x	)^+4*		cos( (-sin	( x)^+1)	)^-1 
+-0
++	-4
+2
++(-cos	((0 * cos ( (0 *cos	( x	) ^3	-+2*sin	(x	) 	*	x	^	3	*	sin	( x	)*sin(x )	^1))^ 3)))^1	- +3 * +4* -0
+1* cos( (-2	* x ^ +0+		cos	(x	)^3*-2	* (- 3-	+0*	-0 *x^1 *0*sin( x	) )^+1 *	1* sin	(x	)*	sin(x	)^	4))	^4
++	sin(x) ^	2
+-2 * sin ( x)^ +0
+1 ++1	*cos	(	(	(cos(x)^4)	^	1)	) 
+-0
+cos (x )^	+1
+2 *cos(x)-	- sin((+sin	(x )	 -0	*sin((0* x	)	)*	x^ +4 ))	
+cos( x) 	+sin	(	x)	^ 3* +4 * sin	((+3	*cos ( x )	^0))	*	 cos	(	(- cos(	x	) ^-0)	) 	
+ x	^+1
+-0*sin(x	)^	+0+	sin(	x)^ 3*	x^+0* sin(x)	^ -4	
+(-4	*sin ( x)	)
+-cos (x)++sin((--3+x))^	2	*x*4	*0	
+- sin(	x)	^ -0	+	+-0* 4*	+0 *	cos (	x	)	
+ sin	(x	)^3+sin(x) ^-2*+4*	sin (	x )^	-1	
+-4 *cos(x)^-0
+-3*sin( x	) 
+x 	-	-4*	cos(x)^	2 *x ^	0	*+3
++0* cos	(x	)
++	cos(	x	) -	4	*	x	 *	1 *-4*cos	( x) 
+-	2
+-1 *x	^	3
+ x^	+2 -x	
+sin ( x)
+1* (	cos ((- sin (	x )	-		sin	(x)^-0*cos((	sin(	(4*sin	(x )^ 0 --0*x		))^3))^0 *2*(1*cos( x)^ +4-	++3 * x^3*sin(	x	)	^+3) ^+1*	-0	)	)^-1)-		sin	((-3	* (0 * cos(	(x^4))	^+0) ^+4- x		) )	
+-sin(	x)	^	1+-4*	sin(x	) ^+3 *cos((+sin((4*x ^ 2-3*x 	* -4 *	-4* x ^+3	) )	^	-4 -+1*x^ 0))		*x	^+4*  cos	(x)  
+3	*	sin(	x) 
++4++(2-	0	*(sin	( x))^	-1	* x*	-0* sin (x) ^ 4) *	0*1 * sin	(x)  
+-1
++ x+ x *+1*cos(x) 	*x^ 4
+	sin (	x )
++	+4
++ +1 +0* sin(	x	) ^+0	
+3*	sin	( x )
+sin((+0*	sin	(	x )	) )^+0
+1*cos (	x) ^	-1+ -3* +2 *	cos (	(-0*cos	( (1*	x	))	))	*	(3*(-0* cos( (+4) ) )	)	 *+0*cos((4	*x	^-1)	)
++3 *	x^1
+-	1--2*sin( (-0) )
+2	*cos	(x) + 0	* x  
+-	x  -	 (-sin((+4 +0*x	^1	*-2)	))^	+1	* cos	(x)	^ 4*cos((2 * sin(	(+2 *	sin	((1	*x))^ 2)	)^-3)	)  
+-0*cos	(x)
+++0
+	sin	( x)^-2
++4
++x^ +2
++0* (-2)	
+x ++3 *	(-1	* cos( ( x))  + sin (	x)	^+4	* 4* sin	( x	))		* +0
+cos	( x	)^3+ x^ -2 *0* x * 3*cos(	x)* cos	(	x	) 
+- (4*(0)	)	 - 4*sin((3 * sin((- sin(	x) ^ +1--4 *sin( x )	*0* cos(x	) ^	+0*	sin( x	)  * 4 *cos(	x)	 )	))	) ^+0 *	cos (x ) ^+2 *sin	(	x)^ 3 * -3*	cos(x )	
+-sin ( x )	^	-4	-	cos	(x )^+3*x
++1*	cos(	x	)^2+ 2*cos(	x ) 
+-sin (	(-0	*cos	(x	) ^ +4)	)
+cos(	x)^+2
+-	x --3 *sin(x	) * 3	*	 x 
++0 * cos(	(x	^+3))
+sin	(x ) ^	1
+0 *x ^ 1-sin(	x)	 * 	sin(	(x ^1))	^+3*2*	x^+1
+-0-	4	*	x *0*	cos(x)^ 3	*4*cos((+x++2 *sin (x	)^2 *x  *-0	*	(cos	(x	) - +3*-4 * x  *1 * +3	)) )	 
++3* x
+- x	+	+x ^	0 *	0 *sin	(	(2))	
+1	-+ x	*1 *sin(x )*x	
+-3	-  (cos (	x)^	3 +0 *	-0*x	^ 0 * 2*x^ 3	* cos (x )	 )*  sin	(x ) ^-0 *	4 *(	x^ 2+	+2	* cos(	x)^	+4	* 	sin(x) ^	3 * sin (	x)	^-0 *	-4 *sin(	x)	)^	-0* cos	(	(+4	*cos	(	x	)) )^	-3	
+2*sin(x)- - x	^3 *0 *cos(x	)	 *4	*x	^	4	
+1
+x	^0+ 	(+0 * cos	(	x	)^	2) ^ +1
+	sin	( x)
+0*	(3*sin	(x	)	+	cos ( x ) ^	-3	*-3*	sin (x ) *	4	* cos	( x) *1*	x	^-0	)	
+-3 *	cos	(x)^-0- -0*	sin	((+4* sin	( x)	^-2+-	cos(x)	*+0	* sin	((2*	x	+4 ) )	^ -3*	cos(x	)	* sin(	(4 -+ -3* 1) )	^+0 ) )	 *	cos (	x ) ^3	*  sin	(x	)
+-2 * cos	( x)
+-2 + cos (x )^4* cos	(	x	) ^4
+0 *	sin (x)^2 - cos(x)	^	+3*(- (-1*sin( x))) ^ 0 
+-4	* cos(	x)-	+	x^ +3
++0	*	x	-4*sin(x)*4* sin(x )	^ 4	
+x^ 4
+4	*x^	-4+ 2 *2	*3*sin ((+3))
+ x 	+-+2* -0
+-1*sin( x	)  -	1 * x^ 2	* cos( x	)	*-3* x^	-3
+-cos(x)^	2	+	- 2	*x	*	 cos(x	) *	2 *cos(x)^ +3 
++2 ++cos (x)*+3* x	^3
+-3
+-1
+-3	-+2	*	sin( x)^ 4	
+0	* sin (x)	- 3 * cos ((- cos( x )) ) ^-1	*+0 
+0 * cos (x)  + -3 *	sin((+2	+ 3)) ^	3*1 
++	+2
++ x	 +cos(x	)	^+2
+2	*	sin(x)^ -2
++ (0*	cos	(x))	
+-4 *sin	( x	) ^	0
+-cos(x) -	-	+4
++ sin( x	)
+ sin(	x)^-1+sin (x ) 
++4 *(2	*	sin(x) ) 
+2	*cos ( x)	^-1
+	sin( x) +cos( x)^1	* 2*sin ((2))*		cos (x) ^	2 *3	*	cos (	(+	sin((-2 *cos	(	x)^	4))))	
+-	cos( x)
+-0*	sin( x	)	^ 4
+1* cos( x)	-2*	cos ( (-3*x		-	3 * 3	*sin( x)*	0)	)^-3* 2*(2*sin( x)	+ + 2) ^	0 
+2*x ^ -4
++4 * cos(x	) ^ 1
++0*cos (x	) ^0
+4*	x^ 2
++0 *	x
+++0	+	-3*sin((-sin( x))) ^ -2*	3* (	sin (x	)	)
++2	- 	sin( x) * +2 * (+	cos(x ) )^	4 
+-3++4 *	cos(x)	^3 *4* +4* x	 
+-0 *x ^	1 +	-(	cos	((+cos( ((-0*cos	(x) )^	3)) )) ^3) 	*	3*	sin	( x )	^ 2
+sin	((+	sin(	x	) -	-sin(	x	)	^	1* sin( x	)	^	-0 * cos( x )		) )		- 0*	 x	*4* cos(x)^+2*	-4* x 
++1
+	cos(	(-1)	)
+ (+	sin(x) ^	-1) 
++	x 
+ x	^ 2- -0 *1 * cos( x ) * +4
+ cos(x )^-4- 	x	*3*	2 *	+4*sin(x	) ^ 3
+-0
+0- +	cos(x) * 1 
+--1 + +1 *cos( x)^	+0
+-cos(x)	+		cos ( x )	 *		sin	(x	)		* +3	
+-0	* cos (	x) ^ -4	-1*	sin	( (- 4))	 
+3*x^0+	+x*-0* sin	(	x	)
+(4* cos	((-2* cos(x)) )^	3)^3-cos	(x) ^ 3 *	 (+ sin (x)	^	-4 - +(+-0)		*sin	(	(0	*	sin	(x ) 	-3	*x^+2*	1*+2 * -3) )*sin(x	)^+4)	*+2 *	cos(x ) ^	0
++ sin( x	)+	4 *	cos( x)^2 
+3* sin( x)	
+4* (0)-	cos(x)	* cos ( (4 *cos(x	)^	+4 --0	*	x ) )	*+2 
+4 *cos	((+4 * (3	* (x ^	-4+	0 *	cos(x) *1*	cos(	x))-	1 *	cos(	x )^+0*-2	*cos( x )*0 )))+3*cos	(	(	x^ 4))	 * (- sin( (	(+4	* x	-	+-0) )) ^-2- +sin(	(+ 1)	)^ -2 )		
+0 * x 	- 4 *	4* 3	*3	
+cos(	x	) ^+4
+ x 	- 0	* sin	( x) ^	-3 * +1*x*sin(x ) ^+0
++sin	(	(0	* sin( x	)	-3*	(1*sin	( (	cos(x	)	- 0	)) )))	
+3 *	(x	 +-	cos(	((1 *cos( x)^ -3++1* 3	*+2	*sin (	x)	^-3 )))	^1) ^ +1-0*	cos((-cos(x )	))	*2 * cos	((+2	* sin(	x))) *cos( (x^ 0) ) 	*	(-4*	x^+3 - 	x * -3 * sin((-	sin	(x	)		- +sin((1 *cos( x	)^+2)) 	))*+3	)		
+ x ^ -2-	cos(x	)^-4 *+1
++ 1- 3
+-4* cos ( x)^4
+	sin(x ) -+ 4*	3*-1	* cos(x) 
++ cos( x )	^4- +-1 
+-cos	(	(3*	x^	-2) )	^3--x 	
+3
+ x^+4
+0*	x 
+0
+2* x -  cos((3*	sin( x) ^1+	 cos(	x)		* 2*	x^ +2 ))	^ +1 *	0	* (4)
+cos((4	* cos (x)- 2 *	3 *sin(x	)		*-3 * sin (	x	)^	3	))	
+1*x ^1
++0*	sin(x) 	- 1	*cos ( (1*	sin( x )	-	+ cos ( x	)^ 2	) )	*1*	cos( x)	
+-0* (-x ^	0)^-1 -	0*sin	( x )^ +2 *-2	*	x ^ +3* 3	
++ +3
++	cos( x ) +	-1 *	sin (x) 
++	0+	1*	sin ( x)	 *-2 
+1 *	x^ 0
++cos	(	x ) -+4 *cos(	x)^	+1 *	+4*-3 *  sin (x)	^4
+3*sin(	x	)
+-cos(	x) 	+	sin	(	x) 
+-0*sin(	x) ^	-1
+ x ^ +3--0 * cos	(	x	)^+4* -0* x * cos(	x)^+3	*-4*sin(	(+1	+	+	cos((cos(x) ^	3) ) ^ 3	))^	1 
+- 3
++x^0
+1*x	-	-0	*	0	*x^	-2 *-3*	(+	sin( x)^ 4 +	-	x ^0	*+0* sin((+0	* sin( (+ -2-1*sin( x	) )	) ^	+1 ++ sin(x	)^ -3	* +1*sin(x ) ^2	)) ^ +2*-3*x	^	-2)^1
++(+x+-0* x^	+2*0*cos(	x) ^-1 *x^	-3	) 
++ 0-+2*3	*	x*sin(x)*3* cos( x	)^+0
+2*sin	(x) ^	+3
++1	*cos((sin (	x)	))^ 3
+-0+1*cos(	x) ^ 0
+x- sin( x )		*1	*4	
+2* x	
+ x^ -3
+	cos(x	)^0++	3	*1	
+	sin(x )^	3
+3	*sin( x	)+	sin (	(0+3* x	^	1*		(+ x^ -2- 0 * sin ( x	)) ^+0 *cos	( x)^	+0*cos	(x)	 )	)*+0*-4 * (+4* cos	(x	)^	+3) 
+1* cos	( x	) - -1	*(-0)	^	0	
++4 * sin(x)	^ +0
+-	sin	( x)
+1	*cos (x) 
+1	* sin	(x	)^+0	- -sin( x)	 * 	x 
+	cos(	x)^ +4 - +	3 * 4*cos	(	(+	0- -	cos ( (-cos (x)^	3-  sin(	x) ^+2	*0 *	cos	( x	)	*sin ((+ cos	(x)^ 4))	^	3*0 *	cos (x)	)	)*  sin( (- +3)) *+0	* sin (	x ) ^4)) 	*-2	*	sin	(x)	^+2 
++0+-1* 3 * x^ 2	
+-2
+2*x^+2
+sin ((sin (	x)	^2)	)	^	+3+-sin((cos	(x )	) )*-4 *0*x	
+4	*(+-3	-+ cos (x)	*	sin(	x)		)	^-1
++ 0
+-+1	--3*	sin	(	x)^ +1* +3	
++1
++0 *	x
+4*sin	(x	)- x *-1	*sin( x )^	3
+cos (x	)	^	-0 ++	cos	(x)^	-3*	-0* 1	*cos ( (+-1)	)^1 
+-	+2+ -2* sin( (1 * (-sin ( x	)^3)^	1	- +3* sin	(	x) ^-2*+1 *	cos(x)))^ 4* +2 *sin	( (-0-+x))	^ 4 *	1 *	4* sin(	(-	cos ((sin	(x)^	+1	- 0 *sin ((+1*	sin(	x))) ^+1	*  cos( (sin(x	)	 -	+3*	cos	(	x )  *-1))))		-	1	*x  *0 *x^ 1*cos(	x )^ +0 * +2)) ^	0
+	cos( x) ^	+4
+1*	cos(x) +- cos( x )^	-0	*cos( x	) 	* +0 
++1-		(--0)^ 2* 4* cos(x ) ^ -3
+-2
+cos( (- cos	(	(-	-1) ) +3*	x * (+3 ++2	)		))	^ 4	+	2	*	x	^	2	
++ sin( x )
+0	*	sin( x)^2
+-2 *sin( x)
++x	+sin (	x	)^	3*+3	*cos ( (+	+1)	)*	+1*sin( x	) 
+4	*	(-0 * cos ((3)) ^-0 - x * cos	((cos((+ sin	( x)) )) ) )^ 3
+--0+cos	(x	)*	 cos((-	0)	)^ 3 *+2 *	cos ( (-2)	)* 2	*	cos( x )	^1	
++0 - x 	*2* cos( x	)	^ 1	
+-1* x
+-0
++	1 +	4 * x *0	*x	^ 1	
++cos (x)^2
+4* (+2	*	cos( ( x^	3))	^ 0+	+4*cos( x )^	-0*	sin((-3-+x		)))	+3	*sin	((1*	( cos((-	-2 +	sin	(x)^	2))	^2)^	3 + 1 *x	*	sin ( x ) ^-0	))* 	sin( x) ^1*3*(+1 *	sin(x	) ^3	-	+sin	(x) * -2* +2 *x	^	-3*	-1* cos(	x )^-0)^ +4 
+-0 + -	-3 *3 *sin(	(-	(+	+4 - +sin((+1)) ^ +4*3*	sin(	x)	*sin (	(+4 *	sin( x )	-x *1 *	sin( x )	^2	*-1*x^ 3 ))	*-0	*	x)))	^	2
+3	*x 
+	(4	*	x -x^	-0)
+4* (-0)	^-1 +1*3*sin (	x)
+- 0
+ sin(x) ^-1	--4	*cos(	(+2	*cos	( x)	^ +3))	^-0 *	1*cos	(	(-sin (x) - -	+3*1	*	cos(	(+cos	((+2	*cos(x)	^	+3)) +	+1* sin	( (0 -cos(x)^ 2 *0	*1*+1) )^+1*	4	*sin(x	) ^	3* sin	( x )*-0 *	cos( x))) ^ +1	*	-0 *-0) )^	+4 *	-3
+2	*cos ( x)-	+	3 *+0*1* x 	*	x 	
+	x ^	-2
+-0*sin	( x )+ 3*cos(x	)	 *4* (3 *cos(	x)	^ 2)  
+cos ( x)	
+cos ( x )	^ 2+	-0	*sin((4+cos (x ) ^	1* sin(x)^ 4*	 (+0 *cos( x) ^	0)	^4 *-3	) )	* sin(	x)^4*-3*cos	( x)	^ 3 
++3	*	(-1	*	x	+	2	*	 sin	((+cos (	x )^3	+ +0	* cos	(x	)*3	*sin(x )	^0	*1*	2	))	) 
++3	*	cos	(	x)^4- x	^ 3	
+	x	^-2-+(sin	( (x ))		+ -1*sin ( x)	^3	*	+3	*x	*3*cos(x)* -1 * sin ( x	) ^ 3 )* x *cos(	(+sin(	(-	x^ +3-x  ) )^	-4 -	++4)	)^	+0 *-1* cos(x )
++sin(x	)	
+1	+ -	(x	^2)		*	+4	* sin ((+	sin( (+3*	cos (x)	^3)) + +4	*x *		cos( (4))^	1)	)	
+4*	x
+-	x	
+cos(x)^ +3++3	*-4*sin((0*sin( x	) ^1)	)
+3*sin(x)
+2 *	x+ sin(	x ) 
+cos	( x	)	-- sin(x	)^2	*	-4	* x*0	*x	^+0 *3	*cos (x)	^+1
+2 *cos ( x)
+ x^ +2
+1*sin (	( cos((-	0) )	^	4) )
+sin(x)
+x  -+3*	(-3* cos(x	) ^	1)	^4 
+0 *sin((+1* cos (x)	--cos	( x)*  x ^	+4 *-1* x	^ +3) )^ +4
+-sin((+	(0 *sin(	x)	^-4- +cos(x)	^	+1	*1*	cos	(x	)	^1*3* 	cos	((-4*sin(x)^2) ) ) ^1 + +3	*	x*+4*	 sin	(	x )	 )	)^+4	-	+4*sin	((+3	+-	+3*0	* cos(	x	)	^ 4*0	*cos	(	x )^-0* 	sin	( (sin	(x)	- +-1)	) 	)	)	^ 0
+-+2-3*	x^1 * 	sin(x ) 
+- 4+ sin(	x	)	^+4*	cos( x)  * 0* -1*	sin	( (--4-	 sin (	(+ sin	( x	)		-+2 ) )	))
+4+	-2*(	cos(	x )	+-0	*cos(x)	*	x^3 * cos	( x	)  )^4	
+2*	x^+4
++3 *sin	( x) ^	0+ sin(	x) *4
+ cos(x	)	
+sin(	x	)^+4 + 2*	x		*sin((--3+	0	*cos((-3-	--4) )	^	+4 * sin(	(2 - - x *+2	*	x*+1*	cos(	(	cos	(	(3 *	x ^ -2+	-	cos (x ) 	* cos( x	)	^3*-4*	sin(x)	^1) ) ) ) ^ -4	*sin(x)  ) ))) *	1	* cos( (+4*sin(	(4 * x  -- 4*2	*	2 ) ) ^ 3+	-(-	+3-	+2 * x^ 2)^-0*	x^	-4 *(-3*x^3+ +0	* sin ((+ x^+3))	^+0 * cos	((+ -0 -2 *sin(	x)^-4* +3* 2 *	cos((- +0)	)*	x^	2))^3)^ -0 * 4) ) ^2	
+-	(2 *cos	(x	) ^	1 - +	0*+2*	x )-	cos ( x	) ^-4	
++ 3+ 1*(0) * 1	*sin(x	)*-0 *	(+(	cos	( x) ^+1)- +	sin	(x) ^2)^ +0 
++(+ sin(	x	)	)
+-1
++1
+ cos	( x)^2
+- sin(x )	^ 4
+- cos (	(1*	x^ -1)	)	^	2
+ cos(x )^+2
+4	*	(4*sin( (- cos( (--2))^4) )	-- -4 *		sin(x ) ^ 2 )-	4 *	cos (( sin	(	(1	*x))	+-4*cos( (- 2))  )) * +3	*cos ( x )^+0
+	(+2 *	sin(x) 	+ +2 *(-2 +3* sin( x)	^+1 *3*		sin ( x))*+3	*-4 *	-3* cos (x	)	)  +--3
+-sin(x	)	-	x* 4*-0* sin( (2 *sin(x)	^	4)	)
+4	*x	^	+0
+4	*	sin((-	(-2* x)	)	)^+3
++3 * sin(x	) ^2
+- 3-2*cos (	(-sin	( (+sin( x)	^4)	)	--x ^ -0	*	0* x	^3	))^+4*+0* -0*	cos(x ) 	
+3 *	cos(	(sin	((1 * (sin (	x)^ 4	+1 *x ^+1*3)  + 1 *cos (x) ^ -3*cos	(x)  *	1	)	) ^-1))^+2
+-sin (	x) ^	+1
+cos( x	) ^ +1	+-2*	x	^-1 
+-	x
+- +0	+ -0*	sin((+x	))	*	sin((3*	x ))^	1 
+-3	*cos	((cos	(	x) ^-3+- cos	(	(+ -3) )	^ 2)	) 
+- cos	(x)	
+-4 *cos (x)^	-3 + 2	*	x ^ -3 
++1 * sin (	x)
+- cos (x)^+2	-	-sin( (-	(+cos	(	x)) ^+0-	-x* 4*cos	(x)	^ -2))	*	sin	(	(-2)) ^ +1	*0*sin	( x ) 
+-2
+sin(x	)^4 - +2	* sin(x ) *+1*	sin ( x) *+3*	sin ( x) ^	2 
++1	* cos( x)	
++2
++3*(- x^+0 +sin(x)^	+3) 
+sin(	x)
+-4	-	+sin(x ) *	sin	(	x )	 *	x	^-1	
+-2
+2*	x	^	1- cos((4 * cos (x	)-+4	* (+ 1)^ 2	))^ -0*  x^0 * 2	* sin ( (-4	*cos	( x)	^ +2+	4 *cos(	(-(+2*cos ( x )^2-	sin( x	)^	+0	*		x	 * x 	)^ 2) )	*	cos(x) ^ -0	)	)	
+ x
+- cos(	x )	^	2	+	+ 3 * -4 
++0*	x ^	2
+-0*(4 *x+ + sin(	x )^ 3	*-0*	cos (	x)^+1	*	+3 *+3 *sin	(x)	^	1)^2	+	 cos(x) * sin(	x	)		*0*sin( x	)
+-	+4 -	- cos ( x ) *sin(x ) ^	-3	
+-x^+4	-	-sin((+	sin(x) ^1))
+3*	cos	( x )	- -0* x ^-0*-4 
+4*cos	(x)^3
+ cos( x)
+0*x	^ +4- cos	(	x) 	*2	* -1 *	x 	
+3*sin (	x ) ^-0 ++x	* -3*cos( x)* (	cos ( (3*x ) )^ -1)	*	x^+1
++3* x	
++ 0 -+-2 *-4	*	cos( x) 	
+x	-1
+3-3*(3*(2*sin(	x)	^ 2) ^-2)	*	x ^3	*	+0 
+sin	(	x )	^-2	+1*cos(x	)	^ -4*(4 *sin ( ( x-4 )	) ^4-4	* sin	(	x)	*-4*cos( x	))^-2*	sin ( x)^	+2 
++	sin (	x) 
+sin((--1 +	+2*(-1	* x		- sin (	(2 * x		-- 2 * cos(x) *		sin(x)	^+3 * 0*	cos(	x )) )	) ^3 ))
+0* cos( x )
+-1	*	cos (	(	x^ +2) )^ -2
++1*	sin( x)	 + 2*	x^+1	*0	*	 cos(	x	) ^	2	* +2	*sin(x	)  
++4	++3* sin( x) ^-0 *+0 *	+2	* cos( (+0	*cos ( (	x	+- sin(x	)^ 2 )	)^4)) ^ +2*sin (	(4	+1*sin	(	x	))	)	^ 2 
+2* x ^	4
+3* (4	-	3	*cos(	x	) * 2*cos	(	x )	*-1	*	sin((sin	( x)) )^4 *(+0	*sin (x ) + 	(-2	+ cos (x) 	)^0*	+2*	x ) ^0)		- +	(1	+ -3	*x	^-0	*-4 *x		* -1*	x	)* +2*(2-- +0	) ^	4 *-4	
++ x	
+-0 *x^+4
+-0 -+ 3 *cos (	x) ^-2
+-	x
+4*x^0
++ sin( x )
++4	+-sin (x)^	2 * -2	* 1 
+ (	cos(x)	^4)^1
+2* sin( x )^2+ 0*1 
+2 * sin	( x)+ -2 *sin (	x)	^-2 * 3 *sin(x	)	*	4	* cos (x	)	 
+ sin((-0	* sin (	(-sin	((+ sin (	x )--+4*  x	*2*	sin ( x) ^ -1	*+2 )))	)^3-- cos	( x )	*4* (4+-	2)	^-0))	
+-sin	((+cos( x)	^3 +	2	* 1*x	^+2)	)^	3- -cos ((	sin	( (-0))^	-2))	 *cos ((+0	*sin( x )^	3)	)^+0 
++2*	x -	++4	* +2 *cos	(x) ^	1 *	0 *	cos	( x)	^+3 * +3	
+-0	-sin(x )	 *4*	sin ( x) ^1 
++4
+cos( x)
+3*	(+ 3)
++ -2
+-2*cos	((-1*sin( x )	 ---4 *(1++	4* sin( (+0	* x+	x ^	1*0	* x^	-1* 4 *	+4* cos (x ))) 	* 	cos	(x	)^2	*+1)		* -0 ))^	+3
+3*	cos	(	(+0 *x	^	+4	-+ cos(x	)^1*	sin((+ x  +-x	* -4* cos(x )	^2 *	+4* cos (x) ^-0) )	* 1*sin(x	) ^0	*+1)) ^ -4-	x*	1	*sin (x)	*	x	*	4	* x^+2	
+-4 *x^	2+ + (-	+1	- +2*(0	*cos	(	x ) ^+2+ - sin(	x ))* 4	*	sin((-4)	) ^	-1 *1*	cos (x )^ -4	*	+3 )* 0 *x^	4*cos	(x	) ^ +4* cos	(x)	^4
+-3	* sin(	x )
++ x ^	1-0* cos	( x)^ -4
+4*	(++0)	^3
+2	*sin(x )	^ -1
+-0
++sin (x ) 
+-sin(x)	+ 	cos(	x	)^+1*-3 
++	(1)	^	-0	+ +1	
+0	*cos	((+sin(x	)	^+0	-+cos ( x )^+0 *cos	( (sin ( x) -+4* sin (	x	)	* x^ 4))^	2 *	2*	sin	(x	) ^ -4	))	+ cos( x	) *		x	^	+0	
+2	*cos ( x)
+1	*x 	+		x*	cos	(x)	
+4
+-4* sin((-1 * cos ((2)	)^2)) ^ 3 +	 cos	(	x)	^+4*-2
+2+2*	sin( (1 *cos ( (-	+0 -- +0*cos (	( x	))^-3	* x^	0*cos((+4*(-sin ( x ))	)) )	)^+0) )^-0	*+1*	x * 	x	^-3 *	0	
+3
+-0+-	(+(sin	(	(-1+cos ( (-2	* cos(	x ) ^2))^3	*	1*	cos( (	cos	(x	)^+4))	*+4*cos((	x ^	4)	) ^	+3 *	+0 *x	)) ^3+3 * cos	(	x)^	-3	) ^	4-	cos(x )^ 0	*	 x^2* x	^ +1) ^+3*  sin(	x)^ +3*	2	*x 
+sin(	(-3	*	cos( x	)^-3) )^	2
+2 *cos	(	x) ^ 0	- 1 * cos ( (-+0-1*sin (	(-	sin (	x	)^	0))^+0 )	)^+1 
+3* cos(x)^	4
++	x
++2*sin(	x )^-2-	- cos	( (-0 *cos (x	) ^4)	)	
++1 * cos((+3 *	x	^	2)	)^-0- 3 *cos( x)*	-3 
+3*cos((3*	x ^-4 +1*	 cos(x)^ 0 *sin( x )	^ +2	)	)	^2 +cos(	x	)
++2 *	cos(	x	)
+-0*sin (x)
+-1*x ^0
++0 *x +3	*sin( x)  
+4*	cos(	x	)
+sin	(x)^ 4-	-2
+x
+sin(	(-1))	^	4
+-2	*sin(	x )	^+3+2*	cos( (	sin (	(+1 *	cos( x	)^	2) )  -	-	3 * x	* 2	*x	))^	+0	
+0* cos( x	) 
+-0	-+	2	
+sin (x)
++sin (	x	) 
++-4
++sin(x	)^ 0
+-0
++0*sin	(x)^	3 --x*1*	x^+4	
+-0
++0	*cos	(x	)	^ -4
+- -3	--3	*cos( x	) ^	-4	*cos(x )	^-4	* -1 *4 *sin (x) 
+0* (-cos	(	x)	+ + cos (x) ^4)	 +	x ^	3	* sin (	x) ^-3
++sin	(x )+ ++0*-4 * x^ -3*	x		
+1*cos( (0)	)^1-	 sin(x)^ 1 

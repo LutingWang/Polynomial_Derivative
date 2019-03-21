@@ -1,0 +1,5000 @@
+9*sin(x)^4*sin(-3)^-2*cos(-3)*0-8*sin((2*cos(x)^4))*sin(x)*cos(x)^3-36*sin(-3)^-1*sin(x)^3*cos(x)
+2*sin((cos(9)^4-16*sin(1)*cos(x)^4))*cos((cos(9)^4-16*sin(1)*cos(x)^4))^-3*(64*sin(1)*sin(x)*cos(x)^3-4*sin(9)*cos(9)^3*0-16*cos(x)^4*cos(1)*0)
+WRONG FORMAT!
+12*sin(x)^2*cos(x)-3*sin(x)^3-9*x*sin(x)^2*cos(x)
+cos(-4)*0
+WRONG FORMAT!
+0
+12*x^-4+1
+4*sin((-cos(x)))^3*sin(x)*cos((-cos(x)))
+4*sin(x)^3*cos(x)
+0
+4*sin(x)
+0
+0
+1
+6*cos((-6*sin(x)))*cos(x)+2*sin(x)*cos(x)^-2
+1
+0
+4*sin(x)^3*cos(x)
+1
+-4*sin(x)^-5*cos(x)
+6*sin(x)^3*sin((3*sin(x)))*cos(x)-6*sin(x)^2*cos((3*sin(x)))*cos(x)
+3*cos(x)
+-sin(x)
+4*sin(x)^-3*cos(x)
+0
+0
+-sin(x)
+8*sin(x)*cos(x)
+WRONG FORMAT!
+0
+0
+2*sin(x)*cos(x)
+0
+0
+6*x^2*sin(x)^2+4*x^3*sin(x)*cos(x)-3*x^2
+-4*sin((4*x))
+0
+WRONG FORMAT!
+2
+12*x^2
+sin(x)
+0
+2+sin(2)*0
+4*sin(x)^3*cos((2-sin(x)^4))*cos(x)^2+sin((2-sin(x)^4))*sin(x)-3*cos((3*sin(4)))*cos(4)*0
+2
+-2*sin(x)*cos(x)
+32*sin(x)^2-32*cos(x)^2
+-2*sin(x)
+WRONG FORMAT!
+-4*x
+-sin((1-3*x*sin(x)^-5*cos(x)))*(15*x*sin(x)^-6*cos(x)^2+3*x*sin(x)^-4-3*sin(x)^-5*cos(x))
+1
+cos(x)
+WRONG FORMAT!
+-16*sin(x)*cos(x)^3
+1
+2*sin(-4)*cos(x)+2*sin(x)*cos(-4)*0-2*sin(x)
+6*sin(sin(x)^3)*sin(x)^2*cos(sin(x)^3)*cos(x)
+4*x^3
+-sin(x)
+-3
+-4*cos(x)
+2
+0
+-x^-2
+6*x^4*sin(x)^2+4*sin(x)^3*cos(x)-6*x^4*cos(x)^2-24*x^3*sin(x)*cos(x)
+96*sin((2*cos(x)+sin(x)^2*cos(x)^4))^3*cos(1)*cos(x)*cos((2*cos(x)+sin(x)^2*cos(x)^4))*(2*sin(x)*cos(x)^5-2*sin(x)-4*sin(x)^3*cos(x)^3)-24*sin((2*cos(x)+sin(x)^2*cos(x)^4))^4*sin(1)*cos(x)*0-24*sin((2*cos(x)+sin(x)^2*cos(x)^4))^4*sin(x)*cos(1)
+-48*x^3
+18*x^2
+WRONG FORMAT!
+WRONG FORMAT!
+WRONG FORMAT!
+-3*sin(x)*cos(x)^2
+4*x^3
+-3
+sin((-sin(x)))*cos(x)
+8*sin(x)*cos(x)
+0
+sin(x)
+WRONG FORMAT!
+-sin(x)
+0
+0
+0
+WRONG FORMAT!
+-4*sin((1-12*x*cos(x)))*(12*x*sin(x)-12*cos(x))
+6*sin(x)^4*cos(x)^5+6*x-3*sin(x)^2*cos(x)^7
+3*sin(x)*cos(x)^2
+3*cos(x)+cos(x)^3-3*x*sin(x)*cos(x)^2
+2*x^-2*sin(x^-1)
+-12*x^-5
+1
+-4*sin(x)*cos(x)^3
+0
+-cos(x)
+-cos(1)*0
+1
+8*x*sin(x)^3*cos(x)+2*sin(x)^4
+3
+0
+12*sin((1-x))*cos((1-x))^2
+-sin(x)
+0
+1
+8*sin(x)+8*x*cos(x)
+4*x^3-24*x^2*sin((4*x))-32*x^3*cos((4*x))
+4*x
+0
+0
+cos(x)
+0
+0
+0
+WRONG FORMAT!
+0
+2*x^-3
+cos(x)^2-2*x*sin(x)*cos(x)-4*sin(x)*cos(x)^3
+WRONG FORMAT!
+-2*sin((-sin(x)^-2-4*sin(x)^3*cos(x)*cos((2*cos(x)^4))))*cos((-sin(x)^-2-4*sin(x)^3*cos(x)*cos((2*cos(x)^4))))*(4*sin(x)^4*cos((2*cos(x)^4))+2*sin(x)^-3*cos(x)-12*sin(x)^2*cos((2*cos(x)^4))*cos(x)^2-32*sin((2*cos(x)^4))*sin(x)^4*cos(x)^4)
+-2*sin(-3)*cos(sin(-3)^2)*cos(-3)*0
+3*sin(x)
+3*sin(x)^2*cos(x)
+3*x^-4
+0
+WRONG FORMAT!
+0
+4
+-3
+0
+WRONG FORMAT!
+-1
+WRONG FORMAT!
+0
+-1
+12*x+4*cos(x)
+0
+48*sin(x)^3*cos(x)^3-4*x^-5-24*sin(x)^5*cos(x)
+0
+WRONG FORMAT!
+8*sin(x)*cos(x)
+0
+0
+0
+-2*sin(x)^-1-4*sin(x)^-3*cos(x)^2
+WRONG FORMAT!
+0
+0
+9*x^2+4*x^2*sin(x)^3*cos(x)+2*x*sin(x)^4
+3*sin(x)^2*cos(x)
+0
+cos(x)
+0
+0
+3*sin((3*sin(x)))^-2*cos((3*sin(x)))*cos(x)-1
+cos(x)
+sin(x)
+0
+0
+4*x^-3-sin(x)
+4*cos(1)+2*x-4*x*sin(1)*0
+-16*sin(x)^-5*cos(x)
+0
+-sin(x)
+-2
+0
+8*sin(x)*cos(x)
+cos(x)
+0
+0
+0
+WRONG FORMAT!
+0
+1
+3*sin(x)*cos(x)^-4+sin(x)
+2*sin(x)^2-2*cos(x)^2
+3
+WRONG FORMAT!
+0
+12*sin(x)^3*cos(x)+4*x*sin(x)^2-4*x*cos(x)^2-4*sin(x)*cos(x)
+WRONG FORMAT!
+cos(x)-12*x^-3*cos(x)^3-18*x^-2*sin(x)*cos(x)^2
+4+2*sin(x)*cos(x)
+-sin(x)
+0
+WRONG FORMAT!
+-cos((-3*sin(x)^2))*cos(x)-6*sin((-3*sin(x)^2))*sin(x)^2*cos(x)
+54*x*sin(x)^-4*cos(x)+1-18*sin(x)^-3
+10*x^4
+cos(x)
+32*sin((2*cos(x)^-2))*sin(x)^2*cos((2*cos(x)^-2))^-3+4*cos((2*cos(x)^-2))^-2*cos(x)^4+cos(x)-12*sin(x)^2*cos((2*cos(x)^-2))^-2*cos(x)^2
+0
+-4*x^-5
+3*sin(x)^2*cos(x)
+12*sin((-2*cos(x)^2))*sin(x)*cos(x)
+0
+0
+1
+3*cos((-12*x^4*sin((4+x))^-3*cos(x)))*(36*x^4*sin((4+x))^-4*cos(x)*cos((4+x))+12*x^4*sin((4+x))^-3*sin(x)-48*x^3*sin((4+x))^-3*cos(x))-sin(x)^-2*cos(x)
+2*cos((2*x))
+4*sin(x)^3*cos(x)
+0
+4*sin((x+sin(x)^3))*(3*sin(x)^2*cos(x)+1)+4*x^3
+0
+0
+2*sin(x)^2-2*cos(x)^2
+-8*x
+4*cos(-4)*cos(x)+1-4*sin(x)*sin(-4)*0
+-2*sin(x)*cos(x)
+WRONG FORMAT!
+4*sin(x)*cos(x)^-3
+0
+0
+0
+6*sin(x)*cos(x)-4*x^-5
+-9*cos((-sin(x)^2))-18*x*sin((-sin(x)^2))*sin(x)*cos(x)
+WRONG FORMAT!
+0
+3*sin(2)^2*cos(2)*0
+4*sin(x)^-5*cos(sin(x)^-4)*cos(x)
+0
+-4*sin(x)^-5*cos(x)
+0
+0
+-2
+3
+24*x^2*sin(x)^2*cos((2*x))+16*x^3*sin(x)*cos((2*x))*cos(x)+cos(x)-16*x^3*sin(x)^2*sin((2*x))
+-3*x^-4
+6*cos(x)^2-12*x*sin(x)*cos(x)
+0
+cos(x)
+0
+0
+4*sin(cos(x))*sin(x)+cos(x)
+0
+-sin(-3)*0
+3
+sin(x)
+-sin(x)
+4
+0
+0
+0
+0
+-64*sin(x)^3*cos(x)
+768*sin((-3*x*sin(x)^4-4*x))^-3*sin((1-96*x*sin(x)))*cos(-1)^2*cos((1-96*x*sin(x)))*(x*cos(x)+sin(x))+12*sin((1-96*x*sin(x)))^2*sin((-3*x*sin(x)^4-4*x))^-4*cos(-1)^2*cos((-3*x*sin(x)^4-4*x))*(-3*sin(x)^4-4-12*x*sin(x)^3*cos(x))+8*sin((1-96*x*sin(x)))^2*sin((-3*x*sin(x)^4-4*x))^-3*sin(-1)*cos(-1)*0+4
+0
+1
+WRONG FORMAT!
+-3*sin(x)*cos(x)^2
+0
+cos(x)
+WRONG FORMAT!
+0
+3*sin(x)*cos(x)*cos((3*cos(x)))+sin((3*cos(x)))*sin(x)-8*x^-3
+16*x^4*sin(x)^4*cos(x)+3*cos(-2)*0-24*x^4*sin(x)^2*cos(x)^3-32*x^3*sin(x)^3*cos(x)^2
+16*sin(x)*cos(x)^3
+WRONG FORMAT!
+sin(x)
+9*sin((3*cos(sin(x)^3)))*sin(sin(x)^3)*sin(x)^2*cos(x)
+0
+12*x*cos(x)^2+12*sin(x)*cos(x)-12*x*sin(x)^2
+4*cos(x)+1
+sin(-1)*0
+3-12*sin(x)^3*cos(x)-972*sin(x)^8*cos(x)
+cos(-3)*0
+0
+0
+0
+WRONG FORMAT!
+0
+3*x^2
+WRONG FORMAT!
+4*sin(x)*cos(x)^3+1
+2*x
+WRONG FORMAT!
+3
+6*x
+sin(x)
+-sin(x)
+0
+36*sin(x)*sin((12*x^2*sin(x)^2*cos(x)+2*x^2))*(24*x^2*sin(x)*cos(x)^2+24*x*sin(x)^2*cos(x)+4*x-12*x^2*sin(x)^3)-12*sin(x)*cos(x)^3-36*cos((12*x^2*sin(x)^2*cos(x)+2*x^2))*cos(x)
+-cos(x)
+4*sin((-x))*cos((-x))^3
+0
+-cos(x)
+-2*sin(x)*cos(x)
+0
+-sin(x)
+4*sin(x)*cos(sin(x))*cos(x)+3*cos(x)-2*sin(x)^2*sin(sin(x))*cos(x)
+1
+0
+sin(x)
+0
+-24*sin(x)^2*cos((2*cos(x)))^3*cos(x)-48*sin((2*cos(x)))*sin(x)^4*cos((2*cos(x)))^2
+0
+0
+4
+0
+2*sin(x)*cos(x)
+3
+WRONG FORMAT!
+-sin(cos(x))*sin(x)
+WRONG FORMAT!
+1
+cos(x)
+0
+3*sin(-1)*cos(-1)^2*0
+WRONG FORMAT!
+36*sin(x)^2*cos(x)^2-12*sin(x)^4
+-sin(x)
+-sin(x)
+0
+8*sin(x)^-5*cos(x)
+12*sin(x)^-4*cos(x)-4*sin(sin(x)^4)*cos(x)-16*sin(x)^4*cos(sin(x)^4)*cos(x)
+0
+8*sin((sin(x)+x^3*sin(x)^3))*cos((x^3*sin(x)^3+sin(x)))^3*(3*x^2*sin(x)^3+3*x^3*sin(x)^2*cos(x)+cos(x))+6*sin((-3*cos(x)))^4*sin((4*cos(x)-3*x))*cos((4*cos(x)-3*x))^2*(-3-4*sin(x))-24*sin((-3*cos(x)))^3*sin(x)*cos((4*cos(x)-3*x))^3*cos((-3*cos(x)))
+2*sin(x)*cos(x)^-3
+0
+-cos(x)
+WRONG FORMAT!
+-4*sin(x)
+-2*sin(3)*0
+WRONG FORMAT!
+WRONG FORMAT!
+36*cos(x)+sin(cos(x))*sin(x)-36*x*sin(x)
+-sin((-16*sin(x)^3*cos(x)^2))*(32*sin(x)^4*cos(x)-48*sin(x)^2*cos(x)^3)
+WRONG FORMAT!
+-sin(x)-x*cos(x)-3*sin(x)^2*cos(x)
+4*sin(x)^2-4*cos(x)^2
+2
+-2*sin(x)*cos(x)
+0
+WRONG FORMAT!
+-4*x*sin(x)*cos(-2)*0-4*sin(-2)*sin(x)-4*x*sin(-2)*cos(x)
+9*sin((-cos(x)))*sin(x)*cos((-cos(x)))^2-8*sin(sin(x)^-4)*sin(x)^-5*cos(sin(x)^-4)*cos(x)
+-4*cos(x)
+-8*sin(x)^5-40*x*sin(x)^4*cos(x)
+0
+3*sin(x)*cos(x)^-4+1
+0
+0
+6*sin(x)^2*cos(x)
+3*sin((x^2-sin(x)^2*cos(x)))*cos((x^2-sin(x)^2*cos(x)))^2*(2*x+sin(x)^3-2*sin(x)*cos(x)^2)
+WRONG FORMAT!
+3*sin(x)^2*cos(x)-8*cos(x)^-2*cos(-4)*0-16*sin(-4)*sin(x)*cos(x)^-3
+0
+3*sin(x)^-2*cos(x)
+WRONG FORMAT!
+1
+sin(x)*cos(x)^-2
+WRONG FORMAT!
+0
+16*x^3-sin(x)
+-3
+-sin(x)
+6*x
+0
+cos(x)-6*sin(x)*cos(x)
+3*sin(x)^2*cos(x)
+cos(x)
+12*x^2
+WRONG FORMAT!
+-sin(x)
+-3*sin(x)
+-4*sin(x)
+WRONG FORMAT!
+4*x^3
+12*x^2*sin((-x^3))
+WRONG FORMAT!
+-12*x^3
+4*sin(x)
+0
+WRONG FORMAT!
+3
+-sin(x)
+cos(x)
+-1
+4*sin(x)^3*cos(x)
+sin(x)^-2*cos(x)-4*sin(x)*cos(x)^-5
+1
+1
+WRONG FORMAT!
+cos(x)
+0
+WRONG FORMAT!
+-8*sin(x)^2-16*x*sin(x)*cos(x)
+0
+cos(x)
+cos(x)
+0
+2-3*sin(x)^2*cos(x)
+4*sin(x)^3*cos(x)
+4*sin(x)^3*cos(x)
+0
+-cos(x)
+sin(x)
+3*cos(x)+2*sin(x)*cos(x)
+1
+0
+-5
+0
+-12*x^5
+3*cos(x)
+cos(x)^2-sin(x)^2
+WRONG FORMAT!
+0
+32*sin(x)*cos(x)^3+1
+12*sin((-cos(x)))*sin(x)*cos((-cos(x)))^2
+0
+-4*sin(-1)*0
+-3*sin(x)^2*cos(x)
+0
+4*cos((-4-6*sin(x^3)*sin(x)^4*cos(x)))*(6*sin(x^3)*sin(x)^5-18*x^2*sin(x)^4*cos(x)*cos(x^3)-24*sin(x^3)*sin(x)^3*cos(x)^2)+sin(x)
+0
+0
+WRONG FORMAT!
+0
+WRONG FORMAT!
+4*sin(x)-8*sin(x)*cos(x)
+16*x^2*sin(x)*cos(x)^3+cos(x)-8*x*cos(x)^4
+-4*cos(x)
+WRONG FORMAT!
+0
+-sin((cos(-2)-4*sin(x)))*(-sin(-2)*0-4*cos(x))
+-4*x^3
+-sin(x)
+cos((12*x^2*cos(x)-sin(x)))*(24*x*cos(x)-cos(x)-12*x^2*sin(x))
+24*sin(x)^2*cos(4)+24*sin(x)*sin(4)*cos(x)*0-1-24*cos(4)*cos(x)^2
+0
+1
+0
+3*cos(x)
+cos(x)
+-4*sin(x)*cos(x)
+0
+4*cos(x)
+WRONG FORMAT!
+-4*x^3
+WRONG FORMAT!
+1
+0
+4*x^3
+-1
+0
+WRONG FORMAT!
+8*sin(x)+8*x*cos(x)+1
+3*cos(x)
+-sin(x)-4*x^3
+48*sin(x)*cos(x)+4*sin(x)*cos(x)^-5
+4*sin(x)^3*cos(x)+sin(x)
+-sin(x)
+2*sin(x)*cos(x)
+-4*sin(x)^3*cos(x)
+0
+0
+6*sin(x)^2*cos(x)+2*x^-2*sin((2*x))-4*x^-1*cos((2*x))
+2*sin(x)+cos(x)
+2*sin(-1)^-3*cos(-1)*0
+1
+-2*cos(x)
+0
+0
+2*x*sin((x-2*sin(x)*sin(-3)*cos(x)^5))*(10*sin(-3)*sin(x)^2*cos(x)^4+1-2*sin(x)*cos(x)^5*cos(-3)*0-2*sin(-3)*cos(x)^6)-2*cos((x-2*sin(x)*sin(-3)*cos(x)^5))
+0
+3*sin(x)^2*cos(x)-12*x
+4*sin(cos(x)^-4)*sin(x)*cos(x)^-5+1
+-sin(x)
+sin((-cos(x)))*sin(x)*cos((-cos(x)))^-2
+16*x^3
+sin(x)
+WRONG FORMAT!
+3*cos(x)-16*sin(-1)*0
+0
+0
+-sin(x)
+3*sin(1)*0
+0
+2*sin(x)*cos(x)^-3
+-2
+0
+4*cos(x)^3-8*sin(x)^2*cos(x)
+1
+0
+WRONG FORMAT!
+144*x*sin((-4*sin((4*sin((-2*x*sin(x)*cos(x)^3-4*x))))))*cos(x)*cos((4*sin((-2*x*sin(x)*cos(x)^3-4*x))))*cos((-2*x*sin(x)*cos(x)^3-4*x))*(6*x*sin(x)^2*cos(x)^2-2*x*cos(x)^4-2*sin(x)*cos(x)^3-4)+9*cos(x)*cos((-4*sin((4*sin((-2*x*sin(x)*cos(x)^3-4*x))))))-9*x*sin(x)*cos((-4*sin((4*sin((-2*x*sin(x)*cos(x)^3-4*x))))))
+-18*x^4*cos(x)-72*x^3*sin(x)
+-12*sin(x)*cos(x)^2
+cos(x)
+2*sin(x)*cos(x)
+0
+0
+8*cos(x)^3-24*x*sin(x)*cos(x)^2
+-4*x^-2
+-1
+0
+x*cos((cos(x)-x^2*sin(x)*cos(x)))*cos(x)+sin(x)*cos((cos(x)-x^2*sin(x)*cos(x)))-x*sin(x)*sin((cos(x)-x^2*sin(x)*cos(x)))*(x^2*sin(x)^2-x^2*cos(x)^2-sin(x)-2*x*sin(x)*cos(x))
+0
+5*x*sin(x)*cos(x)^4-cos(x)^5-2*sin((1-6*sin(x)*cos(x)^2))^-3*cos((1-6*sin(x)*cos(x)^2))*(12*sin(x)^2*cos(x)-6*cos(x)^3)
+-3*sin(1)*cos(1)^2*0
+0
+0
+WRONG FORMAT!
+2
+cos(x)
+cos(x)
+8*x^4*sin(x)^6*sin(x^4)+cos(1)*0-2*sin(x)^6*cos(x^4)-2*sin(x)^2-4*x*sin(x)*cos(x)-12*x*sin(x)^5*cos(x^4)*cos(x)
+3
+0
+1-6*sin(x)^-4*cos(x)
+1
+0
+1
+2*x
+-sin(x)
+x^-2-8*x^3*sin(x)^8-16*x^4*sin(x)^7*cos(x)
+0
+6*sin(x)*cos(x)^2+4*x*sin(cos(x))*sin(x)*cos(cos(x))^3+cos(cos(x))^4
+cos(x)-2*sin(x)*cos(x)
+0
+x*sin(x)
+-3
+sin(x)
+0
+12*x^-1*sin((4*x^-2*cos(x)+x))^2*cos((4*x^-2*cos(x)+x))*(1-4*x^-2*sin(x)-8*x^-3*cos(x))-4*x^-2*sin((4*x^-2*cos(x)+x))^3-6*sin(sin((3*cos(x))))*sin(x)*cos(sin((3*cos(x))))^-3*cos((3*cos(x)))
+-sin(x)
+0
+0
+-4
+5*sin(-1)^4*sin(x)^4*cos(x)+4*sin(x)^5*sin(-1)^3*cos(-1)*0+sin((cos(2)^-3-16*sin(x)^-2))*(32*sin(x)^-3*cos(x)+3*sin(2)*cos(2)^-4*0)
+2*sin(x)*cos(x)^-3
+WRONG FORMAT!
+0
+1
+3*x^2+sin(cos(x))*sin(x)
+WRONG FORMAT!
+9*sin(x)*cos((12*sin(x)^-1*cos(x)-1))+cos(x)-108*sin((12*sin(x)^-1*cos(x)-1))*cos(x)*(1+sin(x)^-2*cos(x)^2)
+cos(x)
+0
+3*cos((2*x^2*sin(x)+1))-sin(x)-3*x*sin((2*x^2*sin(x)+1))*(4*x*sin(x)+2*x^2*cos(x))
+-sin(x)
+0
+0
+-24*x^2*sin(x^3)*cos((-cos(x^3)^2))*cos(x^3)
+-12*sin(x)*cos(x)^2
+-3*x^2-9*x^2*sin(x)^5-15*x^3*sin(x)^4*cos(x)
+0
+4*x^-5
+36*sin(x)^2*sin((2-3*sin(x)*cos(x)^4))^-5*cos(1)*cos((2-3*sin(x)*cos(x)^4))*(12*sin(x)^2*cos(x)^3-3*cos(x)^5)+9*sin(x)^2*sin((2-3*sin(x)*cos(x)^4))^-4*sin(1)*0-18*sin((2-3*sin(x)*cos(x)^4))^-4*sin(x)*cos(1)*cos(x)
+1
+1
+-3*sin(x)*cos(x)^2
+-3*sin((2*sin(x)+cos(x)))*(2*cos(x)-sin(x))
+cos(x)-sin((3*sin((3*sin(x)^4))))-36*x*sin(x)^3*cos((3*sin((3*sin(x)^4))))*cos((3*sin(x)^4))*cos(x)
+72*sin(x)^-1*cos(x)^3+36*sin(x)^-3*cos(x)^5-3*sin(1)*0
+WRONG FORMAT!
+-2*x-12*cos(x)
+2*sin(x)*cos(x)
+0
+18*x*cos((cos((sin(x)^4*cos(x)^2))+cos(x)))*(sin((sin(x)^4*cos(x)^2))*(4*sin(x)^3*cos(x)^3-2*sin(x)^5*cos(x))+sin(x))-6-18*sin((cos((sin(x)^4*cos(x)^2))+cos(x)))
+-4*sin((4*sin(x)-2))*cos(x)
+WRONG FORMAT!
+-2*sin(x)*cos(x)
+0
+0
+cos(x)
+WRONG FORMAT!
+3*sin(x)*cos(x)^-4
+3*x^2
+cos(x)
+96*x*sin(x)^-4*cos((1+x^-4))*cos(x)-32*sin(x)^-3*cos((1+x^-4))-128*x^-4*sin(x)^-3*sin((1+x^-4))
+20
+4*x^3*cos(x)-x^4*sin(x)
+36*x^2
+0
+0
+3*x*sin(x)^2+3*x*sin(x)+cos(x)-3*x*cos(x)^2-3*sin(x)*cos(x)
+-2*sin(x)*cos(x)
+0
+12*cos(x)+2*sin(x)-4*x*sin(x)^3-6*x^2*sin(x)^2*cos(x)
+0
+-12*x^2*sin(x^3)*cos(x^3)^3
+sin(x)
+12*sin(x)^-1-sin(x)-12*x*sin(x)^-2*cos(x)
+108*x*sin((-x))*cos(x)^2*cos((-x))+108*x*sin((-x))^2*sin(x)*cos(x)-12*sin(x)*cos(x)^2-54*sin((-x))^2*cos(x)^2
+0
+0
+WRONG FORMAT!
+-16*sin(x)*cos(x)^-5
+0
+3*x^2
+-12*x^2
+-4*x^-5
+-3*sin(x)
+WRONG FORMAT!
+-sin(x)
+cos(x)-sin(x)
+12*x^2*sin(x)+4*x^3*cos(x)
+0
+-4*sin(x)^-5*cos(x)
+-4*sin(x)^3*cos(x)
+0
+-2*cos(x)
+0
+8*sin(x)*cos(x)
+36*cos(-1)*cos((-x))*cos((6*sin((6*sin(x)^2*sin((-cos(x)^4))+sin(x)))^3*cos(x)^2*cos((3*cos(x)^4))^4+cos(1)^2))*(288*sin((6*sin(x)^2*sin((-cos(x)^4))+sin(x)))^3*sin((3*cos(x)^4))*sin(x)*cos((3*cos(x)^4))^3*cos(x)^5+18*sin((6*sin(x)^2*sin((-cos(x)^4))+sin(x)))^2*cos(x)^2*cos((3*cos(x)^4))^4*cos((6*sin(x)^2*sin((-cos(x)^4))+sin(x)))*(24*sin(x)^3*cos((-cos(x)^4))*cos(x)^3+12*sin((-cos(x)^4))*sin(x)*cos(x)+cos(x))-2*sin(1)*cos(1)*0-12*sin((6*sin(x)^2*sin((-cos(x)^4))+sin(x)))^3*sin(x)*cos((3*cos(x)^4))^4*cos(x))+36*sin((6*sin((6*sin(x)^2*sin((-cos(x)^4))+sin(x)))^3*cos(x)^2*cos((3*cos(x)^4))^4+cos(1)^2))*sin((-x))*cos(-1)-3*sin(x)^2*cos((-sin(x)^3-4))*cos(x)-36*sin((6*sin((6*sin(x)^2*sin((-cos(x)^4))+sin(x)))^3*cos(x)^2*cos((3*cos(x)^4))^4+cos(1)^2))*sin(-1)*cos((-x))*0
+-9*x^2*sin(x)^4-12*x^3*sin(x)^3*cos(x)
+6*sin(x)*cos(x)
+0
+WRONG FORMAT!
+-sin(x)^-2*cos(x)-2*sin(x)^-2*cos(x)^2-2
+-6*cos(x)
+3*sin(x)^2*cos(x)
+4*sin(x)^3*cos(x)
+0
+0
+WRONG FORMAT!
+9*cos(x)-4*sin(-16)*cos(-16)^3*0-9*x*sin(x)
+-9*sin(x)^-4*cos(x)
+2*sin(x)
+3
+-4*sin(x)
+cos((sin(x)*cos(x)))*(cos(x)^2-sin(x)^2)
+3*x^2
+sin(x)
+4*cos(x)-2*x^-2*sin(x)-4*x^-3*cos(x)
+-1
+cos(x)
+2*x
+0
+sin(-7)*0
+0
+-1
+WRONG FORMAT!
+0
+4*sin(x)*cos(x)
+-x^-2
+0
+sin(x)
+1
+WRONG FORMAT!
+0
+3*x^2
+WRONG FORMAT!
+0
+WRONG FORMAT!
+WRONG FORMAT!
+sin(x)
+3*cos(x)
+2*sin(x)*cos(x)-4*sin(x)*cos(x)^-3
+WRONG FORMAT!
+0
+3
+0
+-sin(x)
+WRONG FORMAT!
+cos(x)
+WRONG FORMAT!
+WRONG FORMAT!
+8*sin(x)*cos(x)
+0
+6*sin(x)*cos(x)^2
+-sin(x)
+4*x*sin(1)^-2*sin(x)^-5*cos(x)+2*x*sin(x)^-4*sin(1)^-3*cos(1)*0-sin(1)^-2*sin(x)^-4
+3*x^-4+cos(x)
+sin((4*sin((4*cos((4+sin(x)*cos(x)^2))))+sin((4*cos((4+sin(x)*cos(x)^2))))*sin(x^2)-2*cos(16)^4))*(8*sin(16)*cos(16)^3*0+2*x*sin((4*cos((4+sin(x)*cos(x)^2))))*cos(x^2)-4*sin(x^2)*sin((4+sin(x)*cos(x)^2))*cos((4*cos((4+sin(x)*cos(x)^2))))*(cos(x)^3-2*sin(x)^2*cos(x))-16*sin((4+sin(x)*cos(x)^2))*cos((4*cos((4+sin(x)*cos(x)^2))))*(cos(x)^3-2*sin(x)^2*cos(x)))
+1-8*sin(x)*cos(x)
+18*x*sin(x)*cos(x)-9*cos(x)^2
+cos(x)^-1+x*sin(x)*cos(x)^-2-sin(x)
+6*sin(x)^2*cos(x)-8*cos(x)^-1-8*x*sin(x)*cos(x)^-2
+2*sin(x)*cos(x)
+2
+6*x-4
+2*sin((2*sin(cos(x))))*sin(x)*cos(cos(x))
+WRONG FORMAT!
+0
+0
+WRONG FORMAT!
+-sin(x)
+WRONG FORMAT!
+WRONG FORMAT!
+WRONG FORMAT!
+-4*sin(x)^-5*cos(x)
+1
+-4*sin(cos(x))*sin(x)
+0
+-3*cos(1)*0
+6*sin(x)*cos(x)
+0
+16*sin((2*x^3+2*sin((4*sin(x)))))^3*cos((2*sin((4*sin(x)))+2*x^3))*(8*cos((4*sin(x)))*cos(x)+6*x^2)
+9*sin(x)^2*sin((3*x))*cos((3*x))^-4+2*sin(x)*cos((3*x))^-3*cos(x)-cos((2*x-cos((-2*x^-4*cos(x)^2))))*(2+sin((-2*x^-4*cos(x)^2))*(8*x^-5*cos(x)^2+4*x^-4*sin(x)*cos(x)))
+-96*sin(x)*cos(x)
+3*sin(x)*cos(x)^-4-27*x^2*sin(x^3)^2*cos(x^3)
+1
+4*sin(x)^3*cos(x)
+0
+WRONG FORMAT!
+0
+4*sin((4*cos(x)^3+cos(x)))*sin(x)*(-1-12*cos(x)^2)+4*sin(x)
+0
+0
+-sin(x)
+-2*sin(x)^-2*cos(x)
+WRONG FORMAT!
+0
+WRONG FORMAT!
+WRONG FORMAT!
+-3*sin(x)
+2*x
+0
+WRONG FORMAT!
+WRONG FORMAT!
+0
+8*sin(x)^3*cos(x)+1
+6*sin(x)*cos(x)^-3
+1
+2*cos((2*x))
+0
+1
+4-2*sin((3*x+2*x^4*cos(x)^4))*(8*x^3*cos(x)^4+3-8*x^4*sin(x)*cos(x)^3)
+WRONG FORMAT!
+3*sin(x)^-4*cos(x)
+3*sin(x)*cos(x)^2
+1
+4*sin((-cos(x)^4-4*x^2*cos(x)^4))*cos(x)*(16*x^2*sin(x)*cos(x)^3+4*sin(x)*cos(x)^3-8*x*cos(x)^4)+4*sin(x)*cos((-cos(x)^4-4*x^2*cos(x)^4))
+-sin(x)-2*sin(x)*cos(x)
+-3
+3*x^2*cos(x)-sin(x)-x^3*sin(x)
+0
+0
+cos(x)
+4
+-4*x^-2
+6*sin(1)*sin(x)^2*cos(2)*cos(x)^2+2*sin(x)*cos(x)+2*sin(x)^3*cos(x)*cos(2)*cos(1)*0-2*sin(1)*sin(x)^4*cos(2)-2*sin(x)^3*sin(1)*sin(2)*cos(x)*0
+0
+24*x^-5-1
+-3*sin(x)*cos(x)^2
+0
+0
+-8*sin(x)*cos(x)
+3*cos(x)
+2*cos(x)-2*x*sin(x)
+WRONG FORMAT!
+sin(x)
+-9*sin(x)*cos(x)^2
+cos(x)
+0
+-4*sin(x)*cos(x)^3
+0
+-4*sin(x)
+0
+cos(x)
+0
+12*x^3
+-8*sin(x)-8*x*cos(x)
+WRONG FORMAT!
+3*sin(x)^2*cos(x)
+0
+WRONG FORMAT!
+4*sin(x)*cos(x)^3
+0
+0
+4*cos(2)*0-8*sin(x)*cos((2*cos(x)))
+-1
+48*x^2*cos(x)*cos((2*cos(x)^-4))-4*sin(x)^-5*cos(x)-16*x^3*sin(x)*cos((2*cos(x)^-4))-128*x^3*sin((2*cos(x)^-4))*sin(x)*cos(x)^-4
+-sin(x)
+2*x
+-4
+0
+3*x^2
+-sin(x)*cos(x)^-2
+-sin(x)-4*x^4*cos(sin(x))*cos(x)-16*x^3*sin(sin(x))
+0
+1
+WRONG FORMAT!
+18*sin(x)*cos(x)^3*cos((2*sin((4*x^2*sin(x)+cos(x)))*cos(x)*cos(1)^3-2))*(2*cos(x)*cos(1)^3*cos((4*x^2*sin(x)+cos(x)))*(8*x*sin(x)+4*x^2*cos(x)-sin(x))-2*sin((4*x^2*sin(x)+cos(x)))*sin(x)*cos(1)^3-6*sin((4*x^2*sin(x)+cos(x)))*sin(1)*cos(x)*cos(1)^2*0)+18*sin((2*sin((4*x^2*sin(x)+cos(x)))*cos(x)*cos(1)^3-2))*cos(x)^4+sin(x)-54*sin((2*sin((4*x^2*sin(x)+cos(x)))*cos(x)*cos(1)^3-2))*sin(x)^2*cos(x)^2
+-2*sin(x)^-3*cos(x)
+WRONG FORMAT!
+WRONG FORMAT!
+sin(x)*sin(sin(x))*cos(x)-cos(sin(x))*cos(x)-16*sin(x)*cos(x)^3
+4*x^3
+-6*x^5
+3*x^-4-sin(cos(x))*sin(x)
+2
+3*sin(x)
+0
+-4*sin(x)
+0
+WRONG FORMAT!
+WRONG FORMAT!
+0
+9*x*sin(x)^2*cos(x)^2+sin(x)-3*x*cos(x)^4-3*sin(x)*cos(x)^3
+0
+3-cos(x)
+6*sin((24+sin(x)^4))*sin((-cos(x)^2))*sin(x)*cos((-x))^3*cos((-cos(x)^2))^-4*cos(x)+4*sin(x)^3*cos((-x))^3*cos((-cos(x)^2))^-3*cos((24+sin(x)^4))*cos(x)+3*sin((24+sin(x)^4))*sin((-x))*cos((-cos(x)^2))^-3*cos((-x))^2-72*x
+0
+-sin(x)
+-2*cos(x)
+0
+1
+2
+2*sin(x)*cos(x)
+4*sin(x)^3*cos(x)
+WRONG FORMAT!
+0
+4*sin(sin(x))^3*cos(sin(x))*cos(x)
+4*sin(x)*cos(x)^-5
+8*x^3*sin(x)^3*cos(x)^-2+6*x^2*sin(x)^4*cos(x)^-3+6*x^3*sin(x)^5*cos(x)^-4
+1
+2*x-cos(x)
+cos((12*x-cos(x)^-2))*(12-2*sin(x)*cos(x)^-3)
+-3*sin(x)*cos(x)^2
+1-sin(1)*0
+-1
+26*x+24*x*sin(x)^-2*cos(x)^2-24*sin(x)^-1*cos(x)
+4*sin(x)^-2*cos(x)
+3
+128*x*sin((-4*sin(cos(x))))*sin(x)*cos((-4*sin(cos(x))))^3*cos(cos(x))-8*cos((-4*sin(cos(x))))^4
+16*sin(x)^3*cos(x)+2*cos(x)
+WRONG FORMAT!
+0
+WRONG FORMAT!
+WRONG FORMAT!
+0
+4*x^3
+-1
+0
+cos(x)
+cos(x)-3*sin(x)*cos(x)^-4
+0
+cos(x)
+WRONG FORMAT!
+WRONG FORMAT!
+2*x
+sin(x)
+0
+-12*sin(x)^-5*cos(x)
+cos(x)-x*sin(x)
+0
+0
+2*sin(x)*cos(x)
+-sin(x)
+0
+18*sin(x)^2-8*sin(x)*cos(x)-18*cos(x)^2
+WRONG FORMAT!
+-4*cos(x)
+0
+-3*sin((cos(x)+x))^-2*cos((x+cos(x)))*(1-sin(x))
+8*sin(x)+8*x*cos(x)
+-sin(x)
+12*sin(x)^2*cos(x)^3-3*cos(x)^5
+0
+4*sin(x)
+0
+-sin(x)
+0
+cos((12*sin(x)^-1*cos(x)^2+4*x))*(4-12*sin(x)^-2*cos(x)^3-24*cos(x))-cos(x)
+2
+0
+0
+-sin(x)
+-sin(-1)*0
+4*x^3
+24*sin(x)^2*cos(x)^2-3*sin((3*x+sin(x)))*cos((3*x+sin(x)))^2*(3+cos(x))-8*sin(x)^4
+0
+4*sin(x)*cos(x)^-5
+0
+cos(x)-6*sin(x)^4-24*x*sin(x)^3*cos(x)
+4*sin(x)*cos(x)^-5
+WRONG FORMAT!
+0
+-8*sin((9*cos(x)^2+sin(x)^-3))*cos((4*x+sin(x)))^-4*cos((-cos((9*cos(x)^2+sin(x)^-3))^4))*cos((9*cos(x)^2+sin(x)^-3))^3*cos(x)*(-3*sin(x)^-4-18*sin(x))-8*sin((-cos((9*cos(x)^2+sin(x)^-3))^4))*sin((4*x+sin(x)))*cos((4*x+sin(x)))^-5*(4+cos(x))
+2
+20*sin(x)^4*cos(x)
+3*x^2-sin(x)
+3*sin(x)*cos(x)^2+cos(x)
+WRONG FORMAT!
+-sin((x-3*cos(x)))*(3*sin(x)+1)-7*sin((7*cos(x)))*sin(x)
+WRONG FORMAT!
+sin(x)*cos(x)^-2
+WRONG FORMAT!
+0
+0
+WRONG FORMAT!
+4*cos(-2)*0
+0
+0
+0
+WRONG FORMAT!
+0
+6*sin(x)^-1*cos(x)+1-6*x*sin(x)^-2*cos(x)^2-6*x
+WRONG FORMAT!
+0
+-sin(x)
+-2*x^4*cos(x)-3*sin(x)-8*x^3*sin(x)
+0
+-3*sin(x)^-2*cos(x)
+WRONG FORMAT!
+32*x^-4*sin((4*x^-4))*cos(x)+2*cos(x)*cos((4*x^-4))-2*x*sin(x)*cos((4*x^-4))
+1
+-4*sin(3)*cos(3)^3*0
+4*x^3
+0
+0
+WRONG FORMAT!
+WRONG FORMAT!
+1
+0
+-16*sin((4*x))*cos((4*x))^-5
+3-3*sin(x)
+WRONG FORMAT!
+-2
+WRONG FORMAT!
+-3
+3*x^2
+0
+2*cos(x)
+0
+-1
+0
+WRONG FORMAT!
+-3*cos((3*x))
+0
+-sin(x)
+0
+24*sin((3*x-3))^3*cos((3*x-3))-2*sin((-sin(x)))*cos(x)
+-sin(x)
+sin(x)+1
+0
+0
+-4*sin((4*sin(x)))*cos((4*sin(x)))^-2*cos(x)
+12*sin(x)*cos(x)^-4
+0
+-1
+4*sin(x)^7*sin(3)*cos(x)*0+4*sin(x)^8*cos(3)-28*sin(x)^6*cos(3)*cos(x)^2
+-2*x^-3
+cos(x)
+0
+-3
+48*sin(sin(cos(x)^3)^4)^3*sin(cos(x)^3)^3*sin(x)*cos(sin(cos(x)^3)^4)*cos(cos(x)^3)*cos(x)^2
+-3*sin(x)
+0
+-4*x^3*cos(x^4)
+WRONG FORMAT!
+0
+4*x^-5
+0
+WRONG FORMAT!
+WRONG FORMAT!
+sin(-1)*0
+WRONG FORMAT!
+-2*sin(x)^-3*cos(x)
+sin(cos((3*cos(x)+3*x^-2)))*sin((3*cos(x)+3*x^-2))*(-3*sin(x)-6*x^-3)
+2*sin(x)*cos(x)
+4*sin(x)*cos(x)^-3-6*sin(-2)*0
+4*sin(x)^3*cos(x)-2*sin(x)-2*x*cos(x)
+0
+4*x^3
+0
+-3*sin(-2)-3*x*cos(-2)*0
+-2*sin(x)
+sin(1)*cos((3*cos(x)))*0-3*sin((3*cos(x)))*sin(x)*cos(1)
+0
+24*x^-2*sin(x)*sin((3*sin(x)^4+2*sin(x^4)^4*cos(x)^4))^-1*sin((3*sin(x)))*cos((3*sin(x)))^-2*cos(x)+8*x^-2*sin((3*sin(x)^4+2*sin(x^4)^4*cos(x)^4))^-1*cos((3*sin(x)))^-1*cos(x)-4*sin(x)*cos(x)^3-8*x^-2*sin(x)*sin((3*sin(x)^4+2*sin(x^4)^4*cos(x)^4))^-2*cos((3*sin(x)))^-1*cos((3*sin(x)^4+2*sin(x^4)^4*cos(x)^4))*(32*x^3*sin(x^4)^3*cos(x)^4*cos(x^4)+12*sin(x)^3*cos(x)-8*sin(x^4)^4*sin(x)*cos(x)^3)-16*x^-3*sin(x)*sin((3*sin(x)^4+2*sin(x^4)^4*cos(x)^4))^-1*cos((3*sin(x)))^-1
+0
+0
+WRONG FORMAT!
+WRONG FORMAT!
+2*x
+WRONG FORMAT!
+0
+0
+WRONG FORMAT!
+-1-8*x
+4*sin(x)
+0
+-3*sin(x)*cos(x)^2
+0
+2*sin(x)
+WRONG FORMAT!
+WRONG FORMAT!
+WRONG FORMAT!
+0
+-sin(x)
+cos(x)
+sin(x)
+0
+0
+0
+-sin(x)
+0
+0
+8*x*sin(x)*cos(x)^-3+4*cos(x)^-2+3*x^2
+WRONG FORMAT!
+0
+WRONG FORMAT!
+-3*sin(x)
+WRONG FORMAT!
+-2*sin(x)*cos(x)^-3
+-1
+24*sin((3*x))*cos((3*x))-sin(x)^-2*cos(x)^3-2*cos(x)
+3*sin(x)
+-3*sin((3*x))
+WRONG FORMAT!
+4*sin(x)^3*cos(x)
+3*sin(x)^2*cos(x)-4*cos(x)
+WRONG FORMAT!
+1
+0
+cos(x)
+2*cos(-1)*0
+-2*sin(x)^-3*cos(x)
+0
+-sin(x)*cos(cos(x))
+0
+0
+-cos(x)-sin(x)
+-12*sin(2)*cos(2)^2*0
+0
+0
+-sin((-x))
+12*x^3
+0
+0
+3*sin(x)
+0
+-sin(x)
+16*sin((3*sin(x)^3+x))^4*sin((2*sin(x)))*cos(x)-32*sin((3*sin(x)^3+x))^3*cos((2*sin(x)))*cos((3*sin(x)^3+x))*(9*sin(x)^2*cos(x)+1)
+0
+72*sin((-3-3*sin(x)^3))*sin(x)^2*cos((-3*sin(x)^3-3))*cos(x)
+2*cos(x)
+-3*sin(x)*cos((1+cos(x)^3))*cos(x)^2
+-sin(x)
+-8*sin(x)^-3*cos(x)
+WRONG FORMAT!
+WRONG FORMAT!
+4
+20*sin(x)*cos(x)^4-4*sin(x)*cos(x)^3
+WRONG FORMAT!
+3*sin(x)^2*cos(x)
+4*sin(x)+4*x*cos(x)
+-sin(x)
+1
+4*x^3+3*cos((sin(cos(x)^-2)-8*sin(x)^4-12*cos(2)*cos(x)^2))*(24*sin(x)*cos(2)*cos(x)+12*sin(2)*cos(x)^2*0+2*sin(x)*cos(cos(x)^-2)*cos(x)^-3-32*sin(x)^3*cos(x))
+1
+0
+0
+0
+16*x^3-36*x
+3*x*sin(x)^2-sin(x)-3*x*cos(x)^2-3*sin(x)*cos(x)
+WRONG FORMAT!
+WRONG FORMAT!
+48*x^2*sin(x)^2+32*x^3*sin(x)*cos(x)
+0
+-4*sin(x)*cos((-cos(x)))
+WRONG FORMAT!
+2*sin(x)*cos(x)^2-sin(x)^3-3*cos(x)
+0
+6*x^-4*cos((4-32*sin(x)))-64*x^-3*sin((4-32*sin(x)))*cos(x)
+-1
+3*cos(x)
+WRONG FORMAT!
+0
+1
+WRONG FORMAT!
+4*x^3*sin(x)^4-12*x^3*sin(x)^2*cos(x)^2-12*x^2*sin(x)^3*cos(x)
+cos(x)
+0
+0
+-2*sin(x)*cos(x)
+4
+4*cos(x)
+3*cos((-x^2*sin(x)))*(-x^2*cos(x)-2*x*sin(x))
+0
+8*sin(x)*cos(x)^-3-4*sin(x)*cos(x)^3
+0
+-3*sin(x)*cos(x)^2
+0
+-sin(x)^-2*cos(x)
+0
+0
+0
+-3*sin(x)
+cos(x)
+-2*x^-3
+2*cos(x)
+9*sin((-x))-9*x*cos((-x))
+0
+-4*sin(6)^-5*cos(6)*0
+-6*sin(x)^-3*cos(x)
+WRONG FORMAT!
+-12*x^2
+0
+0
+1
+32*x*cos(x)+12*sin(x)^3*cos(x)-16*x^2*sin(x)
+WRONG FORMAT!
+0
+0
+0
+0
+WRONG FORMAT!
+8*x^2*sin(x)*cos((8*cos(x)-2))-2*x*sin((8*cos(x)-2))-4*sin(x)*cos(x)^3
+9*x^-4*sin(x)*sin((-3*x^-3))-cos((-3*x^-3))*cos(x)
+1
+WRONG FORMAT!
+WRONG FORMAT!
+4*cos(x)
+-2*sin(x)
+WRONG FORMAT!
+sin(x)+1
+WRONG FORMAT!
+-2*sin(-4)*0
+sin(x)+cos(x)^2-sin(x)^2
+0
+0
+0
+0
+2*sin(x)+2*x*cos(x)
+WRONG FORMAT!
+2
+4*x^3
+0
+0
+0
+0
+0
+3+x^-2
+0
+0
+12*sin(x)^3*cos(x)
+sin(x)-16
+sin((-x))
+0
+0
+2*sin(sin(x))*cos(sin(x))*cos(x)
+WRONG FORMAT!
+16*cos(x)^4+2-64*x*sin(x)*cos(x)^3
+0
+WRONG FORMAT!
+0
+0
+4*sin(x)^3*cos(x)
+WRONG FORMAT!
+-2*sin(x)^-3*cos(x)
+WRONG FORMAT!
+0
+24*x^5*sin(x)*cos(x)-sin(x)-60*x^4*cos(x)^2
+0
+2*cos(x)-1
+-10*sin(x)*cos(x)
+sin(cos(x))^-2*sin(x)*cos(cos(x))
+1
+0
+0
+6*sin(x)*cos(x)^-4
+3*sin(x)
+-sin(x)
+4*cos(4)*0
+0
+4*sin(-3)*cos(-3)*0
+3*sin(x)^2*cos(x)
+-4*sin(x)^3*cos(x)
+0
+cos(x)
+-3*cos(x)-4*sin(-3)^-5*cos(-3)*0
+8*x^-5*sin((2*sin(x)))^-2+8*x^-4*sin((2*sin(x)))^-3*cos((2*sin(x)))*cos(x)
+-sin(x)
+-sin(x)
+0
+0
+0
+-4*sin(x)^-1-8*sin(x)^-3*cos(x)^2
+-cos(x)
+-2*sin((sin(x)-4*cos(x)^2))*cos((sin(x)-4*cos(x)^2))*cos(x)*(8*sin(x)+1)
+0
+-cos((x-2*sin(x)^4))*(1-8*sin(x)^3*cos(x))
+cos(x)
+cos(x)
+WRONG FORMAT!
+0
+WRONG FORMAT!
+WRONG FORMAT!
+0
+WRONG FORMAT!
+WRONG FORMAT!
+0
+0
+0
+-2*sin(x)
+0
+-6*x^2
+-sin(x)
+1
+-4*cos(1)*0
+WRONG FORMAT!
+0
+0
+cos(1)*0
+-3*sin(x)-3*x*cos(x)
+-3*sin(x)
+2*x
+0
+0
+sin(x)-12*sin(x)^-4*cos(x)
+1
+0
+-sin(x)
+-16*sin(x)*cos(x)^-5
+36*x^3*sin(x)+9*x^4*cos(x)+3*cos(x)
+48*sin(x)^2*cos(x)^-3+24*cos(x)^-1-sin(x)
+-2*x^-2
+2*sin((-4*cos(3)^3))^2*sin((-cos(x)))*sin(x)^2-2*sin((-4*cos(3)^3))^2*cos((-cos(x)))*cos(x)-48*sin(x)*sin((-4*cos(3)^3))*sin(3)*cos((-cos(x)))*cos((-4*cos(3)^3))*cos(3)^2*0
+0
+3*cos(x)
+3*cos(x)
+0
+-2*sin(x)
+2
+-36*sin((3*x))^-5*cos((3*x))
+32*x*cos(x)^3-48*x^2*sin(x)*cos(x)^2
+-cos(x)
+sin(x)^-2*cos(x)
+WRONG FORMAT!
+0
+-6*sin(x)*cos(x)^2
+24*x^2*sin((2*sin(x)))*sin(x)^3*sin((-2*x^3))*cos(x)^3*cos((-2*x^3))^3+3*sin((2*sin(x)))*sin(x)^2*cos((-2*x^3))^4*cos(x)^4+2*sin(x)^3*cos((-2*x^3))^4*cos((2*sin(x)))*cos(x)^4-3*sin((2*sin(x)))*sin(x)^4*cos((-2*x^3))^4*cos(x)^2
+-3*sin(x)^-4*cos(x)
+0
+6*x*sin(x)*sin((3*sin(x)))*cos((3*sin(x)))*cos(x)+1+x*sin((3*sin(x)))^2*cos(x)+sin(x)*sin((3*sin(x)))^2
+cos(x)
+cos(x)
+WRONG FORMAT!
+12*cos(4)*cos(x)-sin(x)-12*sin(x)*sin(4)*0
+8*x^-2*sin(x)^3*cos(x)+2*sin(x)*cos(x)-4*x^-3*sin(x)^4
+WRONG FORMAT!
+0
+-4*sin(x)*cos(x)^3
+1
+WRONG FORMAT!
+16*x^3*sin(x)^-1-4*x^4*sin(x)^-2*cos(x)
+-cos(x)
+cos(x)
+WRONG FORMAT!
+3*cos(x)
+WRONG FORMAT!
+3*cos((3*x+sin((cos(x)-4))*cos(x)^-2))*(3+2*sin((cos(x)-4))*sin(x)*cos(x)^-3-sin(x)*cos(x)^-2*cos((cos(x)-4)))
+0
+cos(x)-18*sin(x)*cos(x)^5
+WRONG FORMAT!
+2*x^-3-3*sin(1)^2*cos(1)*0
+4
+-1-3*cos(x)
+4*sin(x)
+4*sin(x)^3*cos(x)
+3*x^-3*cos(sin((x-x*sin(3)^-4)))*cos((x-x*sin(3)^-4))*(4*x*sin(3)^-5*cos(3)*0+1-sin(3)^-4)-9*x^-4*sin(sin((x-x*sin(3)^-4)))
+-sin(x)
+WRONG FORMAT!
+0
+-3*sin(cos(x))^2*sin(x)*cos(cos(x))
+0
+WRONG FORMAT!
+-4*sin(x)*cos(cos(x)^4)*cos(x)^3
+0
+-sin(x)
+-9*sin((3*sin(x)^3))*sin(x)^2*cos(x)
+cos(x)-2*cos(x)^-3-8*sin(x)^2*cos(x)^-5
+8*cos(x)^3-4*sin(x)-24*x*sin(x)*cos(x)^2
+0
+0
+cos(x)+1
+9*x^2
+0
+-3*x^2
+2*sin(x)*cos(sin(x)^2)*cos(x)+sin(x)
+4*sin((2+sin(x)))*cos(x)
+0
+2*sin((-x))*cos((-x))
+WRONG FORMAT!
+3*sin(x)*cos(x)^-4-sin(x)
+WRONG FORMAT!
+-cos(x)
+0
+cos(x)
+-sin(x)
+cos((6*x^-2*cos((2-2*sin(x)))))*(12*x^-2*sin((2-2*sin(x)))*cos(x)-12*x^-3*cos((2-2*sin(x))))
+0
+-4*sin(x)^-5*cos(x)
+12*sin(x)^3*cos(x)
+0
+1+cos(x)
+8*x^3
+-sin(x)
+4*x^3
+12*sin(x)^2*cos(x)^2-4*cos(x)^4
+1
+-12*sin(x)^-4*cos(x)
+0
+0
+0
+-3*cos(x)-6*sin(sin(cos(-1))^3)*sin(cos(-1))^2*sin(-1)*cos(sin(cos(-1))^3)*cos(cos(-1))*0
+2*sin(x)^2*cos(x)+1-cos(x)^3
+2
+3+2*cos(x)
+WRONG FORMAT!
+-4-4*sin(x)^-5*cos(x)
+0
+3*x^2
+0
+8*x^-2-2*sin(x)*cos(x)
+-2*x
+0
+3*sin(x)^2*cos(x)
+-2*sin(x)*cos(x)
+4
+cos(x)
+9*x^2
+-4*x^-5-8*x^6*sin(x)*cos(x)^-3-24*x^5*cos(x)^-2
+0
+WRONG FORMAT!
+4*sin((2*sin(x)^-1-x))^3*cos((2*sin(x)^-1-x))*(-1-2*sin(x)^-2*cos(x))-6*x^5*cos(x)-30*x^4*sin(x)
+-4*x^-5
+16*sin((2*cos(x)^-4))*sin(x)*cos((2*cos(x)^-4))^-3*cos(x)^-5
+3*sin((x*cos(x)^4-3))^2*cos((x*cos(x)^4-3))*(cos(x)^4-4*x*sin(x)*cos(x)^3)-sin(x)
+3
+0
+3*cos(x)
+WRONG FORMAT!
+6*sin(x)^2*cos(x)
+3*sin(x)^2*cos(x)+3*x^2*sin(x)+x^3*cos(x)
+-12*sin(x)^2*cos(x)
+0
+8*x+cos(x)
+0
+WRONG FORMAT!
+x*sin(x)+1-cos(x)
+1
+-3*cos(x)
+sin(x)
+WRONG FORMAT!
+12*sin(x)+4*sin((-cos(x)^-4))*sin(x)*cos(x)^-5
+-3*sin(x)
+0
+sin(x)
+4*x^3+4
+cos(x)
+95*sin(x)-96*sin(x)^3*cos(x)
+0
+0
+cos(x)
+0
+-sin(x)
+WRONG FORMAT!
+2
+0
+1
+-4
+-sin(x)
+0
+2
+-9*x^2
+0
+0
+-8*sin(cos(x))*sin(x)*cos(cos(x))^3
+cos(x)-8*sin(x)^-2*sin(-12)*0-16*sin(x)^-3*cos(-12)*cos(x)
+WRONG FORMAT!
+1
+sin((3*cos(x)))-3*x*sin(x)*cos((3*cos(x)))
+0
+-3*sin(x)*cos(x)^2
+WRONG FORMAT!
+160*sin(x)^4*cos(x)-cos(x)
+WRONG FORMAT!
+0
+-sin(x)
+2*cos(x)^4-6*sin(x)^2*cos(x)^2-9*sin(x)^2*cos(x)
+-sin(x)
+-sin(x)^4-4*x*sin(x)^3*cos(x)
+8*sin(x)*cos(x)^-1+8*sin(x)^3*cos(x)^-3
+-3*sin((-4-16*x*sin(x)^4*sin(2)*cos(x)))*(16*x*sin(2)*sin(x)^5-16*x*sin(x)^4*cos(x)*cos(2)*0-16*sin(x)^4*sin(2)*cos(x)-64*x*sin(2)*sin(x)^3*cos(x)^2)
+WRONG FORMAT!
+0
+0
+2*sin(x)*cos(x)
+0
+3*x^2
+WRONG FORMAT!
+0
+-sin(x)
+WRONG FORMAT!
+0
+1
+2*sin(x)*cos(x)^-3
+0
+24*sin((3*sin(sin(x))))*cos((3*sin(sin(x))))*cos(sin(x))*cos(x)+sin(x)
+0
+1-4*sin(x)
+0
+-3*sin(x)^2*cos(x)
+WRONG FORMAT!
+2
+0
+0
+0
+8*sin((12*x^-1*sin(x)*cos(x)^4+x))*sin(x)*cos(x)+4*sin(x)^2*cos((12*x^-1*sin(x)*cos(x)^4+x))*(12*x^-1*cos(x)^5+1-12*x^-2*sin(x)*cos(x)^4-48*x^-1*sin(x)^2*cos(x)^3)
+WRONG FORMAT!
+0
+-3*sin(x)^2*cos(x)
+2*x*sin(x)^2-2*x*cos(x)^2-2*sin(x)*cos(x)
+0
+0
+1
+-1
+WRONG FORMAT!
+0
+-sin((6*sin(x)+x))*(6*cos(x)+1)-192*x^2*cos(cos(x)^4)-256*x^3*sin(cos(x)^4)*sin(x)*cos(x)^3
+WRONG FORMAT!
+WRONG FORMAT!
+6*x^3*sin(x)^4*cos(x)-6*x^6*sin(x)*cos(x)-9*x^3*sin(x)^2*cos(x)^3-9*x^2*sin(x)^3*cos(x)^2-18*x^5*sin(x)^2
+-16*cos(x)
+9*sin(x)*cos(x)^2+4*cos(x)
+0
+-sin(x)-x*cos(x)
+54*x^5*cos(x)^2-sin(x)^-2*cos(x)-18*x^6*sin(x)*cos(x)
+0
+-16*x^-5
+-x^-2-2*sin(x)
+0
+0
+WRONG FORMAT!
+-3*sin(x)
+0
+12*x^2
+3*sin(x)*cos(x)^2
+0
+WRONG FORMAT!
+0
+0
+12*sin(x)*cos(x)^2+3
+0
+0
+0
+-2*sin(x)
+27*sin((3*sin(x)))^2*cos((3*sin(x)))*cos(x)-12*sin(x)^-5*cos(x)
+WRONG FORMAT!
+16*x^3+4
+-sin(x)
+-3
+3*x^2
+cos(x)
+-sin(x)
+0
+9*x^2
+0
+0
+-4*sin(x)
+0
+cos((-sin(x)^4*cos(x)-2))*(sin(x)^5-4*sin(x)^3*cos(x)^2)
+0
+0
+-sin((-3*sin(x)^-2-4*sin(x)*sin((4*cos(x)))^3*cos(x)))*(48*sin((4*cos(x)))^2*sin(x)^2*cos(x)*cos((4*cos(x)))+6*sin(x)^-3*cos(x)+4*sin((4*cos(x)))^3*sin(x)^2-4*sin((4*cos(x)))^3*cos(x)^2)
+27*sin((sin(x)+x^3*cos(x)^2))^2*sin((-x-3))^2*cos((-x-3))-18*sin((-x-3))^3*sin((x^3*cos(x)^2+sin(x)))*cos((sin(x)+x^3*cos(x)^2))*(3*x^2*cos(x)^2+cos(x)-2*x^3*sin(x)*cos(x))
+0
+0
+0
+0
+-3*cos(x)
+-sin(x)
+sin((4*cos(x)))^4*cos(x)-16*sin((4*cos(x)))^3*sin(x)^2*cos((4*cos(x)))
+0
+0
+0
+-3*sin((9*sin(x)^3*cos(x)+x-24*x*sin(x)^4*cos(x)))^-4*cos((9*sin(x)^3*cos(x)+x-24*x*sin(x)^4*cos(x)))*(27*sin(x)^2*cos(x)^2+24*x*sin(x)^5+1-9*sin(x)^4-24*sin(x)^4*cos(x)-96*x*sin(x)^3*cos(x)^2)
+cos((-sin(x)^2-x))*(-1-2*sin(x)*cos(x))
+-4*sin(x)^3*cos(x)
+0
+WRONG FORMAT!
+-3*cos(x)
+WRONG FORMAT!
+WRONG FORMAT!
+-6*sin(x)*cos(x)^2-36*sin(sin(x)^3)^-4*sin(x)^2*cos(sin(x)^3)*cos(x)
+3*sin(x)*cos(x)^2+cos(x)
+32*cos(x)+1
+0
+cos(x)
+-3*cos((4+3*sin(x)))*cos(x)
+-2*sin(x)
+WRONG FORMAT!
+sin(x)
+WRONG FORMAT!
+WRONG FORMAT!
+-6*x^-4
+-4*sin(x)
+-6*sin(x)
+0
+0
+-2*sin(x)
+-2*sin(x)
+0
+32*sin(x)
+-sin(x)
+3*x^2
+1
+0
+48*x*sin(x)*cos(x)^-5+12*cos(x)^-4+1
+0
+-4*cos(x)
+-2*sin(x)
+-4*sin(x)
+-3*sin(3)*0
+-cos(x)
+-2*x^-2
+0
+9*x^2*sin(x)^2*cos(x)+6*x*sin(x)^3
+WRONG FORMAT!
+32*sin(x)*cos((3*sin(x)*cos(x)*cos((-3*sin(x)))^2+2+x^2))^2*cos(x)^-3-32*sin((3*sin(x)*cos(x)*cos((-3*sin(x)))^2+2+x^2))*cos(x)^-2*cos((3*sin(x)*cos(x)*cos((-3*sin(x)))^2+2+x^2))*(18*sin(x)*sin((-3*sin(x)))*cos((-3*sin(x)))*cos(x)^2+3*cos((-3*sin(x)))^2*cos(x)^2+2*x-3*sin(x)^2*cos((-3*sin(x)))^2)
+6*cos((2*x))*cos(4)*0-12*sin(4)*sin((2*x))
+WRONG FORMAT!
+3*x^2
+4*sin((6*sin(x)^-4*cos((4*sin(cos(x)^2)))^-2-1))*cos((6*sin(x)^-4*cos((4*sin(cos(x)^2)))^-2-1))^3*cos(x)*(-24*sin(x)^-5*cos((4*sin(cos(x)^2)))^-2-96*sin((4*sin(cos(x)^2)))*sin(x)^-3*cos((4*sin(cos(x)^2)))^-3*cos(cos(x)^2))
+0
+sin(x)
+-8*sin((4*cos(x)))*sin(x)*cos((4*cos(x)))
+-cos(x)
+sin(x)
+8*sin(sin((-1-2*cos(x)))^2)*sin((-1-2*cos(x)))*sin(x)*cos(sin((-1-2*cos(x)))^2)*cos((-1-2*cos(x)))
+0
+-4*sin(x)*cos(x)^3
+-3*sin(x)
+2*cos(x)
+24*cos((12*x^2*sin((sin(1)*cos((x-2*cos(x)))^3-2))))*(24*x*sin((sin(1)*cos((x-2*cos(x)))^3-2))+12*x^2*cos((sin(1)*cos((x-2*cos(x)))^3-2))*(cos((x-2*cos(x)))^3*cos(1)*0-3*sin(1)*sin((x-2*cos(x)))*cos((x-2*cos(x)))^2*(2*sin(x)+1)))
+3*sin((3*x))
+cos(x)
+1
+0
+2*cos(x)
+-4*x^3
+0
+0
+4*x^3
+0
+6*sin(x)*cos(x)^-4
+WRONG FORMAT!
+-3*x^2
+0
+2*sin(x)*cos(x)^-3
+sin((-sin(x)-2))*cos(x)
+4
+6*x^-1*cos(x)^4-6*x^-2*sin(x)*cos(x)^3-16*sin(x)*cos(x)^3-18*x^-1*sin(x)^2*cos(x)^2
+-1
+0
+2*sin((-3*x*sin(x)^4))*cos((-3*x*sin(x)^4))*(-3*sin(x)^4-12*x*sin(x)^3*cos(x))
+-2*sin(-4)*0
+0
+2*cos((2*x))
+0
+0
+0
+-2*sin(x)*cos(x)
+0
+-cos(x)
+0
+0
+16*cos(x)
+2
+192*sin((1+x))^4*sin(x)^2*cos(x)^3-48*sin((1+x))^4*cos(x)^5-192*sin(x)*sin((x+1))^3*cos(x)^4*cos((1+x))
+0
+4*cos(x)
+0
+0
+36*sin(x)^2*cos(x)^2-12*cos(x)^4-120*sin(x)*cos(x)^4
+0
+24*sin(x)*cos(x)^-4-sin(-1)*0
+WRONG FORMAT!
+cos(x)
+0
+-2*x
+cos(x)-sin(x)
+-cos(x)
+2*sin(x)
+0
+2
+0
+3*sin(x)^2*cos(x)
+0
+-cos(3)*0
+-sin(x)
+4*sin(x)^3*cos(x)
+-sin((4*x^2-3*sin(x)))*(8*x-3*cos(x))
+-cos((1-x*sin(x)))*(x*cos(x)+sin(x))
+sin(x)
+sin(2)*0+1
+-1
+4
+sin(x)^2-cos(x)-cos(x)^2
+WRONG FORMAT!
+-sin(x)
+WRONG FORMAT!
+12*sin(3)*0+3
+WRONG FORMAT!
+0
+8*x^3+x*sin((6*sin(x)*cos(x)))*cos(x)+sin(x)*sin((6*sin(x)*cos(x)))+x*sin(x)*cos((6*sin(x)*cos(x)))*(6*cos(x)^2-6*sin(x)^2)
+0
+2*sin(x)*cos(x)
+0
+-cos((-cos((-x^2))))-2*x^2*sin((-cos((-x^2))))*sin((-x^2))
+0
+-x^-2
+3*sin((4*sin(x)*cos((-sin(x)^2))-4))*cos((4*sin(x)*cos((-sin(x)^2))-4))^2*cos(x)*(8*sin((-sin(x)^2))*sin(x)^2+4*cos((-sin(x)^2)))
+1
+WRONG FORMAT!
+4*sin((-2*cos(x)^2))*sin(x)*cos(x)-4*sin(x)*cos(x)^3
+3*sin(x)*cos(x)^2+1
+WRONG FORMAT!
+0
+WRONG FORMAT!
+WRONG FORMAT!
+0
+7*sin(x)^6*cos(x)-3*sin(x)
+4*x^3*sin(x)+3*cos(x)+x^4*cos(x)
+6*cos(x)-x^-2
+WRONG FORMAT!
+sin(x)
+0
+-2*sin((2*x-1))
+-cos(x)
+0
+cos(x)^2-2*x*sin(x)*cos(x)
+WRONG FORMAT!
+0
+7+cos(x)
+0
+0
+WRONG FORMAT!
+48*cos(x)-48*x*sin(x)
+0
+-sin(x)
+0
+2
+WRONG FORMAT!
+-cos(x)
+WRONG FORMAT!
+0
+1
+3*sin(x)*cos((4*x^-1+x^3))+3*sin((4*x^-1+x^3))*cos(x)*(3*x^2-4*x^-2)
+1
+18*x^-4*sin(x)^2-12*x^-3*sin(x)*cos(x)-48*sin((-4*cos((cos(x)^-3-1))))*sin((cos(x)^-3-1))*sin(x)*cos((-4*cos((cos(x)^-3-1))))^3*cos(x)^-4
+WRONG FORMAT!
+0
+0
+-2*sin(x)^-3*cos(x)
+2*x+cos(x)
+0
+WRONG FORMAT!
+12*x^3
+sin(x)-2*x^-3
+-sin(x)
+9*sin(cos(x))*sin(x)*cos(x)*cos(cos(x))^2-3*sin(x)*cos(cos(x))^3
+1
+6*cos((1-2*x^4*sin(x)^2*cos(x)^2))*cos(x)+cos(x)-6*sin(x)*sin((1-2*x^4*sin(x)^2*cos(x)^2))*(4*x^4*sin(x)^3*cos(x)-4*x^4*sin(x)*cos(x)^3-8*x^3*sin(x)^2*cos(x)^2)
+2*x
+-2*sin(2)*cos(2)*0
+-12*x^3
+36*x^4*sin(x)^-5*cos(x)+8*sin(x)^3*cos(x)-36*x^3*sin(x)^-4
+WRONG FORMAT!
+-12*sin((-3*cos(x)))*sin(x)*cos((-3*cos(x)))
+0
+12*sin(x)^-4*cos(x)
+24*sin(x)
+-24*sin(x)^2-48*x*sin(x)*cos(x)
+sin(x)
+0
+cos(x)
+18*sin(x)^-4*cos(x)+3*sin((x^-4-x*sin(x)^2*cos(1)*cos(sin(x))^2))*cos((x^-4-x*sin(x)^2*cos(1)*cos(sin(x))^2))^-4*(2*x*sin(x)^2*sin(sin(x))*cos(1)*cos(sin(x))*cos(x)+x*sin(x)^2*sin(1)*cos(sin(x))^2*0-sin(x)^2*cos(1)*cos(sin(x))^2-2*x*sin(x)*cos(1)*cos(sin(x))^2*cos(x)-4*x^-5)
+-1
+26*x*sin((1+sin(x)))^-2*cos((sin(x)+1))*cos(x)-4*sin(x)-26*sin((sin(x)+1))^-1
+cos(x)
+12*sin(2)^2*cos(2)*0
+4*cos(x)-cos((2*x-12*cos(x)))*(12*sin(x)+2)
+WRONG FORMAT!
+2-6*x^4*sin(x)*cos(x)^-3-12*x^3*cos(x)^-2
+-sin(x)
+0
+36*x^2*sin(x)^2+24*x^3*sin(x)*cos(x)
+cos(x)
+WRONG FORMAT!
+0
+-2*sin(x)*cos(x)
+cos(x)
+-3*sin(x)
+0
+2*sin(x)
+WRONG FORMAT!
+cos(-2)*0
+0
+WRONG FORMAT!
+-1
+-12*sin(x)*cos(x)^2
+WRONG FORMAT!
+WRONG FORMAT!
+4*sin(x)
+0
+0
+-3*sin((3*cos(x)+2*x^2*cos(x)^3))*(4*x*cos(x)^3-3*sin(x)-6*x^2*sin(x)*cos(x)^2)
+1
+-4*sin((-sin(x)))^3*cos((-sin(x)))*cos(x)
+0
+-2*sin(x)
+12*x^2-3*sin(x)
+WRONG FORMAT!
+-4
+-8*sin((4*sin(x)))*cos((4*sin(x)))*cos(x)
+-12*x^3*sin(x^4)^-4*cos(x^4)
+0
+144*sin(x)*cos(x)^3+2*sin((3*sin(x)-cos(x)^4))*cos((3*sin(x)-cos(x)^4))*(4*sin(x)*cos(x)^3+3*cos(x))
+sin(x)
+1
+0
+0
+-sin((4*sin(x)^-1-3*cos(x)))*(3*sin(x)-4*sin(x)^-2*cos(x))
+-3*cos(x)
+WRONG FORMAT!
+-48*sin((-cos(x)))^3*sin(x)*cos((-cos(x)))
+0
+0
+-1
+6*sin(x)*sin(sin(x))^4*sin((16*x*sin(x)^5+sin(x)))*(80*x*sin(x)^4*cos(x)+16*sin(x)^5+cos(x))-6*sin(sin(x))^4*cos((16*x*sin(x)^5+sin(x)))*cos(x)-24*sin(x)*sin(sin(x))^3*cos((16*x*sin(x)^5+sin(x)))*cos(sin(x))*cos(x)
+cos(x)
+0
+-sin(x)
+0
+8*sin(x)*cos(x)^-3
+-sin((3*sin(x)-cos(x)^4))*(4*sin(x)*cos(x)^3+3*cos(x))
+5*sin(x)^4*cos(x)
+5*x^4*sin(x)*cos(x)+2+x^5*cos(x)^2-x^5*sin(x)^2
+0
+0
+0
+0
+-8*sin(x)*cos(x)^3
+2*sin(x)*cos(x)
+8
+3
+-sin(x)
+-1
+0
+WRONG FORMAT!
+0
+0
+0
+-9*sin(x)^3-27*x*sin(x)^2*cos(x)
+cos((2-3*cos((-2*x))*cos(x)-12*sin((3*cos(x)-4*x^2))*cos((-2*x))*cos(x)*cos((cos(x)^-3-24*cos(x)^4))*cos(x^4)))*(48*x^3*sin((3*cos(x)-4*x^2))*sin(x^4)*cos((-2*x))*cos(x)*cos((cos(x)^-3-24*cos(x)^4))+12*sin((3*cos(x)-4*x^2))*sin((cos(x)^-3-24*cos(x)^4))*sin(x)*cos((-2*x))*cos(x)*cos(x^4)*(96*cos(x)^3+3*cos(x)^-4)+12*sin((3*cos(x)-4*x^2))*sin(x)*cos((-2*x))*cos((cos(x)^-3-24*cos(x)^4))*cos(x^4)+3*sin(x)*cos((-2*x))-6*sin((-2*x))*cos(x)-12*cos((-2*x))*cos(x)*cos((cos(x)^-3-24*cos(x)^4))*cos(x^4)*cos((3*cos(x)-4*x^2))*(-3*sin(x)-8*x)-24*sin((3*cos(x)-4*x^2))*sin((-2*x))*cos(x)*cos((cos(x)^-3-24*cos(x)^4))*cos(x^4))
+9*x^2
+-4*sin(x)^3*cos(x)
+0
+-cos(x)
+4*x^3
+WRONG FORMAT!
+-cos(x)
+WRONG FORMAT!
+-24*x^-2*sin(x)^-2*cos(x)-48*x^-3*sin(x)^-1
+4*sin(x)+4*x*cos(x)
+2*sin(x)*cos(x)
+-4*sin((1+sin(x)^-3*cos((-cos(-1)^4))))*(-3*sin(x)^-4*cos((-cos(-1)^4))*cos(x)-4*sin(x)^-3*sin((-cos(-1)^4))*sin(-1)*cos(-1)^3*0)
+0
+-3*x^-4
+-cos(x)
+0
+24*sin(x)^-3-72*x*sin(x)^-4*cos(x)
+-cos(x)
+-2*sin(x)
+0
+8*sin(x)*cos(x)+4*cos(x)
+-sin(x)
+0
+-sin(x)
+0
+cos(x)
+-24*x^2*cos(x)-48*x*sin(x)
+2*cos(x)
+-1
+-sin(3)*0
+cos(x)
+0
+cos(x)-sin(3)*0
+0
+0
+1
+WRONG FORMAT!
+0
+0
+0
+0
+1
+4*x^-5
+-sin(x)
+sin(1)*0
+4*cos(-4)*0
+cos(x)
+WRONG FORMAT!
+0
+0
+0
+4*sin(x)
+-cos(x)-6*sin(x)*cos(x)^2
+0
+0
+3*sin(x)-8*x
+-sin(4)*cos(4)^-2*0-sin(x)
+0
+6*sin(x)*cos(1)*0+6*sin(1)*cos(x)
+3*sin(x)^2*cos(x)
+0
+-3*sin(x)*cos(x)^2
+0
+WRONG FORMAT!
+6*sin(x)*cos(x)
+0
+0
+0
+1
+4
+-sin(x)
+6*x*sin(x)*cos(x)+3*sin(x)^2+2*x
+3*cos(x)^4-12*x*sin(x)*cos(x)^3
+12*sin(x)^2*cos(x)
+WRONG FORMAT!
+0
+-sin(x)
+-4*sin(x)*cos((4*cos(x)-2))
+WRONG FORMAT!
+-2*sin(x)
+0
+0
+cos((sin(-1)-x))*(cos(-1)*0-1)+sin((-x-12))
+0
+3*sin(x)^2*cos(x)
+WRONG FORMAT!
+3*sin(x)^2*cos(x)
+sin(3)*0
+1
+-cos(x)
+sin(x)
+-cos(x)
+0
+WRONG FORMAT!
+0
+16*sin((4*cos(x)))*sin(x)+2*cos((1+sin((2*x))))*cos((2*x))
+2
+-3*sin(x)^2*cos(x)-8*x^-3
+0
+WRONG FORMAT!
+-3*sin(x)*cos(x)^2
+0
+2*cos(x)
+0
+3*sin(x)^2*cos(x)
+cos(x)
+2*x+2*cos(x)
+WRONG FORMAT!
+WRONG FORMAT!
+cos(x)^3-2*sin(x)^2*cos(x)
+WRONG FORMAT!
+2*sin(x)*cos(x)
+0
+0
+0
+2
+4
+3*sin(x)^-4*cos(x)
+0
+0
+4+3*sin(x)^-4*cos(x)
+-3*sin((-sin((3*cos(x)))))*sin(x)*cos((3*cos(x)))
+0
+0
+0
+2*x
+WRONG FORMAT!
+4
+-sin(sin(x))*cos(x)-sin(x)
+0
+-2*sin(x)^-2*cos(x)^3-4*cos(x)
+-1
+WRONG FORMAT!
+8*sin(x)*cos(x)
+4*sin(x)^3*cos(x)-9*sin((12*sin((cos(-1)-cos(x)^2))^3*sin((-3*sin(x)))*sin(sin(x))^3*cos(sin(x))-4))*cos(x)*(36*sin((cos(-1)-cos(x)^2))^3*sin((-3*sin(x)))*sin(sin(x))^2*cos(sin(x))^2*cos(x)+36*sin((-3*sin(x)))*sin(sin(x))^3*sin((cos(-1)-cos(x)^2))^2*cos(sin(x))*cos((cos(-1)-cos(x)^2))*(2*sin(x)*cos(x)-sin(-1)*0)-12*sin((cos(-1)-cos(x)^2))^3*sin((-3*sin(x)))*sin(sin(x))^4*cos(x)-36*sin((cos(-1)-cos(x)^2))^3*sin(sin(x))^3*cos(sin(x))*cos((-3*sin(x)))*cos(x))-9*sin(x)*cos((12*sin((cos(-1)-cos(x)^2))^3*sin((-3*sin(x)))*sin(sin(x))^3*cos(sin(x))-4))
+4
+0
+WRONG FORMAT!
+16*cos(3)*cos((3*x^2*cos(x)^4+2*cos(x)-6*x^-1))*(6*x^-2+6*x*cos(x)^4-2*sin(x)-12*x^2*sin(x)*cos(x)^3)-3*sin(x)^-4*cos(sin(x)^-3)*cos(x)-16*sin((3*x^2*cos(x)^4+2*cos(x)-6*x^-1))*sin(3)*0
+-sin(x)-16*sin(x)*cos(x)
+0
+-4*sin(x)
+-9*sin(x)*cos(x)^2
+WRONG FORMAT!
+cos(x)-2
+9*sin(x)^2*cos(x)+2*x*sin(x)*cos((2-4*sin(x)^5*cos(x)))+x^2*cos((2-4*sin(x)^5*cos(x)))*cos(x)-x^2*sin(x)*sin((2-4*sin(x)^5*cos(x)))*(4*sin(x)^6-20*sin(x)^4*cos(x)^2)
+WRONG FORMAT!
+WRONG FORMAT!
+2*x
+3*cos(x)
+2*sin(2)*cos(2)^-3*0
+0
+0
+-18*sin(x)^2*cos(x)^-2-18*sin(x)^4*cos(x)^-4
+-5*sin(x)*cos(x)^4
+8*sin(cos(x))^2*sin((4*x*cos(x)-1))^3*cos(-1)*cos((4*x*cos(x)-1))*(4*cos(x)-4*x*sin(x))-2*sin(cos(x))^2*sin((4*x*cos(x)-1))^4*sin(-1)*0-4*sin((4*x*cos(x)-1))^4*sin(cos(x))*sin(x)*cos(-1)*cos(cos(x))-4*sin(x)
+0
+1
+12*sin(x)*cos((sin(x)^-3-3*x^4*sin(x)^-3))^2*cos(x)^2+8*sin((sin(x)^-3-3*x^4*sin(x)^-3))*cos(x)^3*cos((sin(x)^-3-3*x^4*sin(x)^-3))*(9*x^4*sin(x)^-4*cos(x)-3*sin(x)^-4*cos(x)-12*x^3*sin(x)^-3)
+-3*sin(x)*cos(x)^2
+0
+cos(x)-1
+x^-2*sin(x)^4*cos(x)+x^-1*sin(x)^5-4*x^-1*sin(x)^3*cos(x)^2
+sin(x)
+2*x*cos((6*sin(x)^2*cos(x)-2))*cos(x)+2*sin(x)*cos((6*sin(x)^2*cos(x)-2))+cos(x)-2*x*sin(x)*sin((6*sin(x)^2*cos(x)-2))*(12*sin(x)*cos(x)^2-6*sin(x)^3)
+2*x^3*sin(x)^2+1-2*x^3*cos(x)^2-6*x^2*sin(x)*cos(x)
+-4*sin(x)-4*x*cos(x)
+WRONG FORMAT!
+48*x^2*sin(x)*cos(x)^-4+32*x*cos(x)^-3-sin(x)
+2*cos(x)
+WRONG FORMAT!
+0
+12*sin((-sin(x)))^-4*cos((-sin(x)))*cos(x)+4*x^5*sin(x)-20*x^4*cos(x)
+4*cos(x)
+9*sin(x)^2*cos(x)
+0
+WRONG FORMAT!
+0
+0
+2*sin(cos(x))^-3*sin(x)*cos(cos(x))-3*cos(2)^-2*cos(x)-6*sin(x)*sin(2)*cos(2)^-3*0
+-sin(x)
+4*x^-2*sin((-x^-1))^-3*cos((-x^-1))
+1
+-3*sin((4+2*sin(-1)*sin(x)^3))*(6*sin(-1)*sin(x)^2*cos(x)+2*sin(x)^3*cos(-1)*0)
+cos(x)
+-2*sin(x)^-3*cos(x)
+0
+-4*cos(x)
+3*sin(x)^2*cos(x)
+-x^-2
+-144*sin(x)*cos(x)^5
+WRONG FORMAT!
+-sin(x)-4*x*cos(x)^-2-4*sin(x)*cos(x)^-3-12*x*sin(x)^2*cos(x)^-4
+0
+-4*sin(x)*cos(x)^3-8*sin(x)-8*x*cos(x)
+2*sin(x)*cos(x)^-3
+4*sin(x)*cos(x)^3
+0
+0
+8*sin(x)
+-3*sin(x)
+0
+-sin(x)
+0
+-2
+WRONG FORMAT!
+2*cos(x)-2*sin(x)
+1
+0
+4-4*sin(x)
+WRONG FORMAT!
+0
+-3*x^2
+0
+2*sin(x)^2*cos(x)-cos(x)^3
+4*sin(x)^-5*cos(x)
+0
+WRONG FORMAT!
+32*cos(x)^2-64*x*sin(x)*cos(x)
+-8*sin(x)*cos(x)^3
+WRONG FORMAT!
+1
+0
+2*cos(x)-8*x^-3
+27*sin(x)^2*cos(x)+4*cos(x)-3*cos(-1)*0
+WRONG FORMAT!
+0
+-sin(x)
+0
+WRONG FORMAT!
+12*sin(cos(x))^-4*sin(x)*cos(cos(x))+8*sin(x)
+0
+cos(x)
+-sin(x)
+cos(x)
+-4*sin(x)
+sin(x)*sin(1)*0+1-cos(1)*cos(x)
+12*sin(x)*cos(x)^-4-cos(x)^-1-2*sin(x)^2*cos(x)^-3
+cos(x)
+0
+4*sin(1)*cos(1)^-5*0
+1
+sin(x)-2*sin(x)^-2*cos(x)^2-2
+0
+0
+24*sin(x)
+0
+12*x^2
+-2*sin(4)^-2*cos(4)*0
+-3*x^-4
+cos(x)
+16*x^3+3*x*sin(x)-3*cos(x)
+-3*cos(x)-3*sin(x)^2*cos(x)
+0
+0
+12*cos(x)^6+cos(x)-72*x*sin(x)*cos(x)^5
+-x^-2
+-sin(x)
+8*x^4*sin(x)^5*sin((4*cos(x)+sin(x)^-1))*cos((4*cos(x)+sin(x)^-1))*(-sin(x)^-2*cos(x)-4*sin(x))-16*x^3*sin(x)^5*cos((4*cos(x)+sin(x)^-1))^2-20*x^4*sin(x)^4*cos((4*cos(x)+sin(x)^-1))^2*cos(x)
+-cos(x)
+-sin(x)
+3*sin(x)
+-1
+WRONG FORMAT!
+0
+-12*sin(x)^3*cos(x)
+4*sin(1)^3*cos(1)*0
+-12*x^2*sin(x^3)^-5*cos(x^3)
+0
+-3*cos(x)-4*sin(sin(x))^-5*cos(sin(x))*cos(x)
+9*x^-4
+2*sin(x)*cos(x)-3*sin(x)*cos(x)^2
+-3*sin(sin(x))*cos(x)
+4*sin(x)
+-sin((12*x*cos(x)^2+1))*(12*cos(x)^2-24*x*sin(x)*cos(x))
+0
+0
+-sin(3)^-2*cos(3)*0
+4*sin(x)*cos(-1)+4*sin(-1)*cos(x)*0-cos(x)
+2*sin(x)*cos(x)
+0
+-sin((4*sin(x)^3-2*sin(x)))*cos(x)*(12*sin(x)^2-2)
+2*x
+4*sin(x)*cos(x)^-5
+2*sin(x)*cos(x)^2-sin(x)-sin(x)^3
+24*cos(x)+sin(x)
+-8*sin((2*sin(x)))^3*cos((2*sin(x)))*cos(x)
+0
+cos(x)
+2*x*cos(x)^4+2*sin(x)*cos(x)^3-3*sin(x)*cos(x)^2-6*x*sin(x)^2*cos(x)^2
+WRONG FORMAT!
+WRONG FORMAT!
+-sin(x)
+4*sin(x)+cos(4)*cos(x)-sin(x)*sin(4)*0
+1
+0
+0
+1-6*x^2
+0
+-cos(x)
+0
+0
+WRONG FORMAT!
+0
+4*x^3*sin(x)^-5*cos(x)-2*x^-3-3*x^2*sin(x)^-4
+0
+4*sin(x)^-5*cos(x)
+0
+8*cos(x)
+-sin(x)
+0
+0
+3*sin(x)*cos(x)^2
+0
+-8
+4*sin(x)
+-sin(x)
+WRONG FORMAT!
+WRONG FORMAT!
+x*cos((-sin(x)))*cos(x)^-2-sin((-sin(x)))*cos(x)^-3-3*x*sin((-sin(x)))*sin(x)*cos(x)^-4
+-2*sin(x)*cos(x)^-3
+1
+3*sin(x)^2*cos(x)
+WRONG FORMAT!
+0
+1
+-1
+0
+6*sin(x)*cos(x)^-4
+4*sin((-sin(x)))*cos(x)+3*cos(1)*0
+0
+WRONG FORMAT!
+-36*sin((3*sin(x)))^2*cos((3*sin(x)))*cos(x)
+WRONG FORMAT!
+6*x+3*cos(x)
+WRONG FORMAT!
+cos(x)
+16*x*sin(x)^3-sin(x)-16*sin(x)^2*cos(x)-32*x*sin(x)*cos(x)^2
+0
+WRONG FORMAT!
+4*cos(x)-3*x^-4
+-sin(x)
+0
+0
+3*x^-4*sin(x)^4-4*cos(x)-4*x^-3*sin(x)^3*cos(x)
+8*sin((-4*sin(x)^2))*sin(x)*cos(x)-2*cos(x)
+2*sin((cos(x)+x*sin(x)))^-1*sin((-x-3*x^3*sin(x)^-1*cos(x)^2))^-2*cos((-x-3*x^3*sin(x)^-1*cos(x)^2))*(6*x^3*cos(x)+3*x^3*sin(x)^-2*cos(x)^3-1-9*x^2*sin(x)^-1*cos(x)^2)+2*x*sin((-x-3*x^3*sin(x)^-1*cos(x)^2))^-1*sin((x*sin(x)+cos(x)))^-2*cos((cos(x)+x*sin(x)))*cos(x)
+0
+12*x^3-48*sin(x)^3*cos(x)
+0
+-3*cos(x)
+30*x
+3*x^2
+0
+0
+0
+0
+-2-3*sin(x)
+3
+0
+cos(x)
+WRONG FORMAT!
+cos((6*x^-4*sin(x)*cos(x)+sin(x)^-2))*cos(x)-sin(x)*sin((6*x^-4*sin(x)*cos(x)+sin(x)^-2))*(6*x^-4*cos(x)^2-2*sin(x)^-3*cos(x)-6*x^-4*sin(x)^2-24*x^-5*sin(x)*cos(x))-3*sin((3*cos(x)))*sin(x)
+0
+0
+WRONG FORMAT!
+0
+0
+0
+-sin(x)
+-12*sin((12*cos(x)))*sin(x)-24*cos(x)
+6*x*sin(x)+3*x^2*cos(x)+cos((4*sin(x)-x^-1*cos(x)))*(4*cos(x)+x^-2*cos(x)+x^-1*sin(x))
+1
+0
+2*sin((-x-3))^-1+2*x*sin((-x-3))^-2*cos((-x-3))
+WRONG FORMAT!
+-4*sin(x)^3*cos(x)
+12*sin(x)*cos(x)^-5
+1
+-sin((12*sin(x)^-4*cos(x)*cos((2*cos(x)^-1))^3+4))*(-12*sin(x)^-3*cos((2*cos(x)^-1))^3-48*sin(x)^-5*cos((2*cos(x)^-1))^3*cos(x)^2-72*sin((2*cos(x)^-1))*sin(x)^-3*cos((2*cos(x)^-1))^2*cos(x)^-1)
+-3*sin(x)
+0
+16*sin((-sin(x)^4))^3*sin(x)^3*cos((-sin(x)^4))*cos(x)
+0
+64*sin((4*cos(x)^4))*sin(x)*cos((4*cos(x)^4))^3*cos(x)^3+2*sin((-sin(x)^2))*sin(x)^2*cos(x)^2+cos((-sin(x)^2))*cos(x)^2-sin(x)^2*cos((-sin(x)^2))
+-3*sin((2*sin(x)*sin(cos(x)^2)^-4+sin((x^2-9*cos(x)))))*(16*sin(cos(x)^2)^-5*sin(x)^2*cos(cos(x)^2)*cos(x)+2*sin(cos(x)^2)^-4*cos(x)+cos((x^2-9*cos(x)))*(9*sin(x)+2*x))
+-sin(x)
+sin(x)^3-2*sin(x)*cos(x)^2
+sin(x)
+0
+1
+8*sin(x)*cos(x)^-2
+3*sin(x)*cos(x)^2
+4*sin(x)+4*x*cos(x)
+2*cos(x)
+WRONG FORMAT!
+-8*sin((-4*x))^-2*cos((-4*x))
+0
+WRONG FORMAT!
+-cos(x)-12*sin(cos(x)^2)*sin(x)*cos(cos(x)^2)^-3*cos(x)
+-1
+0
+0
+8*sin(x)*cos(x)^-5
+16*sin(x)*sin(-1)^-5*cos(x)^-1*cos(-1)*0-4*sin(-1)^-4-4*sin(-1)^-4*sin(x)^2*cos(x)^-2
+4*x^3*sin(x)^-5*cos(x)^2+4*sin(x)^3*cos(x)+x^3*sin(x)^-3-3*x^2*sin(x)^-4*cos(x)
+2
+3*sin((3*x^2-sin(x)*cos(x)^3))^2*cos((3*x^2-sin(x)*cos(x)^3))*(6*x+3*sin(x)^2*cos(x)^2-cos(x)^4)-2*sin((2*sin(x)))*cos(x)
+2*sin((3*x-x^-2))^-2-4*x*sin((3*x-x^-2))^-3*cos((3*x-x^-2))*(3+2*x^-3)
+-1
+4*x*sin(x)*cos(x)^3-cos(x)^4-sin(x)
+-2*cos(x)
+2*x*sin(x)-2*cos(x)
+-16*sin(x)*cos(x)^-5
+0
+96*sin(x)*cos((-1-12*cos(x)^4))*cos(x)^3+64*sin(x)*cos(x)^3
+-sin(1)*0
+-3*sin(x)^-4*cos(x)
+0
+0
+0
+-cos(x)
+WRONG FORMAT!
+0
+-4*sin(x)*cos(x)^3
+0
+12*sin(x)^2*cos(x)
+WRONG FORMAT!
+0
+-sin(x)
+-3*sin(cos(x)^-3)*sin(x)*cos(x)^-4
+WRONG FORMAT!
+0
+-3*sin((3*cos(x)))*sin(x)
+4
+-2*sin(x)*cos(x)
+-3*x^3*cos(x)-6*sin(x)*cos(x)^2-9*x^2*sin(x)
+cos(x)
+WRONG FORMAT!
+-2*sin(x)-8*sin(x)*cos(x)
+1
+36*sin((-cos(x)^3))*sin(x)*cos((-cos(x)^3))^-5*cos(x)^2
+-3*sin(x)*cos(x)^2
+4*sin(x)
+0
+8*x*sin(x)*cos(cos(x)^-1)*cos(x)^3+2*x*sin(cos(x)^-1)*sin(x)*cos(x)^2-2*cos(x)^4*cos(cos(x)^-1)
+0
+0
+3*cos(sin(x))*cos(x)^3-2*sin(x)-6*sin(sin(x))*sin(x)*cos(x)
+2*x^2*sin(x)-3-4*x*cos(x)
+3*x*sin(x)-3*cos(x)
+-24*sin(cos(x)^4)*sin(x)*cos(cos(x)^4)*cos(x)^3-512*sin(x)-512*x*cos(x)
+sin(x)-6*x^-2*sin(x)-12*x^-3*cos(x)
+0
+WRONG FORMAT!
+8*x*sin((-4*x^2))
+0
+-3*sin(x)*cos(x)^2
+1
+27*x^2*sin(x)+9*x^3*cos(x)-16*x^-5*cos((2*x^-4))
+sin(x)
+-16*sin(x)^-3*cos(x)
+0
+0
+WRONG FORMAT!
+4*sin(x)
+0
+0
+-sin(x)^-2*cos(x)
+-4
+-3*sin(x)
+0
+0
+2*sin(x)*cos(x)
+0
+-sin(-3)*cos(x)*0-sin(x)*cos(-3)-4*sin(x)
+3*sin(x)
+0
+0
+-1
+4*cos(x)
+0
+0
+-4*sin(x)*cos(x)^3
+-2*sin(x)
+-4*x^3
+3*sin(x)*cos(x)^-2
+WRONG FORMAT!
+1-cos(x)
+0
+0
+18*sin(4)*cos(4)*0-cos(x)
+WRONG FORMAT!
+WRONG FORMAT!
+0
+-sin(x)
+cos(x)
+0
+-sin(x)
+6*sin(x)^2*cos((2*sin(x)-6*sin(-4)^3*sin(x)))*cos(x)+4*cos(x)-2*sin(x)^3*sin((2*sin(x)-6*sin(-4)^3*sin(x)))*(2*cos(x)-6*sin(-4)^3*cos(x)-18*sin(x)*sin(-4)^2*cos(-4)*0)
+0
+WRONG FORMAT!
+0
+2*cos(x)
+0
+4*x^3
+0
+-2*sin(x)
+2*cos(x)
+-4*sin(x)*cos(x)^3
+12*sin((x^3+sin((3*sin((6*cos((9*sin(x)*cos(x)^2+x^2))))))))*cos((sin((3*sin((6*cos((9*sin(x)*cos(x)^2+x^2))))))+x^3))^-5*(3*x^2-18*sin((9*sin(x)*cos(x)^2+x^2))*cos((3*sin((6*cos((9*sin(x)*cos(x)^2+x^2))))))*cos((6*cos((9*sin(x)*cos(x)^2+x^2))))*(9*cos(x)^3+2*x-18*sin(x)^2*cos(x)))
+-sin(x)
+4*sin((4*cos(x)^-4+sin(x)))^3*cos((4*cos(x)^-4+sin(x)))*(16*sin(x)*cos(x)^-5+cos(x))+3*cos(x)
+WRONG FORMAT!
+-1
+8*x^2*sin(x)^2-8*x^2*cos(x)^2-16*x*sin(x)*cos(x)
+144*x^3*sin(x)+36*x^4*cos(x)+4*sin(sin(x)^2)*sin(x)*cos(sin(x)^2)*cos(x)
+4*sin(x)^3*cos(x)
+WRONG FORMAT!
+WRONG FORMAT!
+-sin(x)
+0
+4*sin(x)-1
+0
+sin(x)
+WRONG FORMAT!
+cos(x)
+-sin(3)*0
+-x*cos(x)
+0
+8*cos(x)
+3*x^4*sin(x)^-2*cos(x)^-2-2*sin(x)-9*x^4*cos(x)^-4-12*x^3*sin(x)^-1*cos(x)^-3
+-3*sin(x)^-4*cos(x)-48
+0
+sin(x)^3-2*sin(x)*cos(x)^2
+WRONG FORMAT!
+WRONG FORMAT!
+12*x*sin(x)^3*cos(x)^-4+8*x*sin(x)*cos(x)^-2+4*sin(x)^2*cos(x)^-3
+0
+-sin(x)-8*cos(x)
+0
+4*sin(x)
+-cos(-4)*0-cos(x)
+0
+2*sin(x)*cos(x)
+0
+1
+0
+2*x*sin(x)*cos(x)+1-cos(x)^2
+-cos(x)-32*sin(4)-32*x*cos(4)*0
+8*sin((4*cos(x)))*sin(x)
+0
+3*sin(x)*cos(x)^-2
+0
+cos((sin((sin(x)-1))+sin(x)^3))*cos(x)*(3*sin(x)^2+cos((sin(x)-1)))
+3*x*sin(x)*cos(x)*cos(cos(x))+3*x*sin(cos(x))*sin(x)-sin(x)-3*sin(cos(x))*cos(x)
+-6*sin(x)*cos(x)
+0
+cos(x)-sin(2)*0
+0
+-12*sin((-cos(x)^3))^3*sin(x)*cos((-cos(x)^3))*cos(x)^2
+WRONG FORMAT!
+WRONG FORMAT!
+0
+-6*sin(x)*cos((4+2*cos(x)))
+0
+WRONG FORMAT!
+1152*sin((4*sin(x)))^3*cos((-cos(x)^3-sin(cos((-x^-4))^4)^4*cos(x)^2))*cos((4*sin(x)))*cos(x)+72*sin((-cos(x)^3-sin(cos((-x^-4))^4)^4*cos(x)^2))*cos(x)*(64*x^-5*sin(cos((-x^-4))^4)^3*sin((-x^-4))*cos(x)^2*cos(cos((-x^-4))^4)*cos((-x^-4))^3+3*sin(x)*cos(x)^2+2*sin(cos((-x^-4))^4)^4*sin(x)*cos(x))+72*sin(x)*cos((-cos(x)^3-sin(cos((-x^-4))^4)^4*cos(x)^2))-72*sin((4*sin(x)))^4*sin((-cos(x)^3-sin(cos((-x^-4))^4)^4*cos(x)^2))*(64*x^-5*sin(cos((-x^-4))^4)^3*sin((-x^-4))*cos(x)^2*cos(cos((-x^-4))^4)*cos((-x^-4))^3+3*sin(x)*cos(x)^2+2*sin(cos((-x^-4))^4)^4*sin(x)*cos(x))
+0
+sin(x)
+-sin((-1-cos(x)^-2-2*x^2*sin(x)*cos(x)^4))*(8*x^2*sin(x)^2*cos(x)^3-2*x^2*cos(x)^5-2*sin(x)*cos(x)^-3-4*x*sin(x)*cos(x)^4)
+3*sin(3)*cos(3)^-4*0
+0
+0
+-sin(x)
+0
+WRONG FORMAT!
+-cos(x)
+-4*sin(x)
+-2*sin(x)*cos(x)
+0
+-sin(x)
+16*x^-3*sin(x)*cos(x)^2+16*x^-2*sin(x)^2*cos(x)-8*x^-2*cos(x)^3
+12*sin(x)*cos(x)-2*cos(x)
+sin((-cos((9*x*sin(x)+9*x*sin(x)^5+2))^4*cos((4*cos(x)-3*x^5))^3))*(4*sin((9*x*sin(x)+9*x*sin(x)^5+2))*cos((4*cos(x)-3*x^5))^3*cos((9*x*sin(x)^5+9*x*sin(x)+2))^3*(45*x*sin(x)^4*cos(x)+9*sin(x)^5+9*sin(x)+9*x*cos(x))+3*sin((4*cos(x)-3*x^5))*cos((9*x*sin(x)+9*x*sin(x)^5+2))^4*cos((4*cos(x)-3*x^5))^2*(-4*sin(x)-15*x^4))
+3*x^2
+-12*sin(x)^-4*cos(x)
+0
+0
+4*x^-2
+cos(x)
+WRONG FORMAT!
+1
+4*sin(x)+cos(x)
+cos(x)
+4*sin((-sin(x)^4))*sin(x)^3*cos(x)
+WRONG FORMAT!
+2*cos(x)+sin(x)
+4*sin(x)^3*cos(x)+2*sin(x)*cos(x)
+2*sin(x)^-3*cos(x)^-3+cos(x)-4*sin(x)^-5*cos(x)^-1
+0
+3*sin(x)^-4*cos(x)
+0
+-4*sin((-cos(x)))*sin(x)*cos((-cos(x)))^3
+-sin(x)
+-3*x^2
+16*x^3+sin(x)
+cos(cos(x))*cos((-x^-1*sin((-sin(1)-3*sin(x)*cos(x)^4))^2))*(x^-2*sin((-sin(1)-3*sin(x)*cos(x)^4))^2-2*x^-1*sin((-sin(1)-3*sin(x)*cos(x)^4))*cos((-sin(1)-3*sin(x)*cos(x)^4))*(12*sin(x)^2*cos(x)^3-cos(1)*0-3*cos(x)^5))+sin((-x^-1*sin((-sin(1)-3*sin(x)*cos(x)^4))^2))*sin(cos(x))*sin(x)
+WRONG FORMAT!
+0
+0
+0
+16*sin(x)^3*cos((4*sin(x)^4))*cos(x)
+sin(x)-3*x^2
+cos((sin((cos((-cos(x)^2-3*sin((cos(x)-2*sin(x)^-3*cos(x)^-2))^4))-2*x*sin(x)))^3-cos(x)))*(3*sin((cos((-cos(x)^2-3*sin((cos(x)-2*sin(x)^-3*cos(x)^-2))^4))-2*x*sin(x)))^2*cos((cos((-cos(x)^2-3*sin((cos(x)-2*sin(x)^-3*cos(x)^-2))^4))-2*x*sin(x)))*(-sin((-cos(x)^2-3*sin((cos(x)-2*sin(x)^-3*cos(x)^-2))^4))*(2*sin(x)*cos(x)-12*sin((cos(x)-2*sin(x)^-3*cos(x)^-2))^3*cos((cos(x)-2*sin(x)^-3*cos(x)^-2))*(6*sin(x)^-4*cos(x)^-1-sin(x)-4*sin(x)^-2*cos(x)^-3))-2*sin(x)-2*x*cos(x))+sin(x))-27*x^2*sin((3*x^3))
+6*x^-3
+2*sin(x)
+4*sin(x)^2*cos(x)^-5+cos(x)^-3
+4*x^3*sin((x^2*cos((64*x*cos((-3*x))*cos(x)+1))))*(2*x*cos((64*x*cos((-3*x))*cos(x)+1))-x^2*sin((64*x*cos((-3*x))*cos(x)+1))*(192*x*sin((-3*x))*cos(x)+64*cos((-3*x))*cos(x)-64*x*sin(x)*cos((-3*x))))-12*x^2*cos((x^2*cos((64*x*cos((-3*x))*cos(x)+1))))
+1-3*sin(x)*cos(x)^-4
+0
+2
+4*x*sin(x)-5*cos(x)
+2*x
+0
+0
+cos(x)
+-6*sin(cos(x))*sin(x)*cos(cos(x))^-3
+24*sin((4*x-6))^-3*sin((3+3*sin(x)*cos(x)))*sin(x)*cos((-cos(x)^2))*cos(x)+12*sin((-cos(x)^2))*sin((4*x-6))^-3*cos((3+3*sin(x)*cos(x)))*(3*cos(x)^2-3*sin(x)^2)-144*sin((-cos(x)^2))*sin((3+3*sin(x)*cos(x)))*sin((4*x-6))^-4*cos((4*x-6))
+0
+3*x^2
+0
+sin(x)
+-sin(cos(x))*sin(x)
+1
+WRONG FORMAT!
+cos(x)
+WRONG FORMAT!
+x^4*sin(-4)*0-4*x^3*cos(-4)
+-9*sin(cos(x)^3)*sin(x)*cos(cos(x)^3)^2*cos(x)^2
+0
+-cos(x)-4
+WRONG FORMAT!
+WRONG FORMAT!
+0
+0
+0
+0
+sin((2*x^2-12*x^-2*sin(x)*cos((2*sin(x)))))+x*cos((2*x^2-12*x^-2*sin(x)*cos((2*sin(x)))))*(24*x^-3*sin(x)*cos((2*sin(x)))+24*x^-2*sin(x)*sin((2*sin(x)))*cos(x)+4*x-12*x^-2*cos((2*sin(x)))*cos(x))
+cos(x)
+0
+0
+0
+0
+-1-3*sin(x)*cos(x)^2
+0
+WRONG FORMAT!
+-2*sin(x)*cos(x)-2*sin(x)
+0
+6*sin(x)*cos(x)^2
+0
+-sin(x)
+4*sin(x)^3*cos(x)
+0
+4*sin(x)*cos(x)^-2-sin(x)
+0
+0
+-sin(x)
+3*sin(x)^2*cos(x)
+-2*cos((2*x))-4*x^3
+0
+1-sin(x)
+WRONG FORMAT!
+WRONG FORMAT!
+cos(x)
+WRONG FORMAT!
+cos(x)
+12*sin(x)^3*cos(x)
+0
+0
+WRONG FORMAT!
+6*cos(x)^2-6*sin(x)^2
+6*sin(x)*cos((-2*cos(x)^-3))*cos(x)^-4-252*sin((1-3*cos(x)^7))^2*sin(x)*cos((1-3*cos(x)^7))*cos(x)^6
+cos(x)
+1
+-sin(x)-6*cos((2*x))
+2*cos(x)
+0
+2*x^-3
+WRONG FORMAT!
+0
+2*cos(x)
+WRONG FORMAT!
+-3*sin(x)^-4*cos(x)
+2*sin(x)-8*sin(x)*cos(x)
+0
+0
+0
+WRONG FORMAT!
+0
+-sin(x)
+WRONG FORMAT!
+24*sin(x)^2*cos(x)^3-6*cos(x)^5
+-32*sin(4)^4-128*x*sin(4)^3*cos(4)*0
+16*sin(x)^3*cos(x)-2*sin(x)
+0
+4*sin(x)-8*x
+1
+WRONG FORMAT!
+sin(x)^2-cos(x)^2
+0
+3*sin((3*x))
+0
+sin(3)*0-8*x^2*cos(x)-16*x*sin(x)
+WRONG FORMAT!
+2*cos(x)
+1
+0
+x*sin(x)-cos(x)
+-72*sin((4*sin((2*sin(x)))^3))*sin((2*sin(x)))^2*cos((4*sin((2*sin(x)))^3))^2*cos((2*sin(x)))*cos(x)
+2*x-sin(x)
+-2*sin(x)*cos(x)-16*x^-5*cos((4-4*x^-4))
+4-2*sin(x)*cos(x)
+-sin(x)
+8*x^3*cos((1+x^4))
+4*cos(x)
+-sin(x)
+sin(x)*cos(x)^-2
+0
+2-54*cos(x)
+-3*sin(x)
+1
+3*cos(x)
+WRONG FORMAT!
+0
+-16*sin(x)^3*cos(x)
+WRONG FORMAT!
+12*sin(x)^3*cos(x)
+cos(x)
+-2*sin(x)*cos(x)
+0
+0
+cos(x)
+WRONG FORMAT!
+-1-3*cos((-3*sin(x)))*cos(x)
+0
+1
+0
+0
+-1
+WRONG FORMAT!
+4*sin(1)*0
+12*sin(x)^2*cos(x)
+12*sin(x)^5*cos(x)+cos(x)
+cos(x)
+9*sin(x)*cos(x)^2
+0
+0
+sin((-2*sin((-x))*cos(x)^2))*(4*sin((-x))*sin(x)*cos(x)+2*cos(x)^2*cos((-x)))
+4*cos(x)
+-6*sin((-2*cos(x)))*sin(x)
+-cos(x)
+0
+-cos(x)
+0
+WRONG FORMAT!
+-4*sin(x)*cos(x)
+0
+48*sin((3+2*sin(x)))^3*cos((2*sin((3+2*sin(x)))^4))*cos((3+2*sin(x)))*cos(x)
+4*cos(x)
+0
+-4*sin(x)*cos(x)
+8*cos(x)^4-32*x*sin(x)*cos(x)^3
+WRONG FORMAT!
+0
+0
+12*sin(x)*cos(x)^2+1
+WRONG FORMAT!
+0
+30*sin(x)^-3*cos(x)^4+24*sin(x)^-5*cos(x)^6+sin(x)
+0
+0
+1
+3*sin(x)^2*cos(x)
+8*sin(x)^-3*cos(x)
+WRONG FORMAT!
+-16*sin((4*cos(x)))*sin(x)
+3*sin(x)*cos(x)^-4
+-x^7*cos(x)-7*x^6*sin(x)
+0
+1
+-2*sin((-cos((sin(x)+x))))*sin((sin(x)+x))*(1+cos(x))
+72*sin(cos(x))*sin(3)^2*cos(x)*cos(3)*0-24*sin(3)^3*sin(x)*cos(x)*cos(cos(x))-24*sin(cos(x))*sin(3)^3*sin(x)
+-sin(x)
+-2-4*sin(x)*cos(cos(x)^4)*cos(x)^3
+2*sin(x)*cos(x)
+0
+-2*sin(x)*cos(x)
+24*x*sin(x)*cos(x)+12*sin(x)^2
+WRONG FORMAT!
+-2*x^-3
+-4*x^3
+2*cos(x)
+1
+8*sin(x)*cos(x)-4*x^3
+96*x^2*sin(x)*cos(cos(x))*cos(x)^3+3*sin(2)^-4*cos(2)*0-24*x^2*sin(cos(x))*sin(x)*cos(x)^4-48*x*cos(cos(x))*cos(x)^4
+0
+3*x^2
+WRONG FORMAT!
+1
+-8*sin(x)*cos(x)
+1
+48*x*cos(x)+9*sin(x)^2*cos(x)-24*x^2*sin(x)
+1
+-x^-2
+2*cos(x)
+-1-sin(x)
+-8*sin(x)*cos(x)^3
+-3*sin(x)^-3-12*sin(x)^-5*cos(x)^2
+18*sin(-4)*cos(x)^2*cos(-4)^-4*0-12*sin(x)*cos(-4)^-3*cos(x)
+cos(x)
+0
+108*x^2*sin(x)+36*x^3*cos(x)
+0
+4*sin(x)^3*cos((sin(x)^4-2))*cos(x)
+cos(x)
+WRONG FORMAT!
+4*sin((cos((3*x^3))^-3-4*sin(x)^3))^3*cos(x)^2*cos((cos((3*x^3))^-3-4*sin(x)^3))*(27*x^2*sin((3*x^3))*cos((3*x^3))^-4-12*sin(x)^2*cos(x))-2*sin((cos((3*x^3))^-3-4*sin(x)^3))^4*sin(x)*cos(x)
+0
+2*sin(x)
+0
+0
+-4*sin((-4*cos(x)))*sin(x)
+-cos(x)
+-sin(x)^-2-3*sin(x)^-4*cos(x)^2
+x^3*sin(x)^2-x^3*cos(x)^2-sin(x)-3*x^2*sin(x)*cos(x)
+-sin(x)
+cos(x)
+-sin(x)-3*sin(x)^-4*cos(x)
+WRONG FORMAT!
+-sin(x)
+cos(x)
+3*cos(x)
+0
+0
+WRONG FORMAT!
+0
+0
+2*sin(1)^-3*cos(1)*0
+1
+-8*sin((cos((4*x))^-2-4*x^-2))*(sin((4*x))*cos((4*x))^-3+x^-3)
+24*x^-2*sin((3*cos(x)))*sin(x)*cos(x)*cos(sin((cos(x)-4)))*cos((3*cos(x)))^3+2*x^-2*sin(sin((cos(x)-4)))*sin(x)*cos(x)*cos((3*cos(x)))^4*cos((cos(x)-4))+2*sin(sin((cos(x)-4)))*sin(x)*cos(x)^2*cos((cos(x)-4))-2*sin(x)-2*x^-2*sin(x)*cos(sin((cos(x)-4)))*cos((3*cos(x)))^4-4*x^-3*cos(x)*cos(sin((cos(x)-4)))*cos((3*cos(x)))^4-4*sin(x)*cos(sin((cos(x)-4)))*cos(x)
+-144*x^-3*sin((12*x^-2))*cos((12*x^-2))
+-1
+-sin(x)
+-2*sin(x)*cos(x)
+-cos(x)
+4*sin(x)*cos(x)^3+2*sin(x)*cos(x)
+0
+4*sin(cos(x))*sin(x)^-5*cos(x)-4*sin(x)-4*sin(x)^-5*cos(cos(x))-24*sin(x)^-7*cos(cos(x))*cos(x)^2
+0
+0
+-12*sin((x+sin(x)))*cos((4*sin(x)^3))^2*cos((sin(x)+x))*(cos(x)+1)-144*sin((4*sin(x)^3))*sin(x)^2*cos((x+sin(x)))^2*cos((4*sin(x)^3))*cos(x)
+12*sin(cos(x)^-2)*sin(x)*cos(cos(x)^-2)^2*cos(x)^-7+1-8*sin(x)*cos(cos(x)^-2)^3*cos(x)^-5
+WRONG FORMAT!
+WRONG FORMAT!
+0
+cos(x)-x^2*cos(x)-2*x*sin(x)
+sin(x)
+WRONG FORMAT!
+4*cos(x)
+1+cos((5*sin(x)-4*cos(x)))^3-3*x*sin((5*sin(x)-4*cos(x)))*cos((5*sin(x)-4*cos(x)))^2*(5*cos(x)+4*sin(x))
+-5*sin(x)
+-4*sin(x)*cos(x)^3
+0
+WRONG FORMAT!
+3*sin(3)*0
+0
+1
+WRONG FORMAT!
+0
+1
+0
+2*sin((2*cos(x)))*sin(x)
+-4*sin(x)*cos(x)^-5
+4*sin(x)^3*cos(x)^5-4*sin(x)^5*cos(x)^3
+192*sin((1-x*cos(x^2)^4))^3*cos(x)*cos((1-x*cos(x^2)^4))*(8*x^2*sin(x^2)*cos(x^2)^3-cos(x^2)^4)+6*sin(1)*cos(1)*0-48*sin((1-x*cos(x^2)^4))^4*sin(x)
+0
+0
+0
+sin(x)
+-cos(x)
+12*sin((cos(x)-1))*sin(x)*cos((cos(x)-1))^-4+x^-2
+16*sin(x)*cos((9*x*sin(sin((-4*cos((-cos(x)))*cos((3*cos(x)^2))^2)))+x^3))^3*cos(x)^-5-2*sin(x)*cos(x)^-3-12*sin((9*x*sin(sin((-4*cos((-cos(x)))*cos((3*cos(x)^2))^2)))+x^3))*cos(x)^-4*cos((9*x*sin(sin((-4*cos((-cos(x)))*cos((3*cos(x)^2))^2)))+x^3))^2*(9*sin(sin((-4*cos((-cos(x)))*cos((3*cos(x)^2))^2)))+9*x*sin(x)*cos(sin((-4*cos((-cos(x)))*cos((3*cos(x)^2))^2)))*cos((-4*cos((-cos(x)))*cos((3*cos(x)^2))^2))*(4*sin((-cos(x)))*cos((3*cos(x)^2))^2-48*sin((3*cos(x)^2))*cos((-cos(x)))*cos((3*cos(x)^2))*cos(x))+3*x^2)
+-sin(4)*0
+8*x
+4*sin((-sin(x)))*cos(x)
+0
+-2*cos((sin((4+4*cos(x)^3))*cos(x)-sin(x)))*(-cos(x)-sin((4+4*cos(x)^3))*sin(x)-12*sin(x)*cos((4+4*cos(x)^3))*cos(x)^3)-4*sin(x)^-5*cos(x)
+3*cos(x)
+0
+-1-6*sin((3*cos(cos(x))))*sin(cos(x))*sin(x)*cos((3*cos(cos(x))))
+-3*sin(x)*cos(x)^2
+0
+1
+1
+-x^-2
+4*cos(x)
+0
+-sin(x)
+WRONG FORMAT!
+8*sin(1)*cos(1)^-3*0
+48*x^3*sin(x)+12*x^4*cos(x)
+2*sin(x)*cos(x)
+WRONG FORMAT!
+0
+cos(x)
+0
+4*x^3-96*sin(x)^3*cos(x)
+6*sin(x)^2*cos(x)
+1
+6*sin(x)^-4*cos(x)
+-sin(x)
+-cos(x)
+cos(x)
+16*sin(x)*cos(x)
+0
+cos(sin(x))*cos(x)
+0
+WRONG FORMAT!
+-sin(x)
+0
+sin(x)
+2*x
+-sin(x)
+3*sin(2)^2*cos(2)*0
+2*sin(x)*cos(x)
+12*sin(x)^-2-24*x*sin(x)^-3*cos(x)
+0
+0
+0
+-3*sin(x)
+-4*cos((4*x^3*cos(x)-sin(x)^3))*(12*x^2*cos(x)-3*sin(x)^2*cos(x)-4*x^3*sin(x))
+0
+0
+2*sin(x)*cos(x)
+0
+-3*sin(x)^-4*cos(x)
+16*x*sin((108*x^2*sin(x)^3))*sin(x)*cos(x)-8*x*cos(x)^2*cos((108*x^2*sin(x)^3))*(324*x^2*sin(x)^2*cos(x)+216*x*sin(x)^3)-8*sin((108*x^2*sin(x)^3))*cos(x)^2
+1-2*sin((-x^4-8*sin(x)))*cos((-x^4-8*sin(x)))*(-4*x^3-8*cos(x))
+0
+0
+-cos(x)
+-3*x^-4
+0
+0
+0
+cos(x)
+0
+3*sin(x)*cos(x)^-4
+3
+2*x^-3*cos(x)^-3-3*x^-2*sin(x)*cos(x)^-4
+-24*sin((4*x^-3*sin(x)^2))^4*sin(x)*cos(x)^-4-32*sin((4*x^-3*sin(x)^2))^3*cos(x)^-3*cos((4*x^-3*sin(x)^2))*(8*x^-3*sin(x)*cos(x)-12*x^-4*sin(x)^2)
+-2*sin(x)*cos(x)
+-1
+-1
+1
+-3*sin(x)*cos(x)^2
+6*sin(x)*cos(x)
+0
+6*x-12*sin((-3*x))
+1
+-4*cos((6*x^2-4*x))*(12*x-4)
+sin(x)-96*sin(x)*cos(x)^-3-192*sin(x)^3*cos(x)^-5
+2*cos(x)-x^-2
+0
+0
+10*sin(x)*cos(x)
+sin(x)
+1
+36*sin((sin(x)-2))+36*x*cos((sin(x)-2))*cos(x)
+-cos(x)
+16*sin(x)*cos((-4*cos(x)))^-4*cos(x)^3-9*sin((sin(x)-2*sin(x)^5))*cos((sin(x)-2*sin(x)^5))^2*cos(x)*(1-10*sin(x)^4)-64*sin((-4*cos(x)))*sin(x)*cos(x)^4*cos((-4*cos(x)))^-5
+36*x^2+8*x^-5*sin((2*x^-4))
+WRONG FORMAT!
+2*cos(x)
+3*cos((-sin(x)))*cos(x)^2+3*sin((-sin(x)))*sin(x)-6*sin((-x))^2*cos((-x))
+3*cos(x)
+-4*sin(2)*cos(2)^3*0
+2*sin(x)*cos(x)
+-sin(x)
+0
+9*sin(x)^2*cos(x)+2*sin(x)*cos(x)
+-x^-2
+0
+0
+-3
+-sin(x)
+-8*sin(x)*cos(x)
+-4*sin(x)^-3*cos(x)
+0
+2*sin(x)
+3*cos(x)
+0
+64*cos(x)-sin(x)
+cos(x)
+0
+16*sin((3-x*sin(x)^5))^3*cos((3-x*sin(x)^5))*(-sin(x)^5-5*x*sin(x)^4*cos(x))-1
+8*sin(x)*cos(x)^3
+sin(x)*cos(x)^-2-4*sin(x)*cos(x)^-5
+sin(x)*cos(x)^-2
+0
+2*sin(x)*cos(x)
+cos(x)
+WRONG FORMAT!
+0
+WRONG FORMAT!
+48*sin((4*cos((4*x))))^-4*sin((4*x))*cos((4*cos((4*x))))+6*cos(x)^4-18*sin(x)^2*cos(x)^2
+cos(x)^2-sin(x)^2
+-sin(x)
+0
+0
+3
+-sin(x)
+3*sin(x)
+0
+0
+4*sin((2*cos(x)^2))*sin(x)*cos(x)+x*sin(cos(x))*cos(1)*0+sin(1)*sin(cos(x))-x*sin(1)*sin(x)*cos(cos(x))
+0
+-12*sin(x)^-4*cos(x)
+-sin(x)
+-3*x^-4
+2*sin(x)*cos(x)
+3*sin(x)*cos((2+cos(x)))+2*sin((-2-2*x))
+3*cos(x)
+WRONG FORMAT!
+0
+WRONG FORMAT!
+0
+cos(x)
+0
+16*x^3+2*x*sin(x)^2-2*x*cos(x)^2-2*sin(x)*cos(x)
+36*sin(x)*cos(sin(x))*cos(x)+24*sin(x)*sin(sin(x))*cos(x)-18*sin(x)^2*sin(sin(x))*cos(x)-24*cos(sin(x))*cos(x)
+0
+2*sin(x)*cos(cos(x)^-2)*cos(x)^-3
+3*sin(x)^2*cos(x)
+-sin(x)
+-cos(x)
+0
+3*cos(x)
+sin(x)
+1-16*sin(x)^-5*cos(x)
+0
+WRONG FORMAT!
+4*sin(x)^3*cos(x)
+8*sin(x)*cos(x)^-2+1
+0
+3*sin(x)*cos(x)^-4
+0
+WRONG FORMAT!
+WRONG FORMAT!
+sin(-3)*0
+0
+WRONG FORMAT!
+0
+WRONG FORMAT!
+0
+24*x^2
+-sin(x)^-2*cos(x)
+2
+24*sin(x)*cos((-4*cos(x)^2))*cos(x)
+8*sin(x)*cos(x)^2+sin(x)-4*sin(x)^3
+sin(x)
+-cos(x)-2*x^-3*sin(x)-6*x^-4*cos(x)
+-sin(4)*0
+4*cos(x)
+sin(x)^-2*cos(x)
+4*sin(x)^3*cos(x)
+4*sin(x)*cos(x)^3
+0
+8*sin(x)*cos(x)^-5
+0
+-4*x^3
+-sin(x)
+-cos(x)
+0
+3*sin(x)
+6*sin(x)*cos(x)^2
+cos(x)-1
+WRONG FORMAT!
+-12*sin(x)^2*cos(x)
+0
+0
+0
+cos(x)
+-sin(cos(x))*sin(x)-1
+WRONG FORMAT!
+0
+-sin(x)
+3*sin(x)^2*cos(x)
+cos(x)
+WRONG FORMAT!
+4*cos(x)
+1
+4*x^3
+WRONG FORMAT!
+0
+0
+-12*sin(x)*cos(x)^-4
+1
+16*x*sin(x)^3*cos(x)+4*sin(x)^4-12*sin(x)*cos(x)^3
+8*cos((cos(x)-x))+8*x*sin((cos(x)-x))*(sin(x)+1)+sin(-3)*0
+cos((2*cos(x)^4-2*cos((2*cos(x)))*cos((sin(x)-sin(x)*cos(x)^3))))*(2*sin((sin(x)-sin(x)*cos(x)^3))*cos((2*cos(x)))*(3*sin(x)^2*cos(x)^2+cos(x)-cos(x)^4)-4*sin((2*cos(x)))*sin(x)*cos((sin(x)-sin(x)*cos(x)^3))-8*sin(x)*cos(x)^3)
+-2*sin(x)-12*sin(x)*cos(x)^3
+-2*sin((4*sin(x)))*cos(x)-4*sin(x)-8*sin(x)*cos((4*sin(x)))*cos(x)
+WRONG FORMAT!
+-cos(x)-4*sin((cos(x)^3-4*sin(x)))*cos((cos(x)^3-4*sin(x)))^3*(-3*sin(x)*cos(x)^2-4*cos(x))
+cos(x)
+-4*sin((-sin(x)^2))*sin(x)*cos((-sin(x)^2))*cos(x)
+384*sin(sin((2*cos(x)^-4-2))^4)*sin((2*cos(x)^-4-2))^3*sin(x)*cos((2*cos(x)^-4-2))*cos(x)^-5-2*x^-3
+-sin(x)
+-2*x^-3
+-2*sin(x)
+cos(x)
+-sin(x)
+3
+-16*sin(x)
+0
+-sin(x)
+WRONG FORMAT!
+WRONG FORMAT!
+-cos(x)
+2*x-sin(x)^-4*sin((2-12*x^3*sin(x)))*(-12*x^3*cos(x)-36*x^2*sin(x))-4*sin(x)^-5*cos((2-12*x^3*sin(x)))*cos(x)
+-1
+0
+-4*sin((3+2*sin(x)))*cos(x)
+4*x
+7*x^6*cos(x)-x^7*sin(x)
+-sin(x)
+-4*sin((4*x))
+WRONG FORMAT!
+0
+0
+0
+0
+WRONG FORMAT!
+0
+-3*sin(x)^2*cos(x)
+sin(x)*cos(x)^-2
+0
+16*sin(x)*cos(x)*cos((x^4-2*sin(x)))*(4*x^3-2*cos(x))+16*sin((x^4-2*sin(x)))*cos(x)^2+sin(x)-16*sin((x^4-2*sin(x)))*sin(x)^2
+3*sin(x)
+0
+0
+0
+16*x^-5
+3*cos(x)
+-cos(x)
+1
+1
+0
+WRONG FORMAT!
+1
+WRONG FORMAT!
+WRONG FORMAT!
+0
+-4
+WRONG FORMAT!
+cos(x)
+-2*sin(x)*cos(x)
+3*cos(x)
+2*sin(x)*cos(x)
+0
+cos(x)
+0
+18*sin(x)*cos(x)^2-8*sin(x)*cos(x)
+-2*sin(x)
+0
+8*sin(x)*cos(x)
+0
+4
+0
+0
+0
+WRONG FORMAT!
+-4*cos(sin(x))*cos(x)
+sin(x)*cos((-sin(x)))+1-sin((-sin(x)))*cos(x)^2
+6*sin((3*cos((-sin(x)))))*sin((-sin(x)))*cos((3*cos((-sin(x)))))*cos(x)
+0
+2*sin(-3)*cos(-3)*0
+-sin(x)
+WRONG FORMAT!
+-2*sin(x)*cos(x)
+-8*sin(sin((4*cos(x))))*sin(x)*cos((4*cos(x)))
+0
+0
+WRONG FORMAT!
+-cos(x)
+48*x^3*sin(x)*cos(x)+12*x^4*cos(x)^2+cos(x)-12*x^4*sin(x)^2
+0
+cos(sin(x))*cos(x)
+-4*x^3
+WRONG FORMAT!
+0
+WRONG FORMAT!
+WRONG FORMAT!
+12*cos(x)^2-4*sin(x)^-5*cos(x)-24*x*sin(x)*cos(x)
+1
+-3*sin(x)
+36*x^2
+-sin(x)
+4*cos(x)-3*sin(x)^2*cos(x)
+-2*sin(x)
+WRONG FORMAT!
+-cos(x)
+0
+WRONG FORMAT!
+WRONG FORMAT!
+cos(x)
+4*sin((3*cos(x)-3*x*sin(x)^4))^3*cos((3*cos(x)-3*x*sin(x)^4))*(-3*sin(x)^4-3*sin(x)-12*x*sin(x)^3*cos(x))+sin((-sin(x)-sin(x)*cos(x)^-4))*sin(x)-cos(x)*cos((-sin(x)-sin(x)*cos(x)^-4))*(-cos(x)^-3-cos(x)-4*sin(x)^2*cos(x)^-5)
+3
+WRONG FORMAT!
+cos(x)-2*sin(x)-2*x*cos(x)
+cos(x)
+0
+cos(x)
+0
+6*x^2*cos(x)^2-4*x^3*sin(x)*cos(x)-8*sin(x)*cos(x)
+WRONG FORMAT!
+cos(x)
+2*sin(x)
+-cos(x)-sin(x)
+-4*sin(3)-4*x*cos(3)*0
+0
+-2*cos(x)
+2*sin(x)*cos(x)^-3
+0
+-9*cos(x)
+108*sin((-sin((3+sin(4)^2))*cos((2*cos((-cos(x)))^-1+x^2))-sin((-3*sin(-2)^2))^-4))^3*cos(x)*cos((-sin((-3*sin(-2)^2))^-4-sin((3+sin(4)^2))*cos((2*cos((-cos(x)))^-1+x^2))))*(2*sin((3+sin(4)^2))*sin((2*cos((-cos(x)))^-1+x^2))*(sin((-cos(x)))*sin(x)*cos((-cos(x)))^-2+x)-2*sin(4)*cos((2*cos((-cos(x)))^-1+x^2))*cos((3+sin(4)^2))*cos(4)*0-24*sin((-3*sin(-2)^2))^-5*sin(-2)*cos((-3*sin(-2)^2))*cos(-2)*0)+sin(x)*cos(x)^-2-27*sin((-sin((-3*sin(-2)^2))^-4-sin((3+sin(4)^2))*cos((2*cos((-cos(x)))^-1+x^2))))^4*sin(x)
+-cos(x)
+-2*x^-3
+-3*cos(x)
+-sin(x)^-2*cos(x)-3*sin(x)^2*cos(x)
+0
+0
+16*sin(x)^4*cos(x)^-5+12*sin(x)^2*cos(x)^-3
+-sin(x)*cos(x)^-2-sin(x)
+3*sin(x)^2*cos(x)
+8*sin(x)*cos(x)+3*sin(x)
+3*sin(x)^2*cos(x)
+0
+12*sin((cos(x)^-1-sin(x)))*cos(x)^-2*cos((cos(x)^-1-sin(x)))^3*(sin(x)*cos(x)^-2-cos(x))-2*x-6*sin(x)*cos((cos(x)^-1-sin(x)))^4*cos(x)^-3
+0
+WRONG FORMAT!
+WRONG FORMAT!
+WRONG FORMAT!
+cos(x)
+0
+1+cos(x)
+2
+3*cos(x)^3-2*sin(x)*cos(x)-9*x*sin(x)*cos(x)^2
+-3*sin(x)
+0
+1
+-1
+-sin(x)
+WRONG FORMAT!
+0
+WRONG FORMAT!
+-3*x^2
+WRONG FORMAT!
+0
+4*x-4*sin(cos((-x))^2)*sin((-x))*cos((-x))
+16*cos(x)+4*x^-5-16*x*sin(x)
+0
+1
+0
+0
+0
+72*x^3*sin(x)^-4*cos(x)+cos(-1)*0-6*x^2*cos(x)-12*x*sin(x)-72*x^2*sin(x)^-3
+-4*cos(x)
+48*sin((-2-32*x^-4*cos(x)^-4))^2*sin(sin(x)^-2)*sin(x)^-3*cos(sin(x)^-2)*cos(x)+24*sin((-2-32*x^-4*cos(x)^-4))*cos(sin(x)^-2)^2*cos((-2-32*x^-4*cos(x)^-4))*(128*x^-5*cos(x)^-4-128*x^-4*sin(x)*cos(x)^-5)+3*sin(x)*cos(x)^-4
+3
+0
+-1
+0
+0
+3*x^2
+0
+3*sin(x)^-4*cos(x)
+cos(x)
+0
+WRONG FORMAT!
+WRONG FORMAT!
+cos(x)
+-1
+8
+1
+2*sin(x)*cos(x)
+-12*x^-5
+-2*sin(x)
+WRONG FORMAT!
+-3
+cos(x)
+WRONG FORMAT!
+-432*sin(-3)^-4*cos(-3)*0
+-1
+cos(x)
+WRONG FORMAT!
+0
+6*x^-3*sin(x)*cos((x^-3-3*x^2*sin(x)^-2))+3*x^-2*sin(x)*sin((x^-3-3*x^2*sin(x)^-2))*(6*x^2*sin(x)^-3*cos(x)-3*x^-4-6*x*sin(x)^-2)-3*x^-2*cos((x^-3-3*x^2*sin(x)^-2))*cos(x)-3*sin(x)*cos((3*cos(x)))
+-sin(x)-4*cos((3*x))^-1*cos(x)-12*sin(x)*sin((3*x))*cos((3*x))^-2
+sin(x)
+2
+4*x^3
+0
+0
+WRONG FORMAT!
+0
+0
+1
+WRONG FORMAT!
+4*x^3
+-sin(x)-2*sin(-1)*cos(-1)^-2*0
+9*x^2+2*sin((24*x^3*sin(x)+2*sin(x)))*sin((9*sin((4*cos(x)+4*x^8))*sin((4*sin(x)^2*cos(x)^2+1))*cos(x)+sin(x)))*sin(x)*cos((3*x^4*cos(x)^4+x-sin(x)*cos(x)))*cos(x)+sin((24*x^3*sin(x)+2*sin(x)))*sin((9*sin((4*cos(x)+4*x^8))*sin((4*sin(x)^2*cos(x)^2+1))*cos(x)+sin(x)))*sin((3*x^4*cos(x)^4+x-sin(x)*cos(x)))*cos(x)^2*(12*x^3*cos(x)^4+sin(x)^2+1-cos(x)^2-12*x^4*sin(x)*cos(x)^3)-sin((9*sin((4*cos(x)+4*x^8))*sin((4*sin(x)^2*cos(x)^2+1))*cos(x)+sin(x)))*cos((3*x^4*cos(x)^4+x-sin(x)*cos(x)))*cos(x)^2*cos((24*x^3*sin(x)+2*sin(x)))*(72*x^2*sin(x)+24*x^3*cos(x)+2*cos(x))-sin((24*x^3*sin(x)+2*sin(x)))*cos((3*x^4*cos(x)^4+x-sin(x)*cos(x)))*cos(x)^2*cos((9*sin((4*cos(x)+4*x^8))*sin((4*sin(x)^2*cos(x)^2+1))*cos(x)+sin(x)))*(9*sin((4*cos(x)+4*x^8))*cos(x)*cos((4*sin(x)^2*cos(x)^2+1))*(8*sin(x)*cos(x)^3-8*sin(x)^3*cos(x))+9*sin((4*sin(x)^2*cos(x)^2+1))*cos(x)*cos((4*cos(x)+4*x^8))*(32*x^7-4*sin(x))+cos(x)-9*sin((4*cos(x)+4*x^8))*sin((4*sin(x)^2*cos(x)^2+1))*sin(x))
+-8*x*cos(x)^-2-8*sin(x)*cos(x)^-3-24*x*sin(x)^2*cos(x)^-4
+4*sin(x)^-5*cos(x)+4
+9*sin(x)^2*cos(x)
+WRONG FORMAT!
+WRONG FORMAT!
+cos(x)
+-sin(x)
+WRONG FORMAT!
+-3*cos(x)
+WRONG FORMAT!
+-cos(x)
+sin(x)
+0
+WRONG FORMAT!
+4*sin(x)+2
+0
+2*sin(x)*cos(x)
+sin(x)*cos(x)^-2-cos(x)
+0
+0
+WRONG FORMAT!
+WRONG FORMAT!
+0
+4*cos(x)
+0
+WRONG FORMAT!
+0
+cos(x)
+2*x^-2*sin((2*x^-1))
+WRONG FORMAT!
+0
+0
+WRONG FORMAT!
+3*sin(x)^2*cos(x)
+1-8*cos((-cos((x+x*sin(x)^5))-2*sin(x)))*(sin((x+x*sin(x)^5))*(5*x*sin(x)^4*cos(x)+sin(x)^5+1)-2*cos(x))
+WRONG FORMAT!
+0
+WRONG FORMAT!
+4*x*sin(x)*sin(x^2)*cos(x^2)+sin(x^2)^2*cos(x)
+cos(x)
+0
+0
+4*x^-2
+3*sin(x)*cos(x)^2
+2*sin(x)*cos(x)^-3
+cos(x)
+0
+2*sin(x)*cos(x)
+4*sin(x)
+0
+WRONG FORMAT!
+WRONG FORMAT!
+WRONG FORMAT!
+sin((3*x^4-1))*sin(x)-12*x^3*cos(x)*cos((3*x^4-1))
+96*sin((2*sin(x)^2))^2*sin(x)*cos((2*sin(x)^2))*cos(x)^5+cos(x)-32*sin((2*sin(x)^2))^3*sin(x)*cos(x)^3
+WRONG FORMAT!
+-8*sin((16+2*sin(x)^4))*sin(x)^3*cos(x)
+2*x
+36*x^-4*sin(x)+1-12*x^-3*cos(x)
+-sin(x)
+-2*sin((1-sin(x)*cos(x)^2))*cos((1-sin(x)*cos(x)^2))*(2*sin(x)^2*cos(x)-cos(x)^3)-4*x^-2*sin((-cos(x)))*sin(x)*cos(x)-4*x^-2*sin(x)*cos((-cos(x)))-8*x^-3*cos((-cos(x)))*cos(x)
+0
+0
+4*sin(x)*cos(x)^-5
+1
+-1
+0
+16*x^3*cos(4)-4*x^4*sin(4)*0-9*x^2
+WRONG FORMAT!
+0
+12*x^3*sin(x)^4+12*x^4*sin(x)^3*cos(x)
+64*x*sin((3*cos(x)+x*sin(x)))*sin(x)-64*x*cos(x)*cos((3*cos(x)+x*sin(x)))*(x*cos(x)-2*sin(x))-64*sin((3*cos(x)+x*sin(x)))*cos(x)
+-8*sin(x)^3*cos(x)
+WRONG FORMAT!
+cos(x)
+0
+cos(x)
+-sin(x)
+WRONG FORMAT!
+12*x^2*sin((4*x^-4*sin(cos(x)^-1)+1))+4*x^3*cos((4*x^-4*sin(cos(x)^-1)+1))*(4*x^-4*sin(x)*cos(cos(x)^-1)*cos(x)^-2-16*x^-5*sin(cos(x)^-1))
+36*sin((2-cos((4*cos(x)^3))))*sin((4*cos(x)^3))*sin(x)*cos((2-cos((4*cos(x)^3))))^2*cos(x)^2
+1
+2*cos(x)
+0
+0
+0
+WRONG FORMAT!
+WRONG FORMAT!
+WRONG FORMAT!
+4*sin(x)*cos(x)
+0
+-2*cos(x)
+-6*sin(x)^2*cos(x)
+0
+0
+WRONG FORMAT!
+1-9*cos(x)
+-6*sin(x)^-4*cos(x)
+1
+4*x^3
+-9*sin(x)*cos(x)^2
+-1
+0
+cos(x)
+cos(x)-sin(sin(x))*cos(x)
+2*sin(x)
+-1
+0
+0
+0
+64*sin((2*x+sin(x)))^2*sin(x)^3*cos(x)+32*sin(x)^4*sin((2*x+sin(x)))*cos((2*x+sin(x)))*(2+cos(x))+3*sin(x)
+WRONG FORMAT!
+-4*sin(x)^-5*cos(x)
+0
+0
+0
+WRONG FORMAT!
+0
+WRONG FORMAT!
+2*cos(x)
+-2*sin(x)-2*x*cos(x)-4*sin(x)^-5*cos(x)
+1
+-4*sin(x)
+-cos(x)
+WRONG FORMAT!
+6*x*sin(x)*cos(x)^2-2*cos(x)^3
+cos(x)-sin(x)
+sin(x)-12*sin(x)*cos(x)^-2
+2*cos(x)
+2*sin(x)
+WRONG FORMAT!
+0
+4*x^3+sin(x)^-2*cos(x)^2+1
+-2*cos(sin(x))*cos(x)
+-sin(x)
+cos(2)*0
+1-6*x^-4
+0
+3*sin(x)^2*cos(x)-8*sin(x)*cos(x)
+-sin((x^4-sin(x)))^3*cos(x)-3*sin(x)*sin((x^4-sin(x)))^2*cos((x^4-sin(x)))*(4*x^3-cos(x))
+-1-3*sin(x)
+-4*x^-5
+1
+1
+0
+4*sin(x)^3*cos(x)+2*x
+3
+2*x
+-2*sin(x)
+0
+sin(x)
+sin(x)*cos(x)^-2
+-72*cos((-x))
+-1
+0
+2*sin(1)*cos(1)^-2*0
+12*x*sin(x)*cos(x)^2-1-4*cos(x)^3
+sin(x)
+4*sin(x)^3*cos(x)-sin(1)*0
+0
+3
+0
+WRONG FORMAT!
+2*sin((sin(x)-2*x^2*cos(x)))*cos(sin((sin(x)-2*x^2*cos(x)))^2)*cos((sin(x)-2*x^2*cos(x)))*(2*x^2*sin(x)+cos(x)-4*x*cos(x))-sin(x)
+4
+WRONG FORMAT!
+4*sin((-x))
+-1
+12*x^3-6*x
+-sin(x)
+0
+0
+-4*cos(x)
+-2*cos(x)
+12*sin((sin(x)*cos(x)^-3+sin(x)^-4))^3*cos((sin(x)^-4+sin(x)*cos(x)^-3))*(3*sin(x)^2*cos(x)^-4+cos(x)^-2-4*sin(x)^-5*cos(x))
+-2
+-sin(x)-36*sin(x)*cos(x)^2
+WRONG FORMAT!
+WRONG FORMAT!
+-sin(x)
+12*sin(x)^2*cos(x)
+-sin(x)-4*sin(-4)*cos(-4)^-3*0
+2*sin(x)*cos(x)^6-4*sin(x)-5*sin(x)^3*cos(x)^4
+-sin(x)
+3*x^2
+-2*sin(x)
+-2*sin(x)*cos(x)
+-3*sin(x)
+-4*x^3
+4*sin(x)*cos(x)^-2+2*x^-3*cos(x)-6*x^-4*sin(x)
+2*sin(x)*cos(x)-4*cos(2)*0
+2*sin(x)*cos(x)+1
+0
+0
+0
+3*x^2
+-3*sin(x)
+WRONG FORMAT!
+4*sin(x)^3*cos(x)
+0
+WRONG FORMAT!
+sin(x)*cos(x)^-2
+sin((sin(x)-x*sin(x)))*(cos(x)-sin(x)-x*cos(x))
+0
+-x^-2-9*sin(x)^2*cos(x)
+WRONG FORMAT!
+sin(x)^2-cos(x)^2-12*sin(x)^3*cos(x)
+-sin(x)
+0
+-12-16*sin(x)*cos(x)^3
+0
+0
+0
+0
+3*cos(x)+2
+sin(x)
+0
+0
+cos(x)
+-2*x
+16*x*cos(x)^-1+8*x^2*sin(x)*cos(x)^-2
+WRONG FORMAT!
+-sin(x)
+16*cos(x)-4*x*cos(x)-5*sin(x)-16*x*sin(x)
+0
+cos(x)
+3*sin(-1)*sin(x)-3*cos(x)*cos(-1)*0
+-cos(x)
+1
+0
+WRONG FORMAT!
+6*x^-3*cos(x)+3*x^-2*sin(x)
+0
+0
+1-12*sin(x)-12*x*cos(x)
+cos((x-sin(x)^8*cos(x)))*(sin(x)^9+1-8*sin(x)^7*cos(x)^2)
+WRONG FORMAT!
+0
+-9*x^2
+0
+4*x*sin(x)+sin(x)-4*cos(x)
+8*sin((x+1))*cos((1+x))^-5
+0
+sin(x)
+1
+4*sin(sin(cos(3)))^3*sin(3)*cos(sin(cos(3)))*cos(cos(3))*0
+WRONG FORMAT!
+6*sin(x)*cos(x)-1
+8*x^3*sin(cos(x))^2-4*x^4*sin(cos(x))*sin(x)*cos(cos(x))
+-cos(x)
+0
+WRONG FORMAT!
+0
+0
+4*sin(x)
+-sin(x)
+WRONG FORMAT!
+3*sin(x)*cos((-cos((1-cos((-x-8))))^3-3))^2-16*sin(x)^6*cos((-cos((1-cos((-x-8))))^3-3))^2*cos(x)^-5-18*sin((-cos((1-cos((-x-8))))^3-3))*sin((1-cos((-x-8))))*sin((-x-8))*cos(x)*cos((-cos((1-cos((-x-8))))^3-3))*cos((1-cos((-x-8))))^2-20*sin(x)^4*cos((-cos((1-cos((-x-8))))^3-3))^2*cos(x)^-3-24*sin(x)^5*sin((-cos((1-cos((-x-8))))^3-3))*sin((1-cos((-x-8))))*sin((-x-8))*cos(x)^-4*cos((-cos((1-cos((-x-8))))^3-3))*cos((1-cos((-x-8))))^2
+0
+0
+0
+0
+WRONG FORMAT!
+cos(x)
+sin(x)
+WRONG FORMAT!
+-6*sin(x)*cos(x)
+144*x^2*sin((16*x^3+2))^2*cos((16*x^3+2))
+0
+0
+1
+0
+0
+-2*sin(x)*cos(x)
+3*sin(x)^-2*cos(x)
+cos(x)
+-3*sin(cos(x))^2*sin(x)*cos(cos(x))
+-sin(-2)*0
+cos(-2)*0
+0
+4+x^2*sin(x)^2-x^2*cos(x)^2-2*x*sin(x)*cos(x)
+0
+0
+4*cos(x)
+-2*sin(x)*cos(x)
+4*x^3
+2*x
+8*sin(x)*cos(x)^-3
+sin(x)
+4*sin(x)^-5*cos(x)
+0
+4*sin(x)^2*cos(x)^3-cos(x)^5
+6*x*sin(x)*cos(x)^2-sin(x)-2*cos(x)^3
+4
+135*x^4+3*x^2
+6*sin(x)
+2
+cos((-cos(x)^2-4*x))*(2*sin(x)*cos(x)-4)
+0
+0
+2*x^-2
+0
+sin(x)
+18*x^4*sin(x)*cos(x)^2-2*sin(x)-24*x^3*cos(x)^3
+0
+0
+WRONG FORMAT!
+-12*cos(x)
+-2*sin(x)^-3*cos(x)
+0
+WRONG FORMAT!
+3*x^2
+sin((-x))
+-sin(x)
+2
+-2*sin(x)
+432*x^4*sin(x)*cos(x)^2-8*x^3*cos(x)-24*x^2*sin(x)-576*x^3*cos(x)^3
+WRONG FORMAT!
+-1
+108*sin((x-16*cos(x)^3))*sin((2*cos(x)^-1-x))*cos((2*cos(x)^-1-x))^2*(2*sin(x)*cos(x)^-2-1)+cos(x)-36*cos((2*cos(x)^-1-x))^3*cos((x-16*cos(x)^3))*(48*sin(x)*cos(x)^2+1)
+3*cos(x)-4*sin(x)
+2*cos(x)
+0
+12*sin(x)*cos(x)^3+4*x^3*sin(x)-12*x^2*cos(x)
+-sin(2)*0
+0
+-10*sin(x)^4*cos(x)
+0
+0
+-2*sin(x)*cos(x)^-2
+0
+0
+WRONG FORMAT!
+0
+64*x^2*sin(x)*cos(x)^3+3*sin(x)*cos(x)^2-32*x*cos(x)^4
+-4-12*sin((4*sin(x)))^2*cos((4*sin(x)))*cos(x)
+-3*sin(x)
+2*x+sin(x)
+-sin(x)-12*sin(x)*cos(x)^3
+cos(x)
+cos(x)
+4*x
+-16*sin(x)*cos((2*cos(x)^2))*cos(x)^5-16*sin((2*cos(x)^2))*sin(x)*cos(x)^3
+-1
+-sin(x)
+4*sin(x)*cos(cos(x))
+0
+-sin(x)
+0
+8*sin(x)*cos(x)
+-2*sin(x)*cos(x)
+2*sin(x)*cos(x)
+24*x*sin(cos(x))*sin(x)*cos(cos(x))^2+8*cos(cos(x))^3
+0
+-4*cos(x)
+0
+WRONG FORMAT!
+-4*sin(x)*cos(x)^3
+0
+sin(x)
+cos(x)
+WRONG FORMAT!
+WRONG FORMAT!
+0
+4
+0
+-sin(x)
+WRONG FORMAT!
+3*sin(x)^2*cos(x)
+WRONG FORMAT!
+0
+16*sin(-1)*cos(x)^2*cos(-1)^3*0+8*sin(x)*cos(-1)^4*cos(x)
+-4*sin(1)*0
+sin(x)*cos(x)^-2
+-1
+-3*sin(x)*cos(x)^-4
+sin(x)
+1
+18*x^2*sin(x)^-4*cos((12*x*cos(x)))+6*sin(x)*cos(x)-6*x^3*sin(x)^-4*sin((12*x*cos(x)))*(12*cos(x)-12*x*sin(x))-24*x^3*sin(x)^-5*cos((12*x*cos(x)))*cos(x)
+-4*sin(x)
+0
+WRONG FORMAT!
+2
+-2*sin(3)^-3*cos(3)*0
+0
+0
+-3*x^-4
+3*sin((4*cos(4)-3*sin(x)*cos(x)))*cos(x)*cos(2)*(3*sin(x)^2-3*cos(x)^2-4*sin(4)*0)+3*sin(x)*cos((4*cos(4)-3*sin(x)*cos(x)))*cos(2)+3*sin(2)*cos(x)*cos((4*cos(4)-3*sin(x)*cos(x)))*0+cos(2)*0
+0
+0
+0
+2*sin(x)*cos(x)
+-3*sin(x)^-4*cos(x)
+-24*sin(x)^2*cos(x)
+0
+-18*cos(cos(x))-18*x*sin(cos(x))*sin(x)
+-3*sin(x)*cos(x)^2
+cos(x)
+2*sin(x)*cos(x)
+3
+0
+0
+0
+WRONG FORMAT!
+0
+-16*sin((sin(x)^2-sin(x)^-1*cos(x)))*cos((sin(x)^2-sin(x)^-1*cos(x)))^3*(2*sin(x)*cos(x)+sin(x)^-2*cos(x)^2+1)-63*sin(cos((7*x)))*sin((7*x))*cos(cos((7*x)))^2
+WRONG FORMAT!
+12*sin((sin(sin(4)^2)^-4-4*sin(x)^-2*cos(x)^4))*sin((3*sin(x)^-4))*sin(x)^-5*cos(x)+cos((3*sin(x)^-4))*cos((sin(sin(4)^2)^-4-4*sin(x)^-2*cos(x)^4))*(16*sin(x)^-1*cos(x)^3+8*sin(x)^-3*cos(x)^5-8*sin(sin(4)^2)^-5*sin(4)*cos(sin(4)^2)*cos(4)*0)
+4*sin((1-64*x^4*cos((8*cos(x)))))^3*cos((1-64*x^4*cos((8*cos(x)))))*(-256*x^3*cos((8*cos(x)))-512*x^4*sin((8*cos(x)))*sin(x))
+4*sin(x)^3*cos(x)
+3*x^2-24*x^2*cos(x)-48*x*sin(x)
+0
+0
+cos(x)
+sin(cos(x))*sin(x)
+40*sin(x)^4*cos(x)^4-24*sin(x)^6*cos(x)^2
+WRONG FORMAT!
+8*x^-3+sin(x)
+cos(x)
+4*sin(x)^3*cos(x)-cos(x)
+x*sin(x)*cos(3)+x*sin(3)*cos(x)*0-cos(x)*cos(3)
+0
+cos(x)-12*sin(x)^2*cos(x)
+0
+24*x^3*cos(x)+4*sin((sin((8*sin(x)-4))-3*cos(x)*cos(3)^2))*(8*cos((8*sin(x)-4))*cos(x)+6*sin(3)*cos(x)*cos(3)*0+3*sin(x)*cos(3)^2)-6*x^4*sin(x)
+0
+0
+WRONG FORMAT!
+-2*sin(x)^-3*cos(x)
+1-2*cos(-2)*0
+0
+0
+0
+-2*cos(x)
+2
+WRONG FORMAT!
+4*sin((2*x^-1*sin(x)-3*sin(x)))^3*cos((2*x^-1*sin(x)-3*sin(x)))*(2*x^-1*cos(x)-2*x^-2*sin(x)-3*cos(x))
+sin(x)*cos(x)^-2-12*cos(x)
+8*sin((4*cos(x)))^-3*sin(x)*cos((4*cos(x)))
+0
+-12*sin((-cos(sin(x)^4)))*sin(sin(x)^4)*sin(x)^3*cos((-cos(sin(x)^4)))^2*cos(x)
+36*sin((2-12*x))*cos((2-12*x))^2-2
+0
+-sin(x)-3*sin(x)*cos(x)^2
+-3*sin(x)*cos(x)^2
+-3*sin(x)
+0
+1
+WRONG FORMAT!
+WRONG FORMAT!
+WRONG FORMAT!
+sin(x)
+-1-sin(x)^2*cos((6*sin(x)^2*cos((cos(x)-1))+x))*(12*sin(x)*cos((cos(x)-1))*cos(x)+6*sin((cos(x)-1))*sin(x)^3+1)-2*sin((6*sin(x)^2*cos((cos(x)-1))+x))*sin(x)*cos(x)
+cos(x)
+WRONG FORMAT!
+0
+WRONG FORMAT!
+0
+WRONG FORMAT!
+9*x^2*sin(x)+3*x^3*cos(x)+2*x
+-cos((27*cos(x)^2+x))*(1-54*sin(x)*cos(x))
+12*sin(x)^3*cos(x)
+0
+2
+-cos((4*cos(x)+x^2-x^3-x^3*sin(x)^-1))*(2*x+x^3*sin(x)^-2*cos(x)-3*x^2*sin(x)^-1-3*x^2-4*sin(x))
+-sin(-1)*0
+WRONG FORMAT!
+0
+0
+-sin((9*sin(x)*cos(x)^5+x))*(9*cos(x)^6+1-45*sin(x)^2*cos(x)^4)
+WRONG FORMAT!
+3-3*sin(x)^2*cos(x)
+0
+1
+-48*sin(4)*cos(4)^2*0
+-4*sin(x)^3*cos(sin(x)^4)*cos(x)
+cos(x)
+8*sin(x)*cos(x)
+-8*sin(x)*cos(x)
+-cos((2*sin((4*sin(x)+2))*cos(x)-cos(x)))*(8*cos((4*sin(x)+2))*cos(x)^2+sin(x)-2*sin((4*sin(x)+2))*sin(x))-1
+-4*cos(x)
+6*x^3*sin(x)+sin(x)-18*x^2*cos(x)
+96*sin(x)^3*sin((8*sin(x)+2))^2*cos((8*sin(x)+2))*cos(x)+12*sin((8*sin(x)+2))^3*sin(x)^2*cos(x)-192*sin((-3*cos(x)^4))^3*sin(x)*cos((-3*cos(x)^4))*cos(x)^3
+0
+WRONG FORMAT!
+WRONG FORMAT!
+-2*sin(x)*cos(x)
+6*sin(x)*cos(x)^-3
+cos(x)
+2*cos(1)*0
+-sin(x)
+0
+0
+0
+0
+2*cos(x)
+cos(x)
+-3*sin(2)*0
+24*sin(x)^5*cos(x)^3-24*sin(x)^3*cos(x)^5
+1
+WRONG FORMAT!
+1
+-3*sin((2*x*sin(x)^-4-4))^-4*cos(sin((2*x*sin(x)^-4-4))^-3)*cos((2*x*sin(x)^-4-4))*(2*sin(x)^-4-8*x*sin(x)^-5*cos(x))
+-2*sin(x)*cos(x)
+-sin(x)
+3*x^-4
+3*cos(x)
+1
+-3*sin(x)^-4*cos(x)
+3
+-2*sin((-2*cos(x)))*sin(x)-9*x^-4*sin(x)*cos(cos(x)^3)*cos(x)^2-12*x^-5*sin(cos(x)^3)
+WRONG FORMAT!
+192*x*sin(x)^2*cos((4*cos(x)^4))*cos(x)^3+cos(x)-12*sin((4*cos(x)^4))*sin(x)-12*x*sin((4*cos(x)^4))*cos(x)
+0
+480*x^3*sin(2)^2*sin((5*sin(x)))*cos((5*sin(x)))^2*cos(x)^-3-64*x^3*sin(2)*cos(x)^-4*cos((5*sin(x)))^3*cos(2)*0-96*x^2*sin(2)^2*cos(x)^-4*cos((5*sin(x)))^3-128*x^3*sin(2)^2*sin(x)*cos((5*sin(x)))^3*cos(x)^-5
+2*cos(-2)*0
+-2*sin(x)*cos(x)
+-2*sin((6*sin(x^4)-sin(x)))*cos((6*sin(x^4)-sin(x)))*(24*x^3*cos(x^4)-cos(x))
+-4*cos(x)
+0
+-4*cos(x)
+-12*sin((4*cos(x)^3))*sin(x)*cos(x)^2
+0
+8*x*sin(x)+4*x^2*cos(x)-3*sin(x)
+cos(x)
+4*sin(x)^3*cos(x)-16*x^4*cos((1-4*x^3*sin(x)^3*cos(x)))*(4*x^3*sin(x)^4-12*x^3*sin(x)^2*cos(x)^2-12*x^2*sin(x)^3*cos(x))-64*x^3*sin((1-4*x^3*sin(x)^3*cos(x)))
+WRONG FORMAT!
+-5*sin(x)*cos(x)^4
+3*x*sin(x)*cos(x)^2-cos(x)^3
+cos(x)
+2*sin(x)*sin((-x))*cos(cos(x))*cos((-x))+cos((-x))^2*cos(cos(x))*cos(x)+sin(cos(x))*sin(x)^2*cos((-x))^2
+-3*x^-4
+WRONG FORMAT!
+8*sin(x)*cos(cos(x))-sin((2*x+cos(x)^3))^-2*cos((2*x+cos(x)^3))*(2-3*sin(x)*cos(x)^2)-8*sin(cos(x))*sin(x)*cos(x)
+1
+-2*sin(x)*cos(x)
+4*x^3*cos(x^4)
+1
+4*sin(x)+4*x*cos(x)-6*sin(x)*cos(x)
+0
+32*x*sin(x)^3*cos(x)+12*cos(x)^2+8*sin(x)^4-12*sin(x)^2
+WRONG FORMAT!
+3+sin(x)
+cos(x)
+4*cos(x)+4
+0
+2
+0
+0
+0
+0
+0
+WRONG FORMAT!
+4*x
+WRONG FORMAT!
+-1
+cos(x)
+4*sin(x)^3*cos(x)-2*sin(x)*cos(x)
+2*sin((216*x*sin(x)^7*sin(1)-2*cos((4*sin(x)^2+3*x))))^-3*cos((216*x*sin(x)^7*sin(1)-2*cos((4*sin(x)^2+3*x))))*(1512*x*sin(1)*sin(x)^6*cos(x)+216*sin(x)^7*sin(1)+216*x*sin(x)^7*cos(1)*0+2*sin((4*sin(x)^2+3*x))*(8*sin(x)*cos(x)+3))-12*sin(x)^-4*cos(x)
+12*x^4*sin(x)*cos(x)-3*sin(x)*cos(x)^2-24*x^3*cos(x)^2
+0
+-sin(x)
+WRONG FORMAT!
+0
+8*x^3-10*cos(2)*0
+WRONG FORMAT!
+-sin(x)
+-1
+1
+cos(x)
+-sin(x)*cos((-cos(x)))
+sin(x)*cos(x)^-2
+-12*sin(cos((-4*sin(x)^-3)))*sin((-4*sin(x)^-3))*sin(x)^-4*cos(x)
+2*sin(x)
+-4*sin(x)^3*cos(x)
+-sin(x)^-2*cos(x)
+4*sin(16)*cos(16)^-5*0+2*cos(x)-2*x*sin(x)
+-12*sin(x)
+0
+sin(cos(x))*sin(x)
+4*sin(x)
+WRONG FORMAT!
+0
+-6*x^2-12*sin(x)
+12*sin(x)^-4*cos(x)+12*sin(x)^3*cos(x)
+WRONG FORMAT!
+16*sin(cos(-4)^2)^-5*sin(-4)*cos(cos(-4)^2)*cos(-4)*0
+-sin(x)
+-4*sin(x)
+-4*sin(x)^-3*cos(x)-4*sin(x)
+cos(x)
+0
+2
+-6*sin(x)-6*x*cos(x)
+-16*sin(x)*cos(x)^3
+cos(x)-sin(x)-x*cos(x)
+4*cos(x)
+0
+0
+6*x+3
+1
+WRONG FORMAT!
+2*x^-3
+-1
+0
+-12*x^4*cos(x)-48*x^3*sin(x)
+4*sin(x)*cos(x)^-5
+-2
+WRONG FORMAT!
+2*sin(x)^2*cos((3*x*cos(x)^3))^3*cos(x)^-3+cos((3*x*cos(x)^3))^3*cos(x)^-1-2*sin(x)^-2*cos(x)-3*sin(x)*sin((3*x*cos(x)^3))*cos(x)^-2*cos((3*x*cos(x)^3))^2*(3*cos(x)^3-9*x*sin(x)*cos(x)^2)
+0
+0
+-4*x^-5
+1-12*sin(x)*cos(x)^5
+-12*sin(x)*cos(x)^2
+-sin(x)
+WRONG FORMAT!
+-cos(x)
+-sin(x)
+16*x^3*sin((2*x^4))-3*sin(sin(1)^3)*sin(1)^2*cos(1)*0
+WRONG FORMAT!
+4*cos(x)
+144*x^2*sin(cos(-2))^-1*cos(x)+48*x^3*sin(cos(-2))^-2*sin(-2)*cos(x)*cos(cos(-2))*0-48*x^3*sin(cos(-2))^-1*sin(x)
+WRONG FORMAT!
+0
+4*sin(x)*cos(x)^3
+36*sin(x)^-2*cos(x)^2-72*x*sin(x)^-3*cos(x)^3-72*x*sin(x)^-1*cos(x)
+0
+6*x^-2-9*x^-4
+0
+-4*x^3
+4*sin(x)^3*cos(x)
+-2*sin(x)^-2*cos(sin(x)^-1)*cos(x)
+0
+0
+0
+9*sin(x)^2*cos(x)^5+sin(x)*cos(x)^-2-12*sin(x)^4*cos(x)^3
+32*x*cos(x)+16*cos(x)^2+4*cos(4)*0-16*x^2*sin(x)-32*x*sin(x)*cos(x)
+3*cos(x)
+0
+WRONG FORMAT!
+2*sin(sin(x))*cos(sin(sin(x))^2)*cos(sin(x))*cos(x)
+-cos(-1)*0
+4*sin(x)*cos(x)^-5
+-sin(x)
+WRONG FORMAT!
+cos(3)*0
+0
+0
+-3*sin(sin(x))*cos(sin(x))^-4*cos(x)
+WRONG FORMAT!
+0
+WRONG FORMAT!
+WRONG FORMAT!
+1
+WRONG FORMAT!
+WRONG FORMAT!
+-cos(x)-1
+-3*x^-4
+36*sin((2*cos(x)^3))^-4*sin(x)^2*cos((2*cos(x)^3))*cos(x)^6+2*sin((2*cos(x)^3))^-3*cos(x)^5-8*sin((2*cos(x)^3))^-3*sin(x)^2*cos(x)^3
+0
+0
+3*sin(x)^2*cos(x)
+-3*sin(x)
+0
+-cos((-3*sin(x)^4*cos(x)-4))*(3*sin(x)^5-12*sin(x)^3*cos(x)^2)
+-3*sin(x)
+0
+-cos(x)
+cos(x)
+-3
+3*cos(x)
+0
+WRONG FORMAT!
+1-96*x*cos((-16*x^2))
+0
+12*sin(x)*cos(x)^-4
+0
+WRONG FORMAT!
+cos(x)
+-1
+9*sin(-8)^2*cos(-8)*0
+0
+0
+WRONG FORMAT!
+0
+3*x*sin(x)*sin(sin(x))*cos(sin(x))^2*cos(x)-x*cos(sin(x))^3*cos(x)-sin(x)*cos(sin(x))^3
+3*sin(x)
+sin(x)
+0
+WRONG FORMAT!
+WRONG FORMAT!
+cos(x)
+0
+32*sin(x)*cos(x)^3
+3*cos(sin(x))*cos(x)
+x*sin(x)^2-x*cos(x)^2-sin(x)*cos(x)
+3*sin(x)^2*cos(x)
+sin(x)
+cos(x)
+-sin(x)
+1
+9*sin(x)^-4*cos(x)+3*cos(x)
+0
+-sin((sin(cos(x)^-1)^-3-2*sin(x)*cos(x)))*(2*sin(x)^2-2*cos(x)^2-3*sin(cos(x)^-1)^-4*sin(x)*cos(cos(x)^-1)*cos(x)^-2)
+4*sin(x)+4*x*cos(x)
+0
+3*cos(x)
+0
+0
+0
+0
+WRONG FORMAT!
+-sin(x)
+0
+1
+0
+WRONG FORMAT!
+-cos(x)
+WRONG FORMAT!
+WRONG FORMAT!
+4*sin(x)^3*cos(x)
+-cos(x)-sin(x)
+0
+3*sin(x)*cos(x)^-4-2*cos(x)
+12*sin(x)^2*cos(x)
+WRONG FORMAT!
+cos(x)
+2*sin((-3*sin((4*sin(x)))^-1-4*sin(x)-12*x*sin((4*sin(x)))^-1))*sin(x)^2*cos(x)-sin(x)*cos(x)^2*cos((-3*sin((4*sin(x)))^-1-4*sin(x)-12*x*sin((4*sin(x)))^-1))*(48*x*sin((4*sin(x)))^-2*cos((4*sin(x)))*cos(x)+12*sin((4*sin(x)))^-2*cos((4*sin(x)))*cos(x)-4*cos(x)-12*sin((4*sin(x)))^-1)-sin((-3*sin((4*sin(x)))^-1-4*sin(x)-12*x*sin((4*sin(x)))^-1))*cos(x)^3
+0
+-2*sin(x)*cos(x)
+-1
+0
+6*x*sin(x)*cos(x)+3*x^2*cos(x)^2-cos(x)-3*x^2*sin(x)^2
+-2*sin(x)*cos(x)
+0
+4*sin(x)^-5*cos(x)^4+3*sin(x)^-3*cos(x)^2
+-8*sin(x)^-3*cos(x)
+2*x*sin(x)*cos(x)-cos(x)^2
+sin((2*x*sin(x)^2-cos(x)))*(4*x*sin(x)*cos(x)+2*sin(x)^2+sin(x))
+0
+0
+sin(1)*0-sin(x)*cos(x)^-2
+WRONG FORMAT!
+12*sin((3*sin(x)+2*x))*cos((3*sin(x)+2*x))^3*(3*cos(x)+2)+3*sin(x)^2*cos(x)
+0
+12*x^3*sin(x)+3*x^4*cos(x)
+-4*cos((1+x))
+-sin(x)
+0
+2*x-sin(x)
+0
+-cos(x)^-2-sin(x)-3*sin(x)^2*cos(x)^-4
+12*x^3*sin((-4*x^4))*cos(x)+sin(x)-3*x^4*sin((-4*x^4))*sin(x)-48*x^7*cos(x)*cos((-4*x^4))
+0
+-sin(x)
+WRONG FORMAT!
+0
+6*x^5-3*x^-4
+0
+3*sin(x)^2*cos(x)
+16*x^2*sin(x)+cos(x)-32*x*cos(x)
+WRONG FORMAT!
+sin(x)^5*sin((2*sin(x)^2*cos(x)+x))*(4*sin(x)*cos(x)^2+1-2*sin(x)^3)-5*sin(x)^4*cos((2*sin(x)^2*cos(x)+x))*cos(x)
+192*sin(x)^2*cos(x)^3-48*cos(x)^5
+WRONG FORMAT!
+cos(x)
+WRONG FORMAT!
+0
+0
+0
+4*x^3-36*sin(x)*cos(x)^3
+1
+WRONG FORMAT!
+cos(1)*0
+3-4*cos(x)
+16*sin((sin((4*x))*sin(1)-3))^3*cos((sin((4*x))*sin(1)-3))*(4*sin(1)*cos((4*x))+sin((4*x))*cos(1)*0)+12*sin(x)^2*cos(x)
+1-4*sin(x)^-2*cos((4*sin(x)^-1))*cos(x)
+-sin(x)
+2*sin(x)*cos(x)
+64*cos(x)^4+12*sin(x)^2*cos(x)^4-12*sin(x)^4*cos(x)^2-192*sin(x)^2*cos(x)^2
+1
+WRONG FORMAT!
+4*cos(x)
+18*sin((-3-3*x))*cos((-3*x-3))-2*sin(x)
+WRONG FORMAT!
+0
+WRONG FORMAT!
+WRONG FORMAT!
+0
+0
+-3*cos((3*sin(x)))*cos(x)
+0
+-cos(x)
+WRONG FORMAT!
+WRONG FORMAT!
+4*sin(x)^3*cos(x)
+cos((3*sin((3*x))-32*x^-4*sin((16*sin(x)*cos(x)^3-3))))*(128*x^-5*sin((16*sin(x)*cos(x)^3-3))+9*cos((3*x))-32*x^-4*cos((16*sin(x)*cos(x)^3-3))*(16*cos(x)^4-48*sin(x)^2*cos(x)^2))
+4*sin(x)^3*cos(x)^3+1-2*sin(x)^5*cos(x)
+-sin(4)*0
+0
+-4*cos((4*sin(x)+2*cos(x)^2))*cos(x)*(4-4*sin(x))
+0
+-sin((sin((2*sin(3)))-sin((2*x))))*(2*cos((2*sin(3)))*cos(3)*0-2*cos((2*x)))
+2
+0
+4*x^2*sin(x)*cos(x)^3+cos(x)-2*x*cos(x)^4
+1-sin(x)
+sin(-2)*0
+9*sin(x)*cos((3-sin((4*sin(x)^2*cos((4*cos(x)^2))*cos(x)+x^-3))))*cos((4*sin(x)^2*cos((4*cos(x)^2))*cos(x)+x^-3))*(32*sin((4*cos(x)^2))*sin(x)^3*cos(x)^2+8*sin(x)*cos((4*cos(x)^2))*cos(x)^2-3*x^-4-4*sin(x)^3*cos((4*cos(x)^2)))+cos(x)-9*sin((3-sin((4*sin(x)^2*cos((4*cos(x)^2))*cos(x)+x^-3))))*cos(x)
+3
+-2*sin(x)
+-2*sin(x)*cos(x)
+sin(x)
+WRONG FORMAT!
+0
+-1
+cos(x)
+0
+0
+3*sin(x)*cos(x)^2
+0
+WRONG FORMAT!
+0
+cos(x)
+WRONG FORMAT!
+0
+0
+cos(x)
+cos(x)
+0
+WRONG FORMAT!
+-4*sin(x)^-3*cos(x)
+-2*x^-3*cos(x)^2-2*x^-2*sin(x)*cos(x)-4*sin((4*sin(x)-2*sin(x)^-3*cos((2*cos((-4*sin(x)))^-1))*cos((-3*x^3-12))))*(6*sin(x)^-4*cos((2*cos((-4*sin(x)))^-1))*cos((-3*x^3-12))*cos(x)+4*cos(x)-16*sin(x)^-3*sin((2*cos((-4*sin(x)))^-1))*sin((-4*sin(x)))*cos((-3*x^3-12))*cos((-4*sin(x)))^-2*cos(x)-18*x^2*sin(x)^-3*sin((-3*x^3-12))*cos((2*cos((-4*sin(x)))^-1)))
+0
+0
+0
+-sin(x)
+0
+-3*sin(x)
+WRONG FORMAT!
+WRONG FORMAT!
+WRONG FORMAT!
+-2*sin(x)
+0
+0
+27*x^2*cos((3*x^3))
+-3*sin(x)^2*cos(x)
+12*x^-2*sin(x)^-1+12*x^-1*sin(x)^-2*cos(x)-sin(x)
+0
+0
+0
+4*cos(x)
+4*x^3-3*x^2
+-12*sin((12*cos(x)+3))*sin(x)
+0
+0
+0
+2*sin(x)*cos(x)
+-4*sin((-sin(x)))*cos(x)
+WRONG FORMAT!
+-12*sin(x)^-4*cos(x)
+0
+4*x^-2+4*cos(x)
+-sin(x)
+4*sin(x)*cos(x)^3-3
+-sin(x)
+0
+sin(sin(x))*cos(x)
+-4*sin(x)*cos(x)^3
+-1
+3*sin(x)^2*cos(x)-4*x^-5
+6*x+4
+0
+cos(x)-16*sin(x)*cos(x)
+-sin(x)
+sin(sin(x))*cos(x)
+cos((4*sin(x)^9*cos(x)^2+2*sin(x)*cos(x)^3+x))*(36*sin(x)^8*cos(x)^3+2*cos(x)^4+1-6*sin(x)^2*cos(x)^2-8*sin(x)^10*cos(x))+cos(x)
+0
+1
+0
+1
+0
+WRONG FORMAT!
+0
+0
+3*sin(x)*cos(x)^2
+12*sin(x)*cos(x)+6
+1
+4*sin(cos(x)^2)*sin(x)*cos(cos(x)^2)*cos(x)
+-8*sin(sin(x)^2)*sin(x)*cos(x)
+WRONG FORMAT!
+16*sin(x)^3*cos((4*sin((3*sin(x)))^-3-6*x*sin(x)^3))*cos(x)+sin((x*cos((-x*sin(cos(x)^-2)))^-2*cos(x)^4-sin(x)))*(2*x*sin((-x*sin(cos(x)^-2)))*cos(x)^4*cos((-x*sin(cos(x)^-2)))^-3*(-sin(cos(x)^-2)-2*x*sin(x)*cos(cos(x)^-2)*cos(x)^-3)+cos((-x*sin(cos(x)^-2)))^-2*cos(x)^4-cos(x)-4*x*sin(x)*cos((-x*sin(cos(x)^-2)))^-2*cos(x)^3)-4*sin(x)^4*sin((4*sin((3*sin(x)))^-3-6*x*sin(x)^3))*(-6*sin(x)^3-18*x*sin(x)^2*cos(x)-36*sin((3*sin(x)))^-4*cos((3*sin(x)))*cos(x))
+0
+WRONG FORMAT!
+4*x^3
+3
+0
+9*sin((sin(x)-sin(x)^-1))*cos((sin(x)-sin(x)^-1))^-4*cos(x)*(1+sin(x)^-2)
+WRONG FORMAT!
+2*cos(x)-8*sin(x)^-3*cos(x)
+3*x*sin(x)^-4*cos(x)-sin(x)^-3
+4*x^3
+40*x^4-sin(x)
+WRONG FORMAT!
+2
+8*sin(x)*cos(x)^3+cos(x)
+cos(2)*0
+0
+cos(x)^4-2*x^-3-4*x*sin(x)*cos(x)^3
+0
+0
+12*x^-5
+0
+WRONG FORMAT!
+cos(x)
+0
+-4*sin(x)
+0
+0
+0
+-2*sin(-3)*cos(-3)*0
+WRONG FORMAT!
+1
+sin(x)*cos(x)^-2
+3
+0
+12*cos(x)^3-24*sin(x)^2*cos(x)
+0
+-3*sin(3)^2*cos(3)*0
+0
+3*sin((sin(x)^3+1))*sin(x)^2*cos(x)
+-4
+WRONG FORMAT!
+WRONG FORMAT!
+1
+9*sin(x)^-4*cos(x)+2*sin(x)*cos(x)^-3
+0
+0
+0
+4*sin(x)^2-4*cos(x)^2
+2*cos(x)-sin(x)^-2*cos(x)
+-4*sin((-4*cos(x)))*sin(x)
+4
+-64*sin(x)*cos(x^2)-128*x*sin(x^2)*cos(x)
+6*x*sin(x)*cos(x)+3*sin(x)^2-4*x
+sin(x)
+-8*x^3
+-12*x^-4
+2*sin(x)*cos(x)
+9*sin((cos((4*sin(x)-3*cos(x)))^2+x))^2*cos(x)^3*cos((x+cos((4*sin(x)-3*cos(x)))^2))*(1-2*sin((4*sin(x)-3*cos(x)))*cos((4*sin(x)-3*cos(x)))*(4*cos(x)+3*sin(x)))+2*sin(x)*cos(x)-9*sin((x+cos((4*sin(x)-3*cos(x)))^2))^3*sin(x)*cos(x)^2
+-sin(x)
+0
+-sin(-4)*0
+0
+0
+0
+4*sin(x)^2*cos(x)-2*cos(x)^3
+-x^-2
+0
+-2*sin(x)*cos((sin(x)^2*cos(x)-3))^-2*cos(x)-2*sin(x)^2*sin((sin(x)^2*cos(x)-3))*cos((sin(x)^2*cos(x)-3))^-3*(2*sin(x)*cos(x)^2-sin(x)^3)
+0
+0
+cos(x)
+0
+0
+4*x^-3
+6*x
+2*sin((2*sin(x)))*cos(sin(x))*cos(x)+sin(sin(x))*cos((2*sin(x)))*cos(x)
+-cos(x)
+WRONG FORMAT!
+-9*sin((3*sin((12*sin((3+cos(x)))^-3*sin(x)-1))^-1-sin(x)))^-2*cos((3*sin((12*sin((3+cos(x)))^-3*sin(x)-1))^-1-sin(x)))*(-cos(x)-3*sin((12*sin((3+cos(x)))^-3*sin(x)-1))^-2*cos((12*sin((3+cos(x)))^-3*sin(x)-1))*(36*sin((3+cos(x)))^-4*sin(x)^2*cos((3+cos(x)))+12*sin((3+cos(x)))^-3*cos(x)))
+1
+0
+-2*x^-3
+18*x+cos(x)
+1
+0
+WRONG FORMAT!
+sin(x)-cos(x)
+-1
+4*sin(x)*cos(x)^3-4*sin(x)
+0
+4*x^3*sin(x)+x^4*cos(x)-sin(x)
+0
+4*sin(x)^3*cos((4*sin(x)))*cos(x)+3*sin((4*sin(x)))*sin(x)^2*cos(x)-1
+WRONG FORMAT!
+-3*x^-2
+4*sin((-sin(x)))*cos(4)*cos(x)-x^-2-4*sin(x)*cos(4)*cos((-sin(x)))*cos(x)-4*sin((-sin(x)))*sin(x)*sin(4)*0
+0
+-3*cos(x)
+0
+cos(x)-3
+-16*sin(x)*cos(x)^3
+1
+-8*sin(x)^3*cos(x)
+4*sin(x)^2*cos(x)^3+1-cos(x)^5
+cos(x)
+-3*x^-2
+0
+-3*sin(x)
+0
+-sin((3-12*sin(x)^2*cos(-2)))*(12*sin(x)^2*sin(-2)*0-24*sin(x)*cos(-2)*cos(x))
+3*cos(x)-sin(x)
+3*sin(x)*cos(x)^-4
+sin((-sin(x)*cos(x)^-1-2*cos(x)))*cos((-sin(x)*cos(x)^-1-2*cos(x)))^-2*(2*sin(x)-1-sin(x)^2*cos(x)^-2)
+2*cos(x)
+0
+0
+0
+sin(x)
+0
+-sin(x)-32*sin(x)^3*cos(x)
+WRONG FORMAT!
+12*sin(x)*cos(x)^2-2*x
+WRONG FORMAT!
+-1
+-6*x^-3
+4*cos(x)
+0
+cos(x)
+sin(x)
+cos(x)-4*sin(x)^-5*cos(x)
+3*sin(x)^2*cos(x)
+6*sin(x)*cos(x)^2+4*cos(x)
+-sin(x)
+-4*sin(x)
+cos(x)
+-2*sin((cos(x)^-1-9))*sin(x)*cos(x)^-2-32*sin(x)^3*cos(x)
+0
+1-4*sin(x)
+-sin(x)
+0
+WRONG FORMAT!
+2*x^-2
+WRONG FORMAT!
+-8*x
+0
+4*sin(x)*cos(x)+3*x^-4
+0
+0
+-1
+WRONG FORMAT!
+1
+0
+2*sin(x)*cos(x)^-3
+-sin((x+cos(x)^-4))*cos((cos(x)^-4+x))^-2*(4*sin(x)*cos(x)^-5+1)
+cos(x)-3*sin((-4*sin(x)^-2*cos((-sin(x)^3))))^4*cos(x)-12*sin(x)*sin((-4*sin(x)^-2*cos((-sin(x)^3))))^3*cos((-4*sin(x)^-2*cos((-sin(x)^3))))*cos(x)*(8*sin(x)^-3*cos((-sin(x)^3))-12*sin((-sin(x)^3)))
+6*x*sin(cos(x)^-4)*sin((2*sin(x)+x))*sin(x)*cos(x)-3*x*sin(cos(x)^-4)*cos(x)^2*cos((2*sin(x)+x))*(2*cos(x)+1)-3*sin(cos(x)^-4)*sin((2*sin(x)+x))*cos(x)^2-12*x*sin((2*sin(x)+x))*sin(x)*cos(cos(x)^-4)*cos(x)^-3
+4
+cos(x)
+1-4*x^-5
+0
+-cos(x)
+0
+9*sin((-cos(x)-x*cos((1-3*cos(x)))))*sin(x)*cos(4)*cos(x)^2+4*cos(x)+3*sin((-cos(x)-x*cos((1-3*cos(x)))))*sin(4)*cos(x)^3*0-3*cos(x)^3*cos(4)*cos((-cos(x)-x*cos((1-3*cos(x)))))*(3*x*sin((1-3*cos(x)))*sin(x)+sin(x)-cos((1-3*cos(x))))
+8*x^-2*sin(x)*cos(x)^2-4*x^-2*sin(x)^3-8*x^-3*sin(x)^2*cos(x)
+WRONG FORMAT!
+WRONG FORMAT!
+0
+0
+8*sin(x)*cos(-2)*cos(3)*cos(x)+4*sin(3)*cos(-2)*cos(x)^2*0+4*sin(-2)*cos(3)*cos(x)^2*0-sin(3)*cos(-2)*cos((-cos(x)^3))*0-sin(-2)*cos(3)*cos((-cos(x)^3))*0-3*sin((-cos(x)^3))*sin(x)*cos(-2)*cos(3)*cos(x)^2
+2*sin(x)*cos(x)
+3*cos(x)+sin(x)^-3*cos(x)*cos((2*x+x^3))*(3*x^2+2)-sin((2*x+x^3))*sin(x)^-2-3*sin((2*x+x^3))*sin(x)^-4*cos(x)^2
+1
+cos((3*cos((1-x*cos(x)))+3*sin(x)^-2*cos(x)))*(-3*sin(x)^-1-3*sin((1-x*cos(x)))*(x*sin(x)-cos(x))-6*sin(x)^-3*cos(x)^2)
+3*sin(x)*cos(2)*0+3*sin(2)*cos(x)
+0
+0
+96*sin(-3)^-5*cos(-3)*0+cos(x)
+0
+6*x*sin(x)*cos(x)^3+3*sin(x)^2*cos(x)^2-6*x*sin(x)^3*cos(x)
+192*sin(x)^2*cos(x)^-5+48*cos(x)^-3+1
+0
+-2*sin(x)
+-4*sin(x)*cos(x)^-5
+4*sin(x)^3*cos(x)+2*cos(x)-2*x*sin(x)
+2*sin(x)
+4*sin(x)*cos(x)^-5
+0
+WRONG FORMAT!
+-2*sin(x)*cos(x)
+0
+-2*sin(x)*cos(x)
+-1
+0
+-3*sin(x)-8*sin(x)*cos(x)
+-3*sin(x)^-4*cos(x)
+4*x^3
+2*cos(x)
+4*cos(x)-4*sin(x)^-5*cos(x)-4*x*sin(x)
+WRONG FORMAT!
+0
+2*sin(x)*cos(x)
+-1
+WRONG FORMAT!
+0
+cos((12+sin(x)))*cos(x)
+2
+0
+2*sin(x)*cos(x)
+0
+cos(x)
+12*sin((x-9*x*sin(x)^-3*cos(x)))*cos((x-9*x*sin(x)^-3*cos(x)))^-4*(27*x*sin(x)^-4*cos(x)^2+9*x*sin(x)^-2+1-9*sin(x)^-3*cos(x))+3*cos(3)*0
+9*sin(x)^2*cos(x)
+6*sin(x)*cos(x)^-4
+3
+-sin(x)
+sin(x)-sin(x)*cos(x)^-2
+0
+0
+2*cos(x)+x^-3*cos(x)-3*x^-4*sin(x)
+0
+-3*sin(x)*cos(x)^2
+-2*sin((4-12*cos(x)^5-36*x^-1*sin(x)^2*cos(x)^5))*cos((4-12*cos(x)^5-36*x^-1*sin(x)^2*cos(x)^5))*(180*x^-1*sin(x)^3*cos(x)^4+60*sin(x)*cos(x)^4+36*x^-2*sin(x)^2*cos(x)^5-72*x^-1*sin(x)*cos(x)^6)
+-1
+0
+144*sin(x)*cos(x)^2
+3*sin(x)^2*cos(x)
+WRONG FORMAT!
+2*x
+0
+36*x^2*sin(x)+12*x^3*cos(x)-cos(1)*0
+-2*x
+2*sin(x)*cos(x)+sin(x)
+-2*x^-3
+-4*sin((sin(x)-2))*cos(x)
+0
+2
+2*x*sin(x)^2+2*x^2*sin(x)*cos(x)-3*sin(x)*cos(x)^2
+-sin(x)
+0
+1
+0
+-sin(x)^-2-3*sin(x)^-4*cos(x)^2
+2*x*sin(x)^-3+1-3*x^2*sin(x)^-4*cos(x)
+2
+-cos((1-32*sin(x)^2*cos((-4*x))))*(-64*sin(x)*cos((-4*x))*cos(x)-128*sin(x)^2*sin((-4*x)))-4
+1
+-cos((-x))
+9*x^2*cos(x)-3*sin(x)-3*x^3*sin(x)
+0
+0
+0
+-54*sin((3*cos((3+sin((-3*cos(x)^3))^-1))^2+2))*sin((3+sin((-3*cos(x)^3))^-1))*sin((-3*cos(x)^3))^-2*sin(x)*cos((3+sin((-3*cos(x)^3))^-1))*cos((-3*cos(x)^3))*cos(x)^2
+2*sin((2*sin(x)*cos(x)^2+cos(x)))*cos((2*sin(x)*cos(x)^2+cos(x)))*(2*cos(x)^3-sin(x)-4*sin(x)^2*cos(x))-4*sin(x)^3*cos(sin(x)^4)*cos(x)
+WRONG FORMAT!
+3*x^2+2
+-4*sin(x)
+4*sin(x)
+-2*x
+0
+0
+4*x^3*cos((2*cos(x)-8*x))*cos((4*x))-x^4*sin((2*cos(x)-8*x))*cos((4*x))*(-2*sin(x)-8)-4*x^4*sin((4*x))*cos((2*cos(x)-8*x))
+108*sin(x)*cos(x)^2
+-3*sin(x)*cos(x)^-4
+3*cos(sin(x))*cos(x)
+0
+sin(x)-1
+cos(x)
+3*cos(x)
+0
+-36*sin((3*cos(x)))^2*sin(x)*cos((3*cos(x)))
+-sin(x)
+4*cos(-1)*0-4*cos(x)
+0
+5*x^4*sin((2+x^5))
+4*x^-5*cos(x)^2+2*x^-4*sin(x)*cos(x)
+-12*sin(x)*cos(x)^2
+-cos(x)
+cos(x)
+0
+8*sin(x)*sin((4-32*x^2*cos(x)))*cos(x)*(32*x^2*sin(x)-64*x*cos(x))+8*sin(x)^2*cos((4-32*x^2*cos(x)))+cos(x)-8*cos((4-32*x^2*cos(x)))*cos(x)^2
+3
+2
+-cos(x)
+cos(x)
+4*sin(x)*cos(x)
+0
+0
+1
+0
+0
+3*sin(x)
+3*sin((x-2*cos(x)^3))*sin(2)*0-cos(x)-3*cos(2)*cos((x-2*cos(x)^3))*(6*sin(x)*cos(x)^2+1)
+14*x^6*cos(x)+6*x^2-2*x^7*sin(x)
+3*x^2-2*sin((2*x^-4-32*x))^4-8*x*sin((2*x^-4-32*x))^3*cos((2*x^-4-32*x))*(-8*x^-5-32)
+cos(x)
+WRONG FORMAT!
+-3*sin(x)
+-sin(x)
+WRONG FORMAT!
+0
+0
+WRONG FORMAT!
+0
+3*cos(3)*0
+2*x
+0
+4+4*cos(x)^3-8*sin(x)^2*cos(x)
+0
+0
+-4*x^-2
+-6*sin(x)*cos(x)
+8*sin(-3)*cos(x)^2+8*sin(x)*cos(x)*cos(-3)*0-cos(x)-8*sin(-3)*sin(x)^2
+WRONG FORMAT!
+6*x^2
+9*x^2
+-2*sin(sin(x))^-3*cos(sin(x))*cos(x)
+0
+2*cos(2)*0-sin(x)^2*sin(sin(x))^2-2*x*sin(sin(x))^2*sin(x)*cos(x)-2*x*sin(x)^2*sin(sin(x))*cos(sin(x))*cos(x)
+0
+4
+-9*x^2
+0
+0
+0
+0
+12*x^3-8*x*sin(x)^4-16*x^2*sin(x)^3*cos(x)
+-8*sin(x)*cos(x)
+-cos((-x))-3*sin(x)-3*x*cos(x)
+-2*cos(x)
+-16*sin((-cos(x)^-1))*sin(x)*cos((-cos(x)^-1))^3*cos(x)^-2
+WRONG FORMAT!
+-2*x^-2
+4*cos(x)
+-cos(x)
+8*sin((2*cos(x)^4))*sin(x)*cos(x)^3
+0
+-3*x^-2
+-4
+12*x^-1*sin(x)*cos(x)^2+4*x^-2*cos(x)^3+cos(x)
+56*sin(x)^6*cos(x)+24*x*sin(x)^2*cos(x)^2+4-8*x*cos(x)^4-8*sin(x)*cos(x)^3
+3*x^2-16*x
+0
+cos(x)-2*sin(x)*cos(x)
+0
+-8*sin(x)*cos(x)^-2
+2
+3
+cos(x)-6*sin(x)*cos((3*cos(x)*cos(sin(x))^3+1))-6*sin((3*cos(x)*cos(sin(x))^3+1))*cos(x)*(-3*sin(x)*cos(sin(x))^3-9*sin(sin(x))*cos(sin(x))^2*cos(x)^2)
+cos(x)
+4*cos(x)
+4*x^-5
+24*sin(x)^2*cos(x)-3*sin(x)*cos(x)^2-12*cos(x)^3
+0
+cos(x)
+-2
+-2*sin(x)*cos(x)
+WRONG FORMAT!
+WRONG FORMAT!
+0
+2*x
+18*x^2*sin(1)*cos(x)+6*x^3*cos(x)*cos(1)*0-sin((4*sin(x)-8*cos((4*x*sin(x)*cos(x)-4))))^-2*cos((4*sin(x)-8*cos((4*x*sin(x)*cos(x)-4))))*(8*sin((4*x*sin(x)*cos(x)-4))*(4*x*cos(x)^2+4*sin(x)*cos(x)-4*x*sin(x)^2)+4*cos(x))-6*x^3*sin(1)*sin(x)
+16*sin(x)^3*cos(x)
+-6*sin((-cos(x)))*sin(x)*cos((-cos(x)))
+4*sin((sin(x)^3-2))^2*sin(x)-3*sin((1+x))*cos((x+1))^2-24*sin((sin(x)^3-2))*sin(x)^2*cos((sin(x)^3-2))*cos(x)^2
+WRONG FORMAT!
+-2*cos(x)^-3*cos((6*x-12*x^-1))*(12*x^-2+6)-6*sin((6*x-12*x^-1))*sin(x)*cos(x)^-4
+-sin(x)
+cos((36*x^2*sin(x)*cos(x)^5+2*x))*(72*x*sin(x)*cos(x)^5+36*x^2*cos(x)^6+2-180*x^2*sin(x)^2*cos(x)^4)-4*sin(x)*cos((-cos(x)^4))*cos(x)^3
+0
+4*sin(x)^3*cos(x)
+sin(x)
+3*cos(x)
+-cos(-1)*0-cos(x)
+-1
+1
+2*x^2*sin(x)^3*cos(x)-2*sin((-cos(x)-sin(x)))*cos((-sin(x)-cos(x)))*(sin(x)-cos(x))-2*x^2*sin(x)*cos(x)^3-2*x*sin(x)^2*cos(x)^2
+0
+WRONG FORMAT!
+9*sin(sin(x)^-3)*sin(x)^-4*cos(x)+2*cos(x)
+WRONG FORMAT!
+-4*sin(x)*cos(x)^3
+0
+0
+0
+0
+0
+2*cos(x)
+2*x+sin(x)
+0
+-8*sin(2)*cos(2)^3*0
+0
+8*x^3
+9*sin(-2)*cos(-2)^-4*0
+cos(x)
+-3*sin(cos(x))^2*sin(x)*cos(cos(x))
+-sin(x)
+-27*sin(x)^2*cos((sin(x)^3-x))*(3*sin(x)^2*cos(x)-1)-54*sin((sin(x)^3-x))*sin(x)*cos(x)
+1
+0
+2
+-cos(x)-3*sin(x)^2*cos(x)
+WRONG FORMAT!
+1
+0
+4*cos(x)
+-1
+0
+-cos(x)
+-sin((x^2*sin(x)^4))*(4*x^2*sin(x)^3*cos(x)+2*x*sin(x)^4)
+-sin(x)
+0
+-cos(x)
+0
+0
+3-3*x^2
+-48*x^-5*sin(x)^-4-48*x^-4*sin(x)^-5*cos(x)
+3*x^2
+0
+0
+cos(x)
+sin((cos(x)-36*sin(x)^-2*sin(sin(x))^2))*(72*sin(sin(x))^2*sin(x)^-3*cos(x)-sin(x)-72*sin(x)^-2*sin(sin(x))*cos(sin(x))*cos(x))
+-1-2*cos(x)
+48*x*sin(x)^2+48*x^2*sin(x)+16*x^3*cos(x)-46*sin(x)*cos(x)-48*x*cos(x)^2
+0
+-3*sin(sin(sin(cos(x)^-3)))*sin(x)*cos(sin(cos(x)^-3))*cos(cos(x)^-3)*cos(x)^-4
+12*x^3+3*sin(x)
+-1
+0
+1
+sin((4+cos(x)))*sin(x)
+cos((x-cos(x)))*(sin(x)+1)
+-4*sin(x)*cos(x)
+WRONG FORMAT!
+0
+-1
+-3*cos((cos(x)-sin(x)))*(sin(x)+cos(x))
+48
+4*sin((-sin(x)))*sin(x)*cos((2*x*cos(x)-4))*cos(cos(x)^4)*cos(x)^3+sin(x)+sin(cos(x)^4)*cos((2*x*cos(x)-4))*cos((-sin(x)))*cos(x)+sin(cos(x)^4)*sin((-sin(x)))*sin((2*x*cos(x)-4))*(2*cos(x)-2*x*sin(x))
+0
+1
+0
+6*x^-3
+1+x*cos(x)^2+sin(x)*cos(x)-x*sin(x)^2
+0
+6*sin(x)*cos(x)+4*sin(x)
+36*sin((-18*x))
+96*sin(x)*cos(x)^2
+-8*x^-3
+WRONG FORMAT!
+-2*cos(x)^-4-4*sin(x)-8*x*sin(x)*cos(x)^-5
+0
+0
+0
+sin(x)
+cos(x)
+WRONG FORMAT!
+-36*sin(sin(x)^3)^2*sin(x)^2*cos(sin(x)^3)*cos(x)
+0
+0
+sin(x)
+0
+-cos(x)
+-6*x^2
+-1
+0
+0
+cos(x)+sin(x)*cos(x)^-2
+2*cos(x)
+WRONG FORMAT!
+0
+-sin(1)*0
+2*x
+WRONG FORMAT!
+0
+2*cos(x)
+-12*sin(x)^2*cos(x)-48*sin(sin(x))*cos(sin(x))*cos(x)
+cos(x)
+8*sin(x)^3*cos(x)+1
+0
+-5*cos(x)
+4*cos(x)
+0
+0
+24*sin(x)+3*x^2
+-32*sin(x)*cos(x)^-5
+WRONG FORMAT!
+0
+1
+2
+4
+cos(x)-sin(x)
+2*x*sin((cos(x)-x))*sin((2*sin(1)))*cos(1)*0+x*cos((2*sin(1)))*cos((cos(x)-x))*(sin(x)+1)+cos(x)-sin((cos(x)-x))*cos((2*sin(1)))
+WRONG FORMAT!
+6*sin(x)^2*cos(x)
+0
+0
+1
+WRONG FORMAT!
+cos(x)
+0
+cos(x)
+cos(x)
+-8*sin(x)^-3-32*sin(x)^-5*cos(x)^2
+-6*sin(x)*cos(x)^2
+-12*sin((sin(-1)-cos(x)))^-4*cos((sin(-1)-cos(x)))*(sin(x)+cos(-1)*0)
+WRONG FORMAT!
+-sin((6*sin(cos((4*cos(x)^4)))*sin(x)^2*cos(x)-sin((3*x-sin(x)^4))-cos(x)^4))*(96*sin((4*cos(x)^4))*sin(x)^3*cos(cos((4*cos(x)^4)))*cos(x)^4+12*sin(cos((4*cos(x)^4)))*sin(x)*cos(x)^2+4*sin(x)*cos(x)^3-cos((3*x-sin(x)^4))*(3-4*sin(x)^3*cos(x))-6*sin(cos((4*cos(x)^4)))*sin(x)^3)
+0
+3*sin(x)
+0
+16*cos(x)-4*sin(x)*cos(x)^-2
+4*sin(x)*cos(cos(x)^2)*cos(x)
+0
+WRONG FORMAT!
+2*x*sin((-x^2))
+-sin((2*x^3*sin(x)^-1))*(6*x^2*sin(x)^-1-2*x^3*sin(x)^-2*cos(x))
+-x*cos((-sin((cos((-2-6*sin(x)^-4))^2-4*x^4))))*cos(x)-sin(x)*cos((-sin((cos((-2-6*sin(x)^-4))^2-4*x^4))))-x*sin(x)*sin((-sin((cos((-2-6*sin(x)^-4))^2-4*x^4))))*cos((cos((-2-6*sin(x)^-4))^2-4*x^4))*(-16*x^3-48*sin((-2-6*sin(x)^-4))*sin(x)^-5*cos((-2-6*sin(x)^-4))*cos(x))
+8*cos((sin(x)*cos(x)-4*x^4))*(cos(x)^2-sin(x)^2-16*x^3)
+0
+0
+-sin(x)
+12*sin((4*x))*cos((4*x))^2-4*sin(x)*cos(x)
+sin(x)+x*cos(x)-3*sin(x)*cos(x)^2
+cos(x)
+4*cos((2*sin(x)))*cos(x)+cos(x)
+cos(x)
+4*x^-3
+0
+0
+-8*sin(x)*cos(x)
+-4*cos(x)
+WRONG FORMAT!
+0
+-1
+-6*sin(x)*cos(x)
+32*sin(x)*cos(sin(x))*cos(x)^3+8*sin(sin(x))*cos(x)^5+4*x^3
+-16*sin(x)^3*cos(x)
+-3*sin((2*cos((2*cos(x)))-9*cos(x)*cos((sin(-1)-8*x*cos(x)))))*(9*sin(x)*cos((sin(-1)-8*x*cos(x)))+9*sin((sin(-1)-8*x*cos(x)))*cos(x)*(8*x*sin(x)+cos(-1)*0-8*cos(x))+4*sin((2*cos(x)))*sin(x))
+-8*sin(x)^-3*cos(x)
+WRONG FORMAT!
+0
+24*x*sin((-x))*sin((sin(x)^4-2*x))*cos((sin(x)^4-2*x))^3*(4*sin(x)^3*cos(x)-2)+6*x*cos((sin(x)^4-2*x))^4*cos((-x))-sin(x)-6*sin((-x))*cos((sin(x)^4-2*x))^4
+-cos(x)
+36*x^2
+-2*sin(4)*0
+cos(1)*0
+-1-6*sin(x)*cos(x)
+-3*x^-4
+-6*cos(x)
+6*sin(x)^2*cos(x)^2+2*cos(x)-2*cos(x)^4
+0
+sin(x)*cos(x)^-2
+-2*sin(x)*cos(x)
+2*sin(x)
+3*sin(cos(x)^3)*sin(x)*cos(x)^2-4*sin(cos(x)^2)*sin(x)-8*sin(x)*cos(cos(x)^2)*cos(x)^2
+0
+WRONG FORMAT!
+-2*sin(x)*cos(x)^-2
+2*cos(x)-3*sin(x)*cos(x)^2
+0
+0
+WRONG FORMAT!
+0
+0
+-12*x^3
+0
+WRONG FORMAT!
+1
+-4*sin(x)*cos(x)^3
+3
+-12*sin((2*sin(x)^3))*sin(x)^2*cos((2*sin(x)^3))^-3*cos(x)
+6*x^-3*sin(x)^5+2*x-15*x^-2*sin(x)^4*cos(x)
+sin(x)
+-cos(x)-6*sin(x)*cos(x)
+0
+-cos(x)
+cos(x)-6*sin(x)^5*cos(x)
+-12*x^2*cos((4*x^3))
+12*sin(x)*cos(x)^-4+1
+-3*sin(x)^-4*cos(x)
+-12*sin(cos(x)^-3)*sin(x)*cos(cos(x)^-3)^3*cos(x)^-4
+4*cos(4)*0
+-8*sin(x)*cos(cos(x)^4)*cos(x)^3
+0
+0
+3*x^-2
+2*sin(x)*cos(x)^-3+cos(x)
+-8*x
+0
+0
+WRONG FORMAT!
+0
+84*x*sin(x)^2*cos(x)^6-12*x*cos(x)^8-12*sin(x)*cos(x)^7
+6*cos((-sin(x)-8*x^-2*cos(x)^5))-6*x*sin((-sin(x)-8*x^-2*cos(x)^5))*(40*x^-2*sin(x)*cos(x)^4+16*x^-3*cos(x)^5-cos(x))
+-4*sin(x)^-3*cos(x)-36*x^-5*cos(x)^4-36*x^-4*sin(x)*cos(x)^3
+0
+WRONG FORMAT!
+-4*sin(x)*cos(x)
+WRONG FORMAT!
+8*sin(x)*cos(x)^-3+1
+WRONG FORMAT!
+0
+0
+0
+-4*cos(cos(x)^3)^2*cos(x)-24*sin(cos(x)^3)*sin(x)^2*cos(cos(x)^3)*cos(x)^2-24*sin((2*cos(x)))^2*sin(x)*cos((2*cos(x)))
+4*cos(x)
+4*x^-5*sin(x)^3*cos(x)+x^-4*sin(x)^4-cos(x)-3*x^-4*sin(x)^2*cos(x)^2
+1
+-4*sin(x)*cos(x)^3
+2*sin(x)*cos(x)-4*sin(x)*cos(x)^-5
+-x^-2
+WRONG FORMAT!
+WRONG FORMAT!
+6*x*sin((-x^2))*cos(cos(x))*cos((-x^2))^-2-3*sin(cos(x))*sin(x)*cos((-x^2))^-1-4*x^3
+2
+WRONG FORMAT!
+0
+WRONG FORMAT!
+3*sin(x)*cos(x)^-4-12*sin(x)^3*cos(x)
+0
+WRONG FORMAT!
+0
+1
+9*sin(x)
+16*sin(x)*cos(x)^3
+4*sin(-3)*cos(-3)^3*0
+0
+6*sin(x)-2
+18*sin(x)^-4*cos(x)
+-2*sin(x)*cos(x)
+3*cos(x)+sin(x)-3*x*sin(x)
+6*x
+4*cos(x)
+2*x*sin(x)-2*cos(x)
+0
+0
+4*sin(2)^3*cos(2)*0
+56*x^3*sin(x)^3*cos(-1)^-1*cos(x)^6+16*x*sin(-1)*cos(x)^3*cos(-1)^-2*0+16*cos(-1)^-1*cos(x)^3+cos(x)-8*x^3*sin(x)^2*sin(-1)*cos(x)^7*cos(-1)^-2*0-16*x^3*sin(x)*cos(-1)^-1*cos(x)^8-24*x^2*sin(x)^2*cos(-1)^-1*cos(x)^7-48*x*sin(x)*cos(-1)^-1*cos(x)^2
+72*sin((-sin(x)^3-4))*sin(x)^2*cos((-sin(x)^3-4))^-3*cos(x)
+0
+-2*sin(x)-2*x*cos(x)
+-8*x
+0
+4*x^3
+sin(x)
+0
+0
+cos(x)
+12*x^-4+3*x^2
+2
+cos(x)+1
+8*sin(4)^3*cos(4)*0
+0
+WRONG FORMAT!
+-sin((4-12*x^-1*sin(sin(x))*sin(x)^3))*(12*x^-2*sin(sin(x))*sin(x)^3-12*x^-1*sin(x)^3*cos(sin(x))*cos(x)-36*x^-1*sin(sin(x))*sin(x)^2*cos(x))
+4*cos(x)
+3*cos(sin(x))*cos(x)+cos(x)-3*sin(x)*sin(sin(x))*cos(x)
+WRONG FORMAT!
+WRONG FORMAT!
+0
+4*x^-5
+4*sin(x)^3*cos((-sin(x)))^-1*cos(x)+1-sin(x)^4*sin((-sin(x)))*cos((-sin(x)))^-2*cos(x)
+0
+0
+0
+WRONG FORMAT!
+WRONG FORMAT!
+2*sin(x)*cos(x)
+0
+WRONG FORMAT!
+0
+-sin(x)
+cos(sin(x))*cos(x)-2*sin(x)
+12*sin(3)*sin(x)^2*cos(-1)*cos(x)+4*sin(x)^3*cos(-1)*cos(3)*0-sin(x)-4*sin(x)^3*sin(3)*sin(-1)*0
+1
+-sin(x)^-2*cos(x)
+-4*cos(x)
+sin(x)
+0
+3*sin(x)^2*cos(x)-12*sin(x)^-4*cos(x)
+0
+-3*cos(x)
+1-24*sin(x)*cos(x)
+0
+16*cos(x)-sin(x)-16*x*sin(x)
+0
+-3*x^2
+2*x-1
+cos(x)
+WRONG FORMAT!
+4*x^4*sin(x)^4*cos((sin((4*x^2-48*x^4))^-4-1))-cos(x)-12*x^4*sin(x)^2*cos((sin((4*x^2-48*x^4))^-4-1))*cos(x)^2-16*x^4*sin(x)^3*sin((sin((4*x^2-48*x^4))^-4-1))*sin((4*x^2-48*x^4))^-5*cos(x)*cos((4*x^2-48*x^4))*(8*x-192*x^3)-16*x^3*sin(x)^3*cos((sin((4*x^2-48*x^4))^-4-1))*cos(x)
+3*cos(x)
+WRONG FORMAT!
+0
+5*x^4*cos(x)+1-x^5*sin(x)
+cos(x)
+0
+0
+3*cos(x)
+0
+sin(x)*cos(x)^-2
+3
+0
+-2*sin(x)
+WRONG FORMAT!
+0
+0
+-2*sin(x)^-3*cos(x)
+0
+2*x
+0
+1
+-3*sin(x)*cos(x)^2
+36*sin(x)^2*cos(x)^4-36*sin(x)^4*cos(x)^2
+4*sin(x)^-5*cos(x)+3*x*sin(x)*cos(x)^2-cos(x)^3
+-2*sin(x)*cos(x)-2*sin(x)
+0
+-2*sin(x)*cos(x)
+9*sin(x)+9*x*cos(x)-1
+0
+cos(x)
+-2*sin(x)^4-8*x*sin(x)^3*cos(x)
+0
+3
+-1
+-x^2*cos(x)-2*x*sin(x)
+WRONG FORMAT!
+2*cos(x)
+0
+WRONG FORMAT!
+cos(x)
+0
+0
+2*sin(x)
+-8*sin(x)*cos(x)^7
+WRONG FORMAT!
+4*sin(x)-3*x^2
+-80*sin(x)^4*cos(x)
+4*x^3
+12*cos(3)*0-16*x^-5
+1
+-cos(x)-3*x^-2*cos(x)-3*x^-1*sin(x)
+16*x*sin(x)*cos(x)^3+2*sin(x)*cos(x)-4*cos(x)^4
+9*x^2*cos(x)-3*x^3*sin(x)
+0
+0
+-8*sin(x)^3*cos(x)
+0
+-9*sin(5)^2*cos(5)*0
+0
+1-2*sin(x)*cos(x)
+-4*sin(x)^-3*cos(x)
+0
+0
+sin(x)
+cos(x)
+cos(x)-sin(x)^-2*cos(x)
+8*cos(x)
+2*sin(x)*cos(x)^-2
+6*cos(x)^3*cos(sin((-2*cos(x)^4)))*cos(2)*0+cos(x)-18*sin(2)*sin(x)*cos(sin((-2*cos(x)^4)))*cos(x)^2-48*sin(2)*sin(sin((-2*cos(x)^4)))*sin(x)*cos((-2*cos(x)^4))*cos(x)^6
+sin(x)
+0
+WRONG FORMAT!
+-8*x^-5
+-4*sin(x)
+0
+8*x
+0
+-9*sin((-sin(x)))^-2*cos(x)-18*sin(x)*sin((-sin(x)))^-3*cos((-sin(x)))*cos(x)
+WRONG FORMAT!
+64*cos(x)^3-192*x*sin(x)*cos(x)^2
+WRONG FORMAT!
+cos((sin(x)+sin(x)*cos(x)))*(cos(x)^2+cos(x)-sin(x)^2)
+0
+-sin(-1)*0
+-sin(x)^-2*cos(x)
+1
+2*x
+4*sin(x)*cos(x)^-5-24*sin(x)^3-72*x*sin(x)^2*cos(x)
+0
+sin(x)
+0
+3*cos(x)^2+sin(x)-3*sin(x)^2
+-cos(-4)*0
+0
+WRONG FORMAT!
+cos(x)-8*sin(x)*cos(x)
+3*cos(x)
+2*sin(x)*cos((4*cos(x)^4))-32*sin((4*cos(x)^4))*sin(x)*cos(x)^4
+192*x^-5*sin((12*x^-4))+24*sin((4*x))^-3*cos(x^4)*cos((4*x))+12*x^3*sin(1)^-2*sin(x^4)+12*x^3*sin((4*x))^-2*sin(x^4)+6*sin(1)^-3*cos(x^4)*cos(1)*0
+0
+-4*sin(x)*cos(x)^3
+1
+3*sin(x)*cos((-3*sin(cos(x))))*cos(cos(x))
+WRONG FORMAT!
+-2*x^-3-4*sin(x)*cos(x)^-5
+0
+16*sin(x)*cos(x)^3
+cos(x)-12*sin(x)
+-4*sin(x)*cos(x)^3
+1-18*x^-3*sin((3*x^-2))*cos((3*x^-2))^2
+0
+4*x^3
+0
+0
+2
+-sin((18*sin(x)^4+4*cos(x)))*(72*sin(x)^3*cos(x)-4*sin(x))
+1
+sin((sin(x)-cos(x)^2))*cos(x)^2*(2*sin(x)+1)+sin(x)*cos((sin(x)-cos(x)^2))
+WRONG FORMAT!
+0
+-cos(x)-sin(x)
+-2*cos(x)
+0
+192*sin(x)^3*cos(x)^2-sin(x)-48*sin(x)^5
+3*cos(x)
+sin(x)+cos(x)
+0
+3*x^2
+0
+0
+WRONG FORMAT!
+1
+-18*sin(x)-18*x*cos(x)
+6*sin(x)^2*cos(x)
+-3*sin(sin(x))*cos(sin(x))^2*cos(x)
+0
+1-4*cos(x)
+2
+-3*x^-4
+0
+3*sin(x)^2*cos(x)
+WRONG FORMAT!
+WRONG FORMAT!
+0
+-cos(x)
+-sin(x)
+sin(x)+x*cos(x)
+48*sin(x)*cos(x)-4*sin(x)*cos(x)^3
+-6*x
+0
+4*x
+6*sin(sin(x)^2)^2*sin(x)*cos(sin(x)^2)*cos(x)
+WRONG FORMAT!
+0
+9*cos(x)
+0
+0
+4*cos(x)+3*x*sin(x)^2*cos(x)+sin(x)^3
+0
+WRONG FORMAT!
+-4*sin(x)*cos(x)^3
+-sin(x)
+WRONG FORMAT!
+0
+4*x-4*sin((15*x-cos(1)))*cos((15*x-cos(1)))^3*(15+sin(1)*0)
+cos(x)
+0
+-2*cos(x)
+12*sin(x)^3*cos(1)*cos(x)+1-3*sin(x)^4*sin(1)*0
+WRONG FORMAT!
+-4*sin(-2)*cos(x)^2*0-8*sin(x)*cos(-2)*cos(x)
+2*x*sin(x)-2*cos(x)
+-1
+0
+0
+-2*sin(x)*cos(x)
+WRONG FORMAT!
+18*sin(-4)*cos(-4)*0
+3
+4
+WRONG FORMAT!
+0
+-sin(x)^-2*cos(x)-48*sin((-sin(x)))*cos((-sin(x)))^3*cos(x)
+-2*sin(x)
+-2*x^-3
+-108*sin(x)*cos(x)^2
+-sin(x)
+WRONG FORMAT!
+-3-18*sin(x)*cos(cos(x)^3)*cos(x)^2
+-3*x^2-12*sin(x)*cos(x)^3
+54*x^2*sin(x)^5*cos(x)^3+18*x*sin(x)^6*cos(x)^2+x*cos(x)^2+sin(x)*cos(x)-x*sin(x)^2-2*x^-3-18*x^2*sin(x)^7*cos(x)
+cos(x)
+-4*x^2*cos((4*x*cos(4)+sin((3*cos(x)^3))))*(4*cos(4)-4*x*sin(4)*0-9*sin(x)*cos((3*cos(x)^3))*cos(x)^2)-8*x*sin((4*x*cos(4)+sin((3*cos(x)^3))))
+4
+-1
+-3*sin(x)*cos(x)^2
+3*cos(x)
+2+cos(x)
+-sin(x)
+-2*sin(x)
+2*x
+cos(1)*0
+cos(x)
+WRONG FORMAT!
+0
+WRONG FORMAT!
+-3*sin(x)-3*x*cos(x)
+0
+WRONG FORMAT!
+8*x^3
+4*cos(x)
+-sin(x)
+WRONG FORMAT!
+2*sin(x)-4*sin(x)*cos(x)^-5
+WRONG FORMAT!
+cos(x)
+0
+0
+-2*sin(x)*cos(x)
+-4*sin(x)^3*cos(x)
+-2*x^-2*sin(x^-1)*cos(x^-1)
+-2*sin(x)*cos(x)
+64*sin(2)*cos((-cos(2)^4))*cos(2)^3*0+12*sin((sin(x)-4*cos(-2)))*(4*sin(-2)*0+cos(x))-32*sin(x)*cos(x)
+1296*sin(x)*cos(x)^2+144*sin(x)+2*cos(x)-648*sin(x)^3
+-cos(x)
+0
+24*sin((2*x))^2*cos((2*x))
+6*sin(x)*cos(x)
+0
+6*sin(sin((3*x+sin(x)^4+cos(x)^-2))^-1)*sin((3*x+cos(x)^-2+sin(x)^4))^-2*cos(sin((3*x+sin(x)^4+cos(x)^-2))^-1)*cos((3*x+sin(x)^4+cos(x)^-2))*(4*sin(x)^3*cos(x)+3+2*sin(x)*cos(x)^-3)
+-cos(x)
+2*x^-2-sin(x)
+-1
+0
+3*sin((cos(x)^-3-cos(-3)^2))*(3*sin(x)*cos(x)^-4+2*sin(-3)*cos(-3)*0)
+sin(x)
+-6*x^-4-12*sin(x)*cos(x)^-4
+cos(x)
+WRONG FORMAT!
+0
+-20*sin(x)^3*cos(x)
+-sin(x)
+0
+9*sin(x)^2*cos(x)
+cos(x)
+x^-2*sin(x)^2-2*x^-1*sin(x)*cos(x)
+0
+WRONG FORMAT!
+1
+2*sin(x)*cos(x)
+0
+WRONG FORMAT!
+-sin(x)^-2-3*sin(x)^-4*cos(x)^2
+cos(sin(x))*cos(x)-4*x^3
+-3*sin(x)
+-12*sin(x)*cos(x)^2
+-sin(x)
+2*cos(x)-2*x*sin(x)
+3*x^2*sin(x)*cos((3*x))^-1-6*x*cos(x)*cos((3*x))^-1-9*x^2*sin((3*x))*cos(x)*cos((3*x))^-2
+3
+8*sin(x)
+1
+WRONG FORMAT!
+WRONG FORMAT!
+cos(x)
+WRONG FORMAT!
+0
+-4*x*sin(x^2)*cos(x^2)^-3
+cos(x)
+0
+8*x^3
+WRONG FORMAT!
+1
+0
+-6*sin(x)*cos(x)^-3
+-1
+0
+cos(x)
+4*sin(x)*cos(x)
+WRONG FORMAT!
+4*sin(x)*cos(x)
+24*sin(x)^-2*cos(x)^2+24+2*cos(x)
+WRONG FORMAT!
+-3*sin((2*x^2+cos(x)^3))^2*cos((2*x^2+cos(x)^3))*(4*x-3*sin(x)*cos(x)^2)
+2
+-8*sin(x)*cos(x)
+0
+-sin(x)
+0
+0
+-6*sin((-sin(x)))*cos((-sin(x)))^2*cos(x)
+12*sin((-sin((16*x*cos(x)^2+x))*cos(x)))*cos((-sin((16*x*cos(x)^2+x))*cos(x)))^-5*(sin((16*x*cos(x)^2+x))*sin(x)-cos(x)*cos((16*x*cos(x)^2+x))*(16*cos(x)^2+1-32*x*sin(x)*cos(x)))-4*x^4*cos(x)-16*x^3*sin(x)
+-8*x
+-3*cos(x)
+1
+WRONG FORMAT!
+-2*sin(x)^-2*cos(x)
+0
+cos(x)
+3*sin(x)-cos(x)
+WRONG FORMAT!
+-sin(x)
+-2*sin(x)
+1+cos(x)-x*sin(x)
+0
+8*sin(x)*cos(x)^3-24*sin((-cos(2)^2))^2*sin(2)*cos((-cos(2)^2))*cos(2)*0
+0
+0
+WRONG FORMAT!
+-18*sin((-3*cos(x)^-3))*sin(x)*cos((-3*cos(x)^-3))*cos(x)^-4
+sin(-1)*0
+-12*sin(x)*cos(x)^3
+1
+-4*sin(x)^-3*cos(x)
+-9*sin(x)
+-sin(x)-6*sin((3*x^-4+sin(x)^2))*cos((3*x^-4+sin(x)^2))*(2*sin(x)*cos(x)-12*x^-5)
+-2*sin(x)
+0
+0
+3*cos(x)
+-4*sin(x)
+4*sin(x)^3*cos(x)
+1
+4*sin(-1)^3*cos(-1)*0
+-6*sin(x)^2*cos(x)
+0
+0
+cos(x)
+cos(x)
+0
+0
+0
+5*x^4
+0
+0
+-12*cos(x)^-7-96*sin(x)^2*cos(x)^-9
+3*x^2*sin(x)^-3-3*x^3*sin(x)^-4*cos(x)
+cos(x)
+-cos(x)

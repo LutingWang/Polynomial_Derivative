@@ -1,0 +1,80 @@
+// bounded exp
+>x ^ +10000
+##10000*x^9999
+>x ^ +10001
+##WRONG FORMAT!
+>sin ( x )
+##cos(x)
+>sin ( x ) ^ +10000
+##10000*sin(x)^9999*cos(x)
+>sin ( x ) ^ +10001
+##WRONG FORMAT!
+
+// nesting factor
+>sin ( x^2 )
+##2*x*cos(x^2)
+>cos ( sin ( x ) )
+##-sin(sin(x))*cos(x)
+>sin(sin(cos(cos(x^2))))^2
+##4*x*sin(sin(cos(cos(x^2))))*cos(sin(cos(cos(x^2))))*cos(cos(cos(x^2)))*sin(cos(x^2))*sin(x^2)
+
+// exp is var
+>sin ( x ) ^ x
+##WRONG FORMAT!
+>sin ( x ) ^ sin ( x )
+##WRONG FORMAT!
+>sin ( x ) ^ (1 + x)
+##WRONG FORMAT!
+>sin(x)^(42)
+##WRONG FORMAT!
+>1926^29384
+##WRONG FORMAT!
+
+// item
+>x * cos(x) * x
+##2*x*cos(x)-x^2*sin(x)
+>sin(x ^ 2) * cos(sin(x)) ^ 2 * x ^ -2
+##-2*x^-2*sin(x^2)*cos(sin(x))*sin(sin(x))*cos(x)+cos(sin(x))^2*(2*x^-1*cos(x^2)-2*x^-3*sin(x^2))
+>x * (+ x )
+##2*x
+
+// coef abbr
+>+ x^2
+##2*x
+>- x^2
+##-2*x
+
+// expression
+>x*(   )+1
+##WRONG FORMAT!
+>(x)^2
+##WRONG FORMAT!
+>x*(x+sin(x))
+##sin(x)+x*(2+cos(x))
+>sin( ( x^2 + sin((1 + 3*x)) ) )
+##cos((x^2+sin((3*x+1))))*(3*cos((3*x+1))+2*x)
+
+// special cases
+>0^0
+##WRONG FORMAT! // check
+>sin(0)
+##0
+
+>+cos (  x )     ^-0 ++3 *sin    ((2))   *sin    ( x)    ^+1
+##3*sin(2)*cos(x)
+>sin(	(+2	-+ 0* cos (x) ^-2*-2	*	sin	(	x )^0))	--cos	( x) ^ +1* 	cos(	(+4*cos (	(+4	-	-0	))	^	1 +-sin(	x)		* cos (x) *3	*cos((-0*cos	(x ) ^	+1)	) ) ) *	(-3* cos((+	2+2 * 2*	0) ) )
+##3*cos(x)*cos(2)*sin((4*cos(4)-3*sin(x)*cos(x)))*(3*sin(x)^2-3*cos(x)^2)+3*cos((4*cos(4)-3*sin(x)*cos(x)))*cos(2)*sin(x)
+>sin( (-0)	) +	- sin((-0*	sin (x)))	^-4*-2 *	sin(x)	^ -0 *x	* 	sin(x	)
+##0
+>- cos((2*	cos(	x) ^4)	) -+3 *	sin((-	3))^-1*+3 *sin( x ) ^	-0* +1*1*sin( x)^+4
+##-8*sin(((2*cos(x)^4)))*cos(x)^3*sin(x)-36*sin(-3)^-1*sin(x)^3*cos(x)
+>cos ((cos	(x ) ^0-	1*cos(x	)	*+3*sin	(x)	^ -3 *	+1*	sin	(x)^	-2	*	x  ) )+	+	sin (	(0))^-2*1 * x^	4*cos	( x	)	* 2 *	cos((0 *cos(	x) ^4)	)
+##-sin((1-3*x*cos(x)*sin(x)^-5))*(-3*cos(x)*sin(x)^-5+x*(15*cos(x)^2*sin(x)^-6+3*sin(x)^-4))
+>-sin(	(3*	(0*	cos (x ))) ) ^ -1
+##0
+>-cos	((- cos(x)	- --4*	x		*	-3	* x^+4)	)	^ 0-x*	3 *sin(	(-	2))
+##-3*sin(-2)
+>sin(sin(sin(sin(sin(sin(sin(sin(sin(sin(sin(sin(x))))))))))))
+##cos(sin(sin(sin(sin(sin(sin(sin(sin(sin(sin(sin(x))))))))))))*cos(sin(sin(sin(sin(sin(sin(sin(sin(sin(sin(x)))))))))))*cos(sin(sin(sin(sin(sin(sin(sin(sin(sin(x))))))))))*cos(sin(sin(sin(sin(sin(sin(sin(sin(x)))))))))*cos(sin(sin(sin(sin(sin(sin(sin(x))))))))*cos(sin(sin(sin(sin(sin(sin(x)))))))*cos(sin(sin(sin(sin(sin(x))))))*cos(sin(sin(sin(sin(x)))))*cos(sin(sin(sin(x))))*cos(sin(sin(x)))*cos(sin(x))*cos(x)
+>sin((sin(((1+x^3)*cos(x^2)+sin(x)))-x^2))
+##cos((sin((sin(x)+cos(x^2)*(x^3+1)))-x^2))*(cos((sin(x)+cos(x^2)*(x^3+1)))*((3*x^2*cos(x^2)+cos(x))-2*sin(x^2)*(x^4+x))-2*x)

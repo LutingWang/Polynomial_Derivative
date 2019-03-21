@@ -1,0 +1,49 @@
+>1
+##0
+>4*x+x^2+x+1
+##5+2*x
+>4x+x^2+x
+##WRONG FORMAT!
+>- -4*x + x ^ 2 + x
+##5+2*x
+>+4*x - -x^2 + x
+##5+2*x
+>+19260817*x
+##19260817
+>+ 19260817*x
+##19260817
+>+++ 19260817*x
+##WRONG FORMAT!
+>1926 0817 * x
+##WRONG FORMAT!
+>
+##WRONG FORMAT!
+>2*sin(x)
+##2*cos(x)
+>-2*cos(x)
+##2*sin(x)
+>5*sin(2 * x)
+##WRONG FORMAT!
+>8*cos(x^2)
+##-16*x*sin(x^2)
+>3*sin(90)
+##0
+>23+sin(x)*3+x^8
+##8*x^7+3*cos(x)
+>cos(x)* sin(x)* 5+4 *x^3
+##12*x^2+5*cos(x)^2-5*sin(x)^2
+>43+4*x^3
+##12*x^2
+>5* x^4* sin(x)
+##20*x^3*sin(x)+5*x^4*cos(x)
+>5* x^4* cos(x)
+##20*x^3*cos(x)-5*x^4*sin(x)
+>6*si n(x)
+##WRONG FORMAT!
+>6*co s(x)
+##WRONG FORMAT!
+>2*x^2*3
+##12*x
+>  +  +23  * 96  +  + x ^ +5 - cos ( x )  ^ 4 * sin ( x ) ^6
+##5*x^4+4*cos(x)^3*sin(x)^7-6*cos(x)^5*sin(x)^5
+---
